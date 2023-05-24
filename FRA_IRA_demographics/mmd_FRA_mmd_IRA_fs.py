@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+#SBATCH --account=rgutenk
+#SBATCH --qos=user_qos_rgutenk
+#SBATCH --partition=high_priority
+#SBATCH --job-name="all_mouse_pops_syn_fs"
+#SBATCH --output=%x-%A_%a.out
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --time=24:00:00
+from contextlib import AsyncExitStack
 import dadi
 import pickle
 import nlopt
