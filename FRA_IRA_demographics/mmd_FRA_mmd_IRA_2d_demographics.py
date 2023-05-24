@@ -28,9 +28,9 @@ def im_demography(fs, ns, pts):
     lower = [1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3]
     upper = [1, 3, 3, 1, 1, 1]
     try:
-        fid = open('results/IRA_FRA_im_demo_fits.txt', 'a')
+        fid = open('demo_results/IRA_FRA_im_demo_fits.txt', 'a')
     except:
-        fid = open('results/IRA_FRA_im_demo_fits.txt', 'w')
+        fid = open('demo_results/IRA_FRA_im_demo_fits.txt', 'w')
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 0, upper_bound = upper, lower_bound = lower)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
