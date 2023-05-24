@@ -14,7 +14,7 @@ import nlopt
 import matplotlib.pyplot as plt
 
 def snm_demography(fs, ns, pts):
-    demo_model = dadi.Demograpics2D.snm_2d
+    demo_model = dadi.Demographics2D.snm_2d
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     model = demo_model([], ns, pts)
     plt.figure(figsize = (8, 6))
