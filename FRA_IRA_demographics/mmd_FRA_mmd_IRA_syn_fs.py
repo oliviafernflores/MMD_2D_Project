@@ -25,16 +25,16 @@ boots = dadi.Misc.bootstraps_from_dd_chunks(chunks, nboot, pop_ids, ns)
 for i in range(len(boots)):
     boots[i].to_file('syn_bootstraps/IRA_FRA_{0}.fs'.format(str(i)))
 
-fig, ax = plt.subplots(3)
-
-dadi.Plotting.plot_single_2d_sfs(fs, ax = ax[0])
-
-dadi.Plotting.plot_single_2d_sfs(boots[0], ax = ax[1])
-
-dadi.Plotting.plot_2d_resid(fs - boots[0], ax = ax[2])
-
-ax[0].set_title('Original SFS')
-ax[1].set_title('Bootstrapped SFS')
-ax[2].set_title('Residuals')
+fig = plt.figure(1, figsize = (10,6))
+fig.clear()
+ax = fig.add_subplot(2, 3, 1)
+ax.set_title('Original SFS')
+dadi.Plotting.plot_single_2d_sfs(fs, ax = ax)
+ax = fig.add_subplot(2, 3, 3)
+ax.set_title('Bootstrapped SFS')
+dadi.Plotting.plot_single_2d_sfs(boots[0], ax = ax)
+ax = fig.add_subplot(2, 3, 5)
+ax.set_title('Residuals')
+dadi.Plotting.plot_2d_resid(fs - boots[0])
 
 plt.savefig('IRA_FRA_syn_fs.png')
