@@ -44,7 +44,7 @@ def main():
     ns = data_fs.sample_sizes
     pts_l = [max(ns)+20, max(ns)+30, max(ns)+40]
 
-    snm_demography([], ns, 100)
+    snm_demography(data_fs, ns, 100)
     im_demography(data_fs, ns, pts_l)
 if __name__ == '__main__':
     main()
