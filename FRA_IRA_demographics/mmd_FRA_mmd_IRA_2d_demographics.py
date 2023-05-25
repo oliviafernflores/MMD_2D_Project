@@ -17,7 +17,7 @@ def snm_demography(fs, ns, pts):
     demo_model = dadi.Demographics2D.snm_2d
     model = demo_model([], ns, pts)
     plt.figure(figsize = (8, 6))
-    dadi.Plotting.plot_2d_comp_multinom(model, fs, vmin = 1, resid_range = 3, pop_ids = ['Mmd_GER', 'Mmd_FRA'], show = False)
+    dadi.Plotting.plot_2d_comp_multinom(model, fs, vmin = 1, resid_range = 3, pop_ids = ['Mmd_IRA', 'Mmd_FRA'], show = False)
     plt.savefig('IRA_FRA_snm.png')
 def im_demography(fs, ns, pts):
     demo_model = dadi.Demographics2D.IM
