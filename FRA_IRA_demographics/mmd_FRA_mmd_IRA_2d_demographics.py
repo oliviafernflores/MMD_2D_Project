@@ -5,8 +5,9 @@
 #SBATCH --job-name="all_mouse_pops_syn_fs"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
-#SBATCH --ntasks=1
+#SBATCH --ntasks=50
 #SBATCH --time=24:00:00
+#SBATCH --array=1-5
 from contextlib import AsyncExitStack
 import dadi
 import pickle
