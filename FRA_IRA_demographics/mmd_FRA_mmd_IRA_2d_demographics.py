@@ -23,9 +23,9 @@ def im_demography(fs, ns, pts):
     demo_model = dadi.Demographics2D.IM
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
-    params = [0.1, 1, 1, 0.1, 0.1, 0.1]
-    lower = [1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3]
-    upper = [1, 3, 3, 1, 1, 1]
+    params = [0.1, 1, 1, 0.1, 0.1, 0.1, 0.1]
+    lower = [1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
+    upper = [1, 3, 3, 1, 1, 1, 1]
     try:
         fid = open('demo_results/IRA_FRA_im_demo_fits.txt', 'a')
     except:
