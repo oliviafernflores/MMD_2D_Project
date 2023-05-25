@@ -2,7 +2,7 @@
 #SBATCH --account=rgutenk
 #SBATCH --qos=user_qos_rgutenk
 #SBATCH --partition=high_priority
-#SBATCH --job-name="all_mouse_pops_syn_fs"
+#SBATCH --job-name="IRA_FRA_im_pre"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
 #SBATCH --ntasks=50
@@ -202,12 +202,12 @@ def main():
 
     snm_demography(data_fs, ns, 100)
     # im_demography(data_fs, ns, pts_l)
-    im_pre_demography(data_fs, ns, 100)
-    # bottlegrowth_demography(data_fs, ns, 100)
-    # bottlegrowth_split_demography(data_fs, ns, 100)
-    # bottlegrowth_split_mig_demography(data_fs, ns, 100)
-    # split_asym_mig_demography(data_fs, ns, 100)
-    # split_delay_mig_demography(data_fs, ns, 100)
-    # split_mig_demography(data_fs, ns, 100)
+    im_pre_demography(data_fs, ns, pts_l)
+    # bottlegrowth_demography(data_fs, ns, pts_l)
+    # bottlegrowth_split_demography(data_fs, ns, pts_l)
+    # bottlegrowth_split_mig_demography(data_fs, ns, pts_l)
+    # split_asym_mig_demography(data_fs, ns, pts_l)
+    # split_delay_mig_demography(data_fs, ns, pts_l)
+    # split_mig_demography(data_fs, ns, pts_l)
 if __name__ == '__main__':
     main()
