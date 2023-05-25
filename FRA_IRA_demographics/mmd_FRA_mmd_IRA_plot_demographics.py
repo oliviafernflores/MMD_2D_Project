@@ -82,7 +82,7 @@ def main():
     plot_bottlegrowth_demography(fs, ns, pts_l, bottlegrowth_popt)
 
     #bottlegrowth_split_demography
-    # bottlegrowth_split_popt = get_popt('results/IRA_FRA_bottlegrowth_split_demo_fits_combined.txt')
-    # plot_bottlegrowth_split_demography(fs, ns, pts_l, bottlegrowth_split_popt)
+    bottlegrowth_split_popt = get_popt('results/IRA_FRA_bottlegrowth_split_demo_fits_combined.txt')
+    plot_bottlegrowth_split_demography(fs, ns, pts_l, bottlegrowth_split_popt)
 if __name__ == '__main__':
     main()
