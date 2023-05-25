@@ -12,14 +12,14 @@ def get_popt(fname):
         if f[0] > popt[0]:
             popt = f
     popt = popt.split('\t')
-    popt.pop(0)
-    popt.pop(-1)
     for i in range(len(popt)):
         popt[i] = float(popt[i])
-    print(popt)
     return popt
 
 def plot_im_demography(fs, ns, pts, popt):
+    print('Best Fit Parameters (im): ' + str(popt))
+    popt.pop(0)
+    popt.pop(-1)
     demo_model = dadi.Demographics2D.IM
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
@@ -29,6 +29,9 @@ def plot_im_demography(fs, ns, pts, popt):
     dadi.Plotting.plot_2d_comp_multinom(model, fs)
     fig.savefig('plots/IRA_FRA_im_demography.png')
 def plot_im_pre_demography(fs, ns, pts, popt):
+    print('Best Fit Parameters (im_pre): ' + str(popt))
+    popt.pop(0)
+    popt.pop(-1)
     demo_model = dadi.Demographics2D.IM_pre
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
@@ -38,6 +41,9 @@ def plot_im_pre_demography(fs, ns, pts, popt):
     dadi.Plotting.plot_2d_comp_multinom(model, fs)
     fig.savefig('plots/IRA_FRA_im_pre_demography.png')
 def plot_bottlegrowth_demography(fs, ns, pts, popt):
+    print('Best Fit Parameters (bottlegrowth): ' + str(popt))
+    popt.pop(0)
+    popt.pop(-1)
     demo_model = dadi.Demographics2D.bottlegrowth_2d
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
@@ -47,6 +53,9 @@ def plot_bottlegrowth_demography(fs, ns, pts, popt):
     dadi.Plotting.plot_2d_comp_multinom(model, fs)
     fig.savefig('plots/IRA_FRA_bottlegrowth_demography.png')
 def plot_bottlegrowth_split_demography(fs, ns, pts, popt):
+    print('Best Fit Parameters (bottlegrowth_split): ' + str(popt))
+    popt.pop(0)
+    popt.pop(-1)
     demo_model = dadi.Demographics2D.bottlegrowth_split
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
@@ -73,7 +82,7 @@ def main():
     plot_bottlegrowth_demography(fs, ns, pts_l, bottlegrowth_popt)
 
     #bottlegrowth_split_demography
-    bottlegrowth_split_popt = get_popt('results/IRA_FRA_bottlegrowth_split_demo_fits_combined.txt')
-    plot_bottlegrowth_split_demography(fs, ns, pts_l, bottlegrowth_split_popt)
+    # bottlegrowth_split_popt = get_popt('results/IRA_FRA_bottlegrowth_split_demo_fits_combined.txt')
+    # plot_bottlegrowth_split_demography(fs, ns, pts_l, bottlegrowth_split_popt)
 if __name__ == '__main__':
     main()
