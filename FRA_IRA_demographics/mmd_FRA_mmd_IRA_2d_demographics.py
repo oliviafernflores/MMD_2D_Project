@@ -15,7 +15,6 @@ import matplotlib.pyplot as plt
 
 def snm_demography(fs, ns, pts):
     demo_model = dadi.Demographics2D.snm_2d
-    demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     model = demo_model([], ns, pts)
     plt.figure(figsize = (8, 6))
     dadi.Plotting.plot_2d_comp_multinom(model, fs, vmin = 1, resid_range = 3, pop_ids = ['Mmd_GER', 'Mmd_FRA'], show = False)
