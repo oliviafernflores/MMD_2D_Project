@@ -45,5 +45,9 @@ def main():
     #im_demography
     im_popt = get_popt('results/IRA_FRA_im_demo_fits_combined.txt')
     plot_im_demography(fs, ns, pts_l, im_popt)
+
+    #im_pre_demography
+    im_pre_popt = get_popt('results/IRA_FRA_im_pre_demo_fits_combined.txt')
+    plot_im_pre_demography(fs, ns, pts_l, im_pre_popt)
 if __name__ == '__main__':
     main()
