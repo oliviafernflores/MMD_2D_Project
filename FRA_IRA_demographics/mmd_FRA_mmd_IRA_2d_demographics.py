@@ -98,7 +98,7 @@ def bottlegrowth_split_demography(fs, ns, pts):
     lower = [1e-2, 1e-2, 1e-3, 1e-3, 0]
     upper = [3, 3, 1, 1, 1]
     try:
-        fid = open(f'demo_results/IRA_FRA_bottlegrowth_split_fits{process_ii}.txt', 'a')
+        fid = open(f'demo_results/IRA_FRA_bottlegrowth_split_demo_fits{process_ii}.txt', 'a')
     except:
         fid = open(f'demo_results/IRA_FRA_bottlegrowth_split_demo_fits{process_ii}.txt', 'w')
     for i in range(20):
