@@ -64,6 +64,18 @@ def plot_bottlegrowth_split_demography(fs, ns, pts, popt):
     fig.clear()
     dadi.Plotting.plot_2d_comp_multinom(model, fs)
     fig.savefig('plots/IRA_FRA_bottlegrowth_split_demography.png')
+def plot_bottlegrowth_split_mig_demography(fs, ns, pts, popt):
+    print('Best Fit Parameters (bottlegrowth_split_mig): ' + str(popt))
+    popt.pop(0)
+    popt.pop(-1)
+    demo_model = dadi.Demographics2D.bottlegrowth_split_mig
+    demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
+    demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
+    model = demo_model_ex(popt, ns, pts)
+    fig = plt.figure('IRA_FRA_Bottlegrowth_Split_Migration_Demography')
+    fig.clear()
+    dadi.Plotting.plot_2d_comp_multinom(model, fs)
+    fig.savefig('plots/IRA_FRA_bottlegrowth_split_mig_demography.png')
 def main():
     fs = dadi.Spectrum.from_file('IRA_FRA_syn_unfolded.fs')
     ns = fs.sample_sizes
@@ -84,5 +96,9 @@ def main():
     #bottlegrowth_split_demography
     bottlegrowth_split_popt = get_popt('results/IRA_FRA_bottlegrowth_split_demo_fits_combined.txt')
     plot_bottlegrowth_split_demography(fs, ns, pts_l, bottlegrowth_split_popt)
+
+    #bottlegrowth_split_mig_demography
+    bottlegrowth_split_mig_popt = get_popt('results/IRA_FRA_bottlegrowth_split_mig_demo_fits_combined.txt')
+    plot_bottlegrowth_split_mig_demography(fs, ns, pts_l, bottlegrowth_split_mig_popt)
 if __name__ == '__main__':
     main()
