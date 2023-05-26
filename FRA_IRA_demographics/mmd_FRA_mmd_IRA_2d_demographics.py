@@ -2,7 +2,7 @@
 #SBATCH --account=rgutenk
 #SBATCH --qos=user_qos_rgutenk
 #SBATCH --partition=high_priority
-#SBATCH --job-name="IRA_FRA_split_delay_mig"
+#SBATCH --job-name="IRA_FRA_split_mig"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
 #SBATCH --ntasks=50
@@ -207,7 +207,7 @@ def main():
     # bottlegrowth_split_demography(data_fs, ns, pts_l)
     # bottlegrowth_split_mig_demography(data_fs, ns, pts_l)
     # split_asym_mig_demography(data_fs, ns, pts_l)
-    split_delay_mig_demography(data_fs, ns, pts_l)
-    # split_mig_demography(data_fs, ns, pts_l)
+    # split_delay_mig_demography(data_fs, ns, pts_l)
+    split_mig_demography(data_fs, ns, pts_l)
 if __name__ == '__main__':
     main()
