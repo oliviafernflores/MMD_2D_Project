@@ -157,9 +157,9 @@ def split_delay_mig_demography(fs, ns, pts):
     demo_model = dadi.Demographics2D.split_delay_mig
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
-    params = [1, 1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
-    lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-3, 1e-3, 0]
-    upper = [3, 3, 1, 1, 1, 1, 1, 1]
+    params = [1, 1, 0.1, 0.1, 0.1, 0.1, 0.1]
+    lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-3, 0]
+    upper = [3, 3, 1, 1, 1, 1, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_split_delay_mig_demo_fits{process_ii}.txt', 'a')
     except:
