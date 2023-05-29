@@ -13,7 +13,7 @@ import dadi
 import pickle
 import nlopt
 import matplotlib.pyplot as plt
-import inbreeding_models as mods 
+from inbreeding_models import IM 
 
 import sys, os
 print('Script running\n')
@@ -23,7 +23,7 @@ process_ii = int(os.environ.get('SLURM_ARRAY_TASK_ID', 1)) - 1
 print(process_ii)
 
 def im_demography(fs, ns, pts):
-    demo_model = mods.IM
+    demo_model = IM
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [0.1, 1, 1, 0.1, 0.1, 0.1, 0.1, 0.1]
