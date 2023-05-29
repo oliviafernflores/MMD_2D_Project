@@ -2,7 +2,7 @@
 #SBATCH --account=rgutenk
 #SBATCH --qos=user_qos_rgutenk
 #SBATCH --partition=high_priority
-#SBATCH --job-name="IRA_FRA_split_mig"
+#SBATCH --job-name="IRA_FRA_IM_inbreeding"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
 #SBATCH --ntasks=50
@@ -13,7 +13,7 @@ import dadi
 import pickle
 import nlopt
 import matplotlib.pyplot as plt
-from inbreeding_models import IM 
+from inbreeding_models.py import IM 
 
 import sys, os
 print('Script running\n')
