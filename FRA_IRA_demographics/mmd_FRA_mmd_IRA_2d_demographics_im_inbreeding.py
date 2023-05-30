@@ -82,12 +82,5 @@ def main():
     pts_l = [max(ns)+20, max(ns)+30, max(ns)+40]
 
     im_demography(data_fs, ns, pts_l)
-    # im_pre_demography(data_fs, ns, pts_l)
-    # bottlegrowth_demography(data_fs, ns, pts_l)
-    # bottlegrowth_split_demography(data_fs, ns, pts_l)
-    # bottlegrowth_split_mig_demography(data_fs, ns, pts_l)
-    # split_asym_mig_demography(data_fs, ns, pts_l)
-    # split_delay_mig_demography(data_fs, ns, pts_l)
-    # split_mig_demography(data_fs, ns, pts_l)
 if __name__ == '__main__':
     main()
