@@ -5,8 +5,8 @@
 #SBATCH --job-name="IRA_FRA_IM_inbreeding"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
-#SBATCH --ntasks=50
-#SBATCH --time=24:00:00
+#SBATCH --ntasks=1
+#SBATCH --time=0:30:00
 #SBATCH --array=1-5
 from contextlib import AsyncExitStack
 import dadi
