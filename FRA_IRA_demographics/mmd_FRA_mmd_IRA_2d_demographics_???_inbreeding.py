@@ -13,7 +13,7 @@ import dadi
 import pickle
 import nlopt
 import matplotlib.pyplot as plt
-from inbreeding_models.py import IM 
+from imbreeding_models import IM
 
 import sys, os
 print('Script running\n')
