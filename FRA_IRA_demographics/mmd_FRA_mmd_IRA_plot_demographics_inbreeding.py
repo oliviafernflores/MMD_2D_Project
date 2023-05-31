@@ -123,9 +123,9 @@ def main():
     im_popt = get_popt('demo_results/IRA_FRA_im_inbreeding_demo_fits0.txt')
     plot_im_demography(fs, ns, pts_l, im_popt)
 
-    # #im_pre_demography
-    # im_pre_popt = get_popt('results/')
-    # plot_im_pre_demography(fs, ns, pts_l, im_pre_popt)
+    #im_pre_demography
+    im_pre_popt = get_popt('demo_results/IRA_FRA_im_pre_inbreeding_demo_fits0.txt')
+    plot_im_pre_demography(fs, ns, pts_l, im_pre_popt)
 
     # #bottlegrowth_demography
     # bottlegrowth_popt = get_popt('results/')
