@@ -8,12 +8,13 @@ def get_popt(fname):
     fits_file = open(fname, 'r')
     fits = fits_file.readlines()
     popt = fits[0]
-    for f in fits:
-        if f[0] > popt[0]:
-            popt = f
     popt = popt.split('\t')
+    for f in fits:
+        if f.split('\t')[0] < popt[0]:
+            popt = f.split('\t')
     for i in range(len(popt)):
         popt[i] = float(popt[i])
+    print(popt)
     return popt
 
 def plot_im_demography(fs, ns, pts, popt):
