@@ -5,8 +5,8 @@
 #SBATCH --job-name="IRA_FRA_IM_inbreeding"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
-#SBATCH --ntasks=10
-#SBATCH --time=2:00:00
+#SBATCH --ntasks=50
+#SBATCH --time=24:00:00
 #SBATCH --array=1-5
 from contextlib import AsyncExitStack
 import dadi
@@ -61,7 +61,7 @@ def im_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [0.1, 1, 1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0, 0, 0]
-    upper = [1, 3, 6.5, 1, 3, 1, 1, 1, 1]
+    upper = [1, 3, 10, 1, 3, 1, 1, 1, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_im_inbreeding_demo_fits{process_ii}.txt', 'a')
     except:
