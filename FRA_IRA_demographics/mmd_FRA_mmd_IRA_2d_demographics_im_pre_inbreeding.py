@@ -5,9 +5,9 @@
 #SBATCH --job-name="IRA_FRA_IM_pre_inbreeding"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
-#SBATCH --ntasks=1
-#SBATCH --time=00:30:00
-#SBATCH --array=1
+#SBATCH --ntasks=10
+#SBATCH --time=1:00:00
+#SBATCH --array=1-5
 from contextlib import AsyncExitStack
 import dadi
 import pickle
@@ -71,7 +71,7 @@ def im_pre_demography(fs, ns, pts):
         fid = open(f'demo_results/IRA_FRA_im_pre_inbreeding_demo_fits{process_ii}.txt', 'a')
     except:
         fid = open(f'demo_results/IRA_FRA_im_pre_inbreeding_demo_fits{process_ii}.txt', 'w')
-    for i in range(1):
+    for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 0, upper_bound = upper, lower_bound = lower)
         print('Beginning im_pre_inbreeding optimization ' + str(i) + '*'*20)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)

@@ -5,8 +5,8 @@
 #SBATCH --job-name="IRA_FRA_split_asym_mig_inbreeding"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
-#SBATCH --ntasks=50
-#SBATCH --time=24:00:00
+#SBATCH --ntasks=10
+#SBATCH --time=1:00:00
 #SBATCH --array=1-5
 from contextlib import AsyncExitStack
 import dadi
@@ -62,7 +62,7 @@ def split_asym_mig_demography(fs, ns, pts):
         fid = open(f'demo_results/IRA_FRA_split_asym_mig_inbreeding_demo_fits{process_ii}.txt', 'a')
     except:
         fid = open(f'demo_results/IRA_FRA_split_asym_mig_inbreeding_demo_fits{process_ii}.txt', 'w')
-    for i in range(2):
+    for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 0, upper_bound = upper, lower_bound = lower)
         print('Beginning split_asym_mig_inbreeding optimization ' + str(i) + '*'*20)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
