@@ -15,7 +15,6 @@ def get_popt(fname):
             popt = f.split('\t')
     for i in range(len(popt)):
         popt[i] = float(popt[i])
-    print(popt)
     return popt
 
 def plot_im_demography(fs, ns, pts, popt):
@@ -139,16 +138,16 @@ def main():
     # bottlegrowth_split_mig_popt = get_popt('')
     # plot_bottlegrowth_split_mig_demography(fs, ns, pts_l, bottlegrowth_split_mig_popt)
 
-    # #split_asym_mig_demography
-    # split_asym_mig_popt = get_popt('')
-    # plot_split_asym_mig_demography(fs, ns, pts_l, split_asym_mig_popt)
+    #split_asym_mig_demography
+    split_asym_mig_popt = get_popt('demo_results/IRA_FRA_split_asym_mig_inbreeding_demo_fits0.txt')
+    plot_split_asym_mig_demography(fs, ns, pts_l, split_asym_mig_popt)
 
-    # #split_delay_mig_demography
-    # split_delay_mig_popt = get_popt('results/')
-    # plot_split_delay_mig_demography(fs, ns, pts_l, split_delay_mig_popt)
+    #split_delay_mig_demography
+    split_delay_mig_popt = get_popt('demo_results/IRA_FRA_split_delay_mig_inbreeding_demo_fits0.txt')
+    plot_split_delay_mig_demography(fs, ns, pts_l, split_delay_mig_popt)
 
-    # #split_mig_demography
-    # split_mig_popt = get_popt('results/')
-    # plot_split_mig_demography(fs, ns, pts_l, split_mig_popt)
+    #split_mig_demography
+    split_mig_popt = get_popt('demo_results/IRA_FRA_split_mig_inbreeding_demo_fits0.txt')
+    plot_split_mig_demography(fs, ns, pts_l, split_mig_popt)
 if __name__ == '__main__':
     main()
