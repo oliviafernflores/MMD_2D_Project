@@ -6,7 +6,7 @@
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
 #SBATCH --ntasks=10
-#SBATCH --time=1:00:00
+#SBATCH --time=2:00:00
 #SBATCH --array=1-5
 from contextlib import AsyncExitStack
 import dadi
@@ -39,7 +39,7 @@ def split_asym_mig(params, ns, pts):
     n1,n2: Sample sizes of resulting Spectrum
     pts: Number of grid points to use in integration.
     """
-    nu1,nu2,T,m12,m21, F = params
+    nu1,nu2,T,m12,m21, F1, F2 = params
 
     xx = Numerics.default_grid(pts)
 
@@ -48,16 +48,16 @@ def split_asym_mig(params, ns, pts):
 
     phi = Integration.two_pops(phi, xx, T, nu1, nu2, m12=m12, m21=m21)
 
-    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (0.001, F), (2, 2))
+    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F1, F2), (2, 2))
     return fs
 
 def split_asym_mig_demography(fs, ns, pts):
     demo_model = split_asym_mig
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
-    params = [1, 1, 0.1, 0.1, 0.1, 0.1, 0.1]
-    lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0, 0]
-    upper = [3, 6, 1, 3, 1, 1, 1]
+    params = [1, 1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+    lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0, 0, 0]
+    upper = [3, 6, 1, 3, 1, 1, 1, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_split_asym_mig_inbreeding_demo_fits{process_ii}.txt', 'a')
     except:
