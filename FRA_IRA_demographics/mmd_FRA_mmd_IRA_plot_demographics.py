@@ -2,6 +2,7 @@ import dadi
 import matplotlib.pyplot as plt
 import numpy as np
 import csv
+import matplotlib.pylab
 
 def get_popt(fname):
     popt = []
@@ -14,7 +15,6 @@ def get_popt(fname):
             popt = f.split('\t')
     for i in range(len(popt)):
         popt[i] = float(popt[i])
-    print(popt)
     return popt
 
 def plot_im_demography(fs, ns, pts, popt):
