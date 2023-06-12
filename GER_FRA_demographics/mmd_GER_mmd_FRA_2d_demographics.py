@@ -2,7 +2,7 @@
 #SBATCH --account=rgutenk
 #SBATCH --qos=user_qos_rgutenk
 #SBATCH --partition=high_priority
-#SBATCH --job-name="IM_pre_FRA_GER_demographics"
+#SBATCH --job-name="split_mig_FRA_GER_demographics"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
 #SBATCH --ntasks=50
@@ -202,12 +202,12 @@ def main():
 
     # snm_demography(data_fs, ns, 100)
     # im_demography(data_fs, ns, pts_l)
-    im_pre_demography(data_fs, ns, pts_l)
+    # im_pre_demography(data_fs, ns, pts_l)
     # bottlegrowth_demography(data_fs, ns, pts_l)
     # bottlegrowth_split_demography(data_fs, ns, pts_l)
     # bottlegrowth_split_mig_demography(data_fs, ns, pts_l)
     # split_asym_mig_demography(data_fs, ns, pts_l)
     # split_delay_mig_demography(data_fs, ns, pts_l)
-    # split_mig_demography(data_fs, ns, pts_l)
+    split_mig_demography(data_fs, ns, pts_l)
 if __name__ == '__main__':
     main()
