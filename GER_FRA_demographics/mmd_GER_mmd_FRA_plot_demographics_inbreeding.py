@@ -134,9 +134,9 @@ def main():
     bottlegrowth_split_popt = get_popt('results/FRA_GER_bottlegrowth_split_inbreeding_demo_fits_combined.txt')
     plot_bottlegrowth_split_demography(fs, ns, pts_l, bottlegrowth_split_popt)
 
-    # #bottlegrowth_split_mig_demography
-    # bottlegrowth_split_mig_popt = get_popt('results/FRA_GER_bottlegrowth_split_mig_inbreeding_demo_fits_combined.txt')
-    # plot_bottlegrowth_split_mig_demography(fs, ns, pts_l, bottlegrowth_split_mig_popt)
+    #bottlegrowth_split_mig_demography
+    bottlegrowth_split_mig_popt = get_popt('results/FRA_GER_bottlegrowth_split_mig_inbreeding_demo_fits_combined.txt')
+    plot_bottlegrowth_split_mig_demography(fs, ns, pts_l, bottlegrowth_split_mig_popt)
 
     #split_asym_mig_demography
     split_asym_mig_popt = get_popt('results/FRA_GER_split_asym_mig_inbreeding_demo_fits_combined.txt')

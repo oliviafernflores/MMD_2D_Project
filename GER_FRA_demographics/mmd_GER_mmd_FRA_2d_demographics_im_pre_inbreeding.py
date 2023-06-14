@@ -65,7 +65,7 @@ def im_pre_demography(fs, ns, pts):
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 0.1, 0.1, 1, 1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
-    lower = [1e-2, 1e-2, 1e-5, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-5, 1e-3, 0]
+    lower = [1e-2, 1e-5, 1e-5, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-10, 1e-3, 0]
     upper = [3, 1, 1, 3, 10, 1, 10, 10, 1, 1, 1]
     try:
         fid = open(f'demo_results/FRA_GER_im_pre_inbreeding_demo_fits{process_ii}.txt', 'a')
@@ -78,6 +78,7 @@ def im_pre_demography(fs, ns, pts):
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
+        print(res)
         fid.write('\t'.join([str(ele) for ele in res]) + '\n')
         print('Finished im_pre_inbreeding optimization ' + str(i) + '*'*20)
     fid.close()
