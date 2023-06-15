@@ -73,6 +73,7 @@ def im_demography(fs, ns, pts):
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
+        print(res)
         fid.write('\t'.join([str(ele) for ele in res]) + '\n')
         print('Finished im_inbreeding_pop2_only optimization ' + str(i) + '*'*20)
     fid.close()

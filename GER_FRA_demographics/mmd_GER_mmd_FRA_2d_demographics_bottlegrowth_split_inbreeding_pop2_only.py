@@ -86,7 +86,7 @@ def bottlegrowth_split_demography(fs, ns, pts):
     demo_model = bottlegrowth_split
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
-    params = [1, 1, 0.1, 0.1, 0.1, 0.1, 0.1]
+    params = [1, 1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-10, 0]
     upper = [10, 10, 1, 3, 1, 1]
     try:
