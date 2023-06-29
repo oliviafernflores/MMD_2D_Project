@@ -26,7 +26,7 @@ def bottlegrowth_split_mig(params, ns, pts):
         nu_func = lambda t: nuB*numpy.exp(numpy.log(nuF/nuB) * t/T)
         phi = Integration.two_pops(phi, xx, T, nu_func, nu_func, m12=m, m21=m)
 
-    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (1e-10, F), (2, 2))
+    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F, 1e-10), (2, 2))
     return fs
 def bottlegrowth_split(params, ns, pts):
     nuB,nuF,T,Ts, F = params
@@ -44,7 +44,7 @@ def IM(params, ns, pts):
     phi = Integration.two_pops(phi, xx, T, nu1_func, nu2_func,
                                m12=m12, m21=m21)
 
-    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (1e-10, F), (2, 2))
+    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F, 1e-10), (2, 2))
     return fs
 def IM_pre(params, ns, pts):
     nuPre,TPre,s,nu1,nu2,T,m12,m21, F = params
@@ -62,7 +62,7 @@ def IM_pre(params, ns, pts):
     phi = Integration.two_pops(phi, xx, T, nu1_func, nu2_func,
                                m12=m12, m21=m21)
 
-    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (1e-10, F), (2, 2))
+    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F, 1e-10), (2, 2))
     return fs
 def split_asym_mig(params, ns, pts):
     nu1,nu2,T,m12,m21, F = params
@@ -74,7 +74,7 @@ def split_asym_mig(params, ns, pts):
 
     phi = Integration.two_pops(phi, xx, T, nu1, nu2, m12=m12, m21=m21)
 
-    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (1e-10, F), (2, 2))
+    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F, 1e-10), (2, 2))
     return fs
 def split_delay_mig(params, ns, pts):
     nu1,nu2,Tpre,Tmig,m12,m21, F = params
@@ -86,7 +86,7 @@ def split_delay_mig(params, ns, pts):
     phi = Integration.two_pops(phi, xx, Tpre, nu1, nu2, m12=0, m21=0)
     phi = Integration.two_pops(phi, xx, Tmig, nu1, nu2, m12=m12, m21=m21)
 
-    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (1e-10, F), (2, 2))
+    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F, 1e-10), (2, 2))
     return fs
 def split_mig(params, ns, pts):
     nu1,nu2,T,m, F = params
@@ -98,5 +98,5 @@ def split_mig(params, ns, pts):
 
     phi = Integration.two_pops(phi, xx, T, nu1, nu2, m12=m, m21=m)
 
-    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (1e-10, F), (2, 2))
+    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F, 1e-10), (2, 2))
     return fs
