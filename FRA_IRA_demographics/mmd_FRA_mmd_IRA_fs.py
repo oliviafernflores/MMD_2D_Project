@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 def fs_and_boostraps(kind):
     dd = pickle.load(open('/groups/rgutenk/mice/mouse_all_pops.dd_' + kind + '.bpkl', 'rb'))
     pop_ids = ['Mmd_FRA', 'Mmd_IRA']
-    ns = [14, 14]
+    ns = [16, 16]
     fs = dadi.Spectrum.from_data_dict(dd, pop_ids, ns)
     fs.to_file('IRA_FRA_' + kind + '_unfolded.fs')
 

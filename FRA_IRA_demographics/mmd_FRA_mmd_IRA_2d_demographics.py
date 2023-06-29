@@ -2,7 +2,7 @@
 #SBATCH --account=rgutenk
 #SBATCH --qos=user_qos_rgutenk
 #SBATCH --partition=high_priority
-#SBATCH --job-name="IRA_FRA_split_mig"
+#SBATCH --job-name="IRA_FRA_demo"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
 #SBATCH --ntasks=50
@@ -200,14 +200,14 @@ def main():
     ns = data_fs.sample_sizes
     pts_l = [max(ns)+20, max(ns)+30, max(ns)+40]
 
-    # snm_demography(data_fs, ns, 100)
-    # im_demography(data_fs, ns, pts_l)
-    # im_pre_demography(data_fs, ns, pts_l)
-    # bottlegrowth_demography(data_fs, ns, pts_l)
-    # bottlegrowth_split_demography(data_fs, ns, pts_l)
-    # bottlegrowth_split_mig_demography(data_fs, ns, pts_l)
-    # split_asym_mig_demography(data_fs, ns, pts_l)
-    # split_delay_mig_demography(data_fs, ns, pts_l)
+    snm_demography(data_fs, ns, 100)
+    im_demography(data_fs, ns, pts_l)
+    im_pre_demography(data_fs, ns, pts_l)
+    bottlegrowth_demography(data_fs, ns, pts_l)
+    bottlegrowth_split_demography(data_fs, ns, pts_l)
+    bottlegrowth_split_mig_demography(data_fs, ns, pts_l)
+    split_asym_mig_demography(data_fs, ns, pts_l)
+    split_delay_mig_demography(data_fs, ns, pts_l)
     split_mig_demography(data_fs, ns, pts_l)
 if __name__ == '__main__':
     main()
