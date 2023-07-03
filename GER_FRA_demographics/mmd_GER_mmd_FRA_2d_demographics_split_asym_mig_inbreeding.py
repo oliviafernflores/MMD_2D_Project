@@ -56,7 +56,7 @@ def split_asym_mig_demography(fs, ns, pts):
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
-    lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-10, 1e-5, 0]
+    lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-15, 1e-3, 0]
     upper = [3, 6, 1, 10, 10, 1, 1, 1]
     try:
         fid = open(f'demo_results/FRA_GER_split_asym_mig_inbreeding_demo_fits{process_ii}.txt', 'a')
