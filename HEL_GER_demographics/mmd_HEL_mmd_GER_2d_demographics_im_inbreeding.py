@@ -2,7 +2,7 @@
 #SBATCH --account=rgutenk
 #SBATCH --qos=user_qos_rgutenk
 #SBATCH --partition=high_priority
-#SBATCH --job-name="FRA_GER_IM_inbreeding"
+#SBATCH --job-name="GER_HEL_IM_inbreeding"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
 #SBATCH --ntasks=50

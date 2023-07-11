@@ -42,7 +42,7 @@ def bottlegrowth_split_mig(params, ns, pts):
     n1,n2: Sample sizes of resulting Spectrum
     pts: Number of grid points to use in integration.
     """
-    nuB,nuF,m,T,Ts, F1, F2 = params
+    nuB,nuF,m,T,Ts, F = params
 
     xx = Numerics.default_grid(pts)
     phi = PhiManip.phi_1D(xx)
@@ -61,29 +61,29 @@ def bottlegrowth_split_mig(params, ns, pts):
         nu_func = lambda t: nuB*numpy.exp(numpy.log(nuF/nuB) * t/T)
         phi = Integration.two_pops(phi, xx, T, nu_func, nu_func, m12=m, m21=m)
 
-    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F1, F2), (2, 2))
+    fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F, 1e-10), (2, 2))
     return fs
 
 def bottlegrowth_split_mig_demography(fs, ns, pts):
     demo_model = bottlegrowth_split_mig
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
-    params = [1, 1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
-    lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-5, 1e-5, 0]
-    upper = [3, 10, 10, 1, 3, 1, 1, 1]
+    params = [1, 1, 0.1, 0.1, 0.1, 0.1, 0.1]
+    lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-2, 0]
+    upper = [3, 10, 10, 1, 3, 1, 1]
     try:
-        fid = open(f'demo_results/GER_HEL_bottlegrowth_split_mig_inbreeding_demo_fits{process_ii}.txt', 'a')
+        fid = open(f'demo_results/GER_HEL_bottlegrowth_split_mig_inbreeding_pop1_only_demo_fits{process_ii}.txt', 'a')
     except:
-        fid = open(f'demo_results/GER_HEL_bottlegrowth_split_mig_inbreeding_demo_fits{process_ii}.txt', 'w')
+        fid = open(f'demo_results/GER_HEL_bottlegrowth_split_mig_inbreeding_pop1_only_demo_fits{process_ii}.txt', 'w')
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 0, upper_bound = upper, lower_bound = lower)
-        print('Beginning bottlegrowth_split_mig_inbreeding optimization ' + str(i) + '*'*20)
+        print('Beginning bottlegrowth_split_mig_inbreeding_pop1_only optimization ' + str(i) + '*'*20)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
         fid.write('\t'.join([str(ele) for ele in res]) + '\n')
-        print('Finished bottlegrowth_split_mig_inbreeding optimization ' + str(i) + '*'*20)
+        print('Finished bottlegrowth_split_mig_inbreeding_pop1_only optimization ' + str(i) + '*'*20)
     fid.close()
 def main():
     data_fs = dadi.Spectrum.from_file('GER_HEL_syn_unfolded.fs')

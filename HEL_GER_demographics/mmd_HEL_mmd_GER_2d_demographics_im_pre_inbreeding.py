@@ -2,12 +2,12 @@
 #SBATCH --account=rgutenk
 #SBATCH --qos=user_qos_rgutenk
 #SBATCH --partition=high_priority
-#SBATCH --job-name="FRA_GER_IM_pre_inbreeding"
+#SBATCH --job-name="GER_HEL_IM_pre_inbreeding"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
 #SBATCH --ntasks=50
 #SBATCH --time=24:00:00
-#SBATCH --array=1-10
+#SBATCH --array=1-5
 from contextlib import AsyncExitStack
 import dadi
 import pickle
@@ -71,7 +71,7 @@ def im_pre_demography(fs, ns, pts):
         fid = open(f'demo_results/GER_HEL_im_pre_inbreeding_demo_fits{process_ii}.txt', 'a')
     except:
         fid = open(f'demo_results/GER_HEL_im_pre_inbreeding_demo_fits{process_ii}.txt', 'w')
-    for i in range(10):
+    for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 0, upper_bound = upper, lower_bound = lower)
         print('Beginning im_pre_inbreeding optimization ' + str(i) + '*'*20)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
