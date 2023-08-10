@@ -1,4 +1,14 @@
-from inbreeding_models import IM, IM_pre
+#!/usr/bin/env python
+#SBATCH --account=rgutenk
+#SBATCH --qos=user_qos_rgutenk
+#SBATCH --partition=high_priority
+#SBATCH --job-name="IRA_FRA_im_pre_inbreeding_cache"
+#SBATCH --output=%x-%A_%a.out
+#SBATCH --nodes=1
+#SBATCH --ntasks=50
+#SBATCH --time=24:00:00
+#SBATCH --array=1
+
 import dadi
 import dadi.DFE as DFE
 import pickle
@@ -7,7 +17,7 @@ if __name__ == '__main__':
 
     data_fs = dadi.Spectrum.from_file('IRA_FRA_syn_unfolded.fs')
     ns = data_fs.sample_sizes
-    pts_l = [max(ns) + 10, max(ns) + 20, max(ns) + 30]
+    pts_l = [max(ns) + 110, max(ns) + 120, max(ns) + 130]
 
     # using the IM_pre parameters with inbreeding
 
