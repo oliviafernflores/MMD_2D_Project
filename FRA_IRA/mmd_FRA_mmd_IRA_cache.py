@@ -13,11 +13,11 @@ import dadi
 import dadi.DFE as DFE
 import pickle
 
-if __name__ == '__main__':
 
+def main():
     data_fs = dadi.Spectrum.from_file('IRA_FRA_syn_unfolded.fs')
     ns = data_fs.sample_sizes
-    pts_l = [max(ns) + 110, max(ns) + 120, max(ns) + 130]
+    pts_l = [max(ns) + 200, max(ns) + 210, max(ns) + 220]
 
     # using the IM_pre parameters with inbreeding
 
@@ -30,3 +30,8 @@ if __name__ == '__main__':
 
     fid = open('mmd_FRA_mmd_IRA_2d_cache.bpkl','wb')
     pickle.dump(spectra, fid, protocol = 2)
+    
+    # numpy.sum(cache.spectra < 0)
+
+if __name__ == '__main__':
+    main()
