@@ -11,10 +11,10 @@ def biv_lognormal_same_mu_sigma(theta_ns, data_fs, dfe_func):
     sele_dist2d = DFE.PDFs.biv_lognormal
     func_args = [sele_dist2d, theta_ns]
     #starting parameters for DFE inference
-    params = [0.2, 0.2, 0.9]
+    params = [0.2, 0.2, 0.9, 0.1]
     #bounds for DFE inference
-    lower_bounds = [-10, 0.01, 1e-1]
-    upper_bounds = [10, 100, 0.99]
+    lower_bounds = [-10, 0.01, 1e-1, 1e-2]
+    upper_bounds = [10, 100, 0.99, 0.99]
 
     for x in range(1):
         p0 = dadi.Misc.perturb_params(params, fold=1, upper_bound=upper_bounds, lower_bound=lower_bounds)
@@ -33,10 +33,10 @@ def biv_lognormal_independent_mu_sigma(theta_ns, data_fs, dfe_func):
     sele_dist2d = DFE.PDFs.biv_lognormal
     func_args = [sele_dist2d, theta_ns]
     #starting parameters for DFE inference
-    params = [0.2, 0.2, 0.2, 0.2, 0.9]
+    params = [0.2, 0.2, 0.2, 0.2, 0.9, 0.1]
     #bounds for DFE inference
-    lower_bounds = [-10, -10, 0.01, 0.01, 1e-1]
-    upper_bounds = [10, 10, 100, 100, 0.99]
+    lower_bounds = [-10, -10, 0.01, 0.01, 1e-1, 1e-2]
+    upper_bounds = [10, 10, 100, 100, 0.99, 0.99]
 
     for x in range(1):
         p0 = dadi.Misc.perturb_params(params, fold=1, upper_bound=upper_bounds, lower_bound=lower_bounds)
@@ -50,7 +50,22 @@ def biv_lognormal_independent_mu_sigma(theta_ns, data_fs, dfe_func):
         fid.close()
         #print the iteration
         print('Finished optimization: {0}'.format(x+1))
+def mixture(theta_ns, data_fs, s1, s2):
+    input_params = [0.5,0.3,0,0.1, 1.2, 0.3]
+    target = DFE.mixture_symmetric_point_pos(input_params,None,s1,s2,DFE.PDFs.biv_lognormal,
+                                         DFE.PDFs.biv_lognormal, theta_ns)
+    p0 = [0.1,0.3,0,0.2,1.2,0.3]
+    popt,ll_model = dadi.Inference.opt(p0, data_fs, DFE.mixture_symmetric_point_pos, pts=None, 
+            func_args=[s1, s2, DFE.PDFs.biv_lognormal, DFE.PDFs.biv_lognormal, theta_ns],
+            lower_bound=[None, 1e-3,-1,0,1e-5, 0], upper_bound=[None,None, 1,1,2000, 1],
+            fixed_params=[None,None,0,None,4.3,None], verbose=30, multinom=False)
 
+    fid = open('mixture_dfe_same_mu_sigma.txt', 'a')
+    res = [ll_model] + list(popt) + [theta_ns]
+    fid.write('\t'.join([str(ele) for ele in res])+'\n')
+    fid.close()
+    #print the iteration
+    # print('Finished optimization: {0}'.format(x+1))
 def main():
     data_fs = dadi.Spectrum.from_file('IRA_FRA_syn_unfolded.fs')
     ns = data_fs.sample_sizes
@@ -78,9 +93,25 @@ def main():
 
     #define the DFE function
     dfe_func = cache2d.integrate
+    dfe_func = dadi.Numerics.make_anc_state_misid_func(dfe_func)
+    
+    cache1d = pickle.load(open('mmd_FRA_mmd_IRA_1d_cache.bpkl', 'rb'))
 
-    biv_lognormal_same_mu_sigma(theta_ns, data_fs, dfe_func)
-    biv_lognormal_independent_mu_sigma(theta_ns, data_fs, dfe_func)
+    #check if there's large negative values in the cache
+    if (cache1d.spectra<0).sum() > 0:
+        print(
+            '!!!WARNING!!!\nPotentially large negative values!\nMost negative value is: '+str(cache1d.spectra.min())+
+            '\nIf negative values are very negative (<-0.001), rerun with larger values for pts_l'
+            )
+
+    #define the DFE function
+    dfe_func_1d = cache1d.integrate
+    dfe_func_1d = dadi.Numerics.make_anc_state_misid_func(dfe_func_1d)
+
+    # biv_lognormal_same_mu_sigma(theta_ns, data_fs, dfe_func)
+    # biv_lognormal_independent_mu_sigma(theta_ns, data_fs, dfe_func)
+    mixture(theta_ns, data_fs, cache1d, cache2d)
+    
 
 if __name__ == '__main__':
     main()

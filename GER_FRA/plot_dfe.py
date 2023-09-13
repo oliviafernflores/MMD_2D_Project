@@ -25,6 +25,7 @@ def main():
     #loading the cache, creating the extrapolation function, specifying the distribution, and loading our raw data frequency spectrum
     cache2d = pickle.load(open('mmd_GER_mmd_FRA_2d_cache.bpkl', 'rb'))
     dfe_func = cache2d.integrate
+    dfe_func = dadi.Numerics.make_anc_state_misid_func(dfe_func)
     sele_dist2d = DFE.PDFs.biv_lognormal
     data_fs = dadi.Spectrum.from_file('FRA_GER_syn_unfolded.fs')
     #synonymous theta from IM_pre_inbreeding demography fit

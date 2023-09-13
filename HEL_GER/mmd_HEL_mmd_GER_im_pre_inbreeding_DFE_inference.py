@@ -11,10 +11,10 @@ def biv_lognormal_same_mu_sigma(theta_ns, data_fs, dfe_func):
     sele_dist2d = DFE.PDFs.biv_lognormal
     func_args = [sele_dist2d, theta_ns]
     #starting parameters for DFE inference
-    params = [0.2, 0.2, 0.9]
+    params = [0.2, 0.2, 0.9, 0.1]
     #bounds for DFE inference
-    lower_bounds = [-10, 0.01, 1e-1]
-    upper_bounds = [10, 100, 0.99]
+    lower_bounds = [-10, 0.01, 1e-1, 1e-2]
+    upper_bounds = [10, 100, 0.99, 0.99]
 
     for x in range(1):
         p0 = dadi.Misc.perturb_params(params, fold=1, upper_bound=upper_bounds, lower_bound=lower_bounds)
@@ -33,10 +33,10 @@ def biv_lognormal_independent_mu_sigma(theta_ns, data_fs, dfe_func):
     sele_dist2d = DFE.PDFs.biv_lognormal
     func_args = [sele_dist2d, theta_ns]
     #starting parameters for DFE inference
-    params = [0.2, 0.2, 0.2, 0.2, 0.9]
+    params = [0.2, 0.2, 0.2, 0.2, 0.9, 0.1]
     #bounds for DFE inference
-    lower_bounds = [-10, -10, 0.01, 0.01, 1e-1]
-    upper_bounds = [10, 10, 100, 100, 0.99]
+    lower_bounds = [-10, -10, 0.01, 0.01, 1e-1, 1e-2]
+    upper_bounds = [10, 10, 100, 100, 0.99, 0.99]
 
     for x in range(1):
         p0 = dadi.Misc.perturb_params(params, fold=1, upper_bound=upper_bounds, lower_bound=lower_bounds)
@@ -78,6 +78,8 @@ def main():
 
     #define the DFE function
     dfe_func = cache2d.integrate
+    dfe_func = dadi.Numerics.make_anc_state_misid_func(dfe_func)
+
 
     biv_lognormal_same_mu_sigma(theta_ns, data_fs, dfe_func)
     biv_lognormal_independent_mu_sigma(theta_ns, data_fs, dfe_func)
