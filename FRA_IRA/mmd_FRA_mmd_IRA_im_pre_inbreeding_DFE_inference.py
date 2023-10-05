@@ -51,14 +51,15 @@ def biv_lognormal_independent_mu_sigma(theta_ns, data_fs, dfe_func):
         #print the iteration
         print('Finished optimization: {0}'.format(x+1))
 def mixture(theta_ns, data_fs, s1, s2):
-    input_params = [0.5,0.3,0,0.1, 1.2, 0.3]
-    target = DFE.mixture_symmetric_point_pos(input_params,None,s1,s2,DFE.PDFs.biv_lognormal,
-                                         DFE.PDFs.biv_lognormal, theta_ns)
-    p0 = [0.1,0.3,0,0.2,1.2,0.3]
-    popt,ll_model = dadi.Inference.opt(p0, data_fs, DFE.mixture_symmetric_point_pos, pts=None, 
-            func_args=[s1, s2, DFE.PDFs.biv_lognormal, DFE.PDFs.biv_lognormal, theta_ns],
-            lower_bound=[None, 1e-3,-1,0,1e-5, 0], upper_bound=[None,None, 1,1,2000, 1],
-            fixed_params=[None,None,0,None,4.3,None], verbose=30, multinom=False)
+    input_params = [0.5,0.3,0.1,0.3, 0.1]
+    dfe_func = dadi.Numerics.make_anc_state_misid_func(DFE.mixture)
+    target = dfe_func(input_params,None,s1,s2,DFE.PDFs.lognormal, DFE.PDFs.biv_lognormal, theta_ns, pts = None)
+    p0 = [0.5,0.3,0.1,0.3, 0.1]
+    
+    popt,ll_model = dadi.Inference.opt(p0, data_fs, dfe_func, pts=None, 
+            func_args=[s1, s2, DFE.PDFs.lognormal, DFE.PDFs.biv_lognormal, theta_ns],
+            lower_bound=[None, 1e-3,-1, 0, 0], upper_bound=[None,None, 1, 1, 1],
+            fixed_params=[None,None,0,None, None], verbose=30, multinom=False)
 
     fid = open('mixture_dfe_same_mu_sigma.txt', 'a')
     res = [ll_model] + list(popt) + [theta_ns]
@@ -66,6 +67,22 @@ def mixture(theta_ns, data_fs, s1, s2):
     fid.close()
     #print the iteration
     # print('Finished optimization: {0}'.format(x+1))
+# def mixture_complicated_with_issues(theta_ns, data_fs, s1, s2):
+#     input_params = [0.5,0.3,0,0.1, 1.2, 0.3]
+#     target = DFE.mixture_symmetric_point_pos(input_params,None,s1,s2,DFE.PDFs.biv_lognormal,
+#                                          DFE.PDFs.biv_lognormal, theta_ns)
+#     p0 = [0.1,0.3,0,0.2,1.2,0.3]
+#     popt,ll_model = dadi.Inference.opt(p0, data_fs, DFE.mixture_symmetric_point_pos, pts=None, 
+#             func_args=[s1, s2, DFE.PDFs.biv_lognormal, DFE.PDFs.biv_lognormal, theta_ns],
+#             lower_bound=[None, 1e-3,-1,0,1e-5, 0], upper_bound=[None,None, 1,1,2000, 1],
+#             fixed_params=[None,None,0,None,4.3,None], verbose=30, multinom=False)
+
+#     fid = open('mixture_dfe_same_mu_sigma.txt', 'a')
+#     res = [ll_model] + list(popt) + [theta_ns]
+#     fid.write('\t'.join([str(ele) for ele in res])+'\n')
+#     fid.close()
+#     #print the iteration
+#     # print('Finished optimization: {0}'.format(x+1))
 def main():
     data_fs = dadi.Spectrum.from_file('IRA_FRA_syn_unfolded.fs')
     ns = data_fs.sample_sizes
