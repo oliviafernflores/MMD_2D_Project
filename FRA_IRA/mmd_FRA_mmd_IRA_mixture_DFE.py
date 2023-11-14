@@ -40,7 +40,7 @@ func_args = [cache1d, cache2d, sele_dist1d, sele_dist2d, theta_ns]
 params = [2, 2, 0, 0.01, 0.01]
 #bounds and fixed parameters for DFE inference
 lower_bounds = [1e-2, 1e-2, None, 1e-3, 1e-3]
-upper_bounds = [10, 100, None, 1-1e-3, 1]
+upper_bounds = [100, 10, None, 1-1e-3, 1]
 fixed_params = [None, None, 0, None, None]
 #checking if the file exists and opening it
 try:
@@ -48,11 +48,11 @@ try:
 except:
     fid = open('mmd_FRA_mmd_IRA_mixture_DFE.txt','w')
 #starting a for loop that will be used to run a bunch of optimizations
-for i in range(100):
+for i in range(200):
     #perturb starting pararmeters - this will give you a different starting point each time
     p0 = dadi.Misc.perturb_params(params, fold=1, upper_bound=upper_bounds, lower_bound=lower_bounds)
     #run the optimization
-    popt, ll_model = dadi.Inference.opt(p0, data_fs, dfe_func, pts=None, func_args=func_args, lower_bound=lower_bounds, upper_bound=upper_bounds, fixed_params=fixed_params, maxeval=400, multinom=False, verbose=30)
+    popt, ll_model = dadi.Inference.opt(p0, data_fs, dfe_func, pts=None, func_args=func_args, lower_bound=lower_bounds, upper_bound=upper_bounds, fixed_params=fixed_params, maxeval=1000, multinom=False, verbose=30)
     #writing the results to the file
     res = [ll_model] + list(popt) + [theta_ns]
     fid.write('\t'.join([str(ele) for ele in res])+'\n')

@@ -4,7 +4,7 @@
 #SBATCH --partition=high_priority
 #SBATCH --job-name="IRA_FRA_IM_inbreeding"
 #SBATCH --output=%x-%A_%a.out
-#SBATCH --nodes=1
+#SBATCH --nodes=10
 #SBATCH --ntasks=50
 #SBATCH --time=24:00:00
 #SBATCH --array=1-5
@@ -60,7 +60,7 @@ def im_demography(fs, ns, pts):
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [0.1, 1, 1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
-    lower = [1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0, 0, 0]
+    lower = [1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-5, 1e-5, 1e-5]
     upper = [1, 3, 10, 1, 3, 1, 1, 1, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_im_inbreeding_demo_fits{process_ii}.txt', 'a')
@@ -69,7 +69,7 @@ def im_demography(fs, ns, pts):
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 0, upper_bound = upper, lower_bound = lower)
         print('Beginning im_inbreeding optimization ' + str(i) + '*'*20)
-        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
+        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]

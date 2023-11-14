@@ -13,8 +13,8 @@ import dadi
 import dadi.DFE as DFE
 import pickle
 
-if __name__ == '__main__':
 
+def main():
     data_fs = dadi.Spectrum.from_file('FRA_GER_syn_unfolded.fs')
     ns = data_fs.sample_sizes
     pts_l = [max(ns) + 110, max(ns) + 120, max(ns) + 130]
@@ -29,3 +29,11 @@ if __name__ == '__main__':
 
     fid = open('mmd_GER_mmd_FRA_2d_cache.bpkl','wb')
     pickle.dump(spectra, fid, protocol = 2)
+    
+    demo_sel_1d = DFE.DemogSelModels.IM_pre_single_gamma
+    spectra1d = DFE.Cache1D(demo_params, ns, demo_sel_1d, pts = pts_l, gamma_bounds = (1e-5, 2000), gamma_pts = 50, additional_gammas = [1.2, 4.3])
+    fid = open('mmd_GER_mmd_FRA_1d_cache.bpkl','wb')
+    pickle.dump(spectra1d, fid, protocol = 2)
+
+if __name__ == '__main__':
+    main()

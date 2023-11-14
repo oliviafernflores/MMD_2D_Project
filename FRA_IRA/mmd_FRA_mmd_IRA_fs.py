@@ -5,7 +5,7 @@
 #SBATCH --job-name="all_mouse_pops_syn_fs"
 #SBATCH --output=%x-%A_%a.out
 #SBATCH --nodes=1
-#SBATCH --ntasks=1
+#SBATCH --ntasks=20
 #SBATCH --time=24:00:00
 from contextlib import AsyncExitStack
 import dadi
@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 def fs_and_boostraps(kind):
     dd = pickle.load(open('/groups/rgutenk/mice/mouse_all_pops.dd_' + kind + '.bpkl', 'rb'))
     pop_ids = ['Mmd_FRA', 'Mmd_IRA']
-    ns = [16, 16]
+    ns = [16, 10]
     fs = dadi.Spectrum.from_data_dict(dd, pop_ids, ns)
     fs.to_file('IRA_FRA_' + kind + '_unfolded.fs')
 
