@@ -7,7 +7,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks=50
 #SBATCH --time=24:00:00
-#SBATCH --array=1-10
+#SBATCH --array=1-5
 import pickle, random
 import numpy as np
 import nlopt
@@ -20,8 +20,8 @@ from dadi.DFE import *
 
 data_fs = dadi.Spectrum.from_file('IRA_FRA_syn_unfolded.fs')
 ns = data_fs.sample_sizes
-#synonymous theta from IM_pre_inbreeding demography fit
-theta0 = 26681.214011656422
+#synonymous theta from IM_inbreeding demography fit
+theta0 = 26966.22426449829
 theta_ns = theta0 * 2.4
 #load the 1D cache
 cache1d = pickle.load(open('mmd_FRA_mmd_IRA_1d_cache.bpkl', 'rb'))
@@ -40,10 +40,10 @@ sele_dist1d = DFE.PDFs.gamma
 #arguments for optimization
 func_args = [sele_dist1d, theta_ns]
 #starting parameters for DFE inference
-params = [0.05, 1e8, 0.1]
+params = [0.1, 5000, 0.01]
 #bounds for DFE inference
 lower_bounds = [1e-2, 1e-2, 1e-3]
-upper_bounds = [10, 1e10, 1]
+upper_bounds = [10, 1e5, 1]
 #checking if the file exists and opening it
 try:
     fid = open('mmd_FRA_mmd_IRA_gamma_DFE.txt','a')
