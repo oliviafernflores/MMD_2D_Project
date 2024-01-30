@@ -21,7 +21,7 @@ from dadi.DFE import *
 data_fs = dadi.Spectrum.from_file('FRA_GER_syn_unfolded.fs')
 ns = data_fs.sample_sizes
 #synonymous theta from IM_pre_inbreeding demography fit
-theta0 = 26681.214011656422
+theta0 = 31366.855164380948
 theta_ns = theta0 * 2.4
 #load the 1D cache
 cache1d = pickle.load(open('mmd_GER_mmd_FRA_1d_cache.bpkl', 'rb'))
@@ -40,7 +40,7 @@ func_args = [cache1d, cache2d, sele_dist1d, sele_dist2d, theta_ns]
 params = [2, 2, 0, 0.01, 0.01]
 #bounds and fixed parameters for DFE inference
 lower_bounds = [1e-2, 1e-2, None, 1e-3, 1e-3]
-upper_bounds = [100, 10, None, 1-1e-3, 1]
+upper_bounds = [10, 10, None, 1e-3, 1]
 fixed_params = [None, None, 0, None, None]
 #checking if the file exists and opening it
 try:

@@ -7,7 +7,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks=50
 #SBATCH --time=24:00:00
-#SBATCH --array=1-10
+#SBATCH --array=1-5
 import pickle, random
 import numpy as np
 import nlopt
@@ -21,7 +21,7 @@ from dadi.DFE import *
 data_fs = dadi.Spectrum.from_file('FRA_GER_syn_unfolded.fs')
 ns = data_fs.sample_sizes
 #synonymous theta from IM_pre_inbreeding demography fit
-theta0 = 26681.214011656422
+theta0 = 31366.855164380948
 theta_ns = theta0 * 2.4
 #load the 1D cache
 cache1d = pickle.load(open('mmd_GER_mmd_FRA_1d_cache.bpkl', 'rb'))
@@ -40,17 +40,17 @@ sele_dist1d = DFE.PDFs.gamma
 #arguments for optimization
 func_args = [sele_dist1d, theta_ns]
 #starting parameters for DFE inference
-params = [0.05, 1e8, 0.1]
+params = [0.1, 5000, 0.01]
 #bounds for DFE inference
 lower_bounds = [1e-2, 1e-2, 1e-3]
-upper_bounds = [10, 1e10, 1]
+upper_bounds = [10, 1e5, 1]
 #checking if the file exists and opening it
 try:
     fid = open('mmd_GER_mmd_FRA_gamma_DFE.txt','a')
 except:
     fid = open('mmd_GER_mmd_FRA_gamma_DFE.txt','w')
 #starting a for loop that will be used to run a bunch of optimizations
-for i in range(200):
+for i in range(1):
     #perturb starting pararmeters - this will give you a different starting point each time
     p0 = dadi.Misc.perturb_params(params, fold=1, upper_bound=upper_bounds, lower_bound=lower_bounds)
     #run the optimization

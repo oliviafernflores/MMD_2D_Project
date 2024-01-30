@@ -45,9 +45,9 @@ def IM_pre_sel_inbreeding(params, ns, pts):
 def IM_sel_inbreeding(params, ns, pts):
     s,nu1,nu2,T,m12,m21,F1,F2,gamma1,gamma2 = params
     return IM_pre_sel_inbreeding((1,0,s,nu1,nu2,T,m12,m21,F1,F2,gamma1,gamma2), ns, pts)
-def IM_sel_single_gamma_inbreeding(params, ns, pts):
-    s,nu1,nu2,T,m12,m21,F1,F2,gamma1 = params
-    return IM_pre_sel_inbreeding((1,0,s,nu1,nu2,T,m12,m21,F1,F2,gamma1,gamma1), ns, pts)
+def IM_pre_sel_single_gamma_inbreeding(params, ns, pts):
+    nuPre,TPre, s,nu1,nu2,T,m12,m21,F1,F2,gamma1 = params
+    return IM_pre_sel_inbreeding((nuPre,TPre,s,nu1,nu2,T,m12,m21,F1,F2,gamma1,gamma1), ns, pts)
 
 def main():
     data_fs = dadi.Spectrum.from_file('IRA_FRA_syn_unfolded.fs')
@@ -56,16 +56,16 @@ def main():
 
     # using the IM_pre parameters with inbreeding
 
-    demo_sel_model = IM_sel_inbreeding
+    demo_sel_model = IM_pre_sel_inbreeding
 
-    demo_params = [0.24110968150547016, 0.23993801915676297, 9.178933046593446, 0.27705478927639227, 2.4345668169559804, 0.4015115815684051, 0.24371072042146869, 0.22562049719914162]
+    demo_params = [1.5095831080352775, 0.08985348371282093, 0.1222875371366944, 0.27800152611186973, 5.70244258323025, 0.20941211990439282, 2.145729618547865, 0.23632469735492292, 0.25609649724662226, 0.19352050550077496]
 
     spectra = DFE.Cache2D(demo_params, ns, demo_sel_model, pts = pts_l, gamma_bounds = (1e-5, 2000), gamma_pts = 50, additional_gammas = [1.2, 4.3])
 
     fid = open('mmd_FRA_mmd_IRA_2d_cache.bpkl','wb')
     pickle.dump(spectra, fid, protocol = 2)
     
-    demo_sel_1d = IM_sel_single_gamma_inbreeding
+    demo_sel_1d = IM_pre_sel_single_gamma_inbreeding
     spectra1d = DFE.Cache1D(demo_params, ns, demo_sel_1d, pts = pts_l, gamma_bounds = (1e-5, 2000), gamma_pts = 50, additional_gammas = [1.2, 4.3])
     fid = open('mmd_FRA_mmd_IRA_1d_cache.bpkl','wb')
     pickle.dump(spectra1d, fid, protocol = 2)
