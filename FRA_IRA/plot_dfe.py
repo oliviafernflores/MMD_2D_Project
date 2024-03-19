@@ -62,34 +62,54 @@ def main():
     dfe_func1d = dadi.Numerics.make_anc_state_misid_func(dfe_func1d)
     sele_dist1d = DFE.PDFs.lognormal
     
-    data_fs = dadi.Spectrum.from_file('IRA_FRA_syn_unfolded.fs')
+    data_fs = dadi.Spectrum.from_file('IRA_FRA_nsyn_unfolded.fs')
     #synonymous theta from IM_pre_inbreeding demography fit
     theta0 = 26966.22426449829
     theta_ns = theta0 * 2.4
     
-    popt_1d, ll_1d  = get_params('mmd_FRA_mmd_IRA_1D_lognormal_DFE.txt')
-    plot_lognormal_dfe(popt_1d, dfe_func1d, sele_dist1d, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_1D_lognormal_DFE')
-    print('\n')
-    print('1d lognormal best fit params: ' + str(popt_1d) + ' with log likelihood: ' + str(ll_1d))
-    print('\n')
-
-    popt_2d, ll_2d = get_params('mmd_FRA_mmd_IRA_2D_biv_lognormal_DFE.txt')
-    plot_biv_lognormal_dfe(popt_2d, dfe_func2d, sele_dist2d, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_2D_biv_lognormal_DFE')
-    print('\n')
-    print('2d bivariate lognormal best fit params: ' + str(popt_2d)+ ' with log likelihood: ' + str(ll_2d))
-    print('\n')
-
-    popt_mixture, ll_mix = get_params('mmd_FRA_mmd_IRA_mixture_DFE.txt')
-    plot_mixture_simple_dfe(popt_mixture, cache1d, cache2d, sele_dist1d, sele_dist2d, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_simple_mixture_DFE')
-    print('\n')
-    print('mixture with shared selection best fit params: ' + str(popt_mixture) + ' with log likelihood: ' + str(ll_mix))
-    print('\n')
+    # popt_1d, ll_1d  = get_params('mmd_FRA_mmd_IRA_1D_lognormal_DFE.txt')
+    # plot_lognormal_dfe(popt_1d, dfe_func1d, sele_dist1d, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_1D_lognormal_DFE')
+    # print('\n')
+    # print('1d lognormal best fit params: ' + str(popt_1d) + ' with log likelihood: ' + str(ll_1d))
+    # print('\n')
     
-    popt_gamma, ll_gamma = get_params('mmd_FRA_mmd_IRA_gamma_DFE.txt')
-    gamma_dist = DFE.PDFs.gamma
-    plot_gamma_dfe(popt_gamma, dfe_func1d, gamma_dist, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_gamma_DFE')
-    print('\n')
-    print('gamma with shared selection best fit params: ' + str(popt_gamma) + ' with log likelihood: ' + str(ll_gamma))
-    print('\n')
+    # popt_1d_cli, ll_1d_cli  = [5.027028466928257, 5.2585263936492375, 0.06812594409100935], -984.87553038203
+    # plot_lognormal_dfe(popt_1d_cli, dfe_func1d, sele_dist1d, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_1D_lognormal_DFE_dadi_cli')
+    # print('\n')
+    # print('1d bivariate lognormal best fit params: ' + str(popt_1d_cli) + ' with log likelihood: ' + str(ll_1d_cli))
+    # print('\n')
+    
+
+    # popt_2d_cli, ll_2d_cli  = [5.2502093036595054, 5.538992427185241, 0.9654645219101927, 0.06836904030127118], -972.0361751267313
+    # plot_lognormal_dfe(popt_2d_cli, dfe_func2d, sele_dist2d, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_2D_biv_lognormal_sym_DFE_dadi_cli')
+    # print('\n')
+    # print('2d bivariate symmetric lognormal best fit params: ' + str(popt_2d_cli) + ' with log likelihood: ' + str(ll_2d_cli))
+    # print('\n')
+    
+    # popt_2d_cli_asym, ll_2d_cli_asym  = [4.70915535794278, 6.234717665387251, 4.875076242644642, 6.957650566833429, 0.9735646160233167, 0.06896635856263446], -954.3624306293054
+    # plot_lognormal_dfe(popt_2d_cli_asym, dfe_func2d, sele_dist2d, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_2D_biv_lognormal_asym_DFE_dadi_cli')
+    # print('\n')
+    # print('2d bivariate asymmetric lognormal best fit params: ' + str(popt_2d_cli_asym) + ' with log likelihood: ' + str(ll_2d_cli_asym))
+    # print('\n')
+    
+
+    # popt_2d, ll_2d = get_params('mmd_FRA_mmd_IRA_2D_biv_lognormal_DFE.txt')
+    # plot_biv_lognormal_dfe(popt_2d, dfe_func2d, sele_dist2d, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_2D_biv_lognormal_DFE')
+    # print('\n')
+    # print('2d bivariate lognormal best fit params: ' + str(popt_2d)+ ' with log likelihood: ' + str(ll_2d))
+    # print('\n')
+
+    # popt_mixture, ll_mix = get_params('mmd_FRA_mmd_IRA_mixture_DFE.txt')
+    # plot_mixture_simple_dfe(popt_mixture, cache1d, cache2d, sele_dist1d, sele_dist2d, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_simple_mixture_DFE')
+    # print('\n')
+    # print('mixture with shared selection best fit params: ' + str(popt_mixture) + ' with log likelihood: ' + str(ll_mix))
+    # print('\n')
+    
+    # popt_gamma, ll_gamma = get_params('mmd_FRA_mmd_IRA_gamma_DFE.txt')
+    # gamma_dist = DFE.PDFs.gamma
+    # plot_gamma_dfe(popt_gamma, dfe_func1d, gamma_dist, theta_ns, data_fs, 'mmd_FRA_mmd_IRA_gamma_DFE')
+    # print('\n')
+    # print('gamma with shared selection best fit params: ' + str(popt_gamma) + ' with log likelihood: ' + str(ll_gamma))
+    # print('\n')
 if __name__ == '__main__':
     main()

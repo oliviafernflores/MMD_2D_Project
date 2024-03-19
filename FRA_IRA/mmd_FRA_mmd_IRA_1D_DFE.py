@@ -40,19 +40,19 @@ sele_dist1d = DFE.PDFs.lognormal
 #arguments for optimization
 func_args = [sele_dist1d, theta_ns]
 #starting parameters for DFE inference
-params = [0.2, 0.2, 0.1]
+params = [5, 5, 0.06]
 #bounds for DFE inference
-lower_bounds = [1e-2, 1e-2, 1e-3]
-upper_bounds = [100, 100, 0.99]
+lower_bounds = [-10, 0.01, 0]
+upper_bounds = [10, 100, 0.1]
 #checking if the file exists and opening it
 try:
     fid = open('mmd_FRA_mmd_IRA_1D_lognormal_DFE.txt','a')
 except:
     fid = open('mmd_FRA_mmd_IRA_1D_lognormal_DFE.txt','w')
 #starting a for loop that will be used to run a bunch of optimizations
-for i in range(200):
+for i in range(10):
     #perturb starting pararmeters - this will give you a different starting point each time
-    p0 = dadi.Misc.perturb_params(params, fold=1, upper_bound=upper_bounds, lower_bound=lower_bounds)
+    p0 = dadi.Misc.perturb_params(params, fold=0, upper_bound=upper_bounds, lower_bound=lower_bounds)
     #run the optimization
     popt, ll_model = dadi.Inference.opt(p0, data_fs, dfe_func, pts=None, func_args=func_args, lower_bound=lower_bounds, upper_bound=upper_bounds, maxeval=1000, multinom=False, verbose=100)
     #writing the results to the file

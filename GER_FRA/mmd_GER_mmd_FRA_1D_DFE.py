@@ -42,7 +42,7 @@ func_args = [sele_dist1d, theta_ns]
 #starting parameters for DFE inference
 params = [0.2, 0.2, 0.1]
 #bounds for DFE inference
-lower_bounds = [1e-2, 1e-2, 1e-3]
+lower_bounds = [1, 1e-2, 1e-3]
 upper_bounds = [100, 100, 0.99]
 #checking if the file exists and opening it
 try:
@@ -50,7 +50,7 @@ try:
 except:
     fid = open('mmd_GER_mmd_FRA_1D_lognormal_DFE.txt','w')
 #starting a for loop that will be used to run a bunch of optimizations
-for i in range(200):
+for i in range(500):
     #perturb starting pararmeters - this will give you a different starting point each time
     p0 = dadi.Misc.perturb_params(params, fold=1, upper_bound=upper_bounds, lower_bound=lower_bounds)
     #run the optimization
