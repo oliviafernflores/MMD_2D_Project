@@ -33,6 +33,7 @@ def IM(params, ns, pts):
 
     fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F1, F2), (2, 2))
     return fs
+IM.__param_names__ = ['s', 'nu1','nu2','T','m12', 'm21','F1', 'F2']
 def IM_pre(params, ns, pts):
     """
     params = (nuPre,TPre,s,nu1,nu2,T,m12,m21)
@@ -69,6 +70,7 @@ def IM_pre(params, ns, pts):
 
     fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F1, F2), (2, 2))
     return fs
+IM_pre.__param_names__ = ['nuPre', 'TPre', 's', 'nu1','nu2','T','m12', 'm21','F1', 'F2']
 def split_asym_mig(params, ns, pts):
     """
     params = (nu1,nu2,T,m12,m21)
@@ -95,6 +97,7 @@ def split_asym_mig(params, ns, pts):
 
     fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F1, F2), (2, 2))
     return fs
+split_asym_mig.__param_names__ = ['nu1','nu2','T','m12', 'm21' ,'F1', 'F2']
 def split_delay_mig(params, ns, pts):
     """
     params = (nu1,nu2,Tpre,Tmig,m12,m21)
@@ -136,6 +139,7 @@ def split_mig(params, ns, pts):
     n1,n2: Sample sizes of resulting Spectrum
     pts: Number of grid points to use in integration.
     """
+    
     nu1,nu2,T,m, F1, F2 = params
 
     xx = Numerics.default_grid(pts)
@@ -147,3 +151,4 @@ def split_mig(params, ns, pts):
 
     fs = Spectrum.from_phi_inbreeding(phi, ns, (xx,xx), (F1, F2), (2, 2))
     return fs
+split_mig.__param_names__ = ['nu1','nu2','T','m', 'F1', 'F2']
