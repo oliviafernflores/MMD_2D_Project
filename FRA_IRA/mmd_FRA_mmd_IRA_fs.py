@@ -14,7 +14,7 @@ import nlopt
 import matplotlib.pyplot as plt
 
 def fs_and_boostraps(kind):
-    dd = pickle.load(open('/groups/rgutenk/mice/mouse_all_pops.dd_' + kind + '.bpkl', 'rb'))
+    dd = pickle.load(open('/groups/rgutenk/oliviafernflores/mouse_all_pops.dd_' + kind + '.bpkl', 'rb'))
     pop_ids = ['Mmd_FRA', 'Mmd_IRA']
     ns = [16, 10]
     fs = dadi.Spectrum.from_data_dict(dd, pop_ids, ns)

@@ -67,7 +67,7 @@ def im_demography(fs, ns, pts):
     except:
         fid = open(f'demo_results/IRA_FRA_im_inbreeding_demo_fits{process_ii}.txt', 'w')
     for i in range(20):
-        p0 = dadi.Misc.perturb_params(params, fold = 0, upper_bound = upper, lower_bound = lower)
+        p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning im_inbreeding optimization ' + str(i) + '*'*20)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
