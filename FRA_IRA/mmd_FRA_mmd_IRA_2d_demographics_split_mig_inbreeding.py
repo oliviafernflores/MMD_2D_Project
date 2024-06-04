@@ -1,13 +1,13 @@
 #!/usr/bin/env python
+
+#SBATCH --job-name=split_mig_inbreeding
+#SBATCH --output=hpc_outfiles/%x-%j.out
+#SBATCH --error=hpc_outfiles/%x-%j.err
 #SBATCH --account=rgutenk
+#SBATCH --partition=standard
 #SBATCH --qos=user_qos_rgutenk
-#SBATCH --partition=high_priority
-#SBATCH --job-name="IRA_FRA_split_mig_inbreeding"
-#SBATCH --output=%x-%A_%a.out
-#SBATCH --nodes=10
-#SBATCH --ntasks=50
-#SBATCH --time=24:00:00
-#SBATCH --array=1-5
+#SBATCH --nodes=5
+#SBATCH --time=12:00:00
 from contextlib import AsyncExitStack
 import dadi
 import pickle

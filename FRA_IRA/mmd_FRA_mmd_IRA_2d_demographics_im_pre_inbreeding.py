@@ -1,13 +1,15 @@
 #!/usr/bin/env python
+
+#SBATCH --job-name=im_pre_inbreeding
+#SBATCH --output=hpc_outfiles/%x-%j.out
+#SBATCH --error=hpc_outfiles/%x-%j.err
 #SBATCH --account=rgutenk
+#SBATCH --partition=standard
 #SBATCH --qos=user_qos_rgutenk
-#SBATCH --partition=high_priority
-#SBATCH --job-name="IRA_FRA_IM_pre_inbreeding"
-#SBATCH --output=%x-%A_%a.out
-#SBATCH --nodes=10
-#SBATCH --ntasks=50
-#SBATCH --time=24:00:00
-#SBATCH --array=1-5
+#SBATCH --nodes=1
+#SBATCH --ntasks=2
+#SBATCH --mem-per-cpu=6gb
+#SBATCH --time=12:00:00
 from contextlib import AsyncExitStack
 import dadi
 import pickle
@@ -65,7 +67,7 @@ def im_pre_demography(fs, ns, pts):
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 0.1, 0.1, 1, 1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
-    lower = [1e-2, 1e-2, 1e-5, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0, 0, 0]
+    lower = [1e-2, 1e-2, 1e-5, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-3, 1e-3, 0]
     upper = [3, 1, 1, 3, 10, 1, 3, 1, 1, 1, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_im_pre_inbreeding_demo_fits{process_ii}.txt', 'a')
