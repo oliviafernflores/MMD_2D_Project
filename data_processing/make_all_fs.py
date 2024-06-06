@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 '''
 Synonymous
 '''
-dd_syn = pickle.load(open('new_mouse_all_pops.dd_syn.bpkl', 'rb'))
+dd_syn = pickle.load(open('mouse_all_pops_no_relatives_yes_outgroup.dd_syn.bpkl', 'rb'))
 # France vs. Iran
 pop_ids = ['Mmd_FRA', 'Mmd_IRA']
 ns = [16, 10]
@@ -28,7 +28,7 @@ fs.to_file('GER_HEL_syn_unfolded.fs')
 '''
 Non Synonymous
 '''
-dd_nsyn = pickle.load(open('new_mouse_all_pops.dd_nsyn.bpkl', 'rb'))
+dd_nsyn = pickle.load(open('mouse_all_pops_no_relatives_yes_outgroup.dd_nsyn.bpkl', 'rb'))
 # France vs. Iran
 pop_ids = ['Mmd_FRA', 'Mmd_IRA']
 ns = [16, 10]
