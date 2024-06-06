@@ -33,7 +33,7 @@ def im_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [0.1, 1, 1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
-    upper = [1, 3, 3, 1, 1, 1, 1]
+    upper = [1, 10, 10, 1, 10, 10, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_im_demo_fits{process_ii}.txt', 'a')
     except:
@@ -54,7 +54,7 @@ def im_pre_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 0.1, 0.1, 1, 1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-3, 1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
-    upper = [3, 1, 1, 3, 3, 1, 1, 1, 1]
+    upper = [3, 1, 1, 10, 10, 1, 10, 10, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_im_pre_demo_fits{process_ii}.txt', 'a')
     except:
@@ -138,7 +138,7 @@ def split_asym_mig_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
-    upper = [3, 3, 1, 1, 1, 1]
+    upper = [10, 10, 1, 10, 10, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_split_asym_mig_demo_fits{process_ii}.txt', 'a')
     except:
@@ -159,7 +159,7 @@ def split_delay_mig_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 1, 0.1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-3, 0]
-    upper = [3, 3, 1, 1, 1, 1, 1]
+    upper = [10, 10, 1, 1, 10, 10, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_split_delay_mig_demo_fits{process_ii}.txt', 'a')
     except:
@@ -200,14 +200,14 @@ def main():
     ns = data_fs.sample_sizes
     pts_l = [max(ns)+20, max(ns)+30, max(ns)+40]
 
-    snm_demography(data_fs, ns, 100)
+    # snm_demography(data_fs, ns, 100)
     im_demography(data_fs, ns, pts_l)
     im_pre_demography(data_fs, ns, pts_l)
-    bottlegrowth_demography(data_fs, ns, pts_l)
-    bottlegrowth_split_demography(data_fs, ns, pts_l)
-    bottlegrowth_split_mig_demography(data_fs, ns, pts_l)
+    # bottlegrowth_demography(data_fs, ns, pts_l)
+    # bottlegrowth_split_demography(data_fs, ns, pts_l)
+    # bottlegrowth_split_mig_demography(data_fs, ns, pts_l)
     split_asym_mig_demography(data_fs, ns, pts_l)
     split_delay_mig_demography(data_fs, ns, pts_l)
-    split_mig_demography(data_fs, ns, pts_l)
+    # split_mig_demography(data_fs, ns, pts_l)
 if __name__ == '__main__':
     main()
