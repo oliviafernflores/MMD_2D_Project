@@ -16,19 +16,30 @@ sigma1 <- exp(log_sigma1)
 mu2 <- exp(log_mu2)
 sigma2 <- exp(log_sigma2)
 
-#make grid
-n <- 50
-x <- seq(0, 3, length.out = n)
-y <- seq(0, 3, length.out = n)
-z <- matrix(0, n, n)
+#set sample sizes for Iran (x) and France (y)
+n_x <- 10
+n_y <- 16
 
-#calculate values
-for (i in 1:n){
-  for (j in 1:n){
+#generate x and y samples
+set.seed(123)  # for reproducibility
+x_samples <- rlnorm(n_x, log(mu1), log(sigma1))
+y_samples <- rlnorm(n_y, log(mu2), log(sigma2))
+
+#calculate grid points
+x <- seq(min(x_samples), max(x_samples), length.out = 50)
+y <- seq(min(y_samples), max(y_samples), length.out = 50)
+z <- matrix(0, length(x), length(y))
+
+#calculate densities for each point in the grid
+for (i in 1:length(x)) {
+  for (j in 1:length(y)) {
     z[i, j] <- dmvnorm(c(x[i], y[j]), mean = c(mu1, mu2), sigma = matrix(c(sigma1^2, rho * sigma1 * sigma2, rho * sigma1 * sigma2, sigma2^2), nrow = 2))
   }
 }
 
-#plot the distribution
-persp(x, y, z, theta = 30, phi = 30, expand = 0.5, col = "lightblue", xlab = "Mmd_IRA", ylab = "Mmd_FRA", zlab = "Density", main = "Asymmetric Bivariate Lognormal Distribution")
-contour(x, y, z, add = TRUE, color = 'black')
+#load plotly package (if not already loaded)
+library(plotly)
+
+#create 3D scatter plot with plotly
+plot_ly(x = x, y = y, z = z, type = "scatter3d", mode = "markers", marker = list(size = 5)) %>% layout(scene = list(xaxis = list(title = "X"), yaxis = list(title = "Y"), zaxis = list(title = "Density"), camera = list(eye = list(x = 1.8, y = 1.8, z = 0.8))))
+
