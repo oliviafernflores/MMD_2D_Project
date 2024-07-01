@@ -1,6 +1,7 @@
 # Load required libraries
 library(MASS)   # for generating multivariate normal distribution
 library(ggplot2) # for plotting
+library(scales)
 
 # Function to generate bivariate lognormal data
 generate_bivariate_lognormal <- function(n, logmu1, logmu2, logsd1, logsd2, rho) {
@@ -33,7 +34,39 @@ rho <- 0.9735646160233167
 # Generate data
 df <- generate_bivariate_lognormal(n, logmu1, logmu2, logsd1, logsd2, rho)
 
+#ggplot(df, aes(x = X1, y = X2)) + geom_bin2d(bins = 20) +  scale_fill_gradientn(colours = c("lightgrey", "blue")) +  labs(x = "X1", y = "X2", title = "IRA_FRA_plots.R") + theme_minimal() + scale_x_continuous(trans = "log10", limits = c(-1e-9, 1e14), breaks = c(1e0, 1e14)) + scale_y_continuous(trans = "log10", limits = c(-1e-9, 1e14), breaks = c(1e0, 1e14))
 
+# Define custom transformation functions
+inv_log_trans <- function(base = 10) {
+  trans <- function(x) -log10(abs(x))
+  inv <- function(x) -10^(x)
+  trans_new(paste0("inv_log-", format(base)), trans, inv)
+}
 
-ggplot(df, aes(x = X1, y = X2)) + geom_bin2d(bins = 20) +  scale_fill_gradientn(colours = c("lightgrey", "blue")) +  labs(x = "X1", y = "X2", title = "IRA_FRA_plots.R") + theme_minimal() + scale_x_continuous(trans = "log10", limits = c(1e-9, 1e14), breaks = c(1e0, 1e14)) + scale_y_continuous(trans = "log10", limits = c(1e-9, 1e14), breaks = c( 1e0, 1e14))
+ggplot(df, aes(x = X1, y = X2)) +
+  geom_bin2d(bins = 20) +
+  scale_fill_gradientn(colours = c("lightgrey", "blue")) +
+  labs(x = "X1", y = "X2", title = "IRA_FRA_plots.R") +
+  scale_x_continuous(trans = inv_log_trans(), limits = c(-1e15, 1e-15), breaks = trans_breaks("log10", function(x) -10^x), labels = trans_format("log10", math_format(10^.x))) +
+  scale_y_continuous(trans = inv_log_trans(), limits = c(-1e15, 1e-15), breaks = trans_breaks("log10", function(x) -10^x), labels = trans_format("log10", math_format(10^.x))) + theme(panel.grid.major = element_line(color = "black", linetype = "dotted"), panel.grid.minor = element_line(color = "black", linetype = "dotted"), panel.background = element_rect(fill = "white"), plot.background = element_rect(fill = "white"))
 
+#test
+ggplot(df, aes(x = X1, y = X2)) +
+  geom_bin2d(bins = 20) +
+  scale_fill_gradientn(colours = c("lightgrey", "blue")) +
+  labs(x = "X1", y = "X2", title = "IRA_FRA_plots.R") +
+  scale_x_log10(limits = c(1e-16, 1e-10), breaks = scales::trans_breaks("log10", function(x) 10^x), labels = scales::trans_format("log10", scales::math_format(10^.x))) +
+  scale_y_log10(limits = c(1e-16, 1e-10), breaks = scales::trans_breaks("log10", function(x) 10^x), labels = scales::trans_format("log10", scales::math_format(10^.x))) +
+  theme(
+    panel.grid.major = element_line(color = "black", linetype = "dotted"),
+    panel.grid.minor = element_line(color = "black", linetype = "dotted"),
+    panel.background = element_rect(fill = "white"),
+    plot.background = element_rect(fill = "white")
+  )
+
+ggplot(df, aes(x = X1, y = X2)) +
+  geom_bin2d(bins = 20) +
+  scale_fill_gradientn(colours = c("lightgrey", "blue")) +
+  labs(x = "X1", y = "X2", title = "IRA_FRA_plots.R") +
+  scale_x_continuous(trans = inv_log_trans(), limits = c(-1e15, 1e-15), breaks = scales::trans_breaks("log10", function(x) -10^x), labels = scales::trans_format("log10", math_format(10^.x))) +
+  scale_y_continuous(trans = inv_log_trans(), limits = c(-1e15, 1e-15), breaks = scales::trans_breaks("log10", function(x) -10^x), labels = scales::trans_format("log10", math_format(10^.x))) + theme(panel.grid.major = element_line(color = "black", linetype = "dotted"), panel.grid.minor = element_line(color = "black", linetype = "dotted"), panel.background = element_rect(fill = "white"), plot.background = element_rect(fill = "white"))
