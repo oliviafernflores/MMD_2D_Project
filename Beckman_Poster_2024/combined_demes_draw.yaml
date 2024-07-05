@@ -22,7 +22,7 @@ demes:
     epochs:
       - start_size: 17983
         end_size: 18839
-        end_time: 36316
+        end_time: 26316
   - name: france_modern
     ancestors: [France]
     epochs:
