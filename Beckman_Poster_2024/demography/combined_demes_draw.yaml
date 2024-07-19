@@ -23,25 +23,20 @@ demes:
       - start_size: 17983
         end_size: 18839
         end_time: 26316
-  - name: france_modern
-    ancestors: [France]
-    epochs:
       - start_size: 56681
         end_size: 33401
   - name: Germany
     ancestors: [France]
+    start_time: 26316
     epochs:
       - start_size: 44535
         end_size: 18219
         end_time: 2720
-      
-  - name: germany_modern
-    ancestors: [Germany]
-    epochs:
       - start_size: 65965
         end_size: 38083
   - name: Heligoland
     ancestors: [Germany]
+    start_time: 2720
     epochs:
       - start_size: 2040
         end_size: 68686
@@ -52,27 +47,15 @@ migrations:
   - source: Iran
     dest: France
     rate: 1.66e-5
-  - source: france_modern
-    dest: Iran
-    rate: 2.28e-6
-  - source: Iran
-    dest: france_modern
-    rate: 1.66e-5
-  - source: france_modern
+  - source: France
     dest: Germany
     rate: 2.24e-5
   - source: Germany
-    dest: france_modern
+    dest: France
     rate: 1.06e-5
-  - source: france_modern
-    dest: germany_modern
-    rate: 2.24e-5
-  - source: germany_modern
-    dest: france_modern
-    rate: 1.06e-5
-  - source: germany_modern
+  - source: Germany
     dest: Heligoland
     rate: 7.35e-7
   - source: Heligoland
-    dest: germany_modern
+    dest: Germany
     rate: 7.35e-7
