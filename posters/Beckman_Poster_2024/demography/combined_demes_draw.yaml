@@ -1,0 +1,61 @@
+description: Iran vs. France Isolation Migration Pre + Inbreeding
+time_units: generations
+defaults:
+  epoch:
+    start_size: 85633
+demes:
+  - name: Ancestral
+    epochs:
+      - end_time: 53093
+  - name: Pre
+    ancestors: [Ancestral]
+    epochs:
+      - start_size: 93341
+        end_time: 51380
+  - name: Iran
+    ancestors: [Pre]
+    epochs:
+      - start_size: 67651
+        end_size: 856330
+  - name: France
+    ancestors: [Pre]
+    epochs:
+      - start_size: 17983
+        end_size: 18839
+        end_time: 26316
+      - start_size: 56681
+        end_size: 33401
+  - name: Germany
+    ancestors: [France]
+    start_time: 26316
+    epochs:
+      - start_size: 44535
+        end_size: 18219
+        end_time: 2720
+      - start_size: 65965
+        end_size: 38083
+  - name: Heligoland
+    ancestors: [Germany]
+    start_time: 2720
+    epochs:
+      - start_size: 2040
+        end_size: 68686
+migrations:
+  - source: France
+    dest: Iran
+    rate: 2.28e-6
+  - source: Iran
+    dest: France
+    rate: 1.66e-5
+  - source: France
+    dest: Germany
+    rate: 2.24e-5
+  - source: Germany
+    dest: France
+    rate: 1.06e-5
+  - source: Germany
+    dest: Heligoland
+    rate: 7.35e-7
+  - source: Heligoland
+    dest: Germany
+    rate: 7.35e-7

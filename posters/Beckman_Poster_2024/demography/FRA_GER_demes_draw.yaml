@@ -1,0 +1,31 @@
+description: France vs. Germany Isolation Migration Pre + Inbreeding
+time_units: generations
+defaults:
+  epoch:
+    start_size: 101216
+demes:
+  - name: Ancestral
+    epochs:
+      - end_time: 113362
+  - name: Pre
+    ancestors: [Ancestral]
+    epochs:
+      - start_size: 54657
+        end_time: 26316
+  - name: France
+    ancestors: [Pre]
+    epochs:
+      - start_size: 56681
+        end_size: 33401
+  - name: Germany
+    ancestors: [Pre]
+    epochs:
+      - start_size: 44535
+        end_size: 18219
+migrations:
+  - source: France
+    dest: Germany
+    rate: 2.24e-5
+  - source: Germany
+    dest: France
+    rate: 1.06e-5
