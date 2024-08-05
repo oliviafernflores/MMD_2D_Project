@@ -75,7 +75,7 @@ def im_pre_demography(fs, ns, pts):
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning im_pre_inbreeding optimization ' + str(i) + '*'*20)
-        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
+        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]

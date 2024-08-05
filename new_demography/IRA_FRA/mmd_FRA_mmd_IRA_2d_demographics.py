@@ -43,7 +43,7 @@ def im_demography(fs, ns, pts):
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning im optimization ' + str(i) + '*'*20)
-        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
+        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
@@ -64,7 +64,7 @@ def im_pre_demography(fs, ns, pts):
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning im_pre optimization ' + str(i) + '*'*20)
-        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
+        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
@@ -85,7 +85,7 @@ def bottlegrowth_demography(fs,  ns, pts):
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning bottlegrowth optimization ' + str(i) + '*'*20)
-        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
+        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
@@ -106,7 +106,7 @@ def bottlegrowth_split_demography(fs, ns, pts):
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning bottlegrowth_split optimization ' + str(i) + '*'*20)
-        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
+        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
@@ -127,7 +127,7 @@ def bottlegrowth_split_mig_demography(fs, ns, pts):
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning bottlegrowth_split_mig optimization ' + str(i) + '*'*20)
-        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
+        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
@@ -148,7 +148,7 @@ def split_asym_mig_demography(fs, ns, pts):
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning split_asym_mig optimization ' + str(i) + '*'*20)
-        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
+        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
@@ -169,7 +169,7 @@ def split_delay_mig_demography(fs, ns, pts):
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning split_delay_mig optimization ' + str(i) + '*'*20)
-        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
+        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
@@ -190,7 +190,7 @@ def split_mig_demography(fs, ns, pts):
     for i in range(20):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning split_mig optimization ' + str(i) + '*'*20)
-        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower)
+        popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
         model_fs = demo_model_ex(popt, ns, pts)
         theta0 = dadi.Inference.optimal_sfs_scaling(model_fs, fs)
         res = [ll_model] + list(popt) + [theta0]
