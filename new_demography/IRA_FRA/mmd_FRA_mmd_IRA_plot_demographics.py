@@ -114,7 +114,7 @@ def plot_split_mig_demography(fs, ns, pts, popt):
     dadi.Plotting.plot_2d_comp_multinom(model, fs)
     fig.savefig('plots/IRA_FRA_split_mig_demography.png')
 def main():
-    fs = dadi.Spectrum.from_file('IRA_FRA_syn_unfolded.fs')
+    fs = dadi.Spectrum.from_file('/Users/olivia/Documents/2D_demographics_DFE/MMD_2D_Project/SFS/IRA_FRA_syn_unfolded.fs')
     ns = fs.sample_sizes
     pts_l = [max(ns)+20, max(ns)+30, max(ns)+40]
 
