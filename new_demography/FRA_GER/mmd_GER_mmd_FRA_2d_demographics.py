@@ -55,7 +55,7 @@ def im_pre_demography(fs, ns, pts):
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 0.1, 0.1, 1, 1, 0.1, 0.1, 0.1, 0.1]
-    lower = [1e-2, 1e-6, 1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
+    lower = [1e-2, 0, 1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
     upper = [10, 1, 1, 10, 100, 1, 10, 10, 1]
     try:
         fid = open(f'demo_results/FRA_GER_im_pre_demo_fits{process_ii}.txt', 'a')

@@ -161,8 +161,8 @@ def main():
     # plot_im_pre_demography(fs, ns, pts_l, im_pre_popt)
 
     #bottlegrowth_demography
-    # bottlegrowth_popt = get_popt('demo_results/IRA_FRA_bottlegrowth_demo_fits_combined.txt')
-    # plot_bottlegrowth_demography(fs, ns, pts_l, bottlegrowth_popt)
+    bottlegrowth_popt = get_popt('demo_results/IRA_FRA_bottlegrowth_demo_fits_combined.txt')
+    plot_bottlegrowth_demography(fs, ns, pts_l, bottlegrowth_popt)
 
     #bottlegrowth_split_demography
     # bottlegrowth_split_popt = get_popt('demo_results/IRA_FRA_bottlegrowth_split_demo_fits_combined.txt')
@@ -181,7 +181,7 @@ def main():
     # plot_split_delay_mig_demography(fs, ns, pts_l, split_delay_mig_popt)
 
     #split_mig_demography
-    split_mig_popt = get_popt('demo_results/IRA_FRA_split_mig_demo_fits_combined.txt')
-    plot_split_mig_demography(fs, ns, pts_l, split_mig_popt)
+    # split_mig_popt = get_popt('demo_results/IRA_FRA_split_mig_demo_fits_combined.txt')
+    # plot_split_mig_demography(fs, ns, pts_l, split_mig_popt)
 if __name__ == '__main__':
     main()
