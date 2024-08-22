@@ -63,10 +63,10 @@ def plot_bottlegrowth_demography(fs, ns, pts, popt):
     fig.clear()
     dadi.Plotting.plot_2d_comp_multinom(model, fs)
     fig.savefig('plots/IRA_FRA_bottlegrowth_demography.png')
-    out = dadi.Demes.output()
-    demes.dump(out, 'demo_results/IRA_FRA_bottlegrowth_demo_fits_demes.yaml')
-    ax = demesdraw.tubes(out)
-    ax.figure.savefig('plots/IRA_FRA_bottlegrowth_demography_demesdraw.png')
+    # out = dadi.Demes.output()
+    # demes.dump(out, 'demo_results/IRA_FRA_bottlegrowth_demo_fits_demes.yaml')
+    # ax = demesdraw.tubes(out)
+    # ax.figure.savefig('plots/IRA_FRA_bottlegrowth_demography_demesdraw.png')
 def plot_bottlegrowth_split_demography(fs, ns, pts, popt):
     print('Best Fit Parameters (bottlegrowth_split): ' + str(popt))
     popt.pop(0)
@@ -152,36 +152,36 @@ def main():
     ns = fs.sample_sizes
     pts_l = [max(ns)+20, max(ns)+30, max(ns)+40]
 
-    # #im_demography
-    # im_popt = get_popt('demo_results/IRA_FRA_im_demo_fits_combined.txt')
-    # plot_im_demography(fs, ns, pts_l, im_popt)
+    #im_demography
+    im_popt = get_popt('demo_results/IRA_FRA_im_demo_fits_combined.txt')
+    plot_im_demography(fs, ns, pts_l, im_popt)
 
-    # #im_pre_demography
-    # im_pre_popt = get_popt('demo_results/IRA_FRA_im_pre_demo_fits_combined.txt')
-    # plot_im_pre_demography(fs, ns, pts_l, im_pre_popt)
+    #im_pre_demography
+    im_pre_popt = get_popt('demo_results/IRA_FRA_im_pre_demo_fits_combined.txt')
+    plot_im_pre_demography(fs, ns, pts_l, im_pre_popt)
 
     #bottlegrowth_demography
     bottlegrowth_popt = get_popt('demo_results/IRA_FRA_bottlegrowth_demo_fits_combined.txt')
     plot_bottlegrowth_demography(fs, ns, pts_l, bottlegrowth_popt)
 
     #bottlegrowth_split_demography
-    # bottlegrowth_split_popt = get_popt('demo_results/IRA_FRA_bottlegrowth_split_demo_fits_combined.txt')
-    # plot_bottlegrowth_split_demography(fs, ns, pts_l, bottlegrowth_split_popt)
+    bottlegrowth_split_popt = get_popt('demo_results/IRA_FRA_bottlegrowth_split_demo_fits_combined.txt')
+    plot_bottlegrowth_split_demography(fs, ns, pts_l, bottlegrowth_split_popt)
 
     #bottlegrowth_split_mig_demography
-    # bottlegrowth_split_mig_popt = get_popt('demo_results/IRA_FRA_bottlegrowth_split_mig_demo_fits_combined.txt')
-    # plot_bottlegrowth_split_mig_demography(fs, ns, pts_l, bottlegrowth_split_mig_popt)
+    bottlegrowth_split_mig_popt = get_popt('demo_results/IRA_FRA_bottlegrowth_split_mig_demo_fits_combined.txt')
+    plot_bottlegrowth_split_mig_demography(fs, ns, pts_l, bottlegrowth_split_mig_popt)
 
-    # #split_asym_mig_demography
-    # split_asym_mig_popt = get_popt('demo_results/IRA_FRA_split_asym_mig_demo_fits_combined.txt')
-    # plot_split_asym_mig_demography(fs, ns, pts_l, split_asym_mig_popt)
+    #split_asym_mig_demography
+    split_asym_mig_popt = get_popt('demo_results/IRA_FRA_split_asym_mig_demo_fits_combined.txt')
+    plot_split_asym_mig_demography(fs, ns, pts_l, split_asym_mig_popt)
 
     #split_delay_mig_demography
-    # split_delay_mig_popt = get_popt('demo_results/IRA_FRA_split_delay_mig_demo_fits_combined.txt')
-    # plot_split_delay_mig_demography(fs, ns, pts_l, split_delay_mig_popt)
+    split_delay_mig_popt = get_popt('demo_results/IRA_FRA_split_delay_mig_demo_fits_combined.txt')
+    plot_split_delay_mig_demography(fs, ns, pts_l, split_delay_mig_popt)
 
     #split_mig_demography
-    # split_mig_popt = get_popt('demo_results/IRA_FRA_split_mig_demo_fits_combined.txt')
-    # plot_split_mig_demography(fs, ns, pts_l, split_mig_popt)
+    split_mig_popt = get_popt('demo_results/IRA_FRA_split_mig_demo_fits_combined.txt')
+    plot_split_mig_demography(fs, ns, pts_l, split_mig_popt)
 if __name__ == '__main__':
     main()

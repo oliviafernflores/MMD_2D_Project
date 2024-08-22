@@ -1,0 +1,7 @@
+Number of syn sites: 158899
+Number of nsyn sites: 126448
+Number of total sites: 285347
+Number of syn sites divided by number of total sites: 0.5568623465464855
+Mutation rate: 5.4e-09
+L: number of total sites * nsyn/syn ratio: 227072.2751936765
+Mu: mutation rate times fraction of syn sites (number of syn sites divided by number of total sites): 3.0070566713510217e-09

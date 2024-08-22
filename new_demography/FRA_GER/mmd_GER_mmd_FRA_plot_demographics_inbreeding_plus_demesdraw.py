@@ -1,0 +1,127 @@
+import dadi
+import matplotlib.pyplot as plt
+import numpy as np
+import csv
+import inbreeding_models as mods
+import demes
+import demesdraw
+
+def get_popt(fname):
+    popt = []
+    fits_file = open(fname, 'r')
+    fits = fits_file.readlines()
+    popt = fits[0]
+    popt = popt.split('\t')
+    for f in fits:
+        if f.split('\t')[0] < popt[0]:
+            popt = f.split('\t')
+    for i in range(len(popt)):
+        popt[i] = float(popt[i])
+    return popt
+
+def plot_im_demography(fs, ns, pts, popt):
+    print('Best Fit Parameters (im + inbreeding): ' + str(popt))
+    popt.pop(0)
+    popt.pop(-1)
+    demo_model = mods.IM
+    demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
+    demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
+    model = demo_model_ex(popt, ns, pts)
+    fig = plt.figure('FRA_GER_IM_Inbreeding_Demography')
+    fig.clear()
+    dadi.Plotting.plot_2d_comp_multinom(model, fs)
+    fig.savefig('plots/FRA_GER_im_inbreeding_demography.png')
+    out = dadi.Demes.output(deme_mapping = {'ancestral':['d1_1'], 'GERMANY': ['d1_2'], 'FRANCE': ['d2_2']})
+    demes.dump(out, 'demo_results/FRA_GER_im_inbreeding_demo_fits_demes.yaml')
+    ax = demesdraw.tubes(out)
+    ax.figure.savefig('plots/FRA_GER_im_inbreeding_demography_demesdraw.png')
+def plot_im_pre_demography(fs, ns, pts, popt):
+    print('Best Fit Parameters (im_pre + inbreeding): ' + str(popt))
+    popt.pop(0)
+    popt.pop(-1)
+    demo_model = mods.IM_pre
+    demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
+    demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
+    model = demo_model_ex(popt, ns, pts)
+    fig = plt.figure('FRA_GER_IM_pre_Inbreeding_Demography')
+    fig.clear()
+    dadi.Plotting.plot_2d_comp_multinom(model, fs)
+    fig.savefig('plots/FRA_GER_im_pre_inbreeding_demography.png')
+    out = dadi.Demes.output(deme_mapping = {'ancestral':['d1_1'], 'GERMANY': ['d1_2'], 'FRANCE': ['d2_2']})
+    demes.dump(out, 'demo_results/FRA_GER_im_pre_inbreeding_demo_fits_demes.yaml')
+    ax = demesdraw.tubes(out)
+    ax.figure.savefig('plots/FRA_GER_im_pre_inbreeding_demography_demesdraw.png')
+def plot_split_asym_mig_demography(fs, ns, pts, popt):
+    print('Best Fit Parameters (split_asym_mig + inbreeding): ' + str(popt))
+    popt.pop(0)
+    popt.pop(-1)
+    demo_model = mods.split_asym_mig
+    demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
+    demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
+    model = demo_model_ex(popt, ns, pts)
+    fig = plt.figure('FRA_GER_Split_Asymmetric_Migration_Inbreeding_Demography')
+    fig.clear()
+    dadi.Plotting.plot_2d_comp_multinom(model, fs)
+    fig.savefig('plots/FRA_GER_split_asym_mig_inbreeding_demography.png')
+    out = dadi.Demes.output(deme_mapping = {'ancestral':['d1_1'], 'GERMANY': ['d1_2'], 'FRANCE': ['d2_2']})
+    demes.dump(out, 'demo_results/FRA_GER_split_asym_mig_inbreeding_demo_fits_demes.yaml')
+    ax = demesdraw.tubes(out)
+    ax.figure.savefig('plots/FRA_GER_split_asym_mig_inbreeding_demography_demesdraw.png')
+def plot_split_delay_mig_demography(fs, ns, pts, popt):
+    print('Best Fit Parameters (split_delay_mig + inbreeding): ' + str(popt))
+    popt.pop(0)
+    popt.pop(-1)
+    demo_model = mods.split_delay_mig
+    demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
+    demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
+    model = demo_model_ex(popt, ns, pts)
+    fig = plt.figure('FRA_GER_Split_Delay_Migration_Inbreeding_Demography')
+    fig.clear()
+    dadi.Plotting.plot_2d_comp_multinom(model, fs)
+    fig.savefig('plots/FRA_GER_split_delay_mig_inbreeding_demography.png')
+    out = dadi.Demes.output(deme_mapping = {'ancestral':['d1_1'], 'GERMANY': ['d1_2'], 'FRANCE': ['d2_2']})
+    demes.dump(out, 'demo_results/FRA_GER_split_delay_mig_inbreeding_demo_fits_demes.yaml')
+    ax = demesdraw.tubes(out)
+    ax.figure.savefig('plots/FRA_GER_split_delay_mig_inbreeding_demography_demesdraw.png')
+def plot_split_mig_demography(fs, ns, pts, popt):
+    print('Best Fit Parameters (split_mig + inbreeding): ' + str(popt))
+    popt.pop(0)
+    popt.pop(-1)
+    demo_model = mods.split_mig
+    demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
+    demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
+    model = demo_model_ex(popt, ns, pts)
+    fig = plt.figure('FRA_GER_Split_Migration_Inbreeding_Demography')
+    fig.clear()
+    dadi.Plotting.plot_2d_comp_multinom(model, fs)
+    fig.savefig('plots/FRA_GER_split_mig_inbreeding_demography.png')
+    out = dadi.Demes.output(deme_mapping = {'ancestral':['d1_1'], 'GERMANY': ['d1_2'], 'FRANCE': ['d2_2']})
+    demes.dump(out, 'demo_results/FRA_GER_split_mig_inbreeding_demo_fits_demes.yaml')
+    ax = demesdraw.tubes(out)
+    ax.figure.savefig('plots/FRA_GER_split_mig_inbreeding_demography_demesdraw.png')
+def main():
+    fs = dadi.Spectrum.from_file('/Users/olivia/Documents/2D_demographics_DFE/MMD_2D_Project/SFS/FRA_GER_syn_unfolded.fs')
+    ns = fs.sample_sizes
+    pts_l = [max(ns)+20, max(ns)+30, max(ns)+40]
+
+    #im_demography
+    im_popt = get_popt('demo_results/FRA_GER_im_inbreeding_demo_fits_combined.txt')
+    plot_im_demography(fs, ns, pts_l, im_popt)
+
+    #im_pre_demography
+    im_pre_popt = get_popt('demo_results/FRA_GER_im_pre_inbreeding_demo_fits_combined.txt')
+    plot_im_pre_demography(fs, ns, pts_l, im_pre_popt)
+
+    #split_asym_mig_demography
+    split_asym_mig_popt = get_popt('demo_results/FRA_GER_split_asym_mig_inbreeding_demo_fits_combined.txt')
+    plot_split_asym_mig_demography(fs, ns, pts_l, split_asym_mig_popt)
+
+    #split_delay_mig_demography
+    split_delay_mig_popt = get_popt('demo_results/FRA_GER_split_delay_mig_inbreeding_demo_fits_combined.txt')
+    plot_split_delay_mig_demography(fs, ns, pts_l, split_delay_mig_popt)
+
+    #split_mig_demography
+    split_mig_popt = get_popt('demo_results/FRA_GER_split_mig_inbreeding_demo_fits_combined.txt')
+    plot_split_mig_demography(fs, ns, pts_l, split_mig_popt)
+if __name__ == '__main__':
+    main()

@@ -41,42 +41,6 @@ def plot_im_pre_demography(fs, ns, pts, popt):
     fig.clear()
     dadi.Plotting.plot_2d_comp_multinom(model, fs)
     fig.savefig('plots/FRA_GER_im_pre_inbreeding_demography.png')
-# def plot_bottlegrowth_demography(fs, ns, pts, popt):
-#     print('Best Fit Parameters (bottlegrowth + inbreeding): ' + str(popt))
-#     popt.pop(0)
-#     popt.pop(-1)
-#     demo_model = mods.bottlegrowth_2d
-#     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
-#     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
-#     model = demo_model_ex(popt, ns, pts)
-#     fig = plt.figure('FRA_GER_Bottlegrowth_Inbreeding_Demography')
-#     fig.clear()
-#     dadi.Plotting.plot_2d_comp_multinom(model, fs)
-#     fig.savefig('plots/FRA_GER_bottlegrowth_inbreeding_demography.png')
-# def plot_bottlegrowth_split_demography(fs, ns, pts, popt):
-#     print('Best Fit Parameters (bottlegrowth_split + inbreeding): ' + str(popt))
-#     popt.pop(0)
-#     popt.pop(-1)
-#     demo_model = mods.bottlegrowth_split
-#     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
-#     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
-#     model = demo_model_ex(popt, ns, pts)
-#     fig = plt.figure('FRA_GER_Bottlegrowth_Split_Inbreeding_Demography')
-#     fig.clear()
-#     dadi.Plotting.plot_2d_comp_multinom(model, fs)
-#     fig.savefig('plots/FRA_GER_bottlegrowth_split_inbreeding_demography.png')
-# def plot_bottlegrowth_split_mig_demography(fs, ns, pts, popt):
-#     print('Best Fit Parameters (bottlegrowth_split_mig + inbreeding): ' + str(popt))
-#     popt.pop(0)
-#     popt.pop(-1)
-#     demo_model = mods.bottlegrowth_split_mig
-#     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
-#     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
-#     model = demo_model_ex(popt, ns, pts)
-#     fig = plt.figure('FRA_GER_Bottlegrowth_Split_Migration_Inbreeding_Demography')
-#     fig.clear()
-#     dadi.Plotting.plot_2d_comp_multinom(model, fs)
-#     fig.savefig('plots/FRA_GER_bottlegrowth_split_mig_inbreeding_demography.png')
 def plot_split_asym_mig_demography(fs, ns, pts, popt):
     print('Best Fit Parameters (split_asym_mig + inbreeding): ' + str(popt))
     popt.pop(0)
@@ -125,18 +89,6 @@ def main():
     #im_pre_demography
     im_pre_popt = get_popt('demo_results/FRA_GER_im_pre_inbreeding_demo_fits_combined.txt')
     plot_im_pre_demography(fs, ns, pts_l, im_pre_popt)
-
-    #bottlegrowth_demography
-    # bottlegrowth_popt = get_popt('demo_results/FRA_GER_bottlegrowth_demo_fits_combined.txt')
-    # plot_bottlegrowth_demography(fs, ns, pts_l, bottlegrowth_popt)
-
-    #bottlegrowth_split_demography
-    # bottlegrowth_split_popt = get_popt('demo_results/FRA_GER_bottlegrowth_split_demo_fits_combined.txt')
-    # plot_bottlegrowth_split_demography(fs, ns, pts_l, bottlegrowth_split_popt)
-
-    #bottlegrowth_split_mig_demography
-    # bottlegrowth_split_mig_popt = get_popt('demo_results/FRA_GER_bottlegrowth_split_mig_demo_fits_combined.txt')
-    # plot_bottlegrowth_split_mig_demography(fs, ns, pts_l, bottlegrowth_split_mig_popt)
 
     #split_asym_mig_demography
     split_asym_mig_popt = get_popt('demo_results/FRA_GER_split_asym_mig_inbreeding_demo_fits_combined.txt')
