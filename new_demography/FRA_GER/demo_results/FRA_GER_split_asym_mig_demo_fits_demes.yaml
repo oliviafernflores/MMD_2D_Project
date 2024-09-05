@@ -1,0 +1,17 @@
+time_units: scaled
+generation_time: 1
+demes:
+- name: ancestral
+  epochs:
+  - {end_time: 0.1869008373032404, start_size: 1.0}
+- name: GERMANY
+  ancestors: [ancestral]
+  epochs:
+  - {end_time: 0, start_size: 0.41215023223669217}
+- name: FRANCE
+  ancestors: [ancestral]
+  epochs:
+  - {end_time: 0, start_size: 0.5731100538387041}
+migrations:
+- {source: FRANCE, dest: GERMANY, rate: 1.0}
+- {source: GERMANY, dest: FRANCE, rate: 0.47135068880151276}

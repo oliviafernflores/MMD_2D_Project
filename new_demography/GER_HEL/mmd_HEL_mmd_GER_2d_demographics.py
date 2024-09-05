@@ -35,7 +35,7 @@ def im_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [0.1, 1, 1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
-    upper = [1, 10, 10, 1, 10, 10, 1]
+    upper = [1, 10, 100, 10, 10, 10, 1]
     try:
         fid = open(f'demo_results/GER_HEL_im_demo_fits{process_ii}.txt', 'a')
     except:
@@ -56,7 +56,7 @@ def im_pre_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 0.1, 0.1, 1, 1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-3, 1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
-    upper = [3, 1, 1, 10, 10, 1, 10, 10, 1]
+    upper = [10, 1, 1, 10, 100, 1, 10, 10, 1]
     try:
         fid = open(f'demo_results/GER_HEL_im_pre_demo_fits{process_ii}.txt', 'a')
     except:
@@ -77,7 +77,7 @@ def bottlegrowth_demography(fs,  ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [10, 1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 0]
-    upper = [100, 3, 1, 1]
+    upper = [100, 10, 1, 1]
     try:
         fid = open(f'demo_results/GER_HEL_bottlegrowth_demo_fits{process_ii}.txt', 'a')
     except:
@@ -98,7 +98,7 @@ def bottlegrowth_split_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 1e-3, 0]
-    upper = [3, 3, 1, 1, 1]
+    upper = [100, 3, 1, 1, 1]
     try:
         fid = open(f'demo_results/GER_HEL_bottlegrowth_split_demo_fits{process_ii}.txt', 'a')
     except:
@@ -119,7 +119,7 @@ def bottlegrowth_split_mig_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
-    upper = [3, 3, 10, 1, 1, 1]
+    upper = [100, 3, 10, 1, 1, 1]
     try:
         fid = open(f'demo_results/GER_HEL_bottlegrowth_split_mig_demo_fits{process_ii}.txt', 'a')
     except:
@@ -182,7 +182,7 @@ def split_mig_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 1e-3, 0]
-    upper = [3, 3, 1, 1, 1]
+    upper = [3, 10, 1, 10, 1]
     try:
         fid = open(f'demo_results/GER_HEL_split_mig_demo_fits{process_ii}.txt', 'a')
     except:

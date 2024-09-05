@@ -1,0 +1,18 @@
+time_units: scaled
+generation_time: 1
+demes:
+- name: ancestral
+  epochs:
+  - {end_time: 0.21811482141332758, start_size: 1.0}
+  - {end_time: 0.10335251980722457, start_size: 0.053639277410608116, end_size: 0.10285620117326676}
+- name: HELIGOLAND
+  ancestors: [ancestral]
+  epochs:
+  - {end_time: 0, start_size: 0.10285620117326676, end_size: 0.1848702374500722}
+- name: GERMANY
+  ancestors: [ancestral]
+  epochs:
+  - {end_time: 0, start_size: 0.10285620117326676, end_size: 0.1848702374500722}
+migrations:
+- demes: [GERMANY, HELIGOLAND]
+  rate: 1.0

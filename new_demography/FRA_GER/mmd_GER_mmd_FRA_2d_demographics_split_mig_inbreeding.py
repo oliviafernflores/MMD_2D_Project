@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#SBATCH --job-name=split_mig_inbreeding
+#SBATCH --job-name=smi_FRA_GER
 #SBATCH --output=hpc_outfiles/%x-%j.out
 #SBATCH --error=hpc_outfiles/%x-%j.err
 #SBATCH --account=rgutenk
@@ -58,13 +58,13 @@ def split_mig_demography(fs, ns, pts):
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 1, 0.1, 0.1, 0.1, 0.1, 0.1]
-    lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-5, 1e-5, 0]
-    upper = [3, 6, 1, 3, 1, 1, 1]
+    lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-5, 1e-5, 1e-5]
+    upper = [3, 10, 1, 3, 1, 1, 1]
     try:
         fid = open(f'demo_results/FRA_GER_split_mig_inbreeding_demo_fits{process_ii}.txt', 'a')
     except:
         fid = open(f'demo_results/FRA_GER_split_mig_inbreeding_demo_fits{process_ii}.txt', 'w')
-    for i in range(20):
+    for i in range(50):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning split_mig_inbreeding optimization ' + str(i) + '*'*20)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)

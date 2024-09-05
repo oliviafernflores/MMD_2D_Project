@@ -63,7 +63,7 @@ def im_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [0.1, 1, 1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 1e-5, 1e-5, 1e-5]
-    upper = [1, 3, 10, 1, 3, 1, 1, 1, 1]
+    upper = [1, 3, 100, 10, 3, 1, 1, 1, 1]
     try:
         fid = open(f'demo_results/GER_HEL_im_inbreeding_demo_fits{process_ii}.txt', 'a')
     except:

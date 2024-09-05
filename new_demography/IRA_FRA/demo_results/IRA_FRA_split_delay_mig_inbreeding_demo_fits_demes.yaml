@@ -1,0 +1,19 @@
+time_units: scaled
+generation_time: 1
+demes:
+- name: ancestral
+  epochs:
+  - {end_time: 0.7633377513758809, start_size: 1.0}
+- name: FRANCE
+  ancestors: [ancestral]
+  epochs:
+  - {end_time: 0.7620770038190393, start_size: 0.44308458294843506}
+  - {end_time: 0, start_size: 0.44308458294843506}
+- name: IRAN
+  ancestors: [ancestral]
+  epochs:
+  - {end_time: 0.7620770038190393, start_size: 5.972400367549629}
+  - {end_time: 0, start_size: 5.972400367549629}
+migrations:
+- {source: IRAN, dest: FRANCE, start_time: 0.7620770038190393, rate: 1.0}
+- {source: FRANCE, dest: IRAN, start_time: 0.7620770038190393, rate: 0.17070337838443284}

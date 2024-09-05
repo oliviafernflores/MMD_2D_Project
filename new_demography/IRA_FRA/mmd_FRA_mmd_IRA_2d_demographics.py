@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #!/usr/bin/env python
-#SBATCH --job-name=IRA_FRA_demography
+#SBATCH --job-name=IM_IRA_FRA_demography
 #SBATCH --output=hpc_outfiles/%x-%j.out
 #SBATCH --error=hpc_outfiles/%x-%j.err
 #SBATCH --account=rgutenk
@@ -33,14 +33,14 @@ def im_demography(fs, ns, pts):
     demo_model = dadi.Demographics2D.IM
     demo_model = dadi.Numerics.make_anc_state_misid_func(demo_model)
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
-    params = [0.1, 1, 1, 0.1, 0.1, 0.1, 0.1]
+    params = [0.4, 0.36, 12, 1, 1.6, 0.2, 0.01]
     lower = [1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
-    upper = [1, 10, 10, 1, 10, 10, 1]
+    upper = [1, 10, 100, 10, 10, 10, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_im_demo_fits{process_ii}.txt', 'a')
     except:
         fid = open(f'demo_results/IRA_FRA_im_demo_fits{process_ii}.txt', 'w')
-    for i in range(20):
+    for i in range(100):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning im optimization ' + str(i) + '*'*20)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
@@ -56,7 +56,7 @@ def im_pre_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 0.1, 0.1, 1, 1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-3, 1e-3, 1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
-    upper = [3, 1, 1, 10, 10, 1, 10, 10, 1]
+    upper = [10, 1, 1, 10, 100, 1, 10, 10, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_im_pre_demo_fits{process_ii}.txt', 'a')
     except:
@@ -77,7 +77,7 @@ def bottlegrowth_demography(fs,  ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [10, 1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 0]
-    upper = [100, 3, 1, 1]
+    upper = [100, 10, 1, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_bottlegrowth_demo_fits{process_ii}.txt', 'a')
     except:
@@ -98,7 +98,7 @@ def bottlegrowth_split_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 1e-3, 0]
-    upper = [3, 3, 1, 1, 1]
+    upper = [100, 3, 1, 1, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_bottlegrowth_split_demo_fits{process_ii}.txt', 'a')
     except:
@@ -119,7 +119,7 @@ def bottlegrowth_split_mig_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 1, 0.1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 1e-3, 1e-3, 0]
-    upper = [3, 3, 10, 1, 1, 1]
+    upper = [100, 3, 10, 1, 1, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_bottlegrowth_split_mig_demo_fits{process_ii}.txt', 'a')
     except:
@@ -145,7 +145,7 @@ def split_asym_mig_demography(fs, ns, pts):
         fid = open(f'demo_results/IRA_FRA_split_asym_mig_demo_fits{process_ii}.txt', 'a')
     except:
         fid = open(f'demo_results/IRA_FRA_split_asym_mig_demo_fits{process_ii}.txt', 'w')
-    for i in range(20):
+    for i in range(50):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning split_asym_mig optimization ' + str(i) + '*'*20)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
@@ -166,7 +166,7 @@ def split_delay_mig_demography(fs, ns, pts):
         fid = open(f'demo_results/IRA_FRA_split_delay_mig_demo_fits{process_ii}.txt', 'a')
     except:
         fid = open(f'demo_results/IRA_FRA_split_delay_mig_demo_fits{process_ii}.txt', 'w')
-    for i in range(20):
+    for i in range(50):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning split_delay_mig optimization ' + str(i) + '*'*20)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
@@ -182,12 +182,12 @@ def split_mig_demography(fs, ns, pts):
     demo_model_ex = dadi.Numerics.make_extrap_func(demo_model)
     params = [1, 1, 0.1, 0.1, 0.1]
     lower = [1e-2, 1e-2, 1e-3, 1e-3, 0]
-    upper = [3, 3, 1, 1, 1]
+    upper = [3, 10, 1, 1, 1]
     try:
         fid = open(f'demo_results/IRA_FRA_split_mig_demo_fits{process_ii}.txt', 'a')
     except:
         fid = open(f'demo_results/IRA_FRA_split_mig_demo_fits{process_ii}.txt', 'w')
-    for i in range(20):
+    for i in range(50):
         p0 = dadi.Misc.perturb_params(params, fold = 1, upper_bound = upper, lower_bound = lower)
         print('Beginning split_mig optimization ' + str(i) + '*'*20)
         popt, ll_model = dadi.Inference.opt(p0, fs, demo_model_ex, pts, upper_bound = upper, lower_bound = lower, verbose = 1)
@@ -202,14 +202,14 @@ def main():
     ns = data_fs.sample_sizes
     pts_l = [max(ns)+20, max(ns)+30, max(ns)+40]
 
-    snm_demography(data_fs, ns, 100)
+    # snm_demography(data_fs, ns, 100)
     im_demography(data_fs, ns, pts_l)
-    im_pre_demography(data_fs, ns, pts_l)
-    bottlegrowth_demography(data_fs, ns, pts_l)
-    bottlegrowth_split_demography(data_fs, ns, pts_l)
-    bottlegrowth_split_mig_demography(data_fs, ns, pts_l)
-    split_asym_mig_demography(data_fs, ns, pts_l)
-    split_delay_mig_demography(data_fs, ns, pts_l)
-    split_mig_demography(data_fs, ns, pts_l)
+    # im_pre_demography(data_fs, ns, pts_l)
+    # bottlegrowth_demography(data_fs, ns, pts_l)
+    # bottlegrowth_split_demography(data_fs, ns, pts_l)
+    # bottlegrowth_split_mig_demography(data_fs, ns, pts_l)
+    # split_asym_mig_demography(data_fs, ns, pts_l)
+    # split_delay_mig_demography(data_fs, ns, pts_l)
+    # split_mig_demography(data_fs, ns, pts_l)
 if __name__ == '__main__':
     main()
