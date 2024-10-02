@@ -247,7 +247,7 @@ def main():
                     'split delay mig': split_delay_mig, 'split delay mig + inbreeding': split_delay_mig_inbreeding,
                     'im': im ,'im + inbreeding': im_inbreeding,
                     'im pre': im_pre,'im pre + inbreeding': im_pre_inbreeding}
-    table = make_table(GER_HEL_dict, 'GER_HELdemography_converted_parameter_results.csv')
+    table = make_table(GER_HEL_dict, 'GER_HEL_demography_converted_parameter_results.csv')
     print(table)
 
 if __name__ == '__main__':
