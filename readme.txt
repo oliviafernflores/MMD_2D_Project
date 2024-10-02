@@ -1,1 +1,1 @@
-this is the git for my Beckman Scholars / Honors Thesis project
+Joint demographic history and DFE inference
