@@ -1,0 +1,18 @@
+1. annotate_variation.pl on AllMouse.vcf_90_recalibrated_snps_raw_indels_reheader_PopSorted.strict_ancestral_annotation.avinput
+	a. runs annovar
+	b. is a site exonic?
+	c. is the exonic site a SNP?
+	d. is the SNP synonymous or nonsynonymous?
+2. make_all_pops_dd.py on AllMouse.vcf_90_recalibrated_snps_raw_indels_reheader_PopSorted.PASS.vcf.gz using mouse_pop_by_geography.remove_relatives.popfile.txt
+	a. make a data dictionary of all sites for the domesticus populations using all individuals except the relatives
+3. mmd_sort_syn_nsyn.py on mus_all_pops_all_snps_dd.bpkl using new_gene_annotation.exonic_variant_function
+	a. sort the data dictionary for all sites to only include SNPs that are synonymous exonic or nonsynonymous exonic based on the annovar annotation
+4. make_chrom_pos_nuc_info.py using mus_all_pops_all_snps_dd.bpkl
+	a. make two text files that specify the ancestral info based on just Ms_SPRE and based on MS_SPRE + Mmc_CAST
+5. mmd_add_ancestral_info.py using mus_all_pops.dd_syn.bpkl
+	a. adds ancestral info to the synonymous SNPs
+	b. ancestral info is only added if the SNP is agreed in both Ms_SPRE and Mmc_CAST
+6. mmd_add_ancestral_info.py using mus_all_pops.dd_nsyn.bpkl
+	a. adds ancestral info to the nonsynonymous SNPs
+	b. ancestral info is only added if the SNP is agreed in both Ms_SPRE and Mmc_CAST
+7. make_all_fs.py using mus_all_pops.dd_syn_with_ancestral.bpkl for synonymous SFS and mus_all_pops.dd_nsyn_with_ancestral.bpkl for nonsynonymous SFS
