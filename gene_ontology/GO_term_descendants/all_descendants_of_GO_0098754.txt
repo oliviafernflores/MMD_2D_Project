@@ -1,0 +1,43 @@
+GOID	TERM
+GO:0070458	cellular detoxification of nitrogen compound
+GO:0106045	guanine deglycation, methylglyoxal removal
+GO:0043387	mycotoxin catabolic process
+GO:0010312	detoxification of zinc ion
+GO:0061692	cellular detoxification of hydrogen peroxide
+GO:0046286	flavonoid phytoalexin catabolic process
+GO:0019430	removal of superoxide radicals
+GO:0140977	cellular detoxification of acetone
+GO:0110095	cellular detoxification of aldehyde
+GO:0098849	cellular detoxification of cadmium ion
+GO:0042188	1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane catabolic process
+GO:0110052	toxic metabolite repair
+GO:0140961	cellular detoxification of metal ion
+GO:0061691	detoxification of hydrogen peroxide
+GO:0140729	self-resistance to endogenously produced metabolite
+GO:0071722	detoxification of arsenic-containing substance
+GO:2001309	gliotoxin catabolic process
+GO:0140982	detoxification of aluminum ion
+GO:0098869	cellular oxidant detoxification
+GO:0010127	mycothiol-dependent detoxification
+GO:0046290	isoflavonoid phytoalexin catabolic process
+GO:0046294	formaldehyde catabolic process
+GO:0010273	detoxification of copper ion
+GO:0071585	detoxification of cadmium ion
+GO:0046701	insecticide catabolic process
+GO:0051410	detoxification of nitrogen compound
+GO:0046216	indole phytoalexin catabolic process
+GO:0061687	detoxification of inorganic compound
+GO:0140974	cellular detoxification of sulfide
+GO:0045574	sterigmatocystin catabolic process
+GO:0050787	detoxification of mercury ion
+GO:0140041	cellular detoxification of methylglyoxal
+GO:0046225	bacteriocin catabolic process
+GO:0052316	phytoalexin catabolic process
+GO:1990748	cellular detoxification
+GO:1990880	cellular detoxification of copper ion
+GO:0140725	detoxification of free heme
+GO:1990461	detoxification of iron ion
+GO:0046223	aflatoxin catabolic process
+GO:0010299	detoxification of cobalt ion
+GO:0009407	toxin catabolic process
+GO:0140114	cellular detoxification of fluoride

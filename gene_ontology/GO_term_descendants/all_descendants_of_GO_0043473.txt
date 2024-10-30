@@ -1,0 +1,19 @@
+GOID	TERM
+GO:0048067	cuticle pigmentation
+GO:0033059	cellular pigmentation
+GO:0048072	compound eye pigmentation
+GO:0048085	adult chitin-containing cuticle pigmentation
+GO:0048757	pigment granule maturation
+GO:0048071	sex-specific pigmentation
+GO:0048094	male pigmentation
+GO:0043480	pigment accumulation in tissues
+GO:0043482	cellular pigment accumulation
+GO:0043479	pigment accumulation in tissues in response to UV light
+GO:0048066	developmental pigmentation
+GO:0048069	eye pigmentation
+GO:0075043	melanization of appressorium wall
+GO:0048095	female pigmentation
+GO:0043481	anthocyanin accumulation in tissues in response to UV light
+GO:0033060	ocellus pigmentation
+GO:0043478	pigment accumulation in response to UV light
+GO:0043476	pigment accumulation

@@ -1,0 +1,3107 @@
+GOID	TERM
+GO:0007442	hindgut morphogenesis
+GO:0001837	epithelial to mesenchymal transition
+GO:0080166	stomium development
+GO:0061030	epithelial cell differentiation involved in mammary gland alveolus development
+GO:0060836	lymphatic endothelial cell differentiation
+GO:0048716	labrum morphogenesis
+GO:0010014	meristem initiation
+GO:0150019	basal dendrite morphogenesis
+GO:0048465	corolla development
+GO:0021638	trigeminal nerve formation
+GO:0001748	insect visual primordium development
+GO:0039019	pronephric nephron development
+GO:0060718	chorionic trophoblast cell differentiation
+GO:0014017	neuroblast fate commitment
+GO:0021556	central nervous system formation
+GO:0035133	post-embryonic caudal fin morphogenesis
+GO:0072055	renal cortex development
+GO:0043249	erythrocyte maturation
+GO:0002334	transitional two stage B cell differentiation
+GO:0048937	lateral line nerve glial cell development
+GO:0034303	myxospore formation
+GO:0042462	eye photoreceptor cell development
+GO:0048717	anterior cibarial plate morphogenesis
+GO:0048880	sensory system development
+GO:0072236	metanephric loop of Henle development
+GO:0021605	cranial nerve maturation
+GO:0043403	skeletal muscle tissue regeneration
+GO:0048726	labrum development
+GO:0048372	lateral mesodermal cell fate commitment
+GO:0060430	lung saccule development
+GO:0060658	nipple morphogenesis
+GO:0060873	anterior semicircular canal development
+GO:0048928	posterior lateral line ganglion neuron differentiation
+GO:0060068	vagina development
+GO:0002573	myeloid leukocyte differentiation
+GO:0072029	long nephron development
+GO:0097736	aerial mycelium formation
+GO:0072231	metanephric proximal convoluted tubule segment 1 development
+GO:0007370	ventral furrow formation
+GO:0099121	fungal sorus development
+GO:0035225	determination of genital disc primordium
+GO:0007475	apposition of dorsal and ventral imaginal disc-derived wing surfaces
+GO:0021877	forebrain neuron fate commitment
+GO:0003288	ventricular septum intermedium morphogenesis
+GO:0048528	post-embryonic root development
+GO:0021632	optic nerve maturation
+GO:0060023	soft palate development
+GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0007488	histoblast morphogenesis
+GO:0021598	abducens nerve morphogenesis
+GO:0048568	embryonic organ development
+GO:0003175	tricuspid valve development
+GO:0035764	dorsal motor nucleus of vagus nerve formation
+GO:0048895	lateral line nerve glial cell differentiation
+GO:0160122	corneal epithelial cell differentiation
+GO:0021771	lateral geniculate nucleus development
+GO:0021628	olfactory nerve formation
+GO:0035761	dorsal motor nucleus of vagus nerve maturation
+GO:0061113	pancreas morphogenesis
+GO:0060533	bronchus cartilage morphogenesis
+GO:0106092	glial cell projection elongation involved in axon ensheathment
+GO:0060979	vasculogenesis involved in coronary vascular morphogenesis
+GO:0007433	larval salivary gland boundary specification
+GO:0048533	sporocyte differentiation
+GO:0060661	submandibular salivary gland formation
+GO:0048331	axial mesoderm structural organization
+GO:0072276	metanephric glomerulus vasculature morphogenesis
+GO:0060290	transdifferentiation
+GO:0035990	tendon cell differentiation
+GO:0075313	basidium development
+GO:0021524	visceral motor neuron differentiation
+GO:0000905	sporocarp development involved in asexual reproduction
+GO:0007560	imaginal disc morphogenesis
+GO:0060485	mesenchyme development
+GO:0001825	blastocyst formation
+GO:0048705	skeletal system morphogenesis
+GO:0021668	rhombomere 6 structural organization
+GO:0048894	efferent axon development in a lateral line nerve
+GO:0060113	inner ear receptor cell differentiation
+GO:0072003	kidney rudiment formation
+GO:0007523	larval visceral muscle development
+GO:0002284	myeloid dendritic cell differentiation involved in immune response
+GO:0061146	Peyer's patch morphogenesis
+GO:0048316	seed development
+GO:0021977	tectospinal tract morphogenesis
+GO:0061008	hepaticobiliary system development
+GO:0042680	compound eye cone cell fate determination
+GO:0048768	root hair cell tip growth
+GO:0007476	imaginal disc-derived wing morphogenesis
+GO:0021958	gracilis tract morphogenesis
+GO:0030219	megakaryocyte differentiation
+GO:0003162	atrioventricular node development
+GO:0008583	mystery cell differentiation
+GO:0021712	candelabrum cell differentiation
+GO:0021604	cranial nerve structural organization
+GO:0075016	appressorium formation
+GO:0007286	spermatid development
+GO:1905223	epicardium morphogenesis
+GO:0010434	bract formation
+GO:0048463	carpel structural organization
+GO:0048907	anterior lateral line ganglion development
+GO:0048939	anterior lateral line nerve glial cell development
+GO:0003152	morphogenesis of an epithelial fold involved in embryonic heart tube formation
+GO:0010311	lateral root formation
+GO:0016322	neuron remodeling
+GO:0090691	formation of plant organ boundary
+GO:0042693	muscle cell fate commitment
+GO:0001830	trophectodermal cell fate commitment
+GO:0003424	establishment of cell polarity involved in growth plate cartilage chondrocyte division
+GO:1905275	Rohon-Beard neuron differentiation
+GO:0002363	alpha-beta T cell lineage commitment
+GO:0002313	mature B cell differentiation involved in immune response
+GO:0061294	mesonephric renal vesicle induction
+GO:0003349	epicardium-derived cardiac endothelial cell differentiation
+GO:0061550	cranial ganglion development
+GO:0060889	limb basal epidermal cell differentiation
+GO:0090504	epiboly
+GO:0060033	anatomical structure regression
+GO:0071981	exit from diapause
+GO:0048530	fruit morphogenesis
+GO:0036344	platelet morphogenesis
+GO:0090558	plant epidermis development
+GO:0035216	haltere disc development
+GO:0033335	anal fin development
+GO:0060521	mesenchymal-epithelial cell signaling involved in prostate induction
+GO:0042471	ear morphogenesis
+GO:0035134	post-embryonic dorsal fin morphogenesis
+GO:0061285	mesonephric capsule development
+GO:0061104	adrenal chromaffin cell differentiation
+GO:0072221	metanephric distal convoluted tubule development
+GO:0055016	hypochord development
+GO:0098773	skin epidermis development
+GO:0048810	female analia morphogenesis
+GO:0042707	ocellus photoreceptor cell fate commitment
+GO:0072222	metanephric early distal convoluted tubule development
+GO:0060957	endocardial cell fate commitment
+GO:0021625	oculomotor nerve maturation
+GO:0072143	mesangial cell development
+GO:0061321	garland nephrocyte differentiation
+GO:2001012	mesenchymal cell differentiation involved in renal system development
+GO:0048653	anther development
+GO:0070285	pigment cell development
+GO:0072564	blood microparticle formation
+GO:0061056	sclerotome development
+GO:0060680	lateral sprouting involved in ureteric bud morphogenesis
+GO:0021590	cerebellum maturation
+GO:0010074	maintenance of meristem identity
+GO:0061318	renal filtration cell differentiation
+GO:0060748	tertiary branching involved in mammary gland duct morphogenesis
+GO:0003189	aortic valve formation
+GO:0110069	syncytial embryo cellularization
+GO:0031153	slug development involved in sorocarp development
+GO:0003168	Purkinje myocyte differentiation
+GO:0035165	embryonic crystal cell differentiation
+GO:0040003	chitin-based cuticle development
+GO:0060879	semicircular canal fusion
+GO:0080147	root hair cell development
+GO:0010001	glial cell differentiation
+GO:1904159	megasporocyte differentiation
+GO:0061234	mesonephric glomerulus morphogenesis
+GO:0061011	hepatic duct development
+GO:0035149	lumen formation, open tracheal system
+GO:0021531	spinal cord radial glial cell differentiation
+GO:0060579	ventral spinal cord interneuron fate commitment
+GO:0007463	R2/R5 cell fate commitment
+GO:0014020	primary neural tube formation
+GO:0021519	spinal cord association neuron specification
+GO:0035112	genitalia morphogenesis
+GO:0071998	ascospore release from ascus
+GO:0072520	seminiferous tubule development
+GO:0035799	ureter maturation
+GO:0097154	GABAergic neuron differentiation
+GO:0048450	floral organ structural organization
+GO:0048935	peripheral nervous system neuron development
+GO:1990058	fruit replum development
+GO:0030323	respiratory tube development
+GO:0061250	mesonephric glomerular epithelial cell differentiation
+GO:0061042	vascular wound healing
+GO:0003165	Purkinje myocyte development
+GO:0061443	endocardial cushion cell differentiation
+GO:0097751	spore-bearing structure formation
+GO:0021661	rhombomere 4 morphogenesis
+GO:0060911	cardiac cell fate commitment
+GO:0060040	retinal bipolar neuron differentiation
+GO:0072249	metanephric podocyte development
+GO:1904155	DN2 thymocyte differentiation
+GO:0007426	tracheal outgrowth, open tracheal system
+GO:0035029	dorsal closure, leading edge cell fate commitment
+GO:0003406	retinal pigment epithelium development
+GO:0071109	superior temporal gyrus development
+GO:0060365	coronal suture morphogenesis
+GO:0010150	leaf senescence
+GO:0048383	mesectoderm development
+GO:0099402	plant organ development
+GO:0021545	cranial nerve development
+GO:0003234	bulbus arteriosus formation
+GO:0002320	lymphoid progenitor cell differentiation
+GO:0003431	growth plate cartilage chondrocyte development
+GO:0061384	heart trabecula morphogenesis
+GO:0042461	photoreceptor cell development
+GO:0075267	aecium development
+GO:0021730	trigeminal sensory nucleus development
+GO:0021660	rhombomere 3 formation
+GO:0003239	conus arteriosus morphogenesis
+GO:0021727	intermediate reticular formation development
+GO:0048854	brain morphogenesis
+GO:0007374	posterior midgut invagination
+GO:0072181	mesonephric duct formation
+GO:0021737	emboliform nucleus development
+GO:0090171	chondrocyte morphogenesis
+GO:0003171	atrioventricular valve development
+GO:0061249	mesonephric glomerular capillary formation
+GO:0140509	epithelium-like organization
+GO:0001923	B-1 B cell differentiation
+GO:0060433	bronchus development
+GO:0097150	neuronal stem cell population maintenance
+GO:0061212	mesonephric juxtaglomerular apparatus development
+GO:0042246	tissue regeneration
+GO:0060951	neural crest-derived cardiac glial cell differentiation
+GO:0048600	oocyte fate commitment
+GO:0072288	metanephric proximal tubule morphogenesis
+GO:0048729	tissue morphogenesis
+GO:0035670	plant-type ovary development
+GO:0060679	trifid subdivision of terminal units involved in ureteric bud branching
+GO:0021572	rhombomere 6 development
+GO:0061383	trabecula morphogenesis
+GO:0075192	haustorium mother cell formation
+GO:0003414	chondrocyte morphogenesis involved in endochondral bone morphogenesis
+GO:0006949	syncytium formation
+GO:0060065	uterus development
+GO:0007428	primary branching, open tracheal system
+GO:0120224	larynx development
+GO:0080187	floral organ senescence
+GO:0021806	initiation of movement involved in cerebral cortex radial glia guided migration
+GO:0021711	cerebellar unipolar brush cell differentiation
+GO:0034299	reproductive blastospore formation
+GO:0035120	post-embryonic appendage morphogenesis
+GO:0072025	distal convoluted tubule development
+GO:0048053	R1/R6 development
+GO:0003286	atrial septum intermedium development
+GO:0035069	larval midgut histolysis
+GO:0042473	outer ear morphogenesis
+GO:0060912	cardiac cell fate specification
+GO:0106336	yolk syncytial layer development
+GO:0060538	skeletal muscle organ development
+GO:0060958	endocardial cell development
+GO:0021574	rhombomere 8 development
+GO:0031154	culmination involved in sorocarp development
+GO:0001654	eye development
+GO:0042337	cuticle development involved in chitin-based cuticle molting cycle
+GO:0010742	macrophage derived foam cell differentiation
+GO:0003413	chondrocyte differentiation involved in endochondral bone morphogenesis
+GO:0021540	corpus callosum morphogenesis
+GO:0072214	metanephric cortex development
+GO:0046528	imaginal disc fusion
+GO:0072312	metanephric glomerular epithelial cell differentiation
+GO:0048888	neuromast mantle cell differentiation
+GO:0010098	suspensor development
+GO:0061027	umbilical cord development
+GO:0048757	pigment granule maturation
+GO:0042670	retinal cone cell differentiation
+GO:0090557	establishment of endothelial intestinal barrier
+GO:0003326	pancreatic A cell fate commitment
+GO:0039018	nephrostome development
+GO:0090697	post-embryonic plant organ morphogenesis
+GO:0033338	medial fin development
+GO:0040025	vulval development
+GO:0021567	rhombomere 1 development
+GO:0042252	establishment of planar polarity of larval imaginal disc epithelium
+GO:0043704	photoreceptor cell fate specification
+GO:1904126	convergent extension involved in notochord morphogenesis
+GO:0097498	endothelial tube lumen extension
+GO:0048702	embryonic neurocranium morphogenesis
+GO:0003325	pancreatic PP cell development
+GO:0072139	glomerular parietal epithelial cell differentiation
+GO:0002070	epithelial cell maturation
+GO:0001700	embryonic development via the syncytial blastoderm
+GO:0060711	labyrinthine layer development
+GO:0045464	R8 cell fate specification
+GO:0072062	proximal convoluted tubule segment 1 cell differentiation
+GO:0072360	vascular cord development
+GO:1903929	primary palate development
+GO:0048703	embryonic viscerocranium morphogenesis
+GO:0036304	umbilical cord morphogenesis
+GO:0060017	parathyroid gland development
+GO:0035220	wing disc development
+GO:0060930	sinoatrial node cell fate commitment
+GO:0048055	R2/R5 development
+GO:0060166	olfactory pit development
+GO:0042733	embryonic digit morphogenesis
+GO:0035113	embryonic appendage morphogenesis
+GO:0060217	hemangioblast cell differentiation
+GO:1990632	branching involved in submandibular gland morphogenesis
+GO:0043011	myeloid dendritic cell differentiation
+GO:0060844	arterial endothelial cell fate commitment
+GO:0061257	mesonephric podocyte development
+GO:0075275	telium development
+GO:0048366	leaf development
+GO:0042003	masculinization of hermaphrodite soma
+GO:0071599	otic vesicle development
+GO:0002337	B-1a B cell differentiation
+GO:0021548	pons development
+GO:0048904	anterior lateral line neuromast cupula development
+GO:0007485	imaginal disc-derived male genitalia development
+GO:0061241	mesonephric nephron epithelium development
+GO:0048869	cellular developmental process
+GO:0070789	metula development
+GO:0010002	cardioblast differentiation
+GO:0003212	cardiac left atrium morphogenesis
+GO:0048566	embryonic digestive tract development
+GO:0007505	adult fat body development
+GO:0030216	keratinocyte differentiation
+GO:0060946	cardiac blood vessel endothelial cell differentiation
+GO:0035053	dorsal vessel heart proper cell fate commitment
+GO:1904157	DN4 thymocyte differentiation
+GO:0071895	odontoblast differentiation
+GO:0060793	sweat gland placode formation
+GO:0010158	abaxial cell fate specification
+GO:0030224	monocyte differentiation
+GO:0021508	floor plate formation
+GO:0060601	lateral sprouting from an epithelium
+GO:0007561	imaginal disc eversion
+GO:0048644	muscle organ morphogenesis
+GO:1905867	epididymis development
+GO:0007458	progression of morphogenetic furrow involved in compound eye morphogenesis
+GO:0007498	mesoderm development
+GO:0007308	oocyte construction
+GO:0010072	primary shoot apical meristem specification
+GO:0001754	eye photoreceptor cell differentiation
+GO:0034296	zygospore formation
+GO:0032475	otolith formation
+GO:0014813	skeletal muscle satellite cell commitment
+GO:0003186	tricuspid valve morphogenesis
+GO:0043588	skin development
+GO:0071690	cardiac muscle myosin thick filament assembly
+GO:0002296	T-helper 1 cell lineage commitment
+GO:0035234	ectopic germ cell programmed cell death
+GO:0055045	antipodal cell degeneration
+GO:0150023	apical dendrite arborization
+GO:0060221	retinal rod cell differentiation
+GO:0072019	proximal convoluted tubule development
+GO:0001893	maternal placenta development
+GO:0160095	insect pharynx development
+GO:0048462	carpel formation
+GO:0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation
+GO:0048333	mesodermal cell differentiation
+GO:0046545	development of primary female sexual characteristics
+GO:0030900	forebrain development
+GO:0080127	fruit septum development
+GO:0003187	ventriculo bulbo valve morphogenesis
+GO:0032290	peripheral nervous system myelin formation
+GO:0035776	pronephric proximal tubule development
+GO:0048389	intermediate mesoderm development
+GO:1990502	dense core granule maturation
+GO:0060385	axonogenesis involved in innervation
+GO:0060539	diaphragm development
+GO:0061196	fungiform papilla development
+GO:0021984	adenohypophysis development
+GO:0021552	midbrain-hindbrain boundary structural organization
+GO:0072284	metanephric S-shaped body morphogenesis
+GO:0034293	sexual sporulation
+GO:0048321	axial mesodermal cell differentiation
+GO:0039014	cell differentiation involved in pronephros development
+GO:0021870	Cajal-Retzius cell differentiation
+GO:0072057	inner stripe development
+GO:0010091	trichome branching
+GO:0060322	head development
+GO:0061549	sympathetic ganglion development
+GO:0003312	pancreatic PP cell differentiation
+GO:0048542	lymph gland development
+GO:0061236	mesonephric comma-shaped body morphogenesis
+GO:0014034	neural crest cell fate commitment
+GO:0035126	post-embryonic genitalia morphogenesis
+GO:0007440	foregut morphogenesis
+GO:0021564	vagus nerve development
+GO:0060126	somatotropin secreting cell differentiation
+GO:0072172	mesonephric tubule formation
+GO:0035125	embryonic anal fin morphogenesis
+GO:0001525	angiogenesis
+GO:0061442	cardiac muscle cell fate determination
+GO:0060866	leaf abscission
+GO:0048229	gametophyte development
+GO:0061229	mesonephric juxtaglomerulus cell development
+GO:0060041	retina development in camera-type eye
+GO:0072162	metanephric mesenchymal cell differentiation
+GO:0021769	orbitofrontal cortex development
+GO:0003281	ventricular septum development
+GO:0043587	tongue morphogenesis
+GO:0060443	mammary gland morphogenesis
+GO:0045467	R7 cell development
+GO:0007409	axonogenesis
+GO:0003358	noradrenergic neuron development
+GO:0032120	ascospore-type prospore membrane formation
+GO:0048447	sepal morphogenesis
+GO:0060876	semicircular canal formation
+GO:0060646	internal mammary gland bud epithelial cell differentiation
+GO:0060976	coronary vasculature development
+GO:0014012	peripheral nervous system axon regeneration
+GO:0007541	sex determination, primary response to X:A ratio
+GO:0014021	secondary neural tube formation
+GO:0060022	hard palate development
+GO:0031321	ascospore-type prospore assembly
+GO:0031103	axon regeneration
+GO:0060794	leaflet morphogenesis
+GO:0048859	formation of anatomical boundary
+GO:0021680	cerebellar Purkinje cell layer development
+GO:0016331	morphogenesis of embryonic epithelium
+GO:0035047	centrosomal and pronuclear rotation
+GO:0060925	ventricular cardiac muscle cell fate commitment
+GO:0035319	imaginal disc-derived wing hair elongation
+GO:0060690	epithelial cell differentiation involved in salivary gland development
+GO:0072078	nephron tubule morphogenesis
+GO:0035171	lamellocyte differentiation
+GO:0021584	pons formation
+GO:0072565	endothelial microparticle formation
+GO:0048598	embryonic morphogenesis
+GO:0021505	neural fold folding
+GO:0030850	prostate gland development
+GO:0035801	adrenal cortex development
+GO:0060648	mammary gland bud morphogenesis
+GO:0055015	ventricular cardiac muscle cell development
+GO:0072281	mesenchymal stem cell differentiation involved in metanephric nephron morphogenesis
+GO:0021650	vestibulocochlear nerve formation
+GO:0048755	branching morphogenesis of a nerve
+GO:0001886	endothelial cell morphogenesis
+GO:0048927	posterior lateral line neuromast support cell differentiation
+GO:0048891	lateral line ganglion neuron differentiation
+GO:0048844	artery morphogenesis
+GO:0072017	distal tubule development
+GO:0001779	natural killer cell differentiation
+GO:0021619	hypoglossal nerve maturation
+GO:0071730	beak formation
+GO:0035169	lymph gland plasmatocyte differentiation
+GO:0055004	atrial cardiac myofibril assembly
+GO:0048618	post-embryonic foregut morphogenesis
+GO:0010783	proboscis morphogenesis, eye-antennal disc-derived
+GO:0021761	limbic system development
+GO:0007521	muscle cell fate determination
+GO:0061559	cranial ganglion morphogenesis
+GO:0048486	parasympathetic nervous system development
+GO:0062139	camera-type eye photoreceptor cell development
+GO:0021718	superior olivary nucleus development
+GO:0007294	germarium-derived oocyte fate determination
+GO:0003329	pancreatic PP cell fate commitment
+GO:0061224	mesonephric glomerulus development
+GO:0060928	atrioventricular node cell development
+GO:1990522	tail spike morphogenesis
+GO:0046632	alpha-beta T cell differentiation
+GO:0003297	heart wedging
+GO:0045476	nurse cell apoptotic process
+GO:0075187	hyphopodium formation
+GO:0060573	cell fate specification involved in pattern specification
+GO:0061243	mesonephric renal vesicle morphogenesis
+GO:0033504	floor plate development
+GO:0061031	endodermal digestive tract morphogenesis
+GO:0016333	morphogenesis of follicular epithelium
+GO:0021536	diencephalon development
+GO:0007530	sex determination
+GO:0048054	R2/R5 cell differentiation
+GO:0001736	establishment of planar polarity
+GO:0060514	prostate induction
+GO:0072142	juxtaglomerulus cell development
+GO:0060460	left lung morphogenesis
+GO:1903728	luteal cell differentiation
+GO:0072127	renal capsule development
+GO:0072037	mesenchymal stem cell differentiation involved in nephron morphogenesis
+GO:0061541	rhabdomere morphogenesis
+GO:1990798	pancreas regeneration
+GO:0003214	cardiac left ventricle morphogenesis
+GO:0061360	optic chiasma development
+GO:0072061	inner medullary collecting duct development
+GO:0072001	renal system development
+GO:0035154	terminal cell fate specification, open tracheal system
+GO:0007285	primary spermatocyte growth
+GO:0060436	bronchiole morphogenesis
+GO:0060028	convergent extension involved in axis elongation
+GO:0021965	spinal cord ventral commissure morphogenesis
+GO:0061230	mesonephric juxtaglomerulus cell fate commitment
+GO:0036341	chitin-based cuticle sclerotization by protein cross-linking
+GO:0021698	cerebellar cortex structural organization
+GO:0045465	R8 cell differentiation
+GO:0016319	mushroom body development
+GO:0021510	spinal cord development
+GO:0072165	anterior mesonephric tubule development
+GO:0021906	hindbrain-spinal cord boundary formation
+GO:0001702	gastrulation with mouth forming second
+GO:0022611	dormancy process
+GO:0021523	somatic motor neuron differentiation
+GO:0003285	septum secundum development
+GO:0043697	cell dedifferentiation
+GO:0048479	style development
+GO:0021917	somatic motor neuron fate commitment
+GO:1905072	cardiac jelly development
+GO:0072180	mesonephric duct morphogenesis
+GO:0021979	hypothalamus cell differentiation
+GO:0072102	glomerulus morphogenesis
+GO:0061260	mesonephric mesangial cell differentiation
+GO:0048439	flower morphogenesis
+GO:0098528	skeletal muscle fiber differentiation
+GO:0031215	shell calcification
+GO:0072166	posterior mesonephric tubule development
+GO:0021645	vagus nerve structural organization
+GO:0003192	mitral valve formation
+GO:0035981	tongue muscle cell differentiation
+GO:0097436	entry into dormancy
+GO:0010442	guard cell morphogenesis
+GO:0060689	cell differentiation involved in salivary gland development
+GO:0021679	cerebellar molecular layer development
+GO:0060914	heart formation
+GO:0048515	spermatid differentiation
+GO:0061010	gallbladder development
+GO:0016360	sensory organ precursor cell fate determination
+GO:0010198	synergid death
+GO:0060945	cardiac neuron differentiation
+GO:0035886	vascular associated smooth muscle cell differentiation
+GO:0060878	pouch outgrowth involved in semicircular canal formation
+GO:0060691	epithelial cell maturation involved in salivary gland development
+GO:0048737	imaginal disc-derived appendage development
+GO:0003225	left ventricular trabecular myocardium morphogenesis
+GO:0030223	neutrophil differentiation
+GO:0003343	septum transversum development
+GO:0010066	ground meristem histogenesis
+GO:0003220	left ventricular cardiac muscle tissue morphogenesis
+GO:0048456	stamen structural organization
+GO:0021577	hindbrain structural organization
+GO:0060117	auditory receptor cell development
+GO:0048235	pollen sperm cell differentiation
+GO:0075226	encysted zoospore germination
+GO:0060778	primary leaflet morphogenesis
+GO:0002325	natural killer cell differentiation involved in immune response
+GO:0150020	basal dendrite arborization
+GO:0021897	forebrain astrocyte development
+GO:0090506	axillary shoot meristem initiation
+GO:0072309	mesenchymal stem cell maintenance involved in metanephric nephron morphogenesis
+GO:0061555	ganglion structural organization
+GO:0001541	ovarian follicle development
+GO:0042705	ocellus photoreceptor cell differentiation
+GO:0060572	morphogenesis of an epithelial bud
+GO:0019101	female somatic sex determination
+GO:0003229	ventricular cardiac muscle tissue development
+GO:0003335	corneocyte development
+GO:0046845	branched duct epithelial cell fate determination, open tracheal system
+GO:0007377	germ-band extension
+GO:0001947	heart looping
+GO:0001944	vasculature development
+GO:0048724	epistomal sclerite development
+GO:0035141	medial fin morphogenesis
+GO:0003255	endocardial precursor cell differentiation
+GO:0035318	imaginal disc-derived wing hair outgrowth
+GO:0034301	endospore formation
+GO:0160048	craniofacial suture closure
+GO:0060272	embryonic skeletal joint morphogenesis
+GO:0072252	metanephric juxtaglomerulus cell development
+GO:0072282	metanephric nephron tubule morphogenesis
+GO:0048654	anther morphogenesis
+GO:0007391	dorsal closure
+GO:0072030	short nephron development
+GO:0060791	sebaceous gland placode formation
+GO:0035848	oviduct morphogenesis
+GO:0072197	ureter morphogenesis
+GO:0060704	acinar cell differentiation involved in salivary gland development
+GO:0061562	cranial ganglion structural organization
+GO:0003006	developmental process involved in reproduction
+GO:0070655	mechanosensory epithelium regeneration
+GO:0003387	neuron differentiation involved in amphid sensory organ development
+GO:0021695	cerebellar cortex development
+GO:0007510	cardioblast cell fate determination
+GO:0097439	acquisition of desiccation tolerance
+GO:0072205	metanephric collecting duct development
+GO:0007536	activation of recombination (HML)
+GO:0021642	trochlear nerve formation
+GO:0061441	renal artery morphogenesis
+GO:0010668	ectodermal cell differentiation
+GO:0048800	antennal morphogenesis
+GO:0001547	antral ovarian follicle growth
+GO:0072192	ureter epithelial cell differentiation
+GO:0048057	R3/R4 development
+GO:0003205	cardiac chamber development
+GO:0048852	diencephalon morphogenesis
+GO:0090058	metaxylem development
+GO:0018992	germ-line sex determination
+GO:0021620	hypoglossal nerve formation
+GO:0003211	cardiac ventricle formation
+GO:0061255	mesonephric glomerular parietal epithelial cell fate commitment
+GO:0021687	cerebellar molecular layer morphogenesis
+GO:0007444	imaginal disc development
+GO:0060523	prostate epithelial cord elongation
+GO:0010172	embryonic body morphogenesis
+GO:0061977	hip joint articular cartilage development
+GO:0003157	endocardium development
+GO:0021896	forebrain astrocyte differentiation
+GO:0044850	menstrual cycle
+GO:0014018	neuroblast fate specification
+GO:0048398	intermediate mesodermal cell fate specification
+GO:0001744	insect visual primordium formation
+GO:0048840	otolith development
+GO:0010087	phloem or xylem histogenesis
+GO:0075183	infection cushion formation
+GO:0060215	primitive hemopoiesis
+GO:0072256	metanephric glomerular mesangial cell fate commitment
+GO:0060067	cervix development
+GO:0048750	compound eye corneal lens morphogenesis
+GO:0072152	glomerular mesangial cell fate commitment
+GO:0060541	respiratory system development
+GO:0021780	glial cell fate specification
+GO:0003310	pancreatic A cell differentiation
+GO:0061378	corpora quadrigemina development
+GO:0048481	plant ovule development
+GO:0072185	metanephric cap development
+GO:0021636	trigeminal nerve morphogenesis
+GO:0060956	endocardial cell differentiation
+GO:0061277	mesonephric nephron tubule formation
+GO:0042335	cuticle development
+GO:0002521	leukocyte differentiation
+GO:0060666	dichotomous subdivision of terminal units involved in salivary gland branching
+GO:0010479	stele development
+GO:0003224	left ventricular compact myocardium morphogenesis
+GO:0021773	striatal medium spiny neuron differentiation
+GO:0072073	kidney epithelium development
+GO:0030476	ascospore wall assembly
+GO:1904693	midbrain morphogenesis
+GO:0008362	chitin-based embryonic cuticle biosynthetic process
+GO:0061244	mesonephric S-shaped body morphogenesis
+GO:0021568	rhombomere 2 development
+GO:0009942	longitudinal axis specification
+GO:0036098	male germ-line stem cell population maintenance
+GO:0060837	blood vessel endothelial cell differentiation
+GO:0021995	neuropore closure
+GO:0031069	hair follicle morphogenesis
+GO:0060010	Sertoli cell fate commitment
+GO:0150022	apical dendrite development
+GO:0021988	olfactory lobe development
+GO:0007399	nervous system development
+GO:0061247	mesonephric glomerular mesangium development
+GO:0008585	female gonad development
+GO:0060915	mesenchymal cell differentiation involved in lung development
+GO:0048830	adventitious root development
+GO:0060927	cardiac pacemaker cell fate commitment
+GO:0060932	His-Purkinje system cell differentiation
+GO:0042474	middle ear morphogenesis
+GO:0060527	prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis
+GO:0021723	medullary reticular formation development
+GO:0061005	cell differentiation involved in kidney development
+GO:0072054	renal outer medulla development
+GO:0021752	inferior salivary nucleus development
+GO:0060645	peripheral mammary gland bud epithelial cell differentiation
+GO:0003228	atrial cardiac muscle tissue development
+GO:0035922	foramen ovale closure
+GO:0060892	limb basal epidermal cell fate specification
+GO:0035147	branch fusion, open tracheal system
+GO:0048071	sex-specific pigmentation
+GO:0072115	head kidney morphogenesis
+GO:0048565	digestive tract development
+GO:0150063	visual system development
+GO:0033336	caudal fin development
+GO:0060060	post-embryonic retina morphogenesis in camera-type eye
+GO:0060894	limb spinous cell fate specification
+GO:0044671	sorocarp spore cell differentiation
+GO:0035119	embryonic pelvic fin morphogenesis
+GO:0035168	larval lymph gland hemocyte differentiation
+GO:0007435	salivary gland morphogenesis
+GO:0090603	sieve element differentiation
+GO:0021517	ventral spinal cord development
+GO:1990828	hepatocyte dedifferentiation
+GO:0048138	germ-line cyst encapsulation
+GO:0048546	digestive tract morphogenesis
+GO:0035850	epithelial cell differentiation involved in kidney development
+GO:0002164	larval development
+GO:0097103	endothelial stalk cell fate specification
+GO:0042692	muscle cell differentiation
+GO:0072285	mesenchymal to epithelial transition involved in metanephric renal vesicle formation
+GO:0030879	mammary gland development
+GO:0048813	dendrite morphogenesis
+GO:0001657	ureteric bud development
+GO:0002308	CD8-positive, alpha-beta cytotoxic T cell differentiation
+GO:0003342	proepicardium development
+GO:0002328	pro-B cell differentiation
+GO:0060037	pharyngeal system development
+GO:0021583	pons morphogenesis
+GO:0035148	tube formation
+GO:0060448	dichotomous subdivision of terminal units involved in lung branching
+GO:0048823	nucleate erythrocyte development
+GO:0072206	metanephric juxtaglomerular apparatus development
+GO:0021627	olfactory nerve morphogenesis
+GO:0035857	eosinophil fate specification
+GO:0007378	amnioserosa formation
+GO:0021716	inferior olivary nucleus structural organization
+GO:0061373	mammillary axonal complex development
+GO:0007423	sensory organ development
+GO:0036360	sorocarp stalk morphogenesis
+GO:0060670	branching involved in labyrinthine layer morphogenesis
+GO:0045065	cytotoxic T cell differentiation
+GO:0072186	metanephric cap morphogenesis
+GO:0001824	blastocyst development
+GO:0046548	retinal rod cell development
+GO:0061974	perichondral bone morphogenesis
+GO:0035130	post-embryonic pectoral fin morphogenesis
+GO:0050936	xanthophore differentiation
+GO:0061207	mesonephric juxtaglomerulus cell differentiation
+GO:0001745	compound eye morphogenesis
+GO:0001714	endodermal cell fate specification
+GO:0061054	dermatome development
+GO:0030220	platelet formation
+GO:0101027	optical nerve axon regeneration
+GO:0019100	male germ-line sex determination
+GO:0002301	CD4-positive, alpha-beta intraepithelial T cell differentiation
+GO:0035215	genital disc development
+GO:0061276	mesonephric proximal tubule morphogenesis
+GO:0021562	vestibulocochlear nerve development
+GO:0072094	metanephric renal vesicle induction
+GO:0021506	anterior neuropore closure
+GO:0070365	hepatocyte differentiation
+GO:0030540	female genitalia development
+GO:0007392	initiation of dorsal closure
+GO:0042694	muscle cell fate specification
+GO:1905139	apical ectodermal ridge formation
+GO:0062094	stomach development
+GO:0061208	cell differentiation involved in mesonephros development
+GO:0072087	renal vesicle development
+GO:0072675	osteoclast fusion
+GO:0000902	cell morphogenesis
+GO:0009556	microsporogenesis
+GO:0048807	female genitalia morphogenesis
+GO:0007436	larval salivary gland morphogenesis
+GO:0072011	glomerular endothelium development
+GO:0007309	oocyte axis specification
+GO:0001501	skeletal system development
+GO:0060941	epicardium-derived cardiac fibroblast cell fate commitment
+GO:0021955	central nervous system neuron axonogenesis
+GO:0007310	oocyte dorsal/ventral axis specification
+GO:0035167	larval lymph gland hemopoiesis
+GO:0097102	endothelial tip cell fate specification
+GO:0021705	locus ceruleus formation
+GO:0021756	striatum development
+GO:0001712	ectodermal cell fate commitment
+GO:0048774	cyanophore differentiation
+GO:0022036	rhombomere cell differentiation
+GO:0014002	astrocyte development
+GO:0061648	tooth replacement
+GO:0001568	blood vessel development
+GO:0001710	mesodermal cell fate commitment
+GO:0007484	imaginal disc-derived genitalia development
+GO:0072326	vulval cell fate determination
+GO:0030318	melanocyte differentiation
+GO:0035295	tube development
+GO:0097070	ductus arteriosus closure
+GO:0061154	endothelial tube morphogenesis
+GO:0150021	apical dendrite morphogenesis
+GO:0072012	glomerulus vasculature development
+GO:0021889	olfactory bulb interneuron differentiation
+GO:0036035	osteoclast development
+GO:0021743	hypoglossal nucleus development
+GO:0021616	glossopharyngeal nerve formation
+GO:0060792	sweat gland development
+GO:0014032	neural crest cell development
+GO:0090437	socket cell differentiation
+GO:0060809	mesodermal to mesenchymal transition involved in gastrulation
+GO:0060344	liver trabecula formation
+GO:0060954	neural crest-derived cardiac glial cell development
+GO:0055013	cardiac muscle cell development
+GO:0021514	ventral spinal cord interneuron differentiation
+GO:0021643	vagus nerve maturation
+GO:0042067	establishment of ommatidial planar polarity
+GO:0043362	nucleate erythrocyte maturation
+GO:0048738	cardiac muscle tissue development
+GO:0021986	habenula development
+GO:0002930	trabecular meshwork development
+GO:0061792	secretory granule maturation
+GO:0021537	telencephalon development
+GO:1902691	respiratory basal cell differentiation
+GO:0048837	sorocarp sorus development
+GO:0061521	hepatic stellate cell differentiation
+GO:0070790	phialide development
+GO:0035214	eye-antennal disc development
+GO:0042668	auditory receptor cell fate determination
+GO:0048822	enucleate erythrocyte development
+GO:0060838	lymphatic endothelial cell fate commitment
+GO:0048803	imaginal disc-derived male genitalia morphogenesis
+GO:0031149	sorocarp stalk cell differentiation
+GO:0048905	anterior lateral line neuromast mantle cell differentiation
+GO:0036305	ameloblast differentiation
+GO:0060218	hematopoietic stem cell differentiation
+GO:0072242	metanephric DCT cell fate commitment
+GO:0031076	embryonic camera-type eye development
+GO:0003200	endocardial cushion to mesenchymal transition involved in heart chamber septation
+GO:0060839	endothelial cell fate commitment
+GO:1905177	tracheary element differentiation
+GO:0007477	notum development
+GO:0035116	embryonic hindlimb morphogenesis
+GO:0160109	plant gross anatomical part developmental process
+GO:0035846	oviduct epithelium development
+GO:0003282	ventricular septum intermedium development
+GO:0048732	gland development
+GO:0060216	definitive hemopoiesis
+GO:0070787	conidiophore development
+GO:0045498	sex comb development
+GO:0060534	trachea cartilage development
+GO:0048806	genitalia development
+GO:0035139	pelvic fin morphogenesis
+GO:0021725	superior raphe nucleus development
+GO:0003190	atrioventricular valve formation
+GO:1905499	trichome papilla formation
+GO:0034238	macrophage fusion
+GO:0035142	dorsal fin morphogenesis
+GO:0060537	muscle tissue development
+GO:0003167	atrioventricular bundle cell differentiation
+GO:0060535	trachea cartilage morphogenesis
+GO:0021649	vestibulocochlear nerve structural organization
+GO:0060643	epithelial cell differentiation involved in mammary gland bud morphogenesis
+GO:0008364	pupal chitin-based cuticle development
+GO:0001715	ectodermal cell fate specification
+GO:0060606	tube closure
+GO:0035904	aorta development
+GO:0060926	cardiac pacemaker cell development
+GO:0061272	mesonephric connecting tubule development
+GO:0019099	female germ-line sex determination
+GO:0002299	alpha-beta intraepithelial T cell differentiation
+GO:0048793	pronephros development
+GO:1990523	bone regeneration
+GO:0048393	intermediate mesodermal cell fate commitment
+GO:0021530	spinal cord oligodendrocyte cell fate specification
+GO:0090628	plant epidermal cell fate specification
+GO:0021887	hypothalamus gonadotrophin-releasing hormone neuron fate commitment
+GO:0002338	B-1b B cell differentiation
+GO:0072188	metanephric cap specification
+GO:0021634	optic nerve formation
+GO:0001865	NK T cell differentiation
+GO:0010492	maintenance of shoot apical meristem identity
+GO:0072045	convergent extension involved in nephron morphogenesis
+GO:0007491	sternite morphogenesis
+GO:0007277	pole cell development
+GO:0071688	striated muscle myosin thick filament assembly
+GO:0045466	R7 cell differentiation
+GO:0099134	chimeric sorocarp development
+GO:0021527	spinal cord association neuron differentiation
+GO:0048667	cell morphogenesis involved in neuron differentiation
+GO:0048916	posterior lateral line development
+GO:0003361	noradrenergic neuron differentiation involved in brainstem development
+GO:0003164	His-Purkinje system development
+GO:0003418	growth plate cartilage chondrocyte differentiation
+GO:0010584	pollen exine formation
+GO:0060641	mammary gland duct regression in males
+GO:0090177	establishment of planar polarity involved in neural tube closure
+GO:0021681	cerebellar granular layer development
+GO:0045198	establishment of epithelial cell apical/basal polarity
+GO:0060947	cardiac vascular smooth muscle cell differentiation
+GO:0021959	cuneatus tract morphogenesis
+GO:0010071	root meristem specification
+GO:0021943	formation of radial glial scaffolds
+GO:0060955	neural crest-derived cardiac glial cell fate commitment
+GO:0003179	heart valve morphogenesis
+GO:0035622	intrahepatic bile duct development
+GO:0042688	crystal cell differentiation
+GO:0007443	Malpighian tubule morphogenesis
+GO:0002051	osteoblast fate commitment
+GO:0034302	akinete formation
+GO:0071529	cementum mineralization
+GO:0061470	T follicular helper cell differentiation
+GO:0036446	myofibroblast differentiation
+GO:0048461	flower structural organization
+GO:0061561	trigeminal ganglion formation
+GO:0061554	ganglion formation
+GO:0021749	ventral cochlear nucleus development
+GO:0097536	thymus epithelium morphogenesis
+GO:0060743	epithelial cell maturation involved in prostate gland development
+GO:0060937	cardiac fibroblast cell fate commitment
+GO:0021767	mammillary body development
+GO:0007538	primary sex determination
+GO:0021690	cerebellar molecular layer maturation
+GO:0072250	metanephric podocyte cell fate commitment
+GO:0061332	Malpighian tubule bud morphogenesis
+GO:0007437	adult salivary gland morphogenesis
+GO:0042671	retinal cone cell fate determination
+GO:0061193	taste bud development
+GO:0021989	olfactory cortex development
+GO:0031128	developmental induction
+GO:0072229	metanephric proximal convoluted tubule development
+GO:0007552	metamorphosis
+GO:0072251	metanephric juxtaglomerulus cell differentiation
+GO:0010234	anther wall tapetum cell fate specification
+GO:0003291	atrial septum intermedium morphogenesis
+GO:0043009	chordate embryonic development
+GO:0021898	commitment of multipotent stem cells to neuronal lineage in forebrain
+GO:0007394	dorsal closure, elongation of leading edge cells
+GO:0060886	clearance of cells from fusion plate by epithelial to mesenchymal transition
+GO:0008587	imaginal disc-derived wing margin morphogenesis
+GO:0048541	Peyer's patch development
+GO:0072120	pronephros maturation
+GO:0061079	left horn of sinus venosus development
+GO:0060582	cell fate determination involved in pattern specification
+GO:0048864	stem cell development
+GO:0003293	heart valve cell differentiation
+GO:0060674	placenta blood vessel development
+GO:0060745	mammary gland branching involved in pregnancy
+GO:0021665	rhombomere 5 structural organization
+GO:0042247	establishment of planar polarity of follicular epithelium
+GO:0048899	anterior lateral line development
+GO:0022416	chaeta development
+GO:0061061	muscle structure development
+GO:2001197	basement membrane assembly involved in embryonic body morphogenesis
+GO:0014001	sclerenchyma cell differentiation
+GO:0021731	trigeminal motor nucleus development
+GO:0055002	striated muscle cell development
+GO:0035912	dorsal aorta morphogenesis
+GO:0009836	fruit ripening, climacteric
+GO:0048663	neuron fate commitment
+GO:0072187	metanephric cap formation
+GO:0035153	epithelial cell type specification, open tracheal system
+GO:0060367	sagittal suture morphogenesis
+GO:0014706	striated muscle tissue development
+GO:0072059	cortical collecting duct development
+GO:0048341	paraxial mesoderm formation
+GO:0021963	spinothalamic tract morphogenesis
+GO:0014037	Schwann cell differentiation
+GO:0007287	Nebenkern assembly
+GO:0003181	atrioventricular valve morphogenesis
+GO:0003272	endocardial cushion formation
+GO:0160175	somatic muscle attachment to chitin-based cuticle
+GO:0061238	establishment of planar polarity involved in mesonephric nephron morphogenesis
+GO:0061071	urethra epithelium development
+GO:0072299	negative regulation of metanephric glomerulus development
+GO:0003144	embryonic heart tube formation
+GO:0061329	Malpighian tubule principal cell differentiation
+GO:0060219	camera-type eye photoreceptor cell differentiation
+GO:0046544	development of secondary male sexual characteristics
+GO:0030715	oocyte growth in germarium-derived egg chamber
+GO:0072171	mesonephric tubule morphogenesis
+GO:0001711	endodermal cell fate commitment
+GO:0060923	cardiac muscle cell fate commitment
+GO:0042093	T-helper cell differentiation
+GO:0060874	posterior semicircular canal development
+GO:0021503	neural fold bending
+GO:0021528	commissural neuron differentiation in spinal cord
+GO:0002318	myeloid progenitor cell differentiation
+GO:0007430	terminal branching, open tracheal system
+GO:0035474	selective angioblast sprouting
+GO:1990375	baculum development
+GO:0022023	radial glial cell fate commitment in forebrain
+GO:0046843	dorsal appendage formation
+GO:0003328	pancreatic D cell fate commitment
+GO:0021982	pineal gland development
+GO:0014044	Schwann cell development
+GO:1903703	enterocyte differentiation
+GO:0002304	gamma-delta intraepithelial T cell differentiation
+GO:1905270	Meynert cell differentiation
+GO:0048559	establishment of floral organ orientation
+GO:0048370	lateral mesoderm formation
+GO:0035270	endocrine system development
+GO:0039022	pronephric duct development
+GO:0002074	extraocular skeletal muscle development
+GO:0003364	lamellipodium assembly involved in mesendodermal cell migration
+GO:0030217	T cell differentiation
+GO:0048762	mesenchymal cell differentiation
+GO:0043369	CD4-positive or CD8-positive, alpha-beta T cell lineage commitment
+GO:0060598	dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis
+GO:0061156	pulmonary artery morphogenesis
+GO:0048665	neuron fate specification
+GO:0043354	enucleate erythrocyte maturation
+GO:0061101	neuroendocrine cell differentiation
+GO:0061379	inferior colliculus development
+GO:0061328	posterior Malpighian tubule development
+GO:0045497	female analia development
+GO:0021614	glossopharyngeal nerve maturation
+GO:0097737	acquisition of mycelium reproductive competence
+GO:0010015	root morphogenesis
+GO:0050872	white fat cell differentiation
+GO:0160108	animal gross anatomical part developmental process
+GO:0099135	chimeric colonial development
+GO:0021600	abducens nerve structural organization
+GO:0030910	olfactory placode formation
+GO:0014016	neuroblast differentiation
+GO:0021956	central nervous system interneuron axonogenesis
+GO:0060795	cell fate commitment involved in formation of primary germ layer
+GO:0000769	syncytium formation by mitosis without cytokinesis
+GO:0048752	semicircular canal morphogenesis
+GO:0048704	embryonic skeletal system morphogenesis
+GO:0046664	dorsal closure, amnioserosa morphology change
+GO:0035096	larval midgut cell programmed cell death
+GO:0061180	mammary gland epithelium development
+GO:0051145	smooth muscle cell differentiation
+GO:0071542	dopaminergic neuron differentiation
+GO:0042815	bipolar cell growth
+GO:0035910	ascending aorta morphogenesis
+GO:0021764	amygdala development
+GO:0061452	retrotrapezoid nucleus neuron differentiation
+GO:0060445	branching involved in salivary gland morphogenesis
+GO:0099137	altruistic, chimeric, non-reproductive fruiting body development
+GO:0048728	proboscis development
+GO:0048477	oogenesis
+GO:0060779	secondary leaflet morphogenesis
+GO:0007425	epithelial cell fate determination, open tracheal system
+GO:0090103	cochlea morphogenesis
+GO:0035680	posterior lateral line neuromast hair cell morphogenesis
+GO:0007539	primary sex determination, soma
+GO:0048796	swim bladder maturation
+GO:0072080	nephron tubule development
+GO:0021762	substantia nigra development
+GO:0009912	auditory receptor cell fate commitment
+GO:0060675	ureteric bud morphogenesis
+GO:0030324	lung development
+GO:0072257	metanephric nephron tubule epithelial cell differentiation
+GO:0072009	nephron epithelium development
+GO:0090598	male anatomical structure morphogenesis
+GO:0075283	sporulation resulting in formation of a multicellular or syncytial spore
+GO:0060185	outer ear unfolding
+GO:0007278	pole cell fate determination
+GO:0021751	salivary nucleus development
+GO:0021782	glial cell development
+GO:0007470	prothoracic disc morphogenesis
+GO:0003142	cardiogenic plate morphogenesis
+GO:0048467	gynoecium development
+GO:0001831	trophectodermal cellular morphogenesis
+GO:0060642	white fat cell differentiation involved in mammary gland fat development
+GO:0003183	mitral valve morphogenesis
+GO:0072208	metanephric smooth muscle tissue development
+GO:0060363	cranial suture morphogenesis
+GO:0002333	transitional one stage B cell differentiation
+GO:0061153	trachea gland development
+GO:0042750	hibernation
+GO:0021746	solitary nucleus development
+GO:0007369	gastrulation
+GO:0007306	egg chorion assembly
+GO:0060173	limb development
+GO:0060174	limb bud formation
+GO:0030239	myofibril assembly
+GO:0097719	neural tissue regeneration
+GO:0030225	macrophage differentiation
+GO:0002272	plasmacytoid dendritic cell differentiation involved in immune response
+GO:0021732	midbrain-hindbrain boundary maturation
+GO:0032474	otolith morphogenesis
+GO:0007501	mesodermal cell fate specification
+GO:0035907	dorsal aorta development
+GO:0048808	male genitalia morphogenesis
+GO:0072193	ureter smooth muscle cell differentiation
+GO:0072141	renal interstitial fibroblast development
+GO:0060348	bone development
+GO:0030708	germarium-derived female germ-line cyst encapsulation
+GO:0046549	retinal cone cell development
+GO:0010214	seed coat development
+GO:0001701	in utero embryonic development
+GO:0021713	inferior olivary nucleus development
+GO:0120223	larynx morphogenesis
+GO:0090610	bundle sheath cell fate specification
+GO:0045463	R8 cell development
+GO:0061237	convergent extension involved in mesonephric nephron morphogenesis
+GO:0036302	atrioventricular canal development
+GO:0061265	mesonephric nephron tubule epithelial cell differentiation
+GO:0070656	mechanoreceptor differentiation involved in mechanosensory epithelium regeneration
+GO:0009560	embryo sac egg cell differentiation
+GO:0048853	forebrain morphogenesis
+GO:0061032	visceral serous pericardium development
+GO:0140059	dendrite arborization
+GO:0009960	endosperm development
+GO:0061972	dermal bone morphogenesis
+GO:0021676	rhombomere 8 structural organization
+GO:0003210	cardiac atrium formation
+GO:0002075	somitomeric trunk muscle development
+GO:0003409	optic cup structural organization
+GO:0007421	stomatogastric nervous system development
+GO:1905420	vascular associated smooth muscle cell differentiation involved in phenotypic switching
+GO:0072235	metanephric distal tubule development
+GO:0001752	compound eye photoreceptor fate commitment
+GO:0048140	male germ-line cyst encapsulation
+GO:0014814	axon regeneration at neuromuscular junction
+GO:0061248	mesonephric glomerulus vasculature morphogenesis
+GO:0007431	salivary gland development
+GO:0072195	kidney smooth muscle cell differentiation
+GO:0021738	fastigial nucleus development
+GO:0009835	fruit ripening
+GO:0010784	proboscis morphogenesis, clypeo-labral disc-derived
+GO:0035217	labial disc development
+GO:0072072	kidney stroma development
+GO:0048464	flower calyx development
+GO:0061683	branching involved in seminal vesicle morphogenesis
+GO:0021704	locus ceruleus morphogenesis
+GO:0010927	cellular component assembly involved in morphogenesis
+GO:0021570	rhombomere 4 development
+GO:0048612	post-embryonic ectodermal digestive tract development
+GO:1902182	shoot apical meristem development
+GO:0072244	metanephric glomerular epithelium development
+GO:0061445	endocardial cushion cell fate commitment
+GO:0003403	optic vesicle formation
+GO:0001569	branching involved in blood vessel morphogenesis
+GO:0061266	mesonephric interstitial fibroblast differentiation
+GO:0031382	mating projection formation
+GO:0030583	myxococcal fruiting body development
+GO:0009994	oocyte differentiation
+GO:0010431	seed maturation
+GO:0051146	striated muscle cell differentiation
+GO:0072238	metanephric long nephron development
+GO:1902638	neural crest cell differentiation involved in parathyroid gland development
+GO:0003290	atrial septum secundum morphogenesis
+GO:0021895	cerebral cortex neuron differentiation
+GO:0061205	paramesonephric duct development
+GO:0010016	shoot system morphogenesis
+GO:0021611	facial nerve formation
+GO:0003209	cardiac atrium morphogenesis
+GO:0072145	proximal convoluted tubule segment 1 cell development
+GO:1905962	glutamatergic neuron differentiation
+GO:0009553	embryo sac development
+GO:0009913	epidermal cell differentiation
+GO:0060924	atrial cardiac muscle cell fate commitment
+GO:0060235	lens induction in camera-type eye
+GO:0062010	primitive palate development
+GO:0048381	lateral mesoderm structural organization
+GO:0048448	stamen morphogenesis
+GO:0003362	noradrenergic neuron fate commitment involved in brainstem development
+GO:0021509	roof plate formation
+GO:0007494	midgut development
+GO:0048772	leucophore differentiation
+GO:0048052	R1/R6 cell differentiation
+GO:0021631	optic nerve morphogenesis
+GO:0030539	male genitalia development
+GO:0021783	preganglionic parasympathetic fiber development
+GO:0007472	wing disc morphogenesis
+GO:0071698	olfactory placode development
+GO:0048812	neuron projection morphogenesis
+GO:0030154	cell differentiation
+GO:0048342	paraxial mesodermal cell differentiation
+GO:0021974	trigeminothalamic tract morphogenesis
+GO:0055116	entry into reproductive diapause
+GO:0010055	atrichoblast differentiation
+GO:0048708	astrocyte differentiation
+GO:0060431	primary lung bud formation
+GO:0061130	pancreatic bud formation
+GO:0014005	microglia development
+GO:0021884	forebrain neuron development
+GO:0080086	stamen filament development
+GO:0060706	cell differentiation involved in embryonic placenta development
+GO:0048402	intermediate mesoderm structural organization
+GO:0048314	embryo sac morphogenesis
+GO:0160038	somatic sensory system development
+GO:0003316	establishment of myocardial progenitor cell apical/basal polarity
+GO:0090425	acinar cell differentiation
+GO:0060669	embryonic placenta morphogenesis
+GO:0048756	sieve cell differentiation
+GO:0048700	acquisition of desiccation tolerance in seed
+GO:0048369	lateral mesoderm morphogenesis
+GO:0003360	brainstem development
+GO:0043585	nose morphogenesis
+GO:0048438	floral whorl development
+GO:0021686	cerebellar granular layer maturation
+GO:0060655	branching involved in mammary gland cord morphogenesis
+GO:0097086	amniotic stem cell differentiation
+GO:0048911	efferent axon development in anterior lateral line nerve
+GO:0097095	frontonasal suture morphogenesis
+GO:0072093	metanephric renal vesicle formation
+GO:0060885	clearance of cells from fusion plate by apoptotic process
+GO:0039020	pronephric nephron tubule development
+GO:0021553	olfactory nerve development
+GO:0061973	membrane bone morphogenesis
+GO:0048536	spleen development
+GO:0007547	germ-line processes downstream of sex determination signal
+GO:0021991	neural plate thickening
+GO:0014908	myotube differentiation involved in skeletal muscle regeneration
+GO:0048469	cell maturation
+GO:0080128	anther septum development
+GO:0060522	inductive mesenchymal to epithelial cell signaling
+GO:0000768	syncytium formation by plasma membrane fusion
+GO:0007508	larval heart development
+GO:0021579	medulla oblongata morphogenesis
+GO:1905316	superior endocardial cushion morphogenesis
+GO:0001843	neural tube closure
+GO:0014023	neural rod formation
+GO:0060842	arterial endothelial cell differentiation
+GO:0048318	axial mesoderm development
+GO:0072246	metanephric glomerular parietal epithelial cell development
+GO:1904125	convergent extension involved in rhombomere morphogenesis
+GO:1905285	fibrous ring of heart morphogenesis
+GO:0060888	limb epidermis stratification
+GO:0002297	T-helper 2 cell lineage commitment
+GO:0060540	diaphragm morphogenesis
+GO:0090017	anterior neural plate formation
+GO:0021763	subthalamic nucleus development
+GO:0160030	pollen intine formation
+GO:0097082	vascular associated smooth muscle cell fate specification
+GO:0060510	type II pneumocyte differentiation
+GO:0048283	indeterminate inflorescence morphogenesis
+GO:0055123	digestive system development
+GO:0003338	metanephros morphogenesis
+GO:0035854	eosinophil fate commitment
+GO:0061626	pharyngeal arch artery morphogenesis
+GO:0030237	female sex determination
+GO:0033333	fin development
+GO:0048621	post-embryonic digestive tract morphogenesis
+GO:0060948	cardiac vascular smooth muscle cell development
+GO:0045136	development of secondary sexual characteristics
+GO:0072207	metanephric epithelium development
+GO:0048761	collenchyma cell differentiation
+GO:0022038	corpus callosum development
+GO:0035138	pectoral fin morphogenesis
+GO:1904156	DN3 thymocyte differentiation
+GO:0060788	ectodermal placode formation
+GO:0048514	blood vessel morphogenesis
+GO:0007535	donor selection
+GO:0008544	epidermis development
+GO:0061444	endocardial cushion cell development
+GO:0060705	neuron differentiation involved in salivary gland development
+GO:0021765	cingulate gyrus development
+GO:0061380	superior colliculus development
+GO:0075285	sexual sporulation resulting in formation of a multicellular or syncytial spore
+GO:0048282	determinate inflorescence morphogenesis
+GO:0072247	metanephric glomerular parietal epithelial cell fate commitment
+GO:0001570	vasculogenesis
+GO:0048798	swim bladder inflation
+GO:0048940	anterior lateral line nerve glial cell morphogenesis involved in differentiation
+GO:0072021	ascending thin limb development
+GO:0072016	glomerular parietal epithelial cell development
+GO:0010618	aerenchyma formation
+GO:0048371	lateral mesodermal cell differentiation
+GO:0072243	metanephric nephron epithelium development
+GO:0048824	pigment cell precursor differentiation
+GO:0072259	metanephric interstitial fibroblast development
+GO:0072066	prebend segment development
+GO:0035880	embryonic nail plate morphogenesis
+GO:0048917	posterior lateral line ganglion development
+GO:0072151	mesangial cell fate commitment
+GO:0060066	oviduct development
+GO:0060843	venous endothelial cell differentiation
+GO:0001885	endothelial cell development
+GO:0009888	tissue development
+GO:0010451	floral meristem growth
+GO:0061298	retina vasculature development in camera-type eye
+GO:0060288	formation of a compartment boundary
+GO:0048733	sebaceous gland development
+GO:0072226	metanephric long descending thin limb bend development
+GO:0072140	DCT cell development
+GO:0030706	germarium-derived oocyte differentiation
+GO:0048867	stem cell fate determination
+GO:0003344	pericardium morphogenesis
+GO:0060462	lung lobe development
+GO:0021893	cerebral cortex GABAergic interneuron fate commitment
+GO:0048915	posterior lateral line system development
+GO:0072044	collecting duct development
+GO:0048839	inner ear development
+GO:0060562	epithelial tube morphogenesis
+GO:0060532	bronchus cartilage development
+GO:0002329	pre-B cell differentiation
+GO:0001555	oocyte growth
+GO:0072077	renal vesicle morphogenesis
+GO:0060055	angiogenesis involved in wound healing
+GO:0048802	notum morphogenesis
+GO:0007527	adult somatic muscle development
+GO:0060415	muscle tissue morphogenesis
+GO:0048656	anther wall tapetum formation
+GO:0060857	establishment of glial blood-brain barrier
+GO:0035263	genital disc sexually dimorphic development
+GO:0097368	establishment of Sertoli cell barrier
+GO:0055011	atrial cardiac muscle cell differentiation
+GO:0090696	post-embryonic plant organ development
+GO:0060603	mammary gland duct morphogenesis
+GO:0008584	male gonad development
+GO:0060434	bronchus morphogenesis
+GO:0035129	post-embryonic hindlimb morphogenesis
+GO:0071984	maintenance of reproductive diapause
+GO:0021589	cerebellum structural organization
+GO:0007420	brain development
+GO:0030282	bone mineralization
+GO:0021701	cerebellar Golgi cell differentiation
+GO:0030238	male sex determination
+GO:0030099	myeloid cell differentiation
+GO:0007465	R7 cell fate commitment
+GO:0072117	head kidney formation
+GO:0048794	swim bladder development
+GO:0060616	mammary gland cord formation
+GO:0001552	ovarian follicle atresia
+GO:0090644	age-related resistance
+GO:0009790	embryo development
+GO:0060936	cardiac fibroblast cell development
+GO:0060318	definitive erythrocyte differentiation
+GO:1905314	semi-lunar valve development
+GO:0061070	female urethra development
+GO:0007493	endodermal cell fate determination
+GO:0021888	hypothalamus gonadotrophin-releasing hormone neuron development
+GO:0061287	mesonephric capsule formation
+GO:0001759	organ induction
+GO:0021516	dorsal spinal cord development
+GO:0070309	lens fiber cell morphogenesis
+GO:0035294	determination of wing disc primordium
+GO:0048851	hypophysis formation
+GO:0021602	cranial nerve morphogenesis
+GO:0075197	haustorium neck formation
+GO:0035163	embryonic hemocyte differentiation
+GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation
+GO:0060577	pulmonary vein morphogenesis
+GO:0061029	eyelid development in camera-type eye
+GO:0003390	dendrite development by retrograde extension
+GO:0061386	closure of optic fissure
+GO:0075029	formation of appressorium germ tube hook structure
+GO:0060120	inner ear receptor cell fate commitment
+GO:0072260	metanephric interstitial fibroblast fate commitment
+GO:0061147	endocardial endothelium development
+GO:0001751	compound eye photoreceptor cell differentiation
+GO:0009559	embryo sac central cell differentiation
+GO:0003158	endothelium development
+GO:0021592	fourth ventricle development
+GO:0060411	cardiac septum morphogenesis
+GO:0021629	olfactory nerve structural organization
+GO:0061447	endocardial cushion cell fate specification
+GO:0035858	eosinophil fate determination
+GO:0003196	ventriculo bulbo valve formation
+GO:0048918	posterior lateral line nerve development
+GO:0021983	pituitary gland development
+GO:0002336	B-1 B cell lineage commitment
+GO:0048701	embryonic cranial skeleton morphogenesis
+GO:0032836	glomerular basement membrane development
+GO:0072539	T-helper 17 cell differentiation
+GO:0090102	cochlea development
+GO:0071700	olfactory placode maturation
+GO:1904818	visceral peritoneum development
+GO:0060133	somatotropin secreting cell development
+GO:0061141	lung ciliated cell differentiation
+GO:0061268	mesonephric interstitial fibroblast fate commitment
+GO:1903867	extraembryonic membrane development
+GO:0042472	inner ear morphogenesis
+GO:0061233	mesonephric glomerular basement membrane development
+GO:0035779	angioblast cell differentiation
+GO:0003382	epithelial cell morphogenesis
+GO:0001823	mesonephros development
+GO:0030325	adrenal gland development
+GO:0061034	olfactory bulb mitral cell layer development
+GO:0010065	primary meristem tissue development
+GO:0009563	synergid differentiation
+GO:0062075	pollen aperture formation
+GO:0048483	autonomic nervous system development
+GO:0014036	neural crest cell fate specification
+GO:0061322	disseminated nephrocyte differentiation
+GO:0035166	post-embryonic hemopoiesis
+GO:0033077	T cell differentiation in thymus
+GO:0003221	right ventricular cardiac muscle tissue morphogenesis
+GO:0061262	mesonephric renal vesicle formation
+GO:0048454	sepal structural organization
+GO:0002244	hematopoietic progenitor cell differentiation
+GO:0061038	uterus morphogenesis
+GO:0055001	muscle cell development
+GO:0001955	blood vessel maturation
+GO:0002314	germinal center B cell differentiation
+GO:0021750	vestibular nucleus development
+GO:0035136	forelimb morphogenesis
+GO:0072283	metanephric renal vesicle morphogenesis
+GO:0048929	efferent axon development in posterior lateral line nerve
+GO:0021623	oculomotor nerve formation
+GO:0010440	stomatal lineage progression
+GO:0072287	metanephric distal tubule morphogenesis
+GO:0030714	anterior/posterior axis specification, follicular epithelium
+GO:0021694	cerebellar Purkinje cell layer formation
+GO:0090436	leaf pavement cell development
+GO:0021533	cell differentiation in hindbrain
+GO:0097421	liver regeneration
+GO:0072071	kidney interstitial fibroblast differentiation
+GO:0035162	embryonic hemopoiesis
+GO:0021859	pyramidal neuron differentiation
+GO:0003322	pancreatic A cell development
+GO:0021541	ammon gyrus development
+GO:0060949	cardiac vascular smooth muscle cell fate commitment
+GO:0072060	outer medullary collecting duct development
+GO:0072273	metanephric nephron morphogenesis
+GO:0040032	post-embryonic body morphogenesis
+GO:0003146	heart jogging
+GO:0061275	mesonephric proximal tubule development
+GO:0003203	endocardial cushion morphogenesis
+GO:0007455	eye-antennal disc morphogenesis
+GO:0035315	hair cell differentiation
+GO:0003324	pancreatic D cell development
+GO:0060366	lambdoid suture morphogenesis
+GO:0090421	embryonic meristem initiation
+GO:0008365	adult chitin-based cuticle development
+GO:0099136	chimeric non-reproductive fruiting body development
+GO:0055006	cardiac cell development
+GO:0060985	epicardium-derived cardiac vascular smooth muscle cell fate commitment
+GO:0035503	ureter part of ureteric bud development
+GO:0060526	prostate glandular acinus morphogenesis
+GO:0062211	root regeneration
+GO:0035678	neuromast hair cell morphogenesis
+GO:0061376	mammillotegmental axonal tract development
+GO:0060484	lung-associated mesenchyme development
+GO:0072010	glomerular epithelium development
+GO:0007483	genital disc morphogenesis
+GO:0072280	establishment of planar polarity involved in metanephric nephron morphogenesis
+GO:0003381	epithelial cell morphogenesis involved in gastrulation
+GO:0098508	endothelial to hematopoietic transition
+GO:1904238	pericyte cell differentiation
+GO:0072176	nephric duct development
+GO:0071983	exit from reproductive diapause
+GO:0160083	exhausted T cell differentiation
+GO:0008406	gonad development
+GO:0072114	pronephros morphogenesis
+GO:0002362	CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment
+GO:0003148	outflow tract septum morphogenesis
+GO:0043934	sporulation
+GO:0021692	cerebellar Purkinje cell layer morphogenesis
+GO:0035143	caudal fin morphogenesis
+GO:0060426	lung vasculature development
+GO:0021916	inductive cell-cell signaling between paraxial mesoderm and motor neuron precursors
+GO:0072213	metanephric capsule development
+GO:0001707	mesoderm formation
+GO:0120166	protoperithecium formation
+GO:0042476	odontogenesis
+GO:0035844	cloaca development
+GO:0061072	iris morphogenesis
+GO:0007432	salivary gland boundary specification
+GO:0003169	coronary vein morphogenesis
+GO:0043367	CD4-positive, alpha-beta T cell differentiation
+GO:0048327	axial mesodermal cell fate specification
+GO:0070308	lens fiber cell fate commitment
+GO:0060130	thyroid-stimulating hormone-secreting cell development
+GO:0060459	left lung development
+GO:0001705	ectoderm formation
+GO:0002089	lens morphogenesis in camera-type eye
+GO:0060324	face development
+GO:0048735	haltere morphogenesis
+GO:0045137	development of primary sexual characteristics
+GO:0021735	dentate nucleus development
+GO:0120165	perithecium development
+GO:0031288	sorocarp morphogenesis
+GO:0014816	skeletal muscle satellite cell differentiation
+GO:0060319	primitive erythrocyte differentiation
+GO:0060442	branching involved in prostate gland morphogenesis
+GO:0043055	maintenance of dauer
+GO:0001556	oocyte maturation
+GO:0021706	locus ceruleus maturation
+GO:0035156	fusion cell fate specification
+GO:0021546	rhombomere development
+GO:0048626	myoblast fate specification
+GO:0021886	hypothalamus gonadotrophin-releasing hormone neuron differentiation
+GO:0003388	neuron development involved in amphid sensory organ development
+GO:0060465	pharynx development
+GO:0035070	salivary gland histolysis
+GO:0072224	metanephric glomerulus development
+GO:0016335	morphogenesis of larval imaginal disc epithelium
+GO:0002342	central B cell deletion
+GO:0055009	atrial cardiac muscle tissue morphogenesis
+GO:0061232	mesonephric glomerular epithelium development
+GO:0070307	lens fiber cell development
+GO:0002117	amphibian larval development
+GO:0072275	metanephric glomerulus morphogenesis
+GO:0048320	axial mesoderm formation
+GO:0048507	meristem development
+GO:0060015	granulosa cell fate commitment
+GO:0110040	nematode pharynx morphogenesis
+GO:0021905	forebrain-midbrain boundary formation
+GO:0097094	craniofacial suture morphogenesis
+GO:0036099	female germ-line stem cell population maintenance
+GO:0007503	fat body development
+GO:1903131	mononuclear cell differentiation
+GO:1904948	midbrain dopaminergic neuron differentiation
+GO:0048608	reproductive structure development
+GO:0090505	epiboly involved in wound healing
+GO:0150018	basal dendrite development
+GO:0022620	microgametophyte vegetative cell differentiation
+GO:0001703	gastrulation with mouth forming first
+GO:0072234	metanephric nephron tubule development
+GO:0060611	mammary gland fat development
+GO:0060887	limb epidermis development
+GO:0035026	leading edge cell differentiation
+GO:0001828	inner cell mass cellular morphogenesis
+GO:0042814	monopolar cell growth
+GO:0021719	superior olivary nucleus morphogenesis
+GO:0035911	descending aorta morphogenesis
+GO:0010254	nectary development
+GO:0055110	involution involved in gastrulation with mouth forming second
+GO:0003327	type B pancreatic cell fate commitment
+GO:0048443	stamen development
+GO:0010480	microsporocyte differentiation
+GO:0048741	skeletal muscle fiber development
+GO:0060197	cloacal septation
+GO:0010842	retina layer formation
+GO:0021753	superior salivary nucleus development
+GO:0061264	mesonephric glomerular mesangial cell fate commitment
+GO:0021726	lateral reticular nucleus development
+GO:0090392	sepal giant cell differentiation
+GO:0072008	glomerular mesangial cell differentiation
+GO:0061326	renal tubule development
+GO:0010160	formation of animal organ boundary
+GO:0014904	myotube cell development
+GO:0072298	regulation of metanephric glomerulus development
+GO:0036179	osteoclast maturation
+GO:0097187	dentinogenesis
+GO:0061975	articular cartilage development
+GO:0007517	muscle organ development
+GO:0061557	trigeminal ganglion maturation
+GO:0061558	cranial ganglion maturation
+GO:0072178	nephric duct morphogenesis
+GO:0021699	cerebellar cortex maturation
+GO:0048538	thymus development
+GO:0090678	cell dedifferentiation involved in phenotypic switching
+GO:0060440	trachea formation
+GO:0072270	metanephric short nephron development
+GO:0014905	myoblast fusion involved in skeletal muscle regeneration
+GO:0003172	sinoatrial valve development
+GO:0002071	glandular epithelial cell maturation
+GO:0022622	root system development
+GO:0030903	notochord development
+GO:0007545	processes downstream of sex determination signal
+GO:0001839	neural plate morphogenesis
+GO:0034505	tooth mineralization
+GO:0021559	trigeminal nerve development
+GO:0021892	cerebral cortex GABAergic interneuron differentiation
+GO:0048919	posterior lateral line neuromast development
+GO:0060413	atrial septum morphogenesis
+GO:0007424	open tracheal system development
+GO:0060114	vestibular receptor cell differentiation
+GO:0072223	metanephric glomerular mesangium development
+GO:0072220	metanephric descending thin limb development
+GO:0035906	descending aorta development
+GO:0097548	seed abscission
+GO:0043010	camera-type eye development
+GO:0048094	male pigmentation
+GO:0010101	post-embryonic root morphogenesis
+GO:0090018	posterior neural plate formation
+GO:0019827	stem cell population maintenance
+GO:0009847	spore germination
+GO:0072119	head kidney structural organization
+GO:0021717	inferior olivary nucleus maturation
+GO:0003408	optic cup formation involved in camera-type eye development
+GO:0070654	sensory epithelium regeneration
+GO:0021594	rhombomere formation
+GO:0021700	developmental maturation
+GO:0035124	embryonic caudal fin morphogenesis
+GO:0035108	limb morphogenesis
+GO:0022612	gland morphogenesis
+GO:0002009	morphogenesis of an epithelium
+GO:1903709	uterine gland development
+GO:0021606	accessory nerve maturation
+GO:0001942	hair follicle development
+GO:0003323	type B pancreatic cell development
+GO:0003398	glial cell differentiation involved in amphid sensory organ development
+GO:0021714	inferior olivary nucleus morphogenesis
+GO:0060479	lung cell differentiation
+GO:0003417	growth plate cartilage development
+GO:0035310	notum cell fate specification
+GO:1904817	serous membrane development
+GO:0048882	lateral line development
+GO:0055008	cardiac muscle tissue morphogenesis
+GO:0030718	germ-line stem cell population maintenance
+GO:0061026	cardiac muscle tissue regeneration
+GO:1905069	allantois development
+GO:0048534	hematopoietic or lymphoid organ development
+GO:0021670	lateral ventricle development
+GO:0048909	anterior lateral line nerve development
+GO:0090627	plant epidermal cell differentiation
+GO:0048925	lateral line system development
+GO:0033078	extrathymic T cell differentiation
+GO:1903702	esophagus development
+GO:0120316	sperm flagellum assembly
+GO:0061556	trigeminal ganglion morphogenesis
+GO:0021673	rhombomere 7 formation
+GO:0072225	metanephric late distal convoluted tubule development
+GO:0060742	epithelial cell differentiation involved in prostate gland development
+GO:0060736	prostate gland growth
+GO:0021578	hindbrain maturation
+GO:0090104	pancreatic epsilon cell differentiation
+GO:0010444	guard mother cell differentiation
+GO:0009887	animal organ morphogenesis
+GO:0039007	pronephric nephron morphogenesis
+GO:0010004	gastrulation involving germ band extension
+GO:0062248	cleistothecium formation
+GO:0048913	anterior lateral line nerve glial cell differentiation
+GO:0061446	endocardial cushion cell fate determination
+GO:0072150	juxtaglomerulus cell fate commitment
+GO:0061449	olfactory bulb tufted cell development
+GO:0030916	otic vesicle formation
+GO:0021529	spinal cord oligodendrocyte cell differentiation
+GO:0002011	morphogenesis of an epithelial sheet
+GO:0072245	metanephric glomerular parietal epithelial cell differentiation
+GO:0048451	petal formation
+GO:1901706	mesenchymal cell differentiation involved in bone development
+GO:0007496	anterior midgut development
+GO:0021976	medulla reticulospinal tract morphogenesis
+GO:0075255	teliospore formation
+GO:0048368	lateral mesoderm development
+GO:0045299	otolith mineralization
+GO:0031152	aggregation involved in sorocarp development
+GO:0048718	cibarial fish-trap bristle morphogenesis
+GO:0060509	type I pneumocyte differentiation
+GO:0042492	gamma-delta T cell differentiation
+GO:0055034	Bolwig's organ development
+GO:0060461	right lung morphogenesis
+GO:0060832	oocyte animal/vegetal axis specification
+GO:0061223	mesonephric mesenchymal cell differentiation
+GO:0010154	fruit development
+GO:0021521	ventral spinal cord interneuron specification
+GO:0042243	asexual spore wall assembly
+GO:0046546	development of primary male sexual characteristics
+GO:0001826	inner cell mass cell differentiation
+GO:0035127	post-embryonic limb morphogenesis
+GO:0072277	metanephric glomerular capillary formation
+GO:0048315	conidium formation
+GO:0021582	medulla oblongata maturation
+GO:0035847	uterine epithelium development
+GO:0060129	thyroid-stimulating hormone-secreting cell differentiation
+GO:0002294	CD4-positive, alpha-beta T cell differentiation involved in immune response
+GO:0014031	mesenchymal cell development
+GO:0007525	somatic muscle development
+GO:0014837	myoblast fate determination involved in skeletal muscle regeneration
+GO:0048624	plantlet formation on parent plant
+GO:0035628	cystic duct development
+GO:0014818	skeletal muscle satellite cell fate determination
+GO:0099120	socially cooperative development
+GO:0008056	ocellus development
+GO:1904390	cone retinal bipolar cell differentiation
+GO:0007349	cellularization
+GO:0072146	DCT cell fate commitment
+GO:0035261	external genitalia morphogenesis
+GO:0035231	cytoneme assembly
+GO:1990401	embryonic lung development
+GO:0072147	glomerular parietal epithelial cell fate commitment
+GO:0061524	central canal development
+GO:0042386	hemocyte differentiation
+GO:1990963	establishment of blood-retinal barrier
+GO:0060463	lung lobe morphogenesis
+GO:0072269	metanephric long descending thin limb development
+GO:0021872	forebrain generation of neurons
+GO:0048826	cotyledon morphogenesis
+GO:0060528	secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development
+GO:0061551	trigeminal ganglion development
+GO:0035677	posterior lateral line neuromast hair cell development
+GO:0070121	Kupffer's vesicle development
+GO:0048468	cell development
+GO:0002572	pro-T cell differentiation
+GO:0021640	trochlear nerve maturation
+GO:0010057	trichoblast fate specification
+GO:0001840	neural plate development
+GO:0048908	anterior lateral line ganglion neuron differentiation
+GO:0060672	epithelial cell morphogenesis involved in placental branching
+GO:0097496	blood vessel lumen ensheathment
+GO:0061300	cerebellum vasculature development
+GO:0048593	camera-type eye morphogenesis
+GO:0039006	pronephric nephron tubule formation
+GO:0031214	biomineral tissue development
+GO:0048446	petal morphogenesis
+GO:0001822	kidney development
+GO:0075271	zygosporangium development
+GO:0010262	somatic embryogenesis
+GO:0010053	root epidermal cell differentiation
+GO:0061553	ganglion maturation
+GO:0097065	anterior head development
+GO:0032835	glomerulus development
+GO:0021720	superior olivary nucleus formation
+GO:0060713	labyrinthine layer morphogenesis
+GO:0002321	natural killer cell progenitor differentiation
+GO:0010500	transmitting tissue development
+GO:0043353	enucleate erythrocyte differentiation
+GO:0048532	anatomical structure arrangement
+GO:0007422	peripheral nervous system development
+GO:0021566	hypoglossal nerve development
+GO:0048736	appendage development
+GO:0035146	tube fusion
+GO:0021621	hypoglossal nerve structural organization
+GO:0060488	orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis
+GO:0021766	hippocampus development
+GO:0003429	growth plate cartilage chondrocyte morphogenesis
+GO:0035027	leading edge cell fate commitment
+GO:0071600	otic vesicle morphogenesis
+GO:0072050	S-shaped body morphogenesis
+GO:0048720	posterior cibarial plate morphogenesis
+GO:0048139	female germ-line cyst encapsulation
+GO:0045444	fat cell differentiation
+GO:0061144	alveolar secondary septum development
+GO:0075284	asexual sporulation resulting in formation of a multicellular or syncytial spore
+GO:0055010	ventricular cardiac muscle tissue morphogenesis
+GO:0021542	dentate gyrus development
+GO:0021691	cerebellar Purkinje cell layer maturation
+GO:0002335	mature B cell differentiation
+GO:0048926	electrosensory lateral line system development
+GO:0048886	neuromast hair cell differentiation
+GO:1904961	quiescent center organization
+GO:0048449	floral organ formation
+GO:0021744	dorsal motor nucleus of vagus nerve development
+GO:0007512	adult heart development
+GO:0035762	dorsal motor nucleus of vagus nerve morphogenesis
+GO:0048601	oocyte morphogenesis
+GO:0097738	substrate mycelium formation
+GO:0007490	tergite morphogenesis
+GO:0021748	dorsal cochlear nucleus development
+GO:0061053	somite development
+GO:0048892	lateral line nerve development
+GO:0072129	renal capsule formation
+GO:0003174	mitral valve development
+GO:0021504	neural fold hinge point formation
+GO:0072153	renal interstitial fibroblast fate commitment
+GO:0061336	cell morphogenesis involved in Malpighian tubule morphogenesis
+GO:0060439	trachea morphogenesis
+GO:0030097	hemopoiesis
+GO:0002119	nematode larval development
+GO:0021558	trochlear nerve development
+GO:0021688	cerebellar molecular layer formation
+GO:0072113	head kidney development
+GO:0021993	initiation of neural tube closure
+GO:0071696	ectodermal placode development
+GO:0021560	abducens nerve development
+GO:0048453	sepal formation
+GO:0048562	embryonic organ morphogenesis
+GO:0061440	kidney vasculature development
+GO:0021547	midbrain-hindbrain boundary initiation
+GO:0061327	anterior Malpighian tubule development
+GO:0001829	trophectodermal cell differentiation
+GO:1905040	otic placode development
+GO:0021721	superior olivary nucleus structural organization
+GO:0048098	antennal joint development
+GO:0060856	establishment of blood-brain barrier
+GO:0007279	pole cell formation
+GO:0021515	cell differentiation in spinal cord
+GO:0035777	pronephric distal tubule development
+GO:0034294	sexual spore wall assembly
+GO:0060494	inductive mesenchymal-endodermal cell signaling
+GO:1905392	plant organ morphogenesis
+GO:0061515	myeloid cell development
+GO:0003217	cardiac right atrium formation
+GO:0007464	R3/R4 cell fate commitment
+GO:0060900	embryonic camera-type eye formation
+GO:0060464	lung lobe formation
+GO:0060692	mesenchymal cell differentiation involved in salivary gland development
+GO:0003180	aortic valve morphogenesis
+GO:0048805	imaginal disc-derived genitalia morphogenesis
+GO:0008407	chaeta morphogenesis
+GO:0055005	ventricular cardiac myofibril assembly
+GO:0021662	rhombomere 4 structural organization
+GO:0060487	lung epithelial cell differentiation
+GO:0075289	aplanospore formation
+GO:0001655	urogenital system development
+GO:1903701	substantia propria of cornea development
+GO:0061040	female gonad morphogenesis
+GO:0055012	ventricular cardiac muscle cell differentiation
+GO:0021655	rhombomere 2 morphogenesis
+GO:0070166	enamel mineralization
+GO:0060741	prostate gland stromal morphogenesis
+GO:0043053	dauer entry
+GO:0097186	amelogenesis
+GO:0022006	zona limitans intrathalamica formation
+GO:0060115	vestibular receptor cell fate commitment
+GO:0070977	bone maturation
+GO:0060612	adipose tissue development
+GO:0072064	long descending thin limb development
+GO:0036303	lymph vessel morphogenesis
+GO:0072228	metanephric prebend segment development
+GO:0042695	thelarche
+GO:0021647	vestibulocochlear nerve maturation
+GO:0002365	gamma-delta T cell lineage commitment
+GO:0030326	embryonic limb morphogenesis
+GO:0042490	mechanoreceptor differentiation
+GO:0003007	heart morphogenesis
+GO:1904600	mating projection actin fusion focus assembly
+GO:0003143	embryonic heart tube morphogenesis
+GO:0003166	bundle of His development
+GO:0060872	semicircular canal development
+GO:0060374	mast cell differentiation
+GO:0034297	oidium formation
+GO:0007548	sex differentiation
+GO:0042675	compound eye cone cell differentiation
+GO:0021576	hindbrain formation
+GO:0060714	labyrinthine layer formation
+GO:0060890	limb spinous cell differentiation
+GO:0061240	mesonephric nephron tubule morphogenesis
+GO:0002315	marginal zone B cell differentiation
+GO:0030241	skeletal muscle myosin thick filament assembly
+GO:0072264	metanephric glomerular endothelium development
+GO:0048825	cotyledon development
+GO:0016348	imaginal disc-derived leg joint morphogenesis
+GO:0060591	chondroblast differentiation
+GO:0001656	metanephros development
+GO:0035271	ring gland development
+GO:0048050	post-embryonic eye morphogenesis
+GO:0010227	floral organ abscission
+GO:0048441	petal development
+GO:0042679	compound eye cone cell fate specification
+GO:0090077	foam cell differentiation
+GO:1905905	nematode pharyngeal gland morphogenesis
+GO:0035881	amacrine cell differentiation
+GO:0060345	spleen trabecula formation
+GO:0072006	nephron development
+GO:0048721	clypeus morphogenesis
+GO:0030437	ascospore formation
+GO:0060429	epithelium development
+GO:0061073	ciliary body morphogenesis
+GO:0010090	trichome morphogenesis
+GO:0072031	proximal convoluted tubule segment 1 development
+GO:0002268	follicular dendritic cell differentiation
+GO:0060854	branching involved in lymph vessel morphogenesis
+GO:0072177	mesonephric duct development
+GO:0021768	nucleus accumbens development
+GO:0072498	embryonic skeletal joint development
+GO:0048364	root development
+GO:0061239	mesenchymal stem cell differentiation involved in mesonephric nephron morphogenesis
+GO:0035114	imaginal disc-derived appendage morphogenesis
+GO:0002040	sprouting angiogenesis
+GO:0060516	primary prostatic bud elongation
+GO:0071697	ectodermal placode morphogenesis
+GO:0035645	enteric smooth muscle cell differentiation
+GO:0090698	post-embryonic plant morphogenesis
+GO:0061976	temporomandibular joint articular cartilage development
+GO:0010865	stipule development
+GO:0003422	growth plate cartilage morphogenesis
+GO:0043375	CD8-positive, alpha-beta T cell lineage commitment
+GO:0010432	bract development
+GO:0035144	anal fin morphogenesis
+GO:0021612	facial nerve structural organization
+GO:0061214	mesonephric smooth muscle tissue development
+GO:0061107	seminal vesicle development
+GO:0035262	gonad morphogenesis
+GO:0008069	dorsal/ventral axis specification, ovarian follicular epithelium
+GO:0048827	phyllome development
+GO:0021901	early neuron fate commitment in forebrain
+GO:0048317	seed morphogenesis
+GO:0060009	Sertoli cell development
+GO:0003151	outflow tract morphogenesis
+GO:0075009	germ tube formation
+GO:0001827	inner cell mass cell fate commitment
+GO:0021779	oligodendrocyte cell fate commitment
+GO:0048455	stamen formation
+GO:0061198	fungiform papilla formation
+GO:0035905	ascending aorta development
+GO:0007403	glial cell fate determination
+GO:0043589	skin morphogenesis
+GO:0002067	glandular epithelial cell differentiation
+GO:0072233	metanephric thick ascending limb development
+GO:0003160	endocardium morphogenesis
+GO:0030221	basophil differentiation
+GO:0021985	neurohypophysis development
+GO:0007390	germ-band shortening
+GO:0010208	pollen wall assembly
+GO:0021784	postganglionic parasympathetic fiber development
+GO:0021890	olfactory bulb interneuron fate commitment
+GO:0061271	mesenchymal to epithelial transition involved in mesonephric renal vesicle formation
+GO:0021675	nerve development
+GO:0106091	glial cell projection elongation
+GO:0072121	head kidney maturation
+GO:0048382	mesendoderm development
+GO:0003149	membranous septum morphogenesis
+GO:0048437	floral organ development
+GO:0002273	plasmacytoid dendritic cell differentiation
+GO:0070659	inner ear sensory epithelium regeneration
+GO:0021854	hypothalamus development
+GO:0030851	granulocyte differentiation
+GO:0046552	photoreceptor cell fate commitment
+GO:0008052	sensory organ boundary specification
+GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation
+GO:0002072	optic cup morphogenesis involved in camera-type eye development
+GO:0021952	central nervous system projection neuron axonogenesis
+GO:0021672	rhombomere 7 structural organization
+GO:0090597	nematode male tail mating organ morphogenesis
+GO:0002292	T cell differentiation involved in immune response
+GO:0055003	cardiac myofibril assembly
+GO:0003194	sinoatrial valve formation
+GO:0048452	petal structural organization
+GO:0060576	intestinal epithelial cell development
+GO:0021551	central nervous system morphogenesis
+GO:0021878	forebrain astrocyte fate commitment
+GO:0014022	neural plate elongation
+GO:0001713	ectodermal cell fate determination
+GO:1990045	sclerotium development
+GO:0106154	perithecium formation
+GO:0097097	nasal suture morphogenesis
+GO:0001410	chlamydospore formation
+GO:0000753	cell morphogenesis involved in conjugation with cellular fusion
+GO:0008586	imaginal disc-derived wing vein morphogenesis
+GO:0048856	anatomical structure development
+GO:0075214	spore encystment
+GO:0035260	internal genitalia morphogenesis
+GO:0072265	metanephric capsule morphogenesis
+GO:0010199	organ boundary specification between lateral organs and the meristem
+GO:0021862	early neuron differentiation in forebrain
+GO:0003238	conus arteriosus development
+GO:0003412	establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis
+GO:0021571	rhombomere 5 development
+GO:0048625	myoblast fate commitment
+GO:0010067	procambium histogenesis
+GO:0002293	alpha-beta T cell differentiation involved in immune response
+GO:0090500	endocardial cushion to mesenchymal transition
+GO:0048727	posterior cibarial plate development
+GO:0040022	feminization of hermaphroditic germ-line
+GO:0007291	sperm individualization
+GO:0030182	neuron differentiation
+GO:0061794	conidium development
+GO:0007546	somatic processes downstream of sex determination signal
+GO:0048901	anterior lateral line neuromast development
+GO:0010441	guard cell development
+GO:0070384	Harderian gland development
+GO:0055115	entry into diapause
+GO:0003347	epicardial cell to mesenchymal cell transition
+GO:0090376	seed trichome differentiation
+GO:0002364	NK T cell lineage commitment
+GO:0090470	shoot organ boundary specification
+GO:0021613	facial nerve maturation
+GO:0048537	mucosa-associated lymphoid tissue development
+GO:0060020	Bergmann glial cell differentiation
+GO:1990791	dorsal root ganglion development
+GO:0061303	cornea development in camera-type eye
+GO:0060841	venous blood vessel development
+GO:0060317	cardiac epithelial to mesenchymal transition
+GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0010223	secondary shoot formation
+GO:0001756	somitogenesis
+GO:0003313	heart rudiment development
+GO:0060481	lobar bronchus epithelium development
+GO:0072300	positive regulation of metanephric glomerulus development
+GO:0072218	metanephric ascending thin limb development
+GO:0014030	mesenchymal cell fate commitment
+GO:0048931	posterior lateral line nerve glial cell differentiation
+GO:0060492	lung induction
+GO:0021615	glossopharyngeal nerve morphogenesis
+GO:0061374	mammillothalamic axonal tract development
+GO:0098755	maintenance of seed dormancy by absisic acid
+GO:1904835	dorsal root ganglion morphogenesis
+GO:0048924	posterior lateral line neuromast mantle cell differentiation
+GO:0021501	prechordal plate formation
+GO:0010097	specification of stamen identity
+GO:0075251	uredospore formation
+GO:0010068	protoderm histogenesis
+GO:0048105	establishment of body hair planar orientation
+GO:0021502	neural fold elevation formation
+GO:0048539	bone marrow development
+GO:0003357	noradrenergic neuron differentiation
+GO:0021724	inferior raphe nucleus development
+GO:0075201	penetration hypha formation
+GO:0003222	ventricular trabecula myocardium morphogenesis
+GO:0007460	R8 cell fate commitment
+GO:0032808	lacrimal gland development
+GO:0048730	epidermis morphogenesis
+GO:0003176	aortic valve development
+GO:1904484	cloacal gland development
+GO:0014838	myoblast fate specification involved in skeletal muscle regeneration
+GO:0031077	post-embryonic camera-type eye development
+GO:0045165	cell fate commitment
+GO:0048616	post-embryonic anterior midgut (ectodermal) morphogenesis
+GO:0061206	mesonephros morphogenesis
+GO:0021703	locus ceruleus development
+GO:0060983	epicardium-derived cardiac vascular smooth muscle cell differentiation
+GO:0048850	hypophysis morphogenesis
+GO:0008594	photoreceptor cell morphogenesis
+GO:0072313	metanephric glomerular epithelial cell development
+GO:0043374	CD8-positive, alpha-beta T cell differentiation
+GO:0072002	Malpighian tubule development
+GO:0060933	His-Purkinje system cell development
+GO:0072274	metanephric glomerular basement membrane development
+GO:0030582	reproductive fruiting body development
+GO:0021742	abducens nucleus development
+GO:0061971	replacement bone morphogenesis
+GO:0014707	branchiomeric skeletal muscle development
+GO:0060127	prolactin secreting cell differentiation
+GO:0007311	maternal specification of dorsal/ventral axis, oocyte, germ-line encoded
+GO:0014914	myoblast maturation involved in muscle regeneration
+GO:0021599	abducens nerve formation
+GO:0001949	sebaceous gland cell differentiation
+GO:0035502	metanephric part of ureteric bud development
+GO:0060708	spongiotrophoblast differentiation
+GO:0031102	neuron projection regeneration
+GO:0060604	mammary gland duct cavitation
+GO:0072051	juxtaglomerular apparatus development
+GO:0021685	cerebellar granular layer structural organization
+GO:0002295	T-helper cell lineage commitment
+GO:0002306	CD4-positive gamma-delta intraepithelial T cell differentiation
+GO:0048833	specification of floral organ number
+GO:0043054	dauer exit
+GO:0090254	cell elongation involved in imaginal disc-derived wing morphogenesis
+GO:0060483	lobar bronchus mesenchyme development
+GO:0021639	trochlear nerve morphogenesis
+GO:0021696	cerebellar cortex morphogenesis
+GO:0035019	somatic stem cell population maintenance
+GO:0003315	heart rudiment formation
+GO:0048785	hatching gland development
+GO:0007537	inactivation of recombination (HML)
+GO:0097084	vascular associated smooth muscle cell development
+GO:0060427	lung connective tissue development
+GO:1904836	facioacoustic ganglion morphogenesis
+GO:0003219	cardiac right ventricle formation
+GO:0035679	anterior lateral line neuromast hair cell morphogenesis
+GO:0060412	ventricular septum morphogenesis
+GO:0048903	anterior lateral line neuromast hair cell differentiation
+GO:0061155	pulmonary artery endothelial tube morphogenesis
+GO:0021707	cerebellar granule cell differentiation
+GO:0001658	branching involved in ureteric bud morphogenesis
+GO:0098727	maintenance of cell number
+GO:0060977	coronary vasculature morphogenesis
+GO:0021520	spinal cord motor neuron cell fate specification
+GO:0010052	guard cell differentiation
+GO:0036342	post-anal tail morphogenesis
+GO:0014730	skeletal muscle regeneration at neuromuscular junction
+GO:0060715	syncytiotrophoblast cell differentiation involved in labyrinthine layer development
+GO:0060027	convergent extension involved in gastrulation
+GO:0048567	ectodermal digestive tract morphogenesis
+GO:0035118	embryonic pectoral fin morphogenesis
+GO:0048339	paraxial mesoderm development
+GO:0061211	mesonephric collecting duct development
+GO:0048719	epistomal sclerite morphogenesis
+GO:0072036	mesenchymal to epithelial transition involved in renal vesicle formation
+GO:0021557	oculomotor nerve development
+GO:0061114	branching involved in pancreas morphogenesis
+GO:0001709	cell fate determination
+GO:0003337	mesenchymal to epithelial transition involved in metanephros morphogenesis
+GO:0072068	late distal convoluted tubule development
+GO:0021693	cerebellar Purkinje cell layer structural organization
+GO:0061299	retina vasculature morphogenesis in camera-type eye
+GO:0048849	neurohypophysis formation
+GO:0042706	eye photoreceptor cell fate commitment
+GO:1990402	embryonic liver development
+GO:0061453	interstitial cell of Cajal differentiation
+GO:0048709	oligodendrocyte differentiation
+GO:0048799	animal organ maturation
+GO:0080126	ovary septum development
+GO:0021633	optic nerve structural organization
+GO:0072079	nephron tubule formation
+GO:0060131	corticotropin hormone secreting cell development
+GO:0003407	neural retina development
+GO:0035775	pronephric glomerulus morphogenesis
+GO:0048352	paraxial mesoderm structural organization
+GO:0003240	conus arteriosus formation
+GO:0060940	epithelial to mesenchymal transition involved in cardiac fibroblast development
+GO:0072033	renal vesicle formation
+GO:0021710	cerebellar stellate cell differentiation
+GO:0048906	anterior lateral line neuromast support cell differentiation
+GO:0031099	regeneration
+GO:0060580	ventral spinal cord interneuron fate determination
+GO:0021569	rhombomere 3 development
+GO:0048745	smooth muscle tissue development
+GO:0002063	chondrocyte development
+GO:0061307	cardiac neural crest cell differentiation involved in heart development
+GO:0003311	pancreatic D cell differentiation
+GO:0003399	cytoneme morphogenesis
+GO:0003188	heart valve formation
+GO:0021879	forebrain neuron differentiation
+GO:0060880	cell morphogenesis involved in semicircular canal fusion
+GO:0061108	seminal vesicle epithelium development
+GO:0075259	spore-bearing structure development
+GO:0001737	establishment of imaginal disc-derived wing hair orientation
+GO:0048887	cupula development
+GO:0160029	kidney cortex tubule cell dedifferentiation
+GO:0021728	inferior reticular formation development
+GO:0003320	heart rudiment involution
+GO:0035209	pupal development
+GO:0021549	cerebellum development
+GO:0033505	floor plate morphogenesis
+GO:0021522	spinal cord motor neuron differentiation
+GO:0061256	mesonephric podocyte differentiation
+GO:0060662	salivary gland cavitation
+GO:0035883	enteroendocrine cell differentiation
+GO:1905393	plant organ formation
+GO:0003391	amphid sensory organ dendrite retrograde extension
+GO:0060563	neuroepithelial cell differentiation
+GO:0003227	right ventricular trabecular myocardium morphogenesis
+GO:0042006	masculinization of hermaphroditic germ-line
+GO:0035170	lymph gland crystal cell differentiation
+GO:0048056	R3/R4 cell differentiation
+GO:0120331	endothelial tube formation
+GO:0048921	posterior lateral line neuromast cupula development
+GO:0048440	carpel development
+GO:0010103	stomatal complex morphogenesis
+GO:0060435	bronchiole development
+GO:0021709	cerebellar basket cell differentiation
+GO:0035878	nail development
+GO:0021518	spinal cord commissural neuron specification
+GO:0048801	antennal joint morphogenesis
+GO:0021554	optic nerve development
+GO:0035132	post-embryonic medial fin morphogenesis
+GO:0098749	cerebellar neuron development
+GO:0030222	eosinophil differentiation
+GO:0048058	compound eye corneal lens development
+GO:0060014	granulosa cell differentiation
+GO:0035107	appendage morphogenesis
+GO:0045895	positive regulation of mating-type specific transcription, DNA-templated
+GO:0061145	lung smooth muscle development
+GO:0001549	cumulus cell differentiation
+GO:0009792	embryo development ending in birth or egg hatching
+GO:0035164	embryonic plasmatocyte differentiation
+GO:0002303	gamma-delta T cell differentiation involved in immune response
+GO:0007531	mating type determination
+GO:0007497	posterior midgut development
+GO:0040024	dauer larval development
+GO:0046844	chorion micropyle formation
+GO:0062236	ionocyte differentiation
+GO:0060618	nipple development
+GO:0160058	plant endodermal cell differentiation
+GO:0014035	neural crest cell fate determination
+GO:0021565	accessory nerve development
+GO:0021819	layer formation in cerebral cortex
+GO:0033339	pectoral fin development
+GO:0060942	neural crest-derived cardiac fibroblast cell differentiation
+GO:1902355	endothelial tube lumen extension involved in blood vessel lumen ensheathment
+GO:0022619	generative cell differentiation
+GO:0048845	venous blood vessel morphogenesis
+GO:0080022	primary root development
+GO:0035908	ventral aorta development
+GO:0010374	stomatal complex development
+GO:0097410	hippocampal interneuron differentiation
+GO:1990936	vascular associated smooth muscle cell dedifferentiation
+GO:0060059	embryonic retina morphogenesis in camera-type eye
+GO:0021953	central nervous system neuron differentiation
+GO:0051216	cartilage development
+GO:0003150	muscular septum morphogenesis
+GO:0061439	kidney vasculature morphogenesis
+GO:0002307	CD8-positive, alpha-beta regulatory T cell differentiation
+GO:0060493	mesenchymal-endodermal cell signaling involved in lung induction
+GO:0021658	rhombomere 3 morphogenesis
+GO:0048620	post-embryonic hindgut morphogenesis
+GO:0003201	epithelial to mesenchymal transition involved in coronary vasculature morphogenesis
+GO:0060008	Sertoli cell differentiation
+GO:0061436	establishment of skin barrier
+GO:0044691	tooth eruption
+GO:0003184	pulmonary valve morphogenesis
+GO:0031104	dendrite regeneration
+GO:0030707	follicle cell of egg chamber development
+GO:0061138	morphogenesis of a branching epithelium
+GO:0021961	posterior commissure morphogenesis
+GO:0007506	gonadal mesoderm development
+GO:0001742	oenocyte differentiation
+GO:0060943	neural crest-derived cardiac fibroblast cell development
+GO:0009653	anatomical structure morphogenesis
+GO:0021758	putamen development
+GO:0072279	convergent extension involved in metanephric nephron morphogenesis
+GO:0090008	hypoblast development
+GO:0042463	ocellus photoreceptor cell development
+GO:0008363	larval chitin-based cuticle development
+GO:1990403	embryonic brain development
+GO:0021648	vestibulocochlear nerve morphogenesis
+GO:0060845	venous endothelial cell fate commitment
+GO:0048240	sperm capacitation
+GO:0061009	common bile duct development
+GO:0042249	establishment of planar polarity of embryonic epithelium
+GO:0021861	forebrain radial glial cell differentiation
+GO:0043373	CD4-positive, alpha-beta T cell lineage commitment
+GO:0048936	peripheral nervous system neuron axonogenesis
+GO:0048847	adenohypophysis formation
+GO:0060414	aorta smooth muscle tissue morphogenesis
+GO:0016358	dendrite development
+GO:0048513	animal organ development
+GO:0061286	mesonephric capsule morphogenesis
+GO:0060486	club cell differentiation
+GO:0060716	labyrinthine layer blood vessel development
+GO:0072210	metanephric nephron development
+GO:0048498	establishment of petal orientation
+GO:0021671	rhombomere 7 morphogenesis
+GO:0050931	pigment cell differentiation
+GO:0060018	astrocyte fate commitment
+GO:0007524	adult visceral muscle development
+GO:0070660	inner ear receptor cell differentiation involved in inner ear sensory epithelium regeneration
+GO:1903498	bundle sheath cell differentiation
+GO:0060441	epithelial tube branching involved in lung morphogenesis
+GO:0090626	plant epidermis morphogenesis
+GO:0048338	mesoderm structural organization
+GO:0035802	adrenal cortex formation
+GO:0043936	asexual sporulation resulting in formation of a cellular spore
+GO:0021601	abducens nerve maturation
+GO:0048617	embryonic foregut morphogenesis
+GO:0008065	establishment of blood-nerve barrier
+GO:0060709	glycogen cell differentiation involved in embryonic placenta development
+GO:0072056	pyramid development
+GO:0048723	clypeus development
+GO:0055059	asymmetric neuroblast division
+GO:0060163	subpallium neuron fate commitment
+GO:0060118	vestibular receptor cell development
+GO:0003348	cardiac endothelial cell differentiation
+GO:0072015	podocyte development
+GO:0014004	microglia differentiation
+GO:0021654	rhombomere boundary formation
+GO:0060982	coronary artery morphogenesis
+GO:0097188	dentin mineralization
+GO:0001945	lymph vessel development
+GO:0010089	xylem development
+GO:0090105	pancreatic E cell development
+GO:0060891	limb granular cell differentiation
+GO:0160093	chordate pharynx development
+GO:0061304	retinal blood vessel morphogenesis
+GO:0010346	shoot axis formation
+GO:0003359	noradrenergic neuron fate commitment
+GO:0072163	mesonephric epithelium development
+GO:0010377	guard cell fate commitment
+GO:0007305	vitelline membrane formation involved in chorion-containing eggshell formation
+GO:0048645	animal organ formation
+GO:0035272	exocrine system development
+GO:0097437	maintenance of dormancy
+GO:0072112	podocyte differentiation
+GO:0035202	tracheal pit formation in open tracheal system
+GO:0002041	intussusceptive angiogenesis
+GO:0061252	mesonephric glomerular epithelial cell fate commitment
+GO:0048657	anther wall tapetum cell differentiation
+GO:0022008	neurogenesis
+GO:0048596	embryonic camera-type eye morphogenesis
+GO:0061251	mesonephric glomerular epithelial cell development
+GO:0002327	immature B cell differentiation
+GO:0002168	instar larval development
+GO:0072202	cell differentiation involved in metanephros development
+GO:0010582	floral meristem determinacy
+GO:0014715	myoblast fate commitment in trunk
+GO:0097207	bud dormancy process
+GO:0021610	facial nerve morphogenesis
+GO:0021894	cerebral cortex GABAergic interneuron development
+GO:0010078	maintenance of root meristem identity
+GO:0050873	brown fat cell differentiation
+GO:0075317	ascus development
+GO:0085015	dormancy maintenance of symbiont in host
+GO:0007438	oenocyte development
+GO:0072497	mesenchymal stem cell differentiation
+GO:1904820	peritoneum development
+GO:0048613	embryonic ectodermal digestive tract morphogenesis
+GO:0002165	instar larval or pupal development
+GO:0035630	bone mineralization involved in bone maturation
+GO:0007314	oocyte anterior/posterior axis specification
+GO:0072576	liver morphogenesis
+GO:0071570	cement gland development
+GO:0042244	spore wall assembly
+GO:0048599	oocyte development
+GO:0021960	anterior commissure morphogenesis
+GO:0072174	metanephric tubule formation
+GO:0060062	Spemann organizer formation at the dorsal lip of the blastopore
+GO:0010086	embryonic root morphogenesis
+GO:0003206	cardiac chamber morphogenesis
+GO:0061333	renal tubule morphogenesis
+GO:1904866	ventral tegmental area development
+GO:0030917	midbrain-hindbrain boundary development
+GO:0010095	specification of petal identity
+GO:0043363	nucleate erythrocyte differentiation
+GO:0030381	chorion-containing eggshell pattern formation
+GO:0060536	cartilage morphogenesis
+GO:0030587	sorocarp development
+GO:0072359	circulatory system development
+GO:0061258	mesonephric podocyte cell fate commitment
+GO:0048829	root cap development
+GO:0061548	ganglion development
+GO:0048095	female pigmentation
+GO:0061235	mesenchymal stem cell maintenance involved in mesonephric nephron morphogenesis
+GO:0021664	rhombomere 5 morphogenesis
+GO:0007520	myoblast fusion
+GO:0060325	face morphogenesis
+GO:0072191	ureter smooth muscle development
+GO:0030218	erythrocyte differentiation
+GO:0035211	spermathecum morphogenesis
+GO:0060913	cardiac cell fate determination
+GO:0021741	spinal trigeminal nucleus development
+GO:0072074	kidney mesenchyme development
+GO:0048332	mesoderm morphogenesis
+GO:0060220	camera-type eye photoreceptor cell fate commitment
+GO:0010096	specification of sepal identity
+GO:0048655	anther wall tapetum morphogenesis
+GO:0160096	nematode pharyngeal muscle development
+GO:0007593	chitin-based cuticle sclerotization
+GO:0048765	root hair cell differentiation
+GO:0060898	eye field cell fate commitment involved in camera-type eye formation
+GO:0021863	forebrain neuroblast differentiation
+GO:0003314	heart rudiment morphogenesis
+GO:0001841	neural tube formation
+GO:0060938	epicardium-derived cardiac fibroblast cell differentiation
+GO:0003161	cardiac conduction system development
+GO:0060707	trophoblast giant cell differentiation
+GO:0042684	cardioblast cell fate commitment
+GO:0061263	mesonephric glomerular mesangial cell development
+GO:0048628	myoblast maturation
+GO:1905328	plant septum development
+GO:0048731	system development
+GO:0007481	haltere disc morphogenesis
+GO:0007429	secondary branching, open tracheal system
+GO:0001746	Bolwig's organ morphogenesis
+GO:0061377	mammary gland lobule development
+GO:0060350	endochondral bone morphogenesis
+GO:0021550	medulla oblongata development
+GO:0030902	hindbrain development
+GO:0003236	sinus venosus morphogenesis
+GO:0007492	endoderm development
+GO:0021697	cerebellar cortex formation
+GO:0002360	T cell lineage commitment
+GO:0021637	trigeminal nerve structural organization
+GO:0042667	auditory receptor cell fate specification
+GO:0021702	cerebellar Purkinje cell differentiation
+GO:0048749	compound eye development
+GO:0060529	squamous basal epithelial stem cell differentiation involved in prostate gland acinus development
+GO:1904770	intramembranous bone morphogenesis
+GO:0021651	rhombomere 1 morphogenesis
+GO:0061552	ganglion morphogenesis
+GO:0010338	leaf formation
+GO:0048485	sympathetic nervous system development
+GO:0060893	limb granular cell fate specification
+GO:0021740	principal sensory nucleus of trigeminal nerve development
+GO:0090246	convergent extension involved in somitogenesis
+GO:0002361	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0048834	specification of petal number
+GO:0060578	superior vena cava morphogenesis
+GO:0060019	radial glial cell differentiation
+GO:0034429	tectobulbar tract morphogenesis
+GO:0031016	pancreas development
+GO:0046551	retinal cone cell fate commitment
+GO:0021663	rhombomere 4 formation
+GO:0072289	metanephric nephron tubule formation
+GO:0072254	metanephric glomerular mesangial cell differentiation
+GO:0036306	embryonic heart tube elongation
+GO:0060364	frontal suture morphogenesis
+GO:0061267	mesonephric interstitial fibroblast development
+GO:0035311	wing cell fate specification
+GO:1905222	atrioventricular canal morphogenesis
+GO:0048666	neuron development
+GO:0072170	metanephric tubule development
+GO:0021781	glial cell fate commitment
+GO:0048319	axial mesoderm morphogenesis
+GO:0036331	avascular cornea development in camera-type eye
+GO:0042676	compound eye cone cell fate commitment
+GO:0031174	lifelong otolith mineralization
+GO:1903251	multi-ciliated epithelial cell differentiation
+GO:0021608	accessory nerve formation
+GO:0033327	Leydig cell differentiation
+GO:0048048	embryonic eye morphogenesis
+GO:0035210	prepupal development
+GO:0040002	collagen and cuticulin-based cuticle development
+GO:0007504	larval fat body development
+GO:0061116	ductus venosus closure
+GO:0060875	lateral semicircular canal development
+GO:0003309	type B pancreatic cell differentiation
+GO:0048881	mechanosensory lateral line system development
+GO:0048535	lymph node development
+GO:0061560	cranial ganglion formation
+GO:0061259	mesonephric glomerular mesangial cell differentiation
+GO:0009932	cell tip growth
+GO:0046697	decidualization
+GO:0048444	floral organ morphogenesis
+GO:0043696	dedifferentiation
+GO:0060490	lateral sprouting involved in lung morphogenesis
+GO:0061068	urethra development
+GO:0060960	cardiac neuron fate commitment
+GO:0030716	oocyte fate determination
+GO:0048858	cell projection morphogenesis
+GO:0060712	spongiotrophoblast layer development
+GO:0061152	trachea submucosa development
+GO:0035778	pronephric nephron tubule epithelial cell differentiation
+GO:0014906	myotube cell development involved in skeletal muscle regeneration
+GO:0072184	renal vesicle progenitor cell differentiation
+GO:0072230	metanephric proximal straight tubule development
+GO:0003193	pulmonary valve formation
+GO:0060132	prolactin secreting cell development
+GO:0060512	prostate gland morphogenesis
+GO:0021586	pons maturation
+GO:0048764	trichoblast maturation
+GO:0072104	glomerular capillary formation
+GO:0062056	compound eye pigment cell differentiation
+GO:0003231	cardiac ventricle development
+GO:0061525	hindgut development
+GO:0060425	lung morphogenesis
+GO:0007313	maternal specification of dorsal/ventral axis, oocyte, soma encoded
+GO:0003226	right ventricular compact myocardium morphogenesis
+GO:0060790	tooth placode formation
+GO:0060438	trachea development
+GO:0009826	unidimensional cell growth
+GO:0031173	otolith mineralization completed early in development
+GO:0040021	hermaphrodite germ-line sex determination
+GO:0021575	hindbrain morphogenesis
+GO:0031150	sorocarp stalk development
+GO:0007164	establishment of tissue polarity
+GO:0060029	convergent extension involved in organogenesis
+GO:0022000	forebrain induction by the anterior neural ridge
+GO:0072148	epithelial cell fate commitment
+GO:0046660	female sex differentiation
+GO:0010026	trichome differentiation
+GO:0007393	dorsal closure, leading edge cell fate determination
+GO:0061713	anterior neural tube closure
+GO:0060042	retina morphogenesis in camera-type eye
+GO:0060717	chorion development
+GO:0055014	atrial cardiac muscle cell development
+GO:0014714	myoblast fate commitment in head
+GO:0035855	megakaryocyte development
+GO:0021722	superior olivary nucleus maturation
+GO:0097083	vascular associated smooth muscle cell fate determination
+GO:0061215	mesonephric nephron development
+GO:0060379	cardiac muscle cell myoblast differentiation
+GO:0072156	distal tubule morphogenesis
+GO:0055060	asymmetric neuroblast division resulting in ganglion mother cell formation
+GO:0021708	Lugaro cell differentiation
+GO:0030316	osteoclast differentiation
+GO:0045446	endothelial cell differentiation
+GO:0021915	neural tube development
+GO:0021580	medulla oblongata formation
+GO:0010056	atrichoblast fate specification
+GO:0062210	shoot regeneration
+GO:0035128	post-embryonic forelimb morphogenesis
+GO:0021667	rhombomere 6 morphogenesis
+GO:0035987	endodermal cell differentiation
+GO:0075222	sporangium germination
+GO:0060789	hair follicle placode formation
+GO:0048706	embryonic skeletal system development
+GO:0072128	renal capsule morphogenesis
+GO:0030436	asexual sporulation
+GO:1990399	epithelium regeneration
+GO:0030913	paranodal junction assembly
+GO:0021747	cochlear nucleus development
+GO:0042051	compound eye photoreceptor development
+GO:0042685	cardioblast cell fate specification
+GO:0060034	notochord cell differentiation
+GO:0030584	sporocarp development
+GO:0048377	lateral mesodermal cell fate specification
+GO:0035218	leg disc development
+GO:0072237	metanephric proximal tubule development
+GO:0000909	sporocarp development involved in sexual reproduction
+GO:0003153	closure of embryonic heart tube
+GO:1903699	tarsal gland development
+GO:0035050	embryonic heart tube development
+GO:0010162	seed dormancy process
+GO:1903700	caecum development
+GO:0160087	spermatid cytoplasm removal during spermiation of flagellated sperm
+GO:0021588	cerebellum formation
+GO:0048855	adenohypophysis morphogenesis
+GO:0061451	retrotrapezoid nucleus development
+GO:0072211	metanephric pyramids development
+GO:0007375	anterior midgut invagination
+GO:0072232	metanephric proximal convoluted tubule segment 2 development
+GO:0048391	intermediate mesoderm formation
+GO:0043583	ear development
+GO:0055007	cardiac muscle cell differentiation
+GO:0061320	pericardial nephrocyte differentiation
+GO:0014003	oligodendrocyte development
+GO:0060846	blood vessel endothelial cell fate commitment
+GO:0021715	inferior olivary nucleus formation
+GO:0072007	mesangial cell differentiation
+GO:0060347	heart trabecula formation
+GO:0048615	embryonic anterior midgut (ectodermal) morphogenesis
+GO:0061430	bone trabecula morphogenesis
+GO:0072248	metanephric podocyte differentiation
+GO:0021656	rhombomere 2 structural organization
+GO:0060351	cartilage development involved in endochondral bone morphogenesis
+GO:0014834	skeletal muscle satellite cell maintenance involved in skeletal muscle regeneration
+GO:0010093	specification of floral organ identity
+GO:0070657	neuromast regeneration
+GO:0046529	imaginal disc fusion, thorax closure
+GO:0072164	mesonephric tubule development
+GO:0048759	xylem vessel member cell differentiation
+GO:0003292	cardiac septum cell differentiation
+GO:0007454	labial disc morphogenesis
+GO:0042063	gliogenesis
+GO:0072118	pronephros structural organization
+GO:0042387	plasmatocyte differentiation
+GO:0034304	actinomycete-type spore formation
+GO:0030901	midbrain development
+GO:0007522	visceral muscle development
+GO:0035675	neuromast hair cell development
+GO:0061197	fungiform papilla morphogenesis
+GO:0003410	anterior rotation of the optic cup
+GO:0060116	vestibular receptor cell morphogenesis
+GO:0071695	anatomical structure maturation
+GO:0060678	dichotomous subdivision of terminal units involved in ureteric bud branching
+GO:0021622	oculomotor nerve morphogenesis
+GO:0072194	kidney smooth muscle tissue development
+GO:0046663	dorsal closure, leading edge cell differentiation
+GO:0072076	nephrogenic mesenchyme development
+GO:0075053	penetration peg formation
+GO:0034300	sporangiospore formation
+GO:0045064	T-helper 2 cell differentiation
+GO:0002298	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+GO:1905327	tracheoesophageal septum formation
+GO:0060931	sinoatrial node cell development
+GO:0002317	plasma cell differentiation
+GO:0009555	pollen development
+GO:0048036	central complex development
+GO:0048760	plant parenchymal cell differentiation
+GO:0160174	cortical rotation
+GO:0042551	neuron maturation
+GO:0061219	mesonephric mesenchyme development
+GO:0048673	collateral sprouting of intact axon in response to injury
+GO:0022007	convergent extension involved in neural plate elongation
+GO:0007281	germ cell development
+GO:0050935	iridophore differentiation
+GO:0060524	dichotomous subdivision of prostate epithelial cord terminal unit
+GO:0061438	renal system vasculature morphogenesis
+GO:0072173	metanephric tubule morphogenesis
+GO:0009554	megasporogenesis
+GO:0060950	cardiac glial cell differentiation
+GO:0043703	photoreceptor cell fate determination
+GO:0072049	comma-shaped body morphogenesis
+GO:0030098	lymphocyte differentiation
+GO:0003433	chondrocyte development involved in endochondral bone morphogenesis
+GO:0060939	epicardium-derived cardiac fibroblast cell development
+GO:0072673	lamellipodium morphogenesis
+GO:0007502	digestive tract mesoderm development
+GO:0003195	tricuspid valve formation
+GO:0021581	medulla oblongata structural organization
+GO:0003185	sinoatrial valve morphogenesis
+GO:0034298	arthrospore formation
+GO:0014029	neural crest formation
+GO:0010782	proboscis morphogenesis, labial disc-derived
+GO:0007516	hemocyte development
+GO:0048797	swim bladder formation
+GO:1905748	hard palate morphogenesis
+GO:0048611	embryonic ectodermal digestive tract development
+GO:0007418	ventral midline development
+GO:0021754	facial nucleus development
+GO:0042004	feminization of hermaphrodite soma
+GO:0090596	sensory organ morphogenesis
+GO:0060119	inner ear receptor cell development
+GO:0035123	embryonic dorsal fin morphogenesis
+GO:0008071	maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded
+GO:0021544	subpallium development
+GO:0060446	branching involved in open tracheal system development
+GO:0003129	heart induction
+GO:0048766	root hair initiation
+GO:0070792	Hulle cell development
+GO:0048627	myoblast development
+GO:0098731	skeletal muscle satellite stem cell maintenance involved in skeletal muscle regeneration
+GO:0060922	atrioventricular node cell differentiation
+GO:0072158	proximal tubule morphogenesis
+GO:0048286	lung alveolus development
+GO:0160057	plant endodermal cell fate specification
+GO:0042338	cuticle development involved in collagen and cuticulin-based cuticle molting cycle
+GO:0060653	epithelial cell differentiation involved in mammary gland cord morphogenesis
+GO:0048367	shoot system development
+GO:0071728	beak development
+GO:0060744	mammary gland branching involved in thelarche
+GO:0048322	axial mesodermal cell fate commitment
+GO:0042491	inner ear auditory receptor cell differentiation
+GO:0007469	antennal development
+GO:0003207	cardiac chamber formation
+GO:0007480	imaginal disc-derived leg morphogenesis
+GO:0072271	metanephric short descending thin limb development
+GO:0021759	globus pallidus development
+GO:0048804	imaginal disc-derived female genitalia morphogenesis
+GO:0072134	nephrogenic mesenchyme morphogenesis
+GO:0003283	atrial septum development
+GO:0043379	memory T cell differentiation
+GO:0045496	male analia development
+GO:0003233	bulbus arteriosus morphogenesis
+GO:0021954	central nervous system neuron development
+GO:0043584	nose development
+GO:0009957	epidermal cell fate specification
+GO:0043586	tongue development
+GO:0033337	dorsal fin development
+GO:0060660	epidermis morphogenesis involved in nipple formation
+GO:0090451	cotyledon boundary formation
+GO:0072103	glomerulus vasculature morphogenesis
+GO:0030855	epithelial cell differentiation
+GO:0007526	larval somatic muscle development
+GO:0060489	planar dichotomous subdivision of terminal units involved in lung branching morphogenesis
+GO:0003237	sinus venosus formation
+GO:0072241	metanephric DCT cell development
+GO:0060063	Spemann organizer formation at the embryonic shield
+GO:0002064	epithelial cell development
+GO:0009557	antipodal cell differentiation
+GO:0010064	embryonic shoot morphogenesis
+GO:0018993	somatic sex determination
+GO:0021669	rhombomere 6 formation
+GO:0035676	anterior lateral line neuromast hair cell development
+GO:0090693	plant organ senescence
+GO:0021678	third ventricle development
+GO:0035051	cardiocyte differentiation
+GO:0003191	coronary sinus valve formation
+GO:0060944	neural crest-derived cardiac fibroblast cell fate commitment
+GO:0075218	zoospore encystment on host
+GO:0035028	leading edge cell fate determination
+GO:0007275	multicellular organism development
+GO:0072063	short descending thin limb development
+GO:0055109	invagination involved in gastrulation with mouth forming second
+GO:0120039	plasma membrane bounded cell projection morphogenesis
+GO:0010450	inflorescence meristem growth
+GO:0009965	leaf morphogenesis
+GO:0060157	urinary bladder development
+GO:0021778	oligodendrocyte cell fate specification
+GO:0009838	abscission
+GO:0048484	enteric nervous system development
+GO:0048619	embryonic hindgut morphogenesis
+GO:0060740	prostate gland epithelium morphogenesis
+GO:0048390	intermediate mesoderm morphogenesis
+GO:0003232	bulbus arteriosus development
+GO:0060061	Spemann organizer formation
+GO:0060600	dichotomous subdivision of an epithelial terminal unit
+GO:0060921	sinoatrial node cell differentiation
+GO:0046619	lens placode formation involved in camera-type eye formation
+GO:0075015	formation of infection structure
+GO:0048898	anterior lateral line system development
+GO:0072560	type B pancreatic cell maturation
+GO:0021996	lamina terminalis formation
+GO:0048857	neural nucleus development
+GO:0035052	dorsal vessel aortic cell fate commitment
+GO:0035239	tube morphogenesis
+GO:0060737	prostate gland morphogenetic growth
+GO:0042475	odontogenesis of dentin-containing tooth
+GO:0007400	neuroblast fate determination
+GO:0007500	mesodermal cell fate determination
+GO:0043049	otic placode formation
+GO:0048348	paraxial mesodermal cell fate specification
+GO:0030183	B cell differentiation
+GO:0072239	metanephric glomerulus vasculature development
+GO:0060610	mesenchymal cell differentiation involved in mammary gland development
+GO:0001842	neural fold formation
+GO:0061273	mesonephric distal tubule morphogenesis
+GO:0048442	sepal development
+GO:0002093	auditory receptor cell morphogenesis
+GO:0072540	T-helper 17 cell lineage commitment
+GO:0021585	pons structural organization
+GO:0048480	stigma development
+GO:0010094	specification of carpel identity
+GO:0003223	ventricular compact myocardium morphogenesis
+GO:0060953	cardiac glial cell fate commitment
+GO:0043158	heterocyst development
+GO:0002520	immune system development
+GO:0060776	simple leaf morphogenesis
+GO:0045445	myoblast differentiation
+GO:0055113	epiboly involved in gastrulation with mouth forming second
+GO:0085016	dormancy exit of symbiont in host
+GO:0048527	lateral root development
+GO:0060993	kidney morphogenesis
+GO:0003304	myocardial epithelial involution involved in heart jogging
+GO:1904888	cranial skeletal system development
+GO:0048459	floral whorl structural organization
+GO:0007376	cephalic furrow formation
+GO:0097438	exit from dormancy
+GO:0002319	memory B cell differentiation
+GO:0061308	cardiac neural crest cell development involved in heart development
+GO:0021858	GABAergic neuron differentiation in basal ganglia
+GO:0031100	animal organ regeneration
+GO:0090106	pancreatic E cell fate commitment
+GO:0060929	atrioventricular node cell fate commitment
+GO:0048646	anatomical structure formation involved in morphogenesis
+GO:0031018	endocrine pancreas development
+GO:0002065	columnar/cuboidal epithelial cell differentiation
+GO:0048863	stem cell differentiation
+GO:0045894	negative regulation of mating-type specific transcription, DNA-templated
+GO:0021684	cerebellar granular layer formation
+GO:0007507	heart development
+GO:0072014	proximal tubule development
+GO:0061437	renal system vasculature development
+GO:0021618	hypoglossal nerve morphogenesis
+GO:0048889	neuromast support cell differentiation
+GO:0030704	vitelline membrane formation
+GO:0002069	columnar/cuboidal epithelial cell maturation
+GO:0072069	DCT cell differentiation
+GO:0072028	nephron morphogenesis
+GO:0060952	cardiac glial cell development
+GO:0048457	floral whorl morphogenesis
+GO:0014817	skeletal muscle satellite cell fate specification
+GO:0045066	regulatory T cell differentiation
+GO:0090009	primitive streak formation
+GO:0003334	keratinocyte development
+GO:0046666	retinal cell programmed cell death
+GO:0072154	proximal convoluted tubule segment 1 cell fate commitment
+GO:0060984	epicardium-derived cardiac vascular smooth muscle cell development
+GO:0007519	skeletal muscle tissue development
+GO:0009837	fruit ripening, non-climacteric
+GO:1903866	palisade mesophyll development
+GO:0035219	prothoracic disc development
+GO:0048106	establishment of thoracic bristle planar orientation
+GO:0014019	neuroblast development
+GO:0014902	myotube differentiation
+GO:0034295	basidiospore formation
+GO:0010228	vegetative to reproductive phase transition of meristem
+GO:0031017	exocrine pancreas development
+GO:0003404	optic vesicle morphogenesis
+GO:0072109	glomerular mesangium development
+GO:0072253	metanephric juxtaglomerulus cell fate commitment
+GO:0030859	polarized epithelial cell differentiation
+GO:0050933	early stripe melanocyte differentiation
+GO:0010654	apical cell fate commitment
+GO:0009908	flower development
+GO:0001892	embryonic placenta development
+GO:0030878	thyroid gland development
+GO:0072179	nephric duct formation
+GO:0039023	pronephric duct morphogenesis
+GO:0010152	pollen maturation
+GO:0002076	osteoblast development
+GO:0072278	metanephric comma-shaped body morphogenesis
+GO:0048557	embryonic digestive tract morphogenesis
+GO:0060749	mammary gland alveolus development
+GO:0048570	notochord morphogenesis
+GO:0010079	maintenance of vegetative meristem identity
+GO:0035887	aortic smooth muscle cell differentiation
+GO:0060676	ureteric bud formation
+GO:0060026	convergent extension
+GO:0060064	Spemann organizer formation at the anterior end of the primitive streak
+GO:0021653	rhombomere 1 structural organization
+GO:0072088	nephron epithelium morphogenesis
+GO:0060444	branching involved in mammary gland duct morphogenesis
+GO:0003197	endocardial cushion development
+GO:0001743	lens placode formation
+GO:1902637	neural crest cell differentiation involved in thymus development
+GO:0048890	lateral line ganglion development
+GO:0072020	proximal straight tubule development
+GO:0030538	embryonic genitalia morphogenesis
+GO:0048658	anther wall tapetum development
+GO:0021561	facial nerve development
+GO:0048540	bursa of Fabricius development
+GO:0003279	cardiac septum development
+GO:0048836	specification of increased petal number
+GO:0048482	plant ovule morphogenesis
+GO:0010088	phloem development
+GO:0140074	cardiac endothelial to mesenchymal transition
+GO:0140060	axon arborization
+GO:0021563	glossopharyngeal nerve development
+GO:0060571	morphogenesis of an epithelial fold
+GO:0030703	eggshell formation
+GO:0072325	vulval cell fate commitment
+GO:0061330	Malpighian tubule stellate cell differentiation
+GO:0021900	ventricular zone cell fate commitment
+GO:0032288	myelin assembly
+GO:0072314	glomerular epithelial cell fate commitment
+GO:0003170	heart valve development
+GO:0060223	retinal rod cell fate commitment
+GO:0120164	conidium germination
+GO:0010102	lateral root morphogenesis
+GO:0061253	mesonephric glomerular parietal epithelial cell differentiation
+GO:0001763	morphogenesis of a branching structure
+GO:0060074	synapse maturation
+GO:0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation
+GO:0090428	perianth development
+GO:0003216	cardiac left atrium formation
+GO:0035763	dorsal motor nucleus of vagus nerve structural organization
+GO:0072190	ureter urothelium development
+GO:0002088	lens development in camera-type eye
+GO:0072013	glomus development
+GO:0003218	cardiac left ventricle formation
+GO:0060605	tube lumen cavitation
+GO:0072053	renal inner medulla development
+GO:0072258	metanephric interstitial fibroblast differentiation
+GO:0010076	maintenance of floral meristem identity
+GO:0061028	establishment of endothelial barrier
+GO:0062009	secondary palate development
+GO:0014836	myoblast fate commitment involved in skeletal muscle regeneration
+GO:0072034	renal vesicle induction
+GO:0046543	development of secondary female sexual characteristics
+GO:0075321	oomycete sporangium development
+GO:0061458	reproductive system development
+GO:0009886	post-embryonic animal morphogenesis
+GO:0061017	hepatoblast differentiation
+GO:0060934	His-Purkinje system cell fate commitment
+GO:0060840	artery development
+GO:0048508	embryonic meristem development
+GO:0036340	chitin-based cuticle sclerotization by biomineralization
+GO:0045063	T-helper 1 cell differentiation
+GO:0021597	central nervous system structural organization
+GO:0090014	leaflet formation
+GO:0007304	chorion-containing eggshell formation
+GO:0009860	pollen tube growth
+GO:0072175	epithelial tube formation
+GO:0072065	long descending thin limb bend development
+GO:0072032	proximal convoluted tubule segment 2 development
+GO:0007518	myoblast fate determination
+GO:0007482	haltere development
+GO:0002574	thrombocyte differentiation
+GO:0060525	prostate glandular acinus development
+GO:0021994	progression of neural tube closure
+GO:0022037	metencephalon development
+GO:0048942	posterior lateral line nerve glial cell morphogenesis involved in differentiation
+GO:0035993	deltoid tuberosity development
+GO:0021539	subthalamus development
+GO:0007293	germarium-derived egg chamber formation
+GO:0035193	larval central nervous system remodeling
+GO:0060032	notochord regression
+GO:1905317	inferior endocardial cushion morphogenesis
+GO:0060035	notochord cell development
+GO:0007419	ventral cord development
+GO:0090078	smooth muscle derived foam cell differentiation
+GO:0060599	lateral sprouting involved in mammary gland duct morphogenesis
+GO:0061242	mesonephric nephron tubule development
+GO:0031101	fin regeneration
+GO:0048934	peripheral nervous system neuron differentiation
+GO:0001704	formation of primary germ layer
+GO:0021683	cerebellar granular layer morphogenesis
+GO:0001889	liver development
+GO:0042672	retinal cone cell fate specification
+GO:0060671	epithelial cell differentiation involved in embryonic placenta development
+GO:0099138	altruistic, chimeric sorocarp development
+GO:0021674	rhombomere 8 morphogenesis
+GO:0061221	mesonephric mesenchyme morphogenesis
+GO:0070788	conidiophore stalk development
+GO:0021646	vagus nerve formation
+GO:0120077	angiogenic sprout fusion
+GO:0060323	head morphogenesis
+GO:0048373	lateral mesodermal cell fate determination
+GO:0060780	intercalary leaflet morphogenesis
+GO:1904389	rod bipolar cell differentiation
+GO:0021591	ventricular system development
+GO:0046530	photoreceptor cell differentiation
+GO:0072189	ureter development
+GO:0060594	mammary gland specification
+GO:0048821	erythrocyte development
+GO:0060996	dendritic spine development
+GO:0048865	stem cell fate commitment
+GO:0021641	trochlear nerve structural organization
+GO:0039013	pronephric distal tubule morphogenesis
+GO:0014028	notochord formation
+GO:0010433	bract morphogenesis
+GO:0021666	rhombomere 5 formation
+GO:0021630	olfactory nerve maturation
+GO:0042751	estivation
+GO:0090377	seed trichome initiation
+GO:0021543	pallium development
+GO:0048104	establishment of body hair or bristle planar orientation
+GO:0007532	regulation of mating-type specific transcription, DNA-templated
+GO:0060482	lobar bronchus development
+GO:0014835	myoblast differentiation involved in skeletal muscle regeneration
+GO:0007441	anterior midgut (ectodermal) morphogenesis
+GO:0048597	post-embryonic camera-type eye morphogenesis
+GO:0021507	posterior neuropore closure
+GO:0048820	hair follicle maturation
+GO:0001675	acrosome assembly
+GO:0010229	inflorescence development
+GO:0097101	blood vessel endothelial cell fate specification
+GO:0007398	ectoderm development
+GO:0022009	central nervous system vasculogenesis
+GO:0072554	blood vessel lumenization
+GO:0008070	maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded
+GO:0060428	lung epithelium development
+GO:0021729	superior reticular formation development
+GO:0048868	pollen tube development
+GO:0021990	neural plate formation
+GO:0001708	cell fate specification
+GO:0048795	swim bladder morphogenesis
+GO:0035909	aorta morphogenesis
+GO:0021891	olfactory bulb interneuron development
+GO:0072209	metanephric mesangial cell differentiation
+GO:0048394	intermediate mesodermal cell fate determination
+GO:0060508	lung basal cell differentiation
+GO:0048392	intermediate mesodermal cell differentiation
+GO:0045317	equator specification
+GO:0021755	eurydendroid cell differentiation
+GO:0003235	sinus venosus development
+GO:0060343	trabecula formation
+GO:0072149	podocyte cell fate commitment
+GO:0002680	pro-T cell lineage commitment
+GO:0080159	zygote elongation
+GO:0061143	alveolar primary septum development
+GO:0048884	neuromast development
+GO:0072144	glomerular mesangial cell development
+GO:0072052	juxtaglomerulus cell differentiation
+GO:0021794	thalamus development
+GO:0060128	corticotropin hormone secreting cell differentiation
+GO:0060480	lung goblet cell differentiation
+GO:0090380	seed trichome maturation
+GO:0036022	limb joint morphogenesis
+GO:0031129	inductive cell-cell signaling
+GO:0060777	compound leaf morphogenesis
+GO:0061069	male urethra development
+GO:0010054	trichoblast differentiation
+GO:0007434	adult salivary gland boundary specification
+GO:0035992	tendon formation
+GO:0003386	amphid sensory organ development
+GO:0072116	pronephros formation
+GO:0072046	establishment of planar polarity involved in nephron morphogenesis
+GO:0090679	cell differentiation involved in phenotypic switching
+GO:0021987	cerebral cortex development
+GO:0021609	accessory nerve structural organization
+GO:0061102	stomach neuroendocrine cell differentiation
+GO:0035115	embryonic forelimb morphogenesis
+GO:0001890	placenta development
+GO:0001738	morphogenesis of a polarized epithelium
+GO:0060231	mesenchymal to epithelial transition
+GO:0048707	instar larval or pupal morphogenesis
+GO:0001838	embryonic epithelial tube formation
+GO:0060613	fat pad development
+GO:0060884	clearance of cells from fusion plate
+GO:0072132	mesenchyme morphogenesis
+GO:0072227	metanephric macula densa development
+GO:0007396	suture of dorsal opening
+GO:0072038	mesenchymal stem cell maintenance involved in nephron morphogenesis
+GO:0048445	carpel morphogenesis
+GO:0097029	mature conventional dendritic cell differentiation
+GO:0021677	rhombomere 8 formation
+GO:0039008	pronephric nephron tubule morphogenesis
+GO:0061254	mesonephric glomerular parietal epithelial cell development
+GO:0060581	cell fate commitment involved in pattern specification
+GO:0010623	programmed cell death involved in cell development
+GO:0002932	tendon sheath development
+GO:0039011	pronephric proximal tubule morphogenesis
+GO:0002332	transitional stage B cell differentiation
+GO:0021624	oculomotor nerve structural organization
+GO:0061195	taste bud formation
+GO:0007402	ganglion mother cell fate determination
+GO:0048460	flower formation
+GO:0060214	endocardium formation
+GO:0048592	eye morphogenesis
+GO:0097028	dendritic cell differentiation
+GO:0010231	maintenance of seed dormancy
+GO:0001880	Mullerian duct regression
+GO:0048835	specification of decreased petal number
+GO:0061301	cerebellum vasculature morphogenesis
+GO:0085014	dormancy entry of symbiont in host
+GO:0039012	pronephric sinus development
+GO:0048323	axial mesodermal cell fate determination
+GO:0021975	pons reticulospinal tract morphogenesis
+GO:0071699	olfactory placode morphogenesis
+GO:1903375	facioacoustic ganglion development
+GO:0035137	hindlimb morphogenesis
+GO:0075239	zoospore formation
+GO:0048941	posterior lateral line nerve glial cell development
+GO:0061103	carotid body glomus cell differentiation
+GO:0050934	late stripe melanocyte differentiation
+GO:0090059	protoxylem development
+GO:0072327	vulval cell fate specification
+GO:0043582	sporangium development
+GO:0048699	generation of neurons
+GO:0072255	metanephric glomerular mesangial cell development
+GO:0021593	rhombomere morphogenesis
+GO:0072674	multinuclear osteoclast differentiation
+GO:0090567	reproductive shoot system development
+GO:0060920	cardiac pacemaker cell differentiation
+GO:0021587	cerebellum morphogenesis
+GO:0021607	accessory nerve morphogenesis
+GO:0021957	corticospinal tract morphogenesis
+GO:0002068	glandular epithelial cell development
+GO:0060016	granulosa cell development
+GO:0021902	commitment of neuronal cell to specific neuron type in forebrain
+GO:0035914	skeletal muscle cell differentiation
+GO:0048281	inflorescence morphogenesis
+GO:0010077	maintenance of inflorescence meristem identity
+GO:0072067	early distal convoluted tubule development
+GO:0060513	prostatic bud formation
+GO:0048838	release of seed from dormancy
+GO:0003289	atrial septum primum morphogenesis
+GO:0048236	plant-type sporogenesis
+GO:0060652	mammary gland cord morphogenesis
+GO:0061309	cardiac neural crest cell development involved in outflow tract morphogenesis
+GO:0061100	lung neuroendocrine cell differentiation
+GO:0097096	facial suture morphogenesis
+GO:0014866	skeletal myofibril assembly
+GO:0060867	fruit abscission
+GO:0007487	analia development
+GO:0060515	prostate field specification
+GO:0033340	pelvic fin development
+GO:0061978	mandibular condyle articular cartilage development
+GO:0060592	mammary gland formation
+GO:0010171	body morphogenesis
+GO:0007533	mating type switching
+GO:0090378	seed trichome elongation
+GO:0060574	intestinal epithelial cell maturation
+GO:0021682	nerve maturation
+GO:0003350	pulmonary myocardium development
+GO:0010376	stomatal complex formation
+GO:0021689	cerebellar molecular layer structural organization
+GO:0060935	cardiac fibroblast cell differentiation
+GO:0032289	central nervous system myelin formation
+GO:0007542	primary sex determination, germ-line
+GO:0072075	metanephric mesenchyme development
+GO:0061228	mesonephric nephron morphogenesis
+GO:0061382	Malpighian tubule tip cell differentiation
+GO:0001706	endoderm formation
+GO:0072022	descending thin limb development
+GO:0072161	mesenchymal cell differentiation involved in kidney development
+GO:0072311	glomerular epithelial cell differentiation
+GO:0003284	septum primum development
+GO:0021525	lateral motor column neuron differentiation
+GO:0007417	central nervous system development
+GO:0046661	male sex differentiation
+GO:0097081	vascular associated smooth muscle cell fate commitment
+GO:0098751	bone cell development
+GO:0003213	cardiac right atrium morphogenesis
+GO:0003182	coronary sinus valve morphogenesis
+GO:0035135	post-embryonic anal fin morphogenesis
+GO:0080060	integument development
+GO:0003202	endocardial cushion to mesenchymal transition involved in cardiac skeleton development
+GO:0048664	neuron fate determination
+GO:0046667	compound eye retinal cell programmed cell death
+GO:0072070	loop of Henle development
+GO:0003177	pulmonary valve development
+GO:0002330	pre-B cell receptor expression
+GO:0060458	right lung development
+GO:0008258	head involution
+GO:0072027	connecting tubule development
+GO:0061140	lung secretory cell differentiation
+GO:0060530	smooth muscle cell differentiation involved in prostate glandular acinus development
+GO:0021659	rhombomere 3 structural organization
+GO:0060615	mammary gland bud formation
+GO:0048758	companion cell differentiation
+GO:0048811	male analia morphogenesis
+GO:0061261	mesenchymal to epithelial transition involved in mesonephros morphogenesis
+GO:0070306	lens fiber cell differentiation
+GO:0045138	nematode male tail tip morphogenesis
+GO:0140058	neuron projection arborization
+GO:0009793	embryo development ending in seed dormancy
+GO:0021860	pyramidal neuron development
+GO:0060997	dendritic spine morphogenesis
+GO:0035277	spiracle morphogenesis, open tracheal system
+GO:0007439	ectodermal digestive tract development
+GO:0001946	lymphangiogenesis
+GO:0048343	paraxial mesodermal cell fate commitment
+GO:0048816	ocellus morphogenesis
+GO:0061979	femoral head articular cartilage development
+GO:0001649	osteoblast differentiation
+GO:0021657	rhombomere 2 formation
+GO:0072023	thick ascending limb development
+GO:0002062	chondrocyte differentiation
+GO:0048466	androecium development
+GO:0021739	mesencephalic trigeminal nucleus development
+GO:0072219	metanephric cortical collecting duct development
+GO:0060575	intestinal epithelial cell differentiation
+GO:0048614	post-embryonic ectodermal digestive tract morphogenesis
+GO:0021573	rhombomere 7 development
+GO:0002316	follicular B cell differentiation
+GO:0048725	cibarial fish-trap bristle development
+GO:0021652	rhombomere 1 formation
+GO:0072058	outer stripe development
+GO:0075247	aeciospore formation
+GO:0021617	glossopharyngeal nerve structural organization
+GO:0061563	trigeminal ganglion structural organization
+GO:0070658	neuromast hair cell differentiation involved in neuromast regeneration
+GO:0021595	rhombomere structural organization
+GO:0003145	embryonic heart tube formation via epithelial folding
+GO:0002467	germinal center formation
+GO:0070791	cleistothecium development
+GO:0021555	midbrain-hindbrain boundary morphogenesis
+GO:0090393	sepal giant cell development
+GO:0060644	mammary gland epithelial cell differentiation
+GO:0021962	vestibulospinal tract morphogenesis
+GO:0007283	spermatogenesis
+GO:1990384	hyaloid vascular plexus regression
+GO:0060346	bone trabecula formation
+GO:0048458	floral whorl formation
+GO:0010622	specification of ovule identity
+GO:0060959	cardiac neuron development
+GO:0003178	coronary sinus valve development
+GO:0014045	establishment of endothelial blood-brain barrier
+GO:0010358	leaf shaping
+GO:0009558	embryo sac cellularization
+GO:0021770	parahippocampal gyrus development
+GO:0009877	nodulation
+GO:0007445	determination of imaginal disc primordium
+GO:0042001	hermaphrodite somatic sex determination
+GO:0061132	pancreas induction
+GO:0021772	olfactory bulb development
+GO:0048938	lateral line nerve glial cell morphogenesis involved in differentiation
+GO:0036345	platelet maturation
+GO:0072286	metanephric connecting tubule development
+GO:0007288	sperm axoneme assembly
+GO:0007478	leg disc morphogenesis
+GO:0014025	neural keel formation
+GO:0003159	morphogenesis of an endothelium
+GO:0021964	rubrospinal tract morphogenesis
+GO:0035989	tendon development
+GO:1903680	acinar cell of sebaceous gland differentiation
+GO:0036023	embryonic skeletal limb joint morphogenesis
+GO:1904819	parietal peritoneum development
+GO:0043282	chordate pharyngeal muscle development
+GO:0021736	globose nucleus development
+GO:0021603	cranial nerve formation
+GO:0097432	hippocampal pyramidal neuron differentiation
+GO:0048722	anterior cibarial plate development
+GO:0010342	endosperm cellularization
+GO:0048344	paraxial mesodermal cell fate determination
+GO:0075263	oogonium development
+GO:0009933	meristem structural organization
+GO:0016188	synaptic vesicle maturation
+GO:0072131	kidney mesenchyme morphogenesis
+GO:0021526	medial motor column neuron differentiation
+GO:0003215	cardiac right ventricle morphogenesis
+GO:0007462	R1/R6 cell fate commitment
+GO:0019102	male somatic sex determination
+GO:0080181	lateral root branching
+GO:0061194	taste bud morphogenesis
+GO:0039009	rectal diverticulum development
+GO:0061231	mesonephric glomerulus vasculature development
+GO:0060021	roof of mouth development
+GO:0060978	angiogenesis involved in coronary vascular morphogenesis
+GO:0061520	Langerhans cell differentiation
+GO:0072160	nephron tubule epithelial cell differentiation
+GO:0160062	cutin-based cuticle development
+GO:0061375	mammillotectal axonal tract development
+GO:0003208	cardiac ventricle morphogenesis
+GO:0060848	endothelial cell fate determination
+GO:0021538	epithalamus development
+GO:0072266	metanephric capsule formation
+GO:0003204	cardiac skeleton development
+GO:0061220	mesonephric macula densa development
+GO:0035122	embryonic medial fin morphogenesis
+GO:0072315	metanephric glomerular epithelial cell fate commitment
+GO:0030713	follicle cell of egg chamber stalk formation
+GO:0061080	right horn of sinus venosus development
+GO:0060531	neuroendocrine cell differentiation involved in prostate gland acinus development
+GO:0061055	myotome development
+GO:0060039	pericardium development
+GO:0021644	vagus nerve morphogenesis
+GO:0048340	paraxial mesoderm morphogenesis
+GO:0072133	metanephric mesenchyme morphogenesis
+GO:0060847	endothelial cell fate specification
+GO:0048866	stem cell fate specification
+GO:0061319	nephrocyte differentiation
+GO:0007295	growth of a germarium-derived egg chamber
+GO:0048734	proboscis morphogenesis
+GO:0048923	posterior lateral line neuromast hair cell differentiation
+GO:1990059	fruit valve development
+GO:0075279	uredinium development
+GO:0021745	nucleus ambiguus development
+GO:0071729	beak morphogenesis
+GO:0071982	maintenance of diapause
+GO:0075243	oospore formation
+GO:0072310	glomerular epithelial cell development
+GO:0007453	clypeo-labral disc morphogenesis
+GO:0035913	ventral aorta morphogenesis
+GO:0033334	fin morphogenesis
+GO:0021626	central nervous system maturation
+GO:0003173	ventriculo bulbo valve development
+GO:0035131	post-embryonic pelvic fin morphogenesis
+GO:0002066	columnar/cuboidal epithelial cell development
+GO:0002326	B cell lineage commitment
+GO:0160094	nematode pharynx development
+GO:0072240	metanephric DCT cell differentiation
+GO:0061448	connective tissue development
+GO:0061274	mesonephric distal tubule development
+GO:0090253	convergent extension involved in imaginal disc-derived wing morphogenesis
+GO:0060596	mammary placode formation
+GO:0048848	neurohypophysis morphogenesis
+GO:0039021	pronephric glomerulus development
+GO:0048809	analia morphogenesis
+GO:0021635	trigeminal nerve maturation
+GO:0061682	seminal vesicle morphogenesis
+GO:0002302	CD8-positive, alpha-beta T cell differentiation involved in immune response
+GO:0048754	branching morphogenesis of an epithelial tube
+GO:0014033	neural crest cell differentiation
+GO:0072024	macula densa development
+GO:0035213	clypeo-labral disc development
+GO:0003230	cardiac atrium development
+GO:0021757	caudate nucleus development
+GO:0007486	imaginal disc-derived female genitalia development
+GO:0003163	sinoatrial node development
+GO:0060349	bone morphogenesis
+GO:0060659	nipple sheath formation
+GO:0048773	erythrophore differentiation
+GO:0007540	sex determination, establishment of X:A ratio
+GO:0060719	chorionic trophoblast cell development

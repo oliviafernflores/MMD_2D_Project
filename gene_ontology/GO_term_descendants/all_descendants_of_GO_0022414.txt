@@ -1,0 +1,633 @@
+GOID	TERM
+GO:0048803	imaginal disc-derived male genitalia morphogenesis
+GO:0080166	stomium development
+GO:0007313	maternal specification of dorsal/ventral axis, oocyte, soma encoded
+GO:0007120	axial cellular bud site selection
+GO:0007292	female gamete generation
+GO:0060138	fetal process involved in parturition
+GO:0042713	sperm ejaculation
+GO:0051759	sister chromosome movement towards spindle pole involved in meiotic sister chromatid segregation
+GO:0061956	penetration of cumulus oophorus
+GO:1903563	microtubule bundle formation involved in horsetail-astral microtubule organization
+GO:0048465	corolla development
+GO:0040021	hermaphrodite germ-line sex determination
+GO:0035846	oviduct epithelium development
+GO:0048159	primary oocyte stage
+GO:0007320	insemination
+GO:0032121	meiotic attachment of telomeric heterochromatin to spindle pole body
+GO:0106213	kinetochore disassembly involved in meiotic chromosome organization
+GO:0070787	conidiophore development
+GO:0046660	female sex differentiation
+GO:0001544	initiation of primordial ovarian follicle growth
+GO:0048806	genitalia development
+GO:0007307	eggshell chorion gene amplification
+GO:0160027	egg deposition
+GO:0034303	myxospore formation
+GO:0001543	ovarian follicle rupture
+GO:0051311	meiotic metaphase chromosome alignment
+GO:0022412	cellular process involved in reproduction in multicellular organism
+GO:0120316	sperm flagellum assembly
+GO:0051757	meiotic sister chromatid separation
+GO:0060068	vagina development
+GO:0019099	female germ-line sex determination
+GO:0075222	sporangium germination
+GO:0001550	ovarian cumulus expansion
+GO:0030436	asexual sporulation
+GO:0060742	epithelial cell differentiation involved in prostate gland development
+GO:0051455	spindle attachment to meiosis I kinetochore
+GO:0060736	prostate gland growth
+GO:0099121	fungal sorus development
+GO:0051316	attachment of meiotic spindle microtubules to kinetochore
+GO:0030584	sporocarp development
+GO:0140084	sexual macrocyst formation
+GO:0060180	female mating behavior
+GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0007277	pole cell development
+GO:0007056	spindle assembly involved in female meiosis
+GO:0048162	multi-layer follicle stage
+GO:0030728	ovulation
+GO:0000909	sporocarp development involved in sexual reproduction
+GO:0046009	positive regulation of female receptivity, post-mating
+GO:0010162	seed dormancy process
+GO:0160087	spermatid cytoplasm removal during spermiation of flagellated sperm
+GO:0048451	petal formation
+GO:0075313	basidium development
+GO:0051079	meiosis I nuclear membrane disassembly
+GO:0000905	sporocarp development involved in asexual reproduction
+GO:0075255	teliospore formation
+GO:0010071	root meristem specification
+GO:0035803	egg coat formation
+GO:0060832	oocyte animal/vegetal axis specification
+GO:0010154	fruit development
+GO:0034302	akinete formation
+GO:0048316	seed development
+GO:0042243	asexual spore wall assembly
+GO:0043930	primary ovarian follicle growth involved in primary follicle stage
+GO:0046546	development of primary male sexual characteristics
+GO:0048461	flower structural organization
+GO:0048315	conidium formation
+GO:0035847	uterine epithelium development
+GO:0007054	spindle assembly involved in male meiosis I
+GO:0007538	primary sex determination
+GO:0010093	specification of floral organ identity
+GO:0007286	spermatid development
+GO:0048624	plantlet formation on parent plant
+GO:0035261	external genitalia morphogenesis
+GO:0034304	actinomycete-type spore formation
+GO:0001545	primary ovarian follicle growth
+GO:0048463	carpel structural organization
+GO:0010234	anther wall tapetum cell fate specification
+GO:0045434	negative regulation of female receptivity, post-mating
+GO:0007340	acrosome reaction
+GO:0140013	meiotic nuclear division
+GO:0060528	secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development
+GO:0042698	ovulation cycle
+GO:0061988	karyosome formation
+GO:0060745	mammary gland branching involved in pregnancy
+GO:0034300	sporangiospore formation
+GO:0048530	fruit morphogenesis
+GO:0062120	LinE complex assembly
+GO:1904968	positive regulation of spindle attachment to meiosis I kinetochore
+GO:0061936	fusion of sperm to egg plasma membrane involved in double fertilization forming a zygote and endosperm
+GO:0016321	female meiosis chromosome segregation
+GO:1990068	seed dehydration
+GO:0048446	petal morphogenesis
+GO:0006279	premeiotic DNA replication
+GO:0061983	meiosis II cell cycle process
+GO:0075271	zygosporangium development
+GO:0007281	germ cell development
+GO:0010262	somatic embryogenesis
+GO:0060524	dichotomous subdivision of prostate epithelial cord terminal unit
+GO:0007287	Nebenkern assembly
+GO:1902984	pre-replicative complex assembly involved in premeiotic DNA replication
+GO:0048653	anther development
+GO:0009554	megasporogenesis
+GO:0051598	meiotic recombination checkpoint signaling
+GO:0051755	meiotic sister chromatid arm separation
+GO:0042699	follicle-stimulating hormone signaling pathway
+GO:0010500	transmitting tissue development
+GO:0060474	positive regulation of flagellated sperm motility involved in capacitation
+GO:0060748	tertiary branching involved in mammary gland duct morphogenesis
+GO:0046544	development of secondary male sexual characteristics
+GO:0030715	oocyte growth in germarium-derived egg chamber
+GO:0048158	oogonium stage
+GO:0034298	arthrospore formation
+GO:0045141	meiotic telomere clustering
+GO:0042004	feminization of hermaphrodite soma
+GO:0000711	meiotic DNA repair synthesis
+GO:0048139	female germ-line cyst encapsulation
+GO:0045433	male courtship behavior, veined wing generated song production
+GO:0008071	maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded
+GO:0051308	male meiosis chromosome separation
+GO:0075284	asexual sporulation resulting in formation of a multicellular or syncytial spore
+GO:1990375	baculum development
+GO:0035112	genitalia morphogenesis
+GO:0071998	ascospore release from ascus
+GO:0046843	dorsal appendage formation
+GO:0070792	Hulle cell development
+GO:0072520	seminiferous tubule development
+GO:0048449	floral organ formation
+GO:0048450	floral organ structural organization
+GO:0019098	reproductive behavior
+GO:0048601	oocyte morphogenesis
+GO:0007111	meiosis II cytokinesis
+GO:0048559	establishment of floral organ orientation
+GO:1902970	premeiotic DNA replication DNA duplex unwinding
+GO:0001553	luteinization
+GO:0042702	uterine wall growth
+GO:0034412	ascospore wall beta-glucan biosynthetic process
+GO:1904967	regulation of spindle attachment to meiosis I kinetochore
+GO:0010773	meiotic DNA recombinase assembly involved in meiotic gene conversion
+GO:0048804	imaginal disc-derived female genitalia morphogenesis
+GO:0010776	meiotic mismatch repair involved in meiotic gene conversion
+GO:0034606	response to hermaphrodite contact
+GO:0007566	embryo implantation
+GO:0075267	aecium development
+GO:0007114	cell budding
+GO:0048453	sepal formation
+GO:0060137	maternal process involved in parturition
+GO:0007620	copulation
+GO:0007057	spindle assembly involved in female meiosis I
+GO:0007279	pole cell formation
+GO:0000707	meiotic DNA recombinase assembly
+GO:1990947	exit from meiosis
+GO:0018993	somatic sex determination
+GO:0034294	sexual spore wall assembly
+GO:0016345	female meiotic chromosome movement towards spindle pole
+GO:0048600	oocyte fate commitment
+GO:0044785	metaphase/anaphase transition of meiotic cell cycle
+GO:0048805	imaginal disc-derived genitalia morphogenesis
+GO:0035670	plant-type ovary development
+GO:0051026	chiasma assembly
+GO:0010450	inflorescence meristem growth
+GO:0060065	uterus development
+GO:0075289	aplanospore formation
+GO:0061040	female gonad morphogenesis
+GO:0007141	male meiosis I
+GO:0060740	prostate gland epithelium morphogenesis
+GO:0051758	homologous chromosome movement towards spindle pole in meiosis I anaphase
+GO:0034299	reproductive blastospore formation
+GO:0007147	female meiosis II
+GO:0048477	oogenesis
+GO:0008315	G2/MI transition of meiotic cell cycle
+GO:0060741	prostate gland stromal morphogenesis
+GO:0140642	meiotic spindle formation (spindle phase two)
+GO:0007539	primary sex determination, soma
+GO:0042695	thelarche
+GO:0010781	meiotic DNA double-strand break formation involved in meiotic gene conversion
+GO:0044345	stromal-epithelial cell signaling involved in prostate gland development
+GO:0060737	prostate gland morphogenetic growth
+GO:0045924	regulation of female receptivity
+GO:0034297	oidium formation
+GO:0007278	pole cell fate determination
+GO:0007548	sex differentiation
+GO:0071515	mating-type locus imprinting
+GO:0048467	gynoecium development
+GO:0048442	sepal development
+GO:0090727	positive regulation of brood size
+GO:0007276	gamete generation
+GO:0048825	cotyledon development
+GO:0048480	stigma development
+GO:0010094	specification of carpel identity
+GO:0010227	floral organ abscission
+GO:0007342	fusion of sperm to egg plasma membrane involved in single fertilization
+GO:0048441	petal development
+GO:0031322	ascospore-type prospore-specific spindle pole body remodeling
+GO:0007306	egg chorion assembly
+GO:0030437	ascospore formation
+GO:0048459	floral whorl structural organization
+GO:0003005	follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage
+GO:0044771	meiotic cell cycle phase transition
+GO:0060516	primary prostatic bud elongation
+GO:0030726	male germline ring canal formation
+GO:0048808	male genitalia morphogenesis
+GO:0075275	telium development
+GO:0030708	germarium-derived female germ-line cyst encapsulation
+GO:0042003	masculinization of hermaphrodite soma
+GO:0044821	meiotic telomere tethering at nuclear periphery
+GO:0010214	seed coat development
+GO:0140456	initial meiotic spindle pole body separation
+GO:0051333	meiotic nuclear membrane reassembly
+GO:0045894	negative regulation of mating-type specific transcription, DNA-templated
+GO:0061107	seminal vesicle development
+GO:0048065	male courtship behavior, veined wing extension
+GO:0035262	gonad morphogenesis
+GO:0008069	dorsal/ventral axis specification, ovarian follicular epithelium
+GO:0007485	imaginal disc-derived male genitalia development
+GO:0033206	meiotic cytokinesis
+GO:0030704	vitelline membrane formation
+GO:0048317	seed morphogenesis
+GO:0060009	Sertoli cell development
+GO:0070789	metula development
+GO:0060746	parental behavior
+GO:0009560	embryo sac egg cell differentiation
+GO:0035648	circadian mating behavior
+GO:0007055	spindle assembly involved in male meiosis II
+GO:0048457	floral whorl morphogenesis
+GO:0048455	stamen formation
+GO:0016546	male courtship behavior, proboscis-mediated licking
+GO:0009960	endosperm development
+GO:0007142	male meiosis II
+GO:0048232	male gamete generation
+GO:1990395	meiotic spindle pole body organization
+GO:1990946	meiosis I/meiosis II transition
+GO:0048140	male germ-line cyst encapsulation
+GO:0051456	attachment of meiotic spindle microtubules to meiosis II kinetochore
+GO:0019953	sexual reproduction
+GO:0048464	flower calyx development
+GO:0034295	basidiospore formation
+GO:0010228	vegetative to reproductive phase transition of meristem
+GO:0010032	meiotic chromosome condensation
+GO:0010779	meiotic DNA repair synthesis involved in meiotic gene conversion
+GO:0016344	meiotic chromosome movement towards spindle pole
+GO:0010654	apical cell fate commitment
+GO:0009908	flower development
+GO:0007308	oocyte construction
+GO:0010072	primary shoot apical meristem specification
+GO:0070684	seminal clot liquefaction
+GO:0040038	polar body extrusion after meiotic divisions
+GO:0034296	zygospore formation
+GO:0048437	floral organ development
+GO:0035234	ectopic germ cell programmed cell death
+GO:0060112	generation of ovulation cycle rhythm
+GO:0001893	maternal placenta development
+GO:0048462	carpel formation
+GO:0061935	fusion of sperm to egg plasma membrane involved in double fertilization forming two zygotes
+GO:0010431	seed maturation
+GO:0009994	oocyte differentiation
+GO:0046545	development of primary female sexual characteristics
+GO:0060747	oral incubation
+GO:0080127	fruit septum development
+GO:0090597	nematode male tail mating organ morphogenesis
+GO:0010777	meiotic mismatch repair involved in reciprocal meiotic recombination
+GO:0048452	petal structural organization
+GO:0030538	embryonic genitalia morphogenesis
+GO:0061205	paramesonephric duct development
+GO:0048658	anther wall tapetum development
+GO:0106154	perithecium formation
+GO:0048836	specification of increased petal number
+GO:0000713	meiotic heteroduplex formation
+GO:0048482	plant ovule morphogenesis
+GO:0034293	sexual sporulation
+GO:0035260	internal genitalia morphogenesis
+GO:0051296	establishment of meiotic spindle orientation
+GO:0001410	chlamydospore formation
+GO:0030703	eggshell formation
+GO:0046692	sperm competition
+GO:0042140	late meiotic recombination nodule assembly
+GO:0051335	meiosis II nuclear membrane reassembly
+GO:0010067	procambium histogenesis
+GO:0040022	feminization of hermaphroditic germ-line
+GO:0007291	sperm individualization
+GO:0010774	meiotic strand invasion involved in reciprocal meiotic recombination
+GO:0007546	somatic processes downstream of sex determination signal
+GO:0048448	stamen morphogenesis
+GO:0090428	perianth development
+GO:0035126	post-embryonic genitalia morphogenesis
+GO:0019954	asexual reproduction
+GO:0030317	flagellated sperm motility
+GO:0110134	meiotic drive
+GO:0070591	ascospore wall biogenesis
+GO:0007617	mating behavior
+GO:0090376	seed trichome differentiation
+GO:0048166	mature follicle stage
+GO:0030539	male genitalia development
+GO:0010775	meiotic strand invasion involved in meiotic gene conversion
+GO:0009901	anther dehiscence
+GO:0007619	courtship behavior
+GO:0061982	meiosis I cell cycle process
+GO:0042628	mating plug formation
+GO:0046543	development of secondary female sexual characteristics
+GO:0075321	oomycete sporangium development
+GO:0080086	stamen filament development
+GO:0048508	embryonic meristem development
+GO:0060706	cell differentiation involved in embryonic placenta development
+GO:0098755	maintenance of seed dormancy by absisic acid
+GO:0032120	ascospore-type prospore membrane formation
+GO:0048447	sepal morphogenesis
+GO:0010097	specification of stamen identity
+GO:0007130	synaptonemal complex assembly
+GO:0007341	penetration of zona pellucida
+GO:0075251	uredospore formation
+GO:0010068	protoderm histogenesis
+GO:0048164	distinct antral spaces stage
+GO:0048700	acquisition of desiccation tolerance in seed
+GO:0045143	homologous chromosome segregation
+GO:0007304	chorion-containing eggshell formation
+GO:0009860	pollen tube growth
+GO:0070583	spore membrane bending pathway
+GO:0048438	floral whorl development
+GO:0007541	sex determination, primary response to X:A ratio
+GO:1903537	meiotic cell cycle process involved in oocyte maturation
+GO:0031321	ascospore-type prospore assembly
+GO:0043084	penile erection
+GO:0009677	double fertilization forming two zygotes
+GO:0060525	prostate glandular acinus development
+GO:0061989	sperm karyosome formation
+GO:0030582	reproductive fruiting body development
+GO:0007547	germ-line processes downstream of sex determination signal
+GO:0007311	maternal specification of dorsal/ventral axis, oocyte, germ-line encoded
+GO:0035047	centrosomal and pronuclear rotation
+GO:0051078	meiotic nuclear membrane disassembly
+GO:0007293	germarium-derived egg chamber formation
+GO:0080128	anther septum development
+GO:0060708	spongiotrophoblast differentiation
+GO:1905318	meiosis I spindle assembly checkpoint signaling
+GO:0060179	male mating behavior
+GO:0007146	meiotic recombination nodule assembly
+GO:1990950	metaphase/anaphase transition of meiosis II
+GO:0030850	prostate gland development
+GO:0048833	specification of floral organ number
+GO:0075325	spore dispersal
+GO:0033316	meiotic spindle assembly checkpoint signaling
+GO:0000710	meiotic mismatch repair
+GO:0060671	epithelial cell differentiation involved in embryonic placenta development
+GO:0007537	inactivation of recombination (HML)
+GO:0009566	fertilization
+GO:0070788	conidiophore stalk development
+GO:0048283	indeterminate inflorescence morphogenesis
+GO:1902346	meiotic strand displacement involved in double-strand break repair via SDSA
+GO:0016544	male courtship behavior, tapping to detect pheromone
+GO:0030237	female sex determination
+GO:0009971	anastral spindle assembly involved in male meiosis
+GO:0007294	germarium-derived oocyte fate determination
+GO:0045136	development of secondary sexual characteristics
+GO:0060715	syncytiotrophoblast cell differentiation involved in labyrinthine layer development
+GO:0000212	meiotic spindle organization
+GO:0043061	meiotic metaphase II chromosome alignment
+GO:0090377	seed trichome initiation
+GO:0007060	male meiosis chromosome segregation
+GO:0045476	nurse cell apoptotic process
+GO:0007535	donor selection
+GO:0007532	regulation of mating-type specific transcription, DNA-templated
+GO:0010705	meiotic DNA double-strand break processing involved in reciprocal meiotic recombination
+GO:1990918	double-strand break repair involved in meiotic recombination
+GO:0042138	meiotic DNA double-strand break formation
+GO:0030999	linear element assembly
+GO:0080001	mucilage extrusion from seed coat
+GO:0001675	acrosome assembly
+GO:0075285	sexual sporulation resulting in formation of a multicellular or syncytial spore
+GO:0010229	inflorescence development
+GO:0008070	maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded
+GO:0007530	sex determination
+GO:0048282	determinate inflorescence morphogenesis
+GO:1990813	meiotic centromeric cohesion protection in anaphase I
+GO:0042704	uterine wall breakdown
+GO:0048868	pollen tube development
+GO:0080126	ovary septum development
+GO:0044779	meiotic spindle checkpoint signaling
+GO:1902976	premeiotic DNA replication preinitiation complex assembly
+GO:0007618	mating
+GO:0051257	meiotic spindle midzone assembly
+GO:0000712	resolution of meiotic recombination intermediates
+GO:0007112	male meiosis cytokinesis
+GO:0060066	oviduct development
+GO:0007285	primary spermatocyte growth
+GO:0010047	fruit dehiscence
+GO:0051295	establishment of meiotic spindle localization
+GO:0010451	floral meristem growth
+GO:0022602	ovulation cycle process
+GO:0000714	meiotic strand displacement
+GO:0090380	seed trichome maturation
+GO:0030706	germarium-derived oocyte differentiation
+GO:0061108	seminal vesicle epithelium development
+GO:0075259	spore-bearing structure development
+GO:0048479	style development
+GO:1902989	meiotic telomere maintenance via semi-conservative replication
+GO:0001554	luteolysis
+GO:0030717	oocyte karyosome formation
+GO:0001555	oocyte growth
+GO:0048439	flower morphogenesis
+GO:0048656	anther wall tapetum formation
+GO:0035263	genital disc sexually dimorphic development
+GO:0097368	establishment of Sertoli cell barrier
+GO:0042006	masculinization of hermaphroditic germ-line
+GO:0051309	female meiosis chromosome separation
+GO:0008584	male gonad development
+GO:0045144	meiotic sister chromatid segregation
+GO:0048515	spermatid differentiation
+GO:0010198	synergid death
+GO:0030238	male sex determination
+GO:0048440	carpel development
+GO:0051334	meiosis I nuclear membrane reassembly
+GO:0060135	maternal process involved in female pregnancy
+GO:1902441	protein localization to meiotic spindle pole body
+GO:0000755	cytogamy
+GO:0001552	ovarian follicle atresia
+GO:0048445	carpel morphogenesis
+GO:0010780	meiotic DNA double-strand break formation involved in reciprocal meiotic recombination
+GO:0046008	regulation of female receptivity, post-mating
+GO:0070192	chromosome organization involved in meiotic cell cycle
+GO:0042139	early meiotic recombination nodule assembly
+GO:0097722	sperm motility
+GO:0010066	ground meristem histogenesis
+GO:0080173	male-female gamete recognition during double fertilization forming a zygote and endosperm
+GO:0034607	turning behavior involved in mating
+GO:0048456	stamen structural organization
+GO:0045895	positive regulation of mating-type specific transcription, DNA-templated
+GO:0007058	spindle assembly involved in female meiosis II
+GO:0001549	cumulus cell differentiation
+GO:0048235	pollen sperm cell differentiation
+GO:0106212	centromere detachment from spindle pole body involved in meiotic chromosome organization
+GO:0048460	flower formation
+GO:0044849	estrous cycle
+GO:0009829	cell wall modification involved in fruit ripening
+GO:0007531	mating type determination
+GO:0048161	double layer follicle stage
+GO:0010231	maintenance of seed dormancy
+GO:0001880	Mullerian duct regression
+GO:0048835	specification of decreased petal number
+GO:0046844	chorion micropyle formation
+GO:0034413	ascospore wall (1->3)-beta-D-glucan biosynthetic process
+GO:0030989	dynein-driven meiotic oscillatory nuclear movement
+GO:0032118	horsetail-astral microtubule organization
+GO:0048609	multicellular organismal reproductive process
+GO:0019101	female somatic sex determination
+GO:0075239	zoospore formation
+GO:0016543	male courtship behavior, orientation prior to leg tapping and wing vibration
+GO:0043582	sporangium development
+GO:0034301	endospore formation
+GO:0048654	anther morphogenesis
+GO:0018991	egg-laying behavior
+GO:0090567	reproductive shoot system development
+GO:0008049	male courtship behavior
+GO:0003006	developmental process involved in reproduction
+GO:0060008	Sertoli cell differentiation
+GO:0016545	male courtship behavior, veined wing vibration
+GO:1990949	metaphase/anaphase transition of meiosis I
+GO:0048281	inflorescence morphogenesis
+GO:0060513	prostatic bud formation
+GO:0048838	release of seed from dormancy
+GO:0030707	follicle cell of egg chamber development
+GO:0007536	activation of recombination (HML)
+GO:0022605	mammalian oogenesis stage
+GO:0048236	plant-type sporogenesis
+GO:0010704	meiotic DNA double-strand break processing involved in meiotic gene conversion
+GO:0007506	gonadal mesoderm development
+GO:0060515	prostate field specification
+GO:0001547	antral ovarian follicle growth
+GO:0010065	primary meristem tissue development
+GO:0045132	meiotic chromosome segregation
+GO:0007110	meiosis I cytokinesis
+GO:0003003	follicular fluid formation in ovarian follicle antrum involved in fused antrum stage
+GO:0007533	mating type switching
+GO:0090378	seed trichome elongation
+GO:0048165	fused antrum stage
+GO:0018992	germ-line sex determination
+GO:0048454	sepal structural organization
+GO:0048240	sperm capacitation
+GO:0060523	prostate epithelial cord elongation
+GO:0007542	primary sex determination, germ-line
+GO:0000705	achiasmate meiosis I
+GO:0061038	uterus morphogenesis
+GO:0007143	female meiotic nuclear division
+GO:0044850	menstrual cycle
+GO:0044703	multi-organism reproductive process
+GO:0061948	premature acrosome loss
+GO:0060067	cervix development
+GO:0097723	amoeboid sperm motility
+GO:0007338	single fertilization
+GO:0046661	male sex differentiation
+GO:0051878	lateral element assembly
+GO:0007301	female germline ring canal formation
+GO:0048481	plant ovule development
+GO:0080060	integument development
+GO:0030714	anterior/posterior axis specification, follicular epithelium
+GO:0033313	meiotic cell cycle checkpoint signaling
+GO:0048498	establishment of petal orientation
+GO:0000747	conjugation with cellular fusion
+GO:0060530	smooth muscle cell differentiation involved in prostate glandular acinus development
+GO:0043936	asexual sporulation resulting in formation of a cellular spore
+GO:0009567	double fertilization forming a zygote and endosperm
+GO:0030476	ascospore wall assembly
+GO:0007144	female meiosis I
+GO:0060709	glycogen cell differentiation involved in embryonic placenta development
+GO:0009942	longitudinal axis specification
+GO:0009793	embryo development ending in seed dormancy
+GO:0000708	meiotic strand invasion
+GO:0045925	positive regulation of female receptivity
+GO:0048047	mating behavior, sex discrimination
+GO:0060010	Sertoli cell fate commitment
+GO:0003004	follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage
+GO:0008585	female gonad development
+GO:0007305	vitelline membrane formation involved in chorion-containing eggshell formation
+GO:0007053	spindle assembly involved in male meiosis
+GO:0062121	linear element maturation
+GO:0007129	homologous chromosome pairing at meiosis
+GO:0060526	prostate glandular acinus morphogenesis
+GO:0006311	meiotic gene conversion
+GO:0060527	prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis
+GO:0001548	follicular fluid formation in ovarian follicle antrum
+GO:0035045	sperm plasma membrane disassembly
+GO:0048657	anther wall tapetum cell differentiation
+GO:0048466	androecium development
+GO:0051307	meiotic chromosome separation
+GO:0048071	sex-specific pigmentation
+GO:0046694	sperm incapacitation
+GO:0075247	aeciospore formation
+GO:0008406	gonad development
+GO:0010582	floral meristem determinacy
+GO:1903046	meiotic cell cycle process
+GO:0070791	cleistothecium development
+GO:0030725	germline ring canal formation
+GO:0034608	vulval location
+GO:0007283	spermatogenesis
+GO:0120166	protoperithecium formation
+GO:0075317	ascus development
+GO:0072461	response to meiotic recombination checkpoint signaling
+GO:0048138	germ-line cyst encapsulation
+GO:0051232	meiotic spindle elongation
+GO:0048458	floral whorl formation
+GO:0010622	specification of ovule identity
+GO:0007621	negative regulation of female receptivity
+GO:0007314	oocyte anterior/posterior axis specification
+GO:0048599	oocyte development
+GO:0007121	bipolar cellular bud site selection
+GO:0043929	primary ovarian follicle growth involved in double layer follicle stage
+GO:0010095	specification of petal identity
+GO:0042001	hermaphrodite somatic sex determination
+GO:0007567	parturition
+GO:0030381	chorion-containing eggshell pattern formation
+GO:0090728	negative regulation of brood size
+GO:0030723	ovarian fusome organization
+GO:0090306	meiotic spindle assembly
+GO:0045137	development of primary sexual characteristics
+GO:0009900	dehiscence
+GO:0001551	ovarian follicle endowment
+GO:0120165	perithecium development
+GO:0007135	meiosis II
+GO:0007288	sperm axoneme assembly
+GO:0048095	female pigmentation
+GO:0060442	branching involved in prostate gland morphogenesis
+GO:0001556	oocyte maturation
+GO:0016346	male meiotic chromosome movement towards spindle pole
+GO:0002078	membrane fusion involved in acrosome reaction
+GO:0010096	specification of sepal identity
+GO:0070197	meiotic attachment of telomere to nuclear envelope
+GO:0007565	female pregnancy
+GO:0048655	anther wall tapetum morphogenesis
+GO:0001546	preantral ovarian follicle growth
+GO:0075263	oogonium development
+GO:0042711	maternal behavior
+GO:1990277	parasexual reproduction with cellular fusion
+GO:0060707	trophoblast giant cell differentiation
+GO:0019102	male somatic sex determination
+GO:0051229	meiotic spindle disassembly
+GO:0019100	male germ-line sex determination
+GO:0060136	embryonic process involved in female pregnancy
+GO:0048608	reproductive structure development
+GO:0030540	female genitalia development
+GO:0008050	female courtship behavior
+GO:0030713	follicle cell of egg chamber stalk formation
+GO:0030724	testicular fusome organization
+GO:0060531	neuroendocrine cell differentiation involved in prostate gland acinus development
+GO:0009556	microsporogenesis
+GO:0060529	squamous basal epithelial stem cell differentiation involved in prostate gland acinus development
+GO:0048807	female genitalia morphogenesis
+GO:0007309	oocyte axis specification
+GO:0044778	meiotic DNA integrity checkpoint signaling
+GO:0010254	nectary development
+GO:0007295	growth of a germarium-derived egg chamber
+GO:0048443	stamen development
+GO:0007310	oocyte dorsal/ventral axis specification
+GO:0000709	meiotic joint molecule formation
+GO:0010480	microsporocyte differentiation
+GO:0051080	meiosis II nuclear membrane disassembly
+GO:0048834	specification of petal number
+GO:0075279	uredinium development
+GO:0051321	meiotic cell cycle
+GO:0007127	meiosis I
+GO:0060378	regulation of brood size
+GO:0042701	progesterone secretion
+GO:0075243	oospore formation
+GO:0042712	paternal behavior
+GO:0033315	meiotic G2/MI DNA replication checkpoint signaling
+GO:0051756	meiotic sister chromatid centromere separation
+GO:0007321	sperm displacement
+GO:0007484	imaginal disc-derived genitalia development
+GO:0043060	meiotic metaphase I homologous chromosome alignment
+GO:0045478	fusome organization
+GO:0001542	ovulation from ovarian follicle
+GO:0046693	sperm storage
+GO:0033327	Leydig cell differentiation
+GO:0048163	scattered antral spaces stage
+GO:0032837	distributive segregation
+GO:0048160	primary follicle stage
+GO:0007545	processes downstream of sex determination signal
+GO:0046697	decidualization
+GO:0048444	floral organ morphogenesis
+GO:0000748	conjugation with mutual genetic exchange
+GO:0000706	meiotic DNA double-strand break processing
+GO:0022413	reproductive process in single-celled organism
+GO:0043093	FtsZ-dependent cytokinesis
+GO:0034609	spicule insertion
+GO:0009856	pollination
+GO:1990571	meiotic centromere clustering
+GO:0007486	imaginal disc-derived female genitalia development
+GO:0048094	male pigmentation
+GO:0007140	male meiotic nuclear division
+GO:0070790	phialide development
+GO:0010778	meiotic DNA repair synthesis involved in reciprocal meiotic recombination
+GO:0060512	prostate gland morphogenesis
+GO:0007540	sex determination, establishment of X:A ratio
+GO:0010772	meiotic DNA recombinase assembly involved in reciprocal meiotic recombination

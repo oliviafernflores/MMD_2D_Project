@@ -1,0 +1,197 @@
+GOID	TERM
+GO:0045794	negative regulation of cell volume
+GO:0042593	glucose homeostasis
+GO:0015686	ferric triacetylfusarinine C import into cell
+GO:1902266	intracellular abscisic acid homeostasis
+GO:0010992	ubiquitin recycling
+GO:0060276	maintenance of stationary phase in response to toxin
+GO:0030277	maintenance of gastrointestinal epithelium
+GO:0048874	host-mediated regulation of intestinal microbiota composition
+GO:0048388	endosomal lumen acidification
+GO:0055081	monoatomic anion homeostasis
+GO:0097272	ammonium homeostasis
+GO:0033214	siderophore-dependent iron import into cell
+GO:0042049	intracellular acyl-CoA homeostasis
+GO:0032847	regulation of cellular pH reduction
+GO:0048873	homeostasis of number of cells within a tissue
+GO:0055071	manganese ion homeostasis
+GO:0140928	inhibition of non-skeletal tissue mineralization
+GO:0007639	homeostasis of number of meristem cells
+GO:0006883	intracellular sodium ion homeostasis
+GO:0035702	monocyte homeostasis
+GO:0051565	negative regulation of smooth endoplasmic reticulum calcium ion concentration
+GO:0055080	monoatomic cation homeostasis
+GO:0090460	intracellular threonine homeostasis
+GO:0090465	intracellular arginine homeostasis
+GO:0160070	intracellular borate homeostasis
+GO:0061519	macrophage homeostasis
+GO:0045851	pH reduction
+GO:0007042	lysosomal lumen acidification
+GO:0045453	bone resorption
+GO:0051453	regulation of intracellular pH
+GO:0001894	tissue homeostasis
+GO:0055062	phosphate ion homeostasis
+GO:0097580	intracellular sequestering of copper ion
+GO:0035752	lysosomal lumen pH elevation
+GO:0090390	phagosome acidification involved in apoptotic cell clearance
+GO:0050891	multicellular organismal-level water homeostasis
+GO:0002261	mucosal lymphocyte homeostasis
+GO:0050801	monoatomic ion homeostasis
+GO:0030642	intracellular sulfate ion homeostasis
+GO:0140979	intracellular nucleotide homeostasis
+GO:0030002	intracellular monoatomic anion homeostasis
+GO:0051564	positive regulation of smooth endoplasmic reticulum calcium ion concentration
+GO:0031649	heat generation
+GO:0043029	T cell homeostasis
+GO:0140964	intracellular auxin homeostasis
+GO:0097401	synaptic vesicle lumen acidification
+GO:0055063	sulfate ion homeostasis
+GO:0051480	regulation of cytosolic calcium ion concentration
+GO:0051560	mitochondrial calcium ion homeostasis
+GO:0006973	intracellular accumulation of glycerol
+GO:0010961	intracellular magnesium ion homeostasis
+GO:0001922	B-1 B cell homeostasis
+GO:0055074	calcium ion homeostasis
+GO:0006882	intracellular zinc ion homeostasis
+GO:1902265	abscisic acid homeostasis
+GO:0080144	intracellular amino acid homeostasis
+GO:0120332	host-mediated regulation of oral microbiota composition
+GO:0002260	lymphocyte homeostasis
+GO:0032469	endoplasmic reticulum calcium ion homeostasis
+GO:0060274	maintenance of stationary phase
+GO:0006884	cell volume homeostasis
+GO:0030641	regulation of cellular pH
+GO:0010960	magnesium ion homeostasis
+GO:0010617	circadian regulation of calcium ion oscillation
+GO:0051561	positive regulation of mitochondrial calcium ion concentration
+GO:0044655	phagosome reneutralization
+GO:0060086	circadian temperature homeostasis
+GO:0035785	intracellular nickel ion homeostasis
+GO:0090461	intracellular glutamate homeostasis
+GO:0080145	intracellular cysteine homeostasis
+GO:0006873	intracellular monoatomic ion homeostasis
+GO:1990079	cartilage homeostasis
+GO:0019725	cellular homeostasis
+GO:0032468	Golgi calcium ion homeostasis
+GO:0051563	smooth endoplasmic reticulum calcium ion homeostasis
+GO:0046665	amnioserosa maintenance
+GO:0090462	intracellular ornithine homeostasis
+GO:0006879	intracellular iron ion homeostasis
+GO:0055075	potassium ion homeostasis
+GO:1990959	eosinophil homeostasis
+GO:0090156	intracellular sphingolipid homeostasis
+GO:0048877	homeostasis of number of retina cells
+GO:0140421	endocytic heme import into cell
+GO:0061795	Golgi lumen acidification
+GO:0098711	iron ion import across plasma membrane
+GO:0010268	brassinosteroid homeostasis
+GO:0055088	lipid homeostasis
+GO:0042309	homoiothermy
+GO:1904334	heme import across plasma membrane
+GO:0060250	germ-line stem-cell niche homeostasis
+GO:0036145	dendritic cell homeostasis
+GO:0002021	response to dietary excess
+GO:0046716	muscle cell cellular homeostasis
+GO:1905528	positive regulation of Golgi lumen acidification
+GO:0061484	hematopoietic stem cell homeostasis
+GO:0099509	regulation of presynaptic cytosolic calcium ion concentration
+GO:0031653	heat dissipation
+GO:0051452	intracellular pH reduction
+GO:0001776	leukocyte homeostasis
+GO:0140420	heme import into cell
+GO:0036335	intestinal stem cell homeostasis
+GO:0090464	intracellular histidine homeostasis
+GO:0141067	intracellular nitrogen homeostasis
+GO:0030026	intracellular manganese ion homeostasis
+GO:0032849	positive regulation of cellular pH reduction
+GO:0019740	nitrogen utilization
+GO:1905527	negative regulation of Golgi lumen acidification
+GO:0006874	intracellular calcium ion homeostasis
+GO:0007036	vacuolar calcium ion homeostasis
+GO:0097601	retina blood vessel maintenance
+GO:0036334	epidermal stem cell homeostasis
+GO:0097578	sequestering of copper ion
+GO:0001678	intracellular glucose homeostasis
+GO:0032364	intracellular oxygen homeostasis
+GO:0002262	myeloid cell homeostasis
+GO:0106106	cold-induced thermogenesis
+GO:0042632	cholesterol homeostasis
+GO:0043129	surfactant homeostasis
+GO:0071333	cellular response to glucose stimulus
+GO:0015685	ferric-enterobactin import into cell
+GO:0033484	intracellular nitric oxide homeostasis
+GO:0035751	regulation of lysosomal lumen pH
+GO:0009992	intracellular water homeostasis
+GO:0019676	ammonia assimilation cycle
+GO:0042928	ferrichrome import into cell
+GO:0060275	maintenance of stationary phase in response to starvation
+GO:0033500	carbohydrate homeostasis
+GO:0006885	regulation of pH
+GO:0006878	intracellular copper ion homeostasis
+GO:0055070	copper ion homeostasis
+GO:0060249	anatomical structure homeostasis
+GO:0033212	iron import into cell
+GO:0140576	ascorbate homeostasis
+GO:0034101	erythrocyte homeostasis
+GO:0160061	respiratory chemosensitivity
+GO:0045795	positive regulation of cell volume
+GO:0048871	multicellular organismal-level homeostasis
+GO:0055091	phospholipid homeostasis
+GO:0097275	intracellular ammonium homeostasis
+GO:0035356	intracellular triglyceride homeostasis
+GO:0160165	CD8-positive, alpha-beta T cell homeostasis
+GO:0140298	endocytic iron import into cell
+GO:0001659	temperature homeostasis
+GO:0001895	retina homeostasis
+GO:0097579	extracellular sequestering of copper ion
+GO:0003091	renal water homeostasis
+GO:0007035	vacuolar acidification
+GO:0045454	cell redox homeostasis
+GO:1905526	regulation of Golgi lumen acidification
+GO:0036438	maintenance of lens transparency
+GO:0045852	pH elevation
+GO:0160060	sleep homeostasis
+GO:0010509	intracellular polyamine homeostasis
+GO:0098771	inorganic ion homeostasis
+GO:0097009	energy homeostasis
+GO:0060586	multicellular organismal-level iron ion homeostasis
+GO:0140962	multicellular organismal-level chemical homeostasis
+GO:0055092	sterol homeostasis
+GO:0055090	acylglycerol homeostasis
+GO:0090463	intracellular lysine homeostasis
+GO:0033023	mast cell homeostasis
+GO:0036333	hepatocyte homeostasis
+GO:0010336	gibberellic acid homeostasis
+GO:0030644	intracellular chloride ion homeostasis
+GO:0035633	maintenance of blood-brain barrier
+GO:0070328	triglyceride homeostasis
+GO:0030007	intracellular potassium ion homeostasis
+GO:0032470	positive regulation of endoplasmic reticulum calcium ion concentration
+GO:0051454	intracellular pH elevation
+GO:1990960	basophil homeostasis
+GO:0033215	reductive iron assimilation
+GO:0032471	negative regulation of endoplasmic reticulum calcium ion concentration
+GO:0055078	sodium ion homeostasis
+GO:0090459	intracellular aspartate homeostasis
+GO:0048878	chemical homeostasis
+GO:0006877	intracellular cobalt ion homeostasis
+GO:0032848	negative regulation of cellular pH reduction
+GO:0060729	intestinal epithelial structure maintenance
+GO:0001780	neutrophil homeostasis
+GO:0030643	intracellular phosphate ion homeostasis
+GO:0055089	fatty acid homeostasis
+GO:0060289	compartment boundary maintenance
+GO:0030003	intracellular monoatomic cation homeostasis
+GO:0140980	intracellular nucleoside homeostasis
+GO:0099566	regulation of postsynaptic cytosolic calcium ion concentration
+GO:0001782	B cell homeostasis
+GO:0010669	epithelial structure maintenance
+GO:0048872	homeostasis of number of cells
+GO:0001660	fever generation
+GO:0055064	chloride ion homeostasis
+GO:0035160	maintenance of epithelial integrity, open tracheal system
+GO:0015687	ferric-hydroxamate import into cell
+GO:0090383	phagosome acidification
+GO:0070050	neuron cellular homeostasis
+GO:0055082	intracellular chemical homeostasis
+GO:0051562	negative regulation of mitochondrial calcium ion concentration

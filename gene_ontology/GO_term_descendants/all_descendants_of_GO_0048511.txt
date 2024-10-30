@@ -1,0 +1,47 @@
+GOID	TERM
+GO:0001548	follicular fluid formation in ovarian follicle antrum
+GO:0042701	progesterone secretion
+GO:0048512	circadian behavior
+GO:0001554	luteolysis
+GO:0044850	menstrual cycle
+GO:0022410	circadian sleep/wake cycle process
+GO:0003052	circadian regulation of systemic arterial blood pressure
+GO:0042698	ovulation cycle
+GO:0001546	preantral ovarian follicle growth
+GO:0010617	circadian regulation of calcium ion oscillation
+GO:0003005	follicular fluid formation in ovarian follicle antrum involved in scattered antral spaces stage
+GO:0042748	circadian sleep/wake cycle, non-REM sleep
+GO:0060086	circadian temperature homeostasis
+GO:0001542	ovulation from ovarian follicle
+GO:0032922	circadian regulation of gene expression
+GO:0001544	initiation of primordial ovarian follicle growth
+GO:0042747	circadian sleep/wake cycle, REM sleep
+GO:0042704	uterine wall breakdown
+GO:0035882	defecation rhythm
+GO:0001553	luteinization
+GO:0042702	uterine wall growth
+GO:0060112	generation of ovulation cycle rhythm
+GO:0007624	ultradian rhythm
+GO:0045475	locomotor rhythm
+GO:0003054	circadian regulation of systemic arterial blood pressure by the suprachiasmatic nucleus
+GO:0001543	ovarian follicle rupture
+GO:0043930	primary ovarian follicle growth involved in primary follicle stage
+GO:0003053	circadian regulation of heart rate
+GO:0043929	primary ovarian follicle growth involved in double layer follicle stage
+GO:0001547	antral ovarian follicle growth
+GO:0008062	eclosion rhythm
+GO:0042746	circadian sleep/wake cycle, wakefulness
+GO:0035648	circadian mating behavior
+GO:0022602	ovulation cycle process
+GO:0003003	follicular fluid formation in ovarian follicle antrum involved in fused antrum stage
+GO:0001551	ovarian follicle endowment
+GO:0001550	ovarian cumulus expansion
+GO:0042699	follicle-stimulating hormone signaling pathway
+GO:0007623	circadian rhythm
+GO:0044849	estrous cycle
+GO:0003004	follicular fluid formation in ovarian follicle antrum involved in distinct antral spaces stage
+GO:0097167	circadian regulation of translation
+GO:0042745	circadian sleep/wake cycle
+GO:0050802	circadian sleep/wake cycle, sleep
+GO:0001545	primary ovarian follicle growth
+GO:0003055	circadian regulation of heart rate by the suprachiasmatic nucleus

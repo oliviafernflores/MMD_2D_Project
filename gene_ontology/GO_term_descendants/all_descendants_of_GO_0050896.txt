@@ -1,0 +1,1883 @@
+GOID	TERM
+GO:0097533	cellular stress response to acid chemical
+GO:0097336	response to risperidone
+GO:0097069	cellular response to thyroxine stimulus
+GO:1904014	response to serotonin
+GO:0071247	cellular response to chromate
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide
+GO:0097700	vascular endothelial cell response to laminar fluid shear stress
+GO:1904645	response to amyloid-beta
+GO:0036015	response to interleukin-3
+GO:0034342	response to type III interferon
+GO:0071473	cellular response to cation stress
+GO:0050981	detection of electrical stimulus
+GO:0000724	double-strand break repair via homologous recombination
+GO:0071453	cellular response to oxygen levels
+GO:1904482	cellular response to tetrahydrofolate
+GO:0071216	cellular response to biotic stimulus
+GO:0009270	response to humidity
+GO:0071290	cellular response to platinum ion
+GO:0075293	response to host pH environment
+GO:0009961	response to 1-aminocyclopropane-1-carboxylic acid
+GO:1904620	cellular response to dimethyl sulfoxide
+GO:0072476	response to mitotic spindle checkpoint signaling
+GO:1904842	response to nitroglycerin
+GO:0071388	cellular response to cortisone stimulus
+GO:0050966	detection of mechanical stimulus involved in sensory perception of pain
+GO:0097307	response to farnesol
+GO:0072761	cellular response to capsazepine
+GO:0061476	response to anticoagulant
+GO:1904614	response to biphenyl
+GO:0071346	cellular response to type II interferon
+GO:0072734	cellular response to staurosporine
+GO:1903967	response to micafungin
+GO:0002466	peripheral tolerance induction to self antigen
+GO:0072702	response to methyl methanesulfonate
+GO:0006950	response to stress
+GO:0016036	cellular response to phosphate starvation
+GO:0045991	carbon catabolite activation of transcription
+GO:0097702	response to oscillatory fluid shear stress
+GO:0072710	response to hydroxyurea
+GO:0071559	response to transforming growth factor beta
+GO:0072482	response to mitotic cell cycle spindle orientation checkpoint signaling
+GO:0009588	UV-A, blue light phototransduction
+GO:0009721	detection of auxin stimulus
+GO:0036298	recombinational interstrand cross-link repair
+GO:0002215	defense response to nematode
+GO:0014899	cardiac muscle atrophy
+GO:0051873	killing by host of symbiont cells
+GO:0009741	response to brassinosteroid
+GO:0097715	cellular response to viscosity
+GO:0080026	response to indolebutyric acid
+GO:0097011	cellular response to granulocyte macrophage colony-stimulating factor stimulus
+GO:0033274	response to vitamin B2
+GO:0097308	cellular response to farnesol
+GO:0001583	detection of chemical stimulus involved in sensory perception of salty taste
+GO:1904566	cellular response to 1-oleoyl-sn-glycerol 3-phosphate
+GO:1902518	response to cyclophosphamide
+GO:0071277	cellular response to calcium ion
+GO:0071348	cellular response to interleukin-11
+GO:0036448	cellular response to glucose-phosphate stress
+GO:0002544	chronic inflammatory response
+GO:1904636	response to ionomycin
+GO:0010213	non-photoreactive DNA repair
+GO:1902778	response to alkane
+GO:1904558	response to dextromethorphan
+GO:0071731	response to nitric oxide
+GO:0051384	response to glucocorticoid
+GO:0036279	positive regulation of protein export from nucleus in response to glucose starvation
+GO:0036245	cellular response to menadione
+GO:0000725	recombinational repair
+GO:0071470	cellular response to osmotic stress
+GO:1901498	response to tetralin
+GO:0070999	detection of mechanical stimulus involved in sensory perception of gravity
+GO:0002246	wound healing involved in inflammatory response
+GO:0075138	response to host oxygen tension environment
+GO:0120303	visually-mediated background adaptation
+GO:0034976	response to endoplasmic reticulum stress
+GO:1905092	response to diosgenin
+GO:0071397	cellular response to cholesterol
+GO:1905377	response to D-galactose
+GO:0000437	carbon catabolite repression of transcription from RNA polymerase II promoter
+GO:1905232	cellular response to L-glutamate
+GO:0090648	response to environmental enrichment
+GO:0003020	detection of reduced oxygen by chemoreceptor signaling
+GO:0000760	adaptation to pheromone regulating conjugation with mutual genetic exchange
+GO:1904845	cellular response to L-glutamine
+GO:0002241	response to parasitic plant
+GO:1905218	cellular response to astaxanthin
+GO:0071452	cellular response to singlet oxygen
+GO:0019730	antimicrobial humoral response
+GO:0071303	cellular response to vitamin B3
+GO:0072719	cellular response to cisplatin
+GO:0002228	natural killer cell mediated immunity
+GO:1905390	cellular response to leukotriene B4
+GO:0039724	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of IKBKE activity
+GO:0050963	detection of electrical stimulus involved in sensory perception
+GO:0106300	protein-DNA covalent cross-linking repair
+GO:0071726	cellular response to diacyl bacterial lipopeptide
+GO:1990781	response to immobilization stress combined with electrical stimulus
+GO:1902610	response to N-phenylthiourea
+GO:0006791	sulfur utilization
+GO:0000429	carbon catabolite regulation of transcription from RNA polymerase II promoter
+GO:1905834	response to pyrimidine ribonucleotide
+GO:0075528	perturbation by virus of host immune response
+GO:0042262	DNA protection
+GO:0009602	detection of symbiont
+GO:0034021	response to silicon dioxide
+GO:0043434	response to peptide hormone
+GO:1904561	cellular response to diphenidol
+GO:0044591	response to amylopectin
+GO:0141082	symbiont-mediated detoxification of host-generated reactive oxygen species
+GO:0010161	red light signaling pathway
+GO:0140467	integrated stress response signaling
+GO:0001975	response to amphetamine
+GO:0036295	cellular response to increased oxygen levels
+GO:0098581	detection of external biotic stimulus
+GO:0052003	symbiont-mediated suppression of defense-related host salicylic acid-mediated signal transduction pathway
+GO:0090649	response to oxygen-glucose deprivation
+GO:1903577	cellular response to L-arginine
+GO:0071475	cellular hyperosmotic salinity response
+GO:1990820	response to mitotic DNA integrity checkpoint signaling
+GO:1903937	response to acrylamide
+GO:0009597	detection of virus
+GO:0090550	response to molybdenum starvation
+GO:0030265	phospholipase C-activating opsin-mediated signaling pathway
+GO:0010196	nonphotochemical quenching
+GO:0035729	cellular response to hepatocyte growth factor stimulus
+GO:1904311	response to gold(3+)
+GO:0072733	response to staurosporine
+GO:0009415	response to water
+GO:0072748	cellular response to tacrolimus
+GO:0080184	response to phenylpropanoid
+GO:0055122	response to very low light intensity stimulus
+GO:1905712	cellular response to phosphatidylethanolamine
+GO:0071000	response to magnetism
+GO:0036500	ATF6-mediated unfolded protein response
+GO:1904385	cellular response to angiotensin
+GO:0071357	cellular response to type I interferon
+GO:1904559	cellular response to dextromethorphan
+GO:0061771	response to caloric restriction
+GO:0097395	response to interleukin-32
+GO:0006962	male-specific antibacterial humoral response
+GO:0010691	negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to nutrient levels
+GO:0097331	response to cytarabine
+GO:0002227	innate immune response in mucosa
+GO:1901500	response to p-xylene
+GO:0002524	hypersensitivity
+GO:0072749	cellular response to cytochalasin B
+GO:0032025	response to cobalt ion
+GO:0009728	detection of gibberellic acid stimulus
+GO:0036016	cellular response to interleukin-3
+GO:0097238	cellular response to methylglyoxal
+GO:0070415	trehalose metabolism in response to cold stress
+GO:0043478	pigment accumulation in response to UV light
+GO:0048757	pigment granule maturation
+GO:0010350	cellular response to magnesium starvation
+GO:0071496	cellular response to external stimulus
+GO:1904975	response to bleomycin
+GO:0070417	cellular response to cold
+GO:0002464	peripheral tolerance induction to nonself antigen
+GO:1904565	response to 1-oleoyl-sn-glycerol 3-phosphate
+GO:1902784	response to undecane
+GO:0002400	tolerance induction in nasopharyngeal-associated lymphoid tissue
+GO:0071395	cellular response to jasmonic acid stimulus
+GO:0097279	histamine secretion mediated by IgE immunoglobulin
+GO:0002213	defense response to insect
+GO:0052031	symbiont-mediated perturbation of host defense response
+GO:0098780	response to mitochondrial depolarisation
+GO:0036499	PERK-mediated unfolded protein response
+GO:0019724	B cell mediated immunity
+GO:0043617	cellular response to sucrose starvation
+GO:1903495	cellular response to dehydroepiandrosterone
+GO:1990785	response to water-immersion restraint stress
+GO:0000302	response to reactive oxygen species
+GO:1903544	response to butyrate
+GO:0072396	response to cell cycle checkpoint signaling
+GO:0070370	cellular heat acclimation
+GO:0035900	response to isolation stress
+GO:0072708	response to sorbitol
+GO:0075137	response to host redox environment
+GO:0010218	response to far red light
+GO:0098517	detection of low humidity
+GO:0098516	detection of high humidity
+GO:0034097	response to cytokine
+GO:0007603	phototransduction, visible light
+GO:0071298	cellular response to L-ascorbic acid
+GO:0002212	behavioral defense response to nematode
+GO:0046678	response to bacteriocin
+GO:0071215	cellular response to abscisic acid stimulus
+GO:0006298	mismatch repair
+GO:1990396	single-strand break repair via homologous recombination
+GO:0046680	response to DDT
+GO:0097705	vascular endothelial cell response to pulsatile fluid shear stress
+GO:0042594	response to starvation
+GO:0072724	response to 4-nitroquinoline N-oxide
+GO:1905389	response to leukotriene B4
+GO:0097366	response to bronchodilator
+GO:0052156	symbiont-mediated perturbation of host T-cell mediated immune response
+GO:0072759	cellular response to topoisomerase inhibitor
+GO:1904647	response to rotenone
+GO:0072736	cellular response to tert-butyl hydroperoxide
+GO:1904016	response to Thyroglobulin triiodothyronine
+GO:1905093	cellular response to diosgenin
+GO:0001081	nitrogen catabolite repression of transcription from RNA polymerase II promoter
+GO:0140546	defense response to symbiont
+GO:0035924	cellular response to vascular endothelial growth factor stimulus
+GO:1901325	response to antimycin A
+GO:0080183	response to photooxidative stress
+GO:0009648	photoperiodism
+GO:0036276	response to antidepressant
+GO:0002413	tolerance induction to tumor cell
+GO:0072753	cellular response to glutathione
+GO:0033993	response to lipid
+GO:0090719	adaptive immune effector response involving T cells and B lineage cells
+GO:0071365	cellular response to auxin stimulus
+GO:0050980	detection of light stimulus involved in magnetoreception
+GO:0042770	signal transduction in response to DNA damage
+GO:0071236	cellular response to antibiotic
+GO:0036146	cellular response to mycotoxin
+GO:0071283	cellular response to iron(III) ion
+GO:0010244	response to low fluence blue light stimulus by blue low-fluence system
+GO:1905430	cellular response to glycine
+GO:0036110	cellular response to inositol starvation
+GO:1904314	cellular response to methamphetamine hydrochloride
+GO:0071242	cellular response to ammonium ion
+GO:0002235	detection of unfolded protein
+GO:0039673	evasion by virus of host dendritic cell activity
+GO:0071286	cellular response to magnesium ion
+GO:0042494	detection of bacterial lipoprotein
+GO:0071300	cellular response to retinoic acid
+GO:0070482	response to oxygen levels
+GO:1905308	cellular response to miconazole
+GO:0009730	detection of carbohydrate stimulus
+GO:0097068	response to thyroxine
+GO:0043577	chemotropism
+GO:0030420	establishment of competence for transformation
+GO:0003030	detection of hydrogen ion
+GO:0071498	cellular response to fluid shear stress
+GO:0036294	cellular response to decreased oxygen levels
+GO:0034599	cellular response to oxidative stress
+GO:0014888	striated muscle adaptation
+GO:0071276	cellular response to cadmium ion
+GO:0036288	response to ximelagatran
+GO:0071488	cellular response to very low light intensity stimulus
+GO:0016048	detection of temperature stimulus
+GO:0071386	cellular response to corticosterone stimulus
+GO:0071252	cellular response to sulfur dioxide
+GO:0060005	vestibular reflex
+GO:0141116	symbiont-mediated suppression of host complement activation by complement sequestering
+GO:0061431	cellular response to methionine
+GO:0097211	cellular response to gonadotropin-releasing hormone
+GO:0014870	response to muscle inactivity
+GO:0002420	natural killer cell mediated cytotoxicity directed against tumor cell target
+GO:0010203	response to very low fluence red light stimulus
+GO:0071483	cellular response to blue light
+GO:0014875	detection of muscle activity involved in regulation of muscle adaptation
+GO:0014012	peripheral nervous system axon regeneration
+GO:0072758	response to topoisomerase inhibitor
+GO:0031103	axon regeneration
+GO:0141128	symbiont-mediated non-specific activation of host T-cells
+GO:0043247	telomere maintenance in response to DNA damage
+GO:0002013	detection of carbon dioxide by vasomotor center
+GO:1904116	response to vasopressin
+GO:0071479	cellular response to ionizing radiation
+GO:0090717	adaptive immune memory response involving T cells and B cells
+GO:0050968	detection of chemical stimulus involved in sensory perception of pain
+GO:0035966	response to topologically incorrect protein
+GO:0071548	response to dexamethasone
+GO:0014854	response to inactivity
+GO:0002000	detection of renal blood flow
+GO:1902483	cytotoxic T cell pyroptotic cell death
+GO:0099141	cellular response to protozoan
+GO:1901427	response to propan-1-ol
+GO:0140502	effector-mediated suppression of host salicylic acid-mediated innate immune signaling
+GO:0033195	response to alkyl hydroperoxide
+GO:0071474	cellular hyperosmotic response
+GO:0070849	response to epidermal growth factor
+GO:0052067	symbiont-mediated perturbation of host phagocytosis
+GO:0141177	symbiont-mediated evasion of recognition by host innate immune effector
+GO:0071392	cellular response to estradiol stimulus
+GO:0050965	detection of temperature stimulus involved in sensory perception of pain
+GO:1903351	cellular response to dopamine
+GO:0033661	effector-mediated defense to host-produced reactive oxygen species
+GO:0044320	cellular response to leptin stimulus
+GO:0070911	global genome nucleotide-excision repair
+GO:0080169	cellular response to boron-containing substance deprivation
+GO:0042542	response to hydrogen peroxide
+GO:0071244	cellular response to carbon dioxide
+GO:1901545	response to raffinose
+GO:0044752	response to human chorionic gonadotropin
+GO:0072763	cellular response to hesperadin
+GO:0071314	cellular response to cocaine
+GO:0097328	response to carboplatin
+GO:0052562	symbiont-mediated suppression of host immune response
+GO:0034053	symbiont-mediated perturbation of host defense-related programmed cell death
+GO:0071412	cellular response to genistein
+GO:1901698	response to nitrogen compound
+GO:0072751	cellular response to L-thialysine
+GO:0035874	cellular response to copper ion starvation
+GO:0050967	detection of electrical stimulus involved in sensory perception of pain
+GO:0071292	cellular response to silver ion
+GO:1905630	response to glyceraldehyde
+GO:0051591	response to cAMP
+GO:0010018	far-red light signaling pathway
+GO:0039505	symbiont-mediated suppression of host antigen processing and presentation of peptide antigen via MHC class II
+GO:0009729	detection of brassinosteroid stimulus
+GO:0071105	response to interleukin-11
+GO:1904926	response to palmitoleic acid
+GO:0098756	response to interleukin-21
+GO:0014865	detection of activity
+GO:1990603	dark adaptation
+GO:0043153	entrainment of circadian clock by photoperiod
+GO:0051607	defense response to virus
+GO:1901595	response to hesperadin
+GO:0009641	shade avoidance
+GO:0072716	response to actinomycin D
+GO:0070305	response to cGMP
+GO:0043627	response to estrogen
+GO:0072711	cellular response to hydroxyurea
+GO:1902708	response to plumbagin
+GO:0120304	integument-mediated background adaptation
+GO:0043331	response to dsRNA
+GO:0071213	cellular response to 1-aminocyclopropane-1-carboxylic acid
+GO:0009959	negative gravitropism
+GO:0090716	adaptive immune memory response
+GO:0010353	response to trehalose
+GO:0110096	cellular response to aldehyde
+GO:0007633	pattern orientation
+GO:0006991	response to sterol depletion
+GO:1904628	cellular response to phorbol 13-acetate 12-myristate
+GO:0035864	response to potassium ion
+GO:0035967	cellular response to topologically incorrect protein
+GO:0010555	response to mannitol
+GO:1905233	response to codeine
+GO:0035743	CD4-positive, alpha-beta T cell cytokine production
+GO:0009785	blue light signaling pathway
+GO:0006303	double-strand break repair via nonhomologous end joining
+GO:0045471	response to ethanol
+GO:0034050	symbiont-induced defense-related programmed cell death
+GO:1990314	cellular response to insulin-like growth factor stimulus
+GO:0072715	cellular response to selenite ion
+GO:0000305	response to oxygen radical
+GO:1903416	response to glycoside
+GO:0009372	quorum sensing
+GO:0010447	response to acidic pH
+GO:0071347	cellular response to interleukin-1
+GO:0050883	musculoskeletal movement, spinal reflex action
+GO:0061984	catabolite repression
+GO:0009635	response to herbicide
+GO:0071259	cellular response to magnetism
+GO:0009594	detection of nutrient
+GO:1901367	response to L-cysteine
+GO:0034405	response to fluid shear stress
+GO:0035902	response to immobilization stress
+GO:0071288	cellular response to mercury ion
+GO:0071323	cellular response to chitin
+GO:0050970	detection of electrical stimulus involved in magnetoreception
+GO:0120126	response to copper ion starvation
+GO:0071413	cellular response to hydroxyisoflavone
+GO:0071411	cellular response to fluoxetine
+GO:0006958	complement activation, classical pathway
+GO:0002459	adaptive immune response based on somatic recombination of immune receptors built from leucine-rich repeat domains
+GO:0106097	cellular response to ceramide
+GO:0033590	response to cobalamin
+GO:0014895	smooth muscle hypertrophy
+GO:0140052	cellular response to oxidised low-density lipoprotein particle stimulus
+GO:0071362	cellular response to ether
+GO:0097699	vascular endothelial cell response to fluid shear stress
+GO:0001802	type III hypersensitivity
+GO:0035713	response to nitrogen dioxide
+GO:0014876	response to injury involved in regulation of muscle adaptation
+GO:1905429	response to glycine
+GO:0034516	response to vitamin B6
+GO:0120169	detection of cold stimulus involved in thermoception
+GO:0035634	response to stilbenoid
+GO:0009590	detection of gravity
+GO:0061480	response to asparaginase
+GO:0070269	pyroptotic inflammatory response
+GO:0071349	cellular response to interleukin-12
+GO:0071486	cellular response to high light intensity
+GO:0014877	response to muscle inactivity involved in regulation of muscle adaptation
+GO:0001913	T cell mediated cytotoxicity
+GO:1905439	response to chondroitin 6'-sulfate
+GO:0071237	cellular response to bacteriocin
+GO:0071464	cellular response to hydrostatic pressure
+GO:0006290	pyrimidine dimer repair
+GO:1904637	cellular response to ionomycin
+GO:0033762	response to glucagon
+GO:0014074	response to purine-containing compound
+GO:0098760	response to interleukin-7
+GO:0071359	cellular response to dsRNA
+GO:0032870	cellular response to hormone stimulus
+GO:0051707	response to other organism
+GO:1905120	cellular response to haloperidol
+GO:0034287	detection of monosaccharide stimulus
+GO:1905583	cellular response to mannose
+GO:0071243	cellular response to arsenic-containing substance
+GO:0010202	response to low fluence red light stimulus
+GO:0072452	response to G2 transition size control checkpoint signaling
+GO:1990451	cellular stress response to acidic pH
+GO:0097184	response to azide
+GO:0072464	response to meiotic spindle assembly checkpoint signaling
+GO:0002234	detection of endoplasmic reticulum overloading
+GO:0009589	detection of UV
+GO:1903166	cellular response to polycyclic arene
+GO:0016064	immunoglobulin mediated immune response
+GO:0002423	natural killer cell mediated immune response to tumor cell
+GO:0050829	defense response to Gram-negative bacterium
+GO:0009616	RNAi-mediated antiviral immune response
+GO:0009581	detection of external stimulus
+GO:0071334	cellular response to rhamnose stimulus
+GO:0010040	response to iron(II) ion
+GO:0052373	suppression of symbiont entry into host
+GO:0001080	nitrogen catabolite activation of transcription from RNA polymerase II promoter
+GO:0072747	cellular response to chloramphenicol
+GO:1990253	cellular response to leucine starvation
+GO:1903497	cellular response to 11-deoxycorticosterone
+GO:1990641	response to iron ion starvation
+GO:0043500	muscle adaptation
+GO:1905230	response to borneol
+GO:0042149	cellular response to glucose starvation
+GO:0071308	cellular response to menaquinone
+GO:0061862	cellular response to differentiation-inducing factor 2
+GO:0051599	response to hydrostatic pressure
+GO:0009267	cellular response to starvation
+GO:0106167	extracellular ATP signaling
+GO:1905243	cellular response to 3,3',5-triiodo-L-thyronine
+GO:0097714	response to viscosity
+GO:1901593	response to GW 7647
+GO:0010048	vernalization response
+GO:0009704	de-etiolation
+GO:0070340	detection of bacterial lipopeptide
+GO:0071385	cellular response to glucocorticoid stimulus
+GO:0080021	response to benzoic acid
+GO:0042468	klinokinesis
+GO:0071481	cellular response to X-ray
+GO:0002462	tolerance induction to nonself antigen
+GO:1901905	response to tamsulosin
+GO:0097680	double-strand break repair via classical nonhomologous end joining
+GO:0007637	proboscis extension reflex
+GO:0014075	response to amine
+GO:0002525	acute inflammatory response to non-antigenic stimulus
+GO:0010114	response to red light
+GO:0101027	optical nerve axon regeneration
+GO:0010288	response to lead ion
+GO:1903935	response to sodium arsenite
+GO:0071447	cellular response to hydroperoxide
+GO:0050974	detection of mechanical stimulus involved in sensory perception
+GO:0039671	evasion by virus of host natural killer cell activity
+GO:0010996	response to auditory stimulus
+GO:0015976	carbon utilization
+GO:0000304	response to singlet oxygen
+GO:0019732	antifungal humoral response
+GO:0039540	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of RIG-I activity
+GO:1905225	response to thyrotropin-releasing hormone
+GO:0071250	cellular response to nitrite
+GO:0097385	programmed necrotic cell death in response to starvation
+GO:1901925	negative regulation of protein import into nucleus during spindle assembly checkpoint
+GO:0007095	mitotic G2 DNA damage checkpoint signaling
+GO:0072729	cellular response to Gentian violet
+GO:0034620	cellular response to unfolded protein
+GO:0010164	response to cesium ion
+GO:0070723	response to cholesterol
+GO:0052078	symbiont-mediated suppression of host pathogen-associated molecular pattern receptor signaling pathway
+GO:1990858	cellular response to lectin
+GO:0060013	righting reflex
+GO:1902789	cellular response to isooctane
+GO:0072718	response to cisplatin
+GO:0051412	response to corticosterone
+GO:1904632	cellular response to glucoside
+GO:1904373	response to kainic acid
+GO:1904474	cellular response to L-dopa
+GO:0046686	response to cadmium ion
+GO:0099048	CRISPR-cas system
+GO:0043052	thermotaxis
+GO:0071444	cellular response to pheromone
+GO:1901654	response to ketone
+GO:0044414	symbiont-mediated suppression of host defenses
+GO:0072721	cellular response to dithiothreitol
+GO:0072737	response to diamide
+GO:0002558	type I hypersensitivity mediated by mast cells
+GO:0070741	response to interleukin-6
+GO:0033194	response to hydroperoxide
+GO:0051467	detection of steroid hormone stimulus
+GO:0006972	hyperosmotic response
+GO:0002419	T cell mediated cytotoxicity directed against tumor cell target
+GO:0072713	cellular response to thiabendazole
+GO:0007604	phototransduction, UV
+GO:0035094	response to nicotine
+GO:0000411	positive regulation of transcription by galactose
+GO:0014898	cardiac muscle hypertrophy in response to stress
+GO:0071469	cellular response to alkaline pH
+GO:0043503	skeletal muscle fiber adaptation
+GO:0046677	response to antibiotic
+GO:0080034	host response to induction by symbiont of tumor, nodule or growth in host
+GO:0030330	DNA damage response, signal transduction by p53 class mediator
+GO:0071309	cellular response to phylloquinone
+GO:1902786	response to dodecane
+GO:1904011	cellular response to Aroclor 1254
+GO:0072762	cellular response to carbendazim
+GO:0071352	cellular response to interleukin-2
+GO:0006995	cellular response to nitrogen starvation
+GO:0010017	red or far-red light signaling pathway
+GO:0071401	cellular response to triglyceride
+GO:0071449	cellular response to lipid hydroperoxide
+GO:0006301	postreplication repair
+GO:0000303	response to superoxide
+GO:0042467	orthokinesis
+GO:0098542	defense response to other organism
+GO:0071220	cellular response to bacterial lipoprotein
+GO:0006281	DNA repair
+GO:0010188	response to microbial phytotoxin
+GO:1904473	response to L-dopa
+GO:0016475	detection of nuclear:cytoplasmic ratio
+GO:0141203	symbiont-mediated suppression of host complement activation by activation of host proteases
+GO:0071364	cellular response to epidermal growth factor stimulus
+GO:1905388	cellular response to beta-carotene
+GO:0034284	response to monosaccharide
+GO:0080033	response to nitrite
+GO:0072752	cellular response to rapamycin
+GO:0071772	response to BMP
+GO:0009455	redox taxis
+GO:0072402	response to DNA integrity checkpoint signaling
+GO:0097210	response to gonadotropin-releasing hormone
+GO:0014734	skeletal muscle hypertrophy
+GO:0071732	cellular response to nitric oxide
+GO:0071229	cellular response to acid chemical
+GO:0052158	modulation by symbiont of host resistance gene-dependent defense response
+GO:0042276	error-prone translesion synthesis
+GO:0104004	cellular response to environmental stimulus
+GO:0072731	cellular response to papulacandin B
+GO:1905794	response to puromycin
+GO:0071466	cellular response to xenobiotic stimulus
+GO:0140404	effector-mediated perturbation of host innate immune response by symbiont
+GO:0072717	cellular response to actinomycin D
+GO:0002007	detection of hypoxic conditions in blood by chemoreceptor signaling
+GO:1904101	response to acadesine
+GO:0071331	cellular response to hexose stimulus
+GO:0060082	eye blink reflex
+GO:1903576	response to L-arginine
+GO:0098512	detection of humidity stimulus involved in sensory perception
+GO:0044321	response to leptin
+GO:0046685	response to arsenic-containing substance
+GO:0072704	response to mercaptoethanol
+GO:0002403	T cell tolerance induction in mucosal-associated lymphoid tissue
+GO:0009603	detection of symbiotic fungus
+GO:0050830	defense response to Gram-positive bacterium
+GO:0035901	cellular response to isolation stress
+GO:0071353	cellular response to interleukin-4
+GO:1990637	response to prolactin
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+GO:0002231	detection of oomycetes
+GO:0010042	response to manganese ion
+GO:0042631	cellular response to water deprivation
+GO:1990414	replication-born double-strand break repair via sister chromatid exchange
+GO:0014071	response to cycloalkane
+GO:0000430	regulation of transcription from RNA polymerase II promoter by glucose
+GO:0050976	detection of mechanical stimulus involved in sensory perception of touch
+GO:0002418	immune response to tumor cell
+GO:1903841	cellular response to arsenite(3-)
+GO:0097185	cellular response to azide
+GO:1904612	response to 2,3,7,8-tetrachlorodibenzodioxine
+GO:0071354	cellular response to interleukin-6
+GO:0031427	response to methotrexate
+GO:0002526	acute inflammatory response
+GO:0002211	behavioral defense response to insect
+GO:1990859	cellular response to endothelin
+GO:0039560	symbiont-mediated suppression of host JAK-STAT cascade via inhibition of host IRF9 activity
+GO:0071376	cellular response to corticotropin-releasing hormone stimulus
+GO:1904312	cellular response to gold(3+)
+GO:0071351	cellular response to interleukin-18
+GO:0071219	cellular response to molecule of bacterial origin
+GO:0009608	response to symbiont
+GO:0071363	cellular response to growth factor stimulus
+GO:1901425	response to formic acid
+GO:0072720	response to dithiothreitol
+GO:0009744	response to sucrose
+GO:1901530	response to hypochlorite
+GO:1990834	response to odorant
+GO:0036215	response to stem cell factor
+GO:0009612	response to mechanical stimulus
+GO:0006302	double-strand break repair
+GO:1902787	cellular response to dodecane
+GO:0072429	response to intra-S DNA damage checkpoint signaling
+GO:1901597	response to carbendazim
+GO:0071281	cellular response to iron ion
+GO:0001905	activation of membrane attack complex
+GO:0009627	systemic acquired resistance
+GO:0071446	cellular response to salicylic acid stimulus
+GO:0010201	response to continuous far red light stimulus by the high-irradiance response system
+GO:1990737	response to manganese-induced endoplasmic reticulum stress
+GO:0033197	response to vitamin E
+GO:1904317	cellular response to 2-O-acetyl-1-O-hexadecyl-sn-glycero-3-phosphocholine
+GO:0009651	response to salt stress
+GO:0009722	detection of cytokinin stimulus
+GO:1990054	response to temozolomide
+GO:0016056	G protein-coupled opsin signaling pathway
+GO:1990090	cellular response to nerve growth factor stimulus
+GO:0009585	red, far-red light phototransduction
+GO:0071799	cellular response to prostaglandin D stimulus
+GO:0052081	symbiont-mediated perturbation of host salicylic acid-mediated signal transduction pathway
+GO:1901323	response to erythromycin
+GO:1904147	response to nonylphenol
+GO:1904643	response to curcumin
+GO:0009595	detection of biotic stimulus
+GO:0050910	detection of mechanical stimulus involved in sensory perception of sound
+GO:1904321	response to forskolin
+GO:0031669	cellular response to nutrient levels
+GO:0044773	mitotic DNA damage checkpoint signaling
+GO:0072735	response to tert-butyl hydroperoxide
+GO:0014873	response to muscle activity involved in regulation of muscle adaptation
+GO:0061646	positive regulation of glutamate neurotransmitter secretion in response to membrane depolarization
+GO:0031667	response to nutrient levels
+GO:0001867	complement activation, lectin pathway
+GO:1901501	response to xylene
+GO:0009414	response to water deprivation
+GO:0071489	cellular response to red or far red light
+GO:0035728	response to hepatocyte growth factor
+GO:0009600	detection of nematode
+GO:0009416	response to light stimulus
+GO:0010378	temperature compensation of the circadian clock
+GO:0031319	detection of cAMP
+GO:0046774	suppression by virus of host intracellular interferon activity
+GO:0070848	response to growth factor
+GO:0141132	defense response to host
+GO:0039723	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of TBK1 activity
+GO:0090548	response to nitrate starvation
+GO:0046683	response to organophosphorus
+GO:0043476	pigment accumulation
+GO:0048061	positive gravitaxis
+GO:0042220	response to cocaine
+GO:0090731	cellular response to very-low-density lipoprotein particle stimulus
+GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste
+GO:0036287	response to iloperidone
+GO:0120127	response to zinc ion starvation
+GO:0032494	response to peptidoglycan
+GO:0032495	response to muramyl dipeptide
+GO:0036296	response to increased oxygen levels
+GO:0071407	cellular response to organic cyclic compound
+GO:0034341	response to type II interferon
+GO:0070669	response to interleukin-2
+GO:0036273	response to statin
+GO:0000433	carbon catabolite repression of transcription from RNA polymerase II promoter by glucose
+GO:0052200	response to host defenses
+GO:0097698	telomere maintenance via base-excision repair
+GO:1904585	response to putrescine
+GO:0036367	light adaption
+GO:0010238	response to proline
+GO:0071418	cellular response to amine stimulus
+GO:1902785	cellular response to undecane
+GO:1904422	cellular response to D-galactosamine
+GO:0007232	osmosensory signaling pathway via Sho1 osmosensor
+GO:0034263	positive regulation of autophagy in response to ER overload
+GO:1990478	response to ultrasound
+GO:0051593	response to folic acid
+GO:0071231	cellular response to folic acid
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest
+GO:0052005	symbiont-mediated suppression of host ethylene-mediated defense response
+GO:0000196	cell integrity MAPK cascade
+GO:0097306	cellular response to alcohol
+GO:0072757	cellular response to camptothecin
+GO:0072725	cellular response to 4-nitroquinoline N-oxide
+GO:0080027	response to herbivore
+GO:0014814	axon regeneration at neuromuscular junction
+GO:0010046	response to mycotoxin
+GO:0009746	response to hexose
+GO:0071549	cellular response to dexamethasone stimulus
+GO:1990359	stress response to zinc ion
+GO:0072703	cellular response to methyl methanesulfonate
+GO:0051385	response to mineralocorticoid
+GO:0046679	response to streptomycin
+GO:1901370	response to glutathione
+GO:1990840	response to lectin
+GO:0071234	cellular response to phenylalanine
+GO:0071503	response to heparin
+GO:0071345	cellular response to cytokine stimulus
+GO:0032490	detection of molecule of bacterial origin
+GO:0070542	response to fatty acid
+GO:0034014	response to triglyceride
+GO:0051215	RNAi-mediated antiviral immunity against DNA virus
+GO:1905229	cellular response to thyrotropin-releasing hormone
+GO:0072479	response to mitotic cell cycle spindle assembly checkpoint signaling
+GO:0030583	myxococcal fruiting body development
+GO:0071484	cellular response to light intensity
+GO:0010777	meiotic mismatch repair involved in reciprocal meiotic recombination
+GO:0009630	gravitropism
+GO:0072730	response to papulacandin B
+GO:0072441	response to meiotic DNA replication checkpoint signaling
+GO:0036498	IRE1-mediated unfolded protein response
+GO:0036005	response to macrophage colony-stimulating factor
+GO:0051409	response to nitrosative stress
+GO:1904044	response to aldosterone
+GO:0036178	filamentous growth of a population of unicellular organisms in response to neutral pH
+GO:1904374	cellular response to kainic acid
+GO:0070670	response to interleukin-4
+GO:0072750	cellular response to leptomycin B
+GO:1904308	cellular response to desipramine
+GO:0070887	cellular response to chemical stimulus
+GO:0043157	response to cation stress
+GO:0071725	response to triacyl bacterial lipopeptide
+GO:0042496	detection of diacyl bacterial lipopeptide
+GO:1904550	response to arachidonate
+GO:0050908	detection of light stimulus involved in visual perception
+GO:0009432	SOS response
+GO:1905641	cellular response to acetaldehyde
+GO:0033198	response to ATP
+GO:0140469	GCN2-mediated signaling
+GO:1903013	response to differentiation-inducing factor 1
+GO:0032094	response to food
+GO:0042465	kinesis
+GO:1904629	response to diterpene
+GO:0000720	pyrimidine dimer repair by nucleotide-excision repair
+GO:0036225	cellular response to vitamin B1 starvation
+GO:0009642	response to light intensity
+GO:1904587	response to glycoprotein
+GO:0071387	cellular response to cortisol stimulus
+GO:0010332	response to gamma radiation
+GO:0070987	error-free translesion synthesis
+GO:1990532	stress response to nickel ion
+GO:0010044	response to aluminum ion
+GO:0097703	cellular response to pulsatile fluid shear stress
+GO:1903443	cellular response to lipoic acid
+GO:0140423	effector-mediated suppression of host pattern-triggered immunity signaling
+GO:1905835	cellular response to pyrimidine ribonucleotide
+GO:0009819	drought recovery
+GO:0009268	response to pH
+GO:1990878	cellular response to gastrin
+GO:0009650	UV protection
+GO:0090720	primary adaptive immune response
+GO:0075139	response to host iron concentration
+GO:1901322	response to chloramphenicol
+GO:0043326	chemotaxis to folate
+GO:0071471	cellular response to non-ionic osmotic stress
+GO:0048651	polyphenic determination, influence by environmental factors
+GO:0033574	response to testosterone
+GO:0009611	response to wounding
+GO:1905238	cellular response to cyclosporin A
+GO:1904386	response to L-phenylalanine derivative
+GO:0072764	cellular response to reversine
+GO:0045472	response to ether
+GO:0000077	DNA damage checkpoint signaling
+GO:1904010	response to Aroclor 1254
+GO:1990792	cellular response to glial cell derived neurotrophic factor
+GO:0071313	cellular response to caffeine
+GO:0071476	cellular hypotonic response
+GO:0090718	adaptive immune effector response
+GO:0071366	cellular response to indolebutyric acid stimulus
+GO:0001879	detection of yeast
+GO:0061857	endoplasmic reticulum stress-induced pre-emptive quality control
+GO:0052084	modulation by symbiont of host ethylene-mediated defense response
+GO:0044592	response to pullulan
+GO:0046775	suppression by virus of host cytokine production
+GO:1904631	response to glucoside
+GO:1905836	response to triterpenoid
+GO:0071383	cellular response to steroid hormone stimulus
+GO:1990918	double-strand break repair involved in meiotic recombination
+GO:0003037	detection of pH by carotid body chemoreceptor signaling
+GO:0009629	response to gravity
+GO:0052482	defense response by cell wall thickening
+GO:0120306	cellular response to actin cytoskeletal stress
+GO:0006307	DNA alkylation repair
+GO:1904551	cellular response to arachidonate
+GO:0060992	response to fungicide
+GO:0071497	cellular response to freezing
+GO:1901699	cellular response to nitrogen compound
+GO:0052085	symbiont-mediated suppression of host T-cell mediated immune response
+GO:1902350	cellular response to chloroquine
+GO:0009410	response to xenobiotic stimulus
+GO:0002387	immune response in gut-associated lymphoid tissue
+GO:0141190	transducin-mediated opsin signaling pathway
+GO:0071405	cellular response to methanol
+GO:0039557	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF7 activity
+GO:0036165	invasive growth in response to heat
+GO:0036244	cellular response to neutral pH
+GO:0003127	detection of nodal flow
+GO:0141141	symbiont-mediated evasion of recognition by host pattern recognition receptor
+GO:1901554	response to paracetamol
+GO:0090549	response to carbon starvation
+GO:1901327	response to tacrolimus
+GO:1904402	response to nocodazole
+GO:1902618	cellular response to fluoride
+GO:0034612	response to tumor necrosis factor
+GO:0042783	evasion of host immune response
+GO:0010205	photoinhibition
+GO:0071350	cellular response to interleukin-15
+GO:0009266	response to temperature stimulus
+GO:0034465	response to carbon monoxide
+GO:0019740	nitrogen utilization
+GO:0035458	cellular response to interferon-beta
+GO:0071874	cellular response to norepinephrine stimulus
+GO:0046689	response to mercury ion
+GO:0071226	cellular response to molecule of fungal origin
+GO:0039548	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity
+GO:1990169	stress response to copper ion
+GO:1905374	response to homocysteine
+GO:0097681	double-strand break repair via alternative nonhomologous end joining
+GO:0071482	cellular response to light stimulus
+GO:0090644	age-related resistance
+GO:0071872	cellular response to epinephrine stimulus
+GO:0034289	detection of maltose stimulus
+GO:1903496	response to 11-deoxycorticosterone
+GO:0072538	T-helper 17 type immune response
+GO:0007584	response to nutrient
+GO:1905242	response to 3,3',5-triiodo-L-thyronine
+GO:1901701	cellular response to oxygen-containing compound
+GO:1904310	cellular response to cordycepin
+GO:0061415	negative regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source
+GO:0090295	nitrogen catabolite repression of transcription
+GO:0009269	response to desiccation
+GO:0009649	entrainment of circadian clock
+GO:1904615	cellular response to biphenyl
+GO:0003033	detection of hypoxic conditions in blood by aortic body chemoreceptor signaling
+GO:1990217	suppression by symbiont of host phytoalexin production
+GO:0097329	response to antimetabolite
+GO:0009739	response to gibberellin
+GO:1905441	response to chondroitin 4'-sulfate
+GO:0097701	response to pulsatile fluid shear stress
+GO:1902439	cellular response to vanadate(3-)
+GO:0002425	tolerance induction in urogenital tract
+GO:0009906	response to photoperiod, blue light
+GO:0141178	symbiont-mediated evasion of recognition by host complement
+GO:1904844	response to L-glutamine
+GO:0039588	symbiont-mediated suppression of host antigen processing and presentation
+GO:0061429	positive regulation of transcription from RNA polymerase II promoter by oleic acid
+GO:1901557	response to fenofibrate
+GO:0070301	cellular response to hydrogen peroxide
+GO:0009271	phage shock
+GO:0044355	clearance of foreign intracellular DNA
+GO:1901986	response to ketamine
+GO:0072705	cellular response to mercaptoethanol
+GO:0002395	immune response in nasopharyngeal-associated lymphoid tissue
+GO:0006957	complement activation, alternative pathway
+GO:0009995	soluble molecule recognition
+GO:0002461	tolerance induction dependent upon immune response
+GO:0002389	tolerance induction in Peyer's patch
+GO:1904481	response to tetrahydrofolate
+GO:0071375	cellular response to peptide hormone stimulus
+GO:0039537	symbiont-mediated suppression of cytoplasmic pattern recognition receptor signaling pathway
+GO:0071396	cellular response to lipid
+GO:0034616	response to laminar fluid shear stress
+GO:1904610	response to 3,3',4,4',5-pentachlorobiphenyl
+GO:0070141	response to UV-A
+GO:0097338	response to clozapine
+GO:0071224	cellular response to peptidoglycan
+GO:0001101	response to acid chemical
+GO:0035011	melanotic encapsulation of foreign target
+GO:0000765	response to pheromone regulating pheromone-induced unidirectional conjugation
+GO:0002456	T cell mediated immunity
+GO:0071249	cellular response to nitrate
+GO:0036297	interstrand cross-link repair
+GO:0034776	response to histamine
+GO:0140919	thermomorphogenesis
+GO:0071494	cellular response to UV-C
+GO:0036280	cellular response to L-canavanine
+GO:0071251	cellular response to silicon dioxide
+GO:0010226	response to lithium ion
+GO:0080094	response to trehalose-6-phosphate
+GO:0009735	response to cytokinin
+GO:0090664	response to high population density
+GO:0009682	induced systemic resistance
+GO:0002238	response to molecule of fungal origin
+GO:0032869	cellular response to insulin stimulus
+GO:1904638	response to resveratrol
+GO:0039554	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of MDA-5 activity
+GO:0071355	cellular response to interleukin-9
+GO:0061959	response to (R)-carnitine
+GO:0050912	detection of chemical stimulus involved in sensory perception of taste
+GO:0097403	cellular response to raffinose
+GO:0016046	detection of fungus
+GO:1905378	cellular response to D-galactose
+GO:0071325	cellular response to mannitol stimulus
+GO:0006956	complement activation
+GO:1902781	cellular response to nonane
+GO:0010690	negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to stress
+GO:0070994	detection of oxidative stress
+GO:0052553	symbiont-mediated perturbation of host immune response
+GO:0010583	response to cyclopentenone
+GO:1990867	response to gastrin
+GO:0071399	cellular response to linoleic acid
+GO:0002243	detection of parasitic plant
+GO:0036447	cellular response to sugar-phosphate stress
+GO:0036275	response to 5-fluorouracil
+GO:0009636	response to toxic substance
+GO:0160023	sneeze reflex
+GO:0014070	response to organic cyclic compound
+GO:0014887	cardiac muscle adaptation
+GO:0034699	response to luteinizing hormone
+GO:0120218	host interaction involved in quorum sensing
+GO:1901558	response to metformin
+GO:0140590	effector-mediated suppression of host defense response
+GO:1901560	response to purvalanol A
+GO:0071327	cellular response to trehalose stimulus
+GO:0097466	ubiquitin-dependent glycoprotein ERAD pathway
+GO:0071378	cellular response to growth hormone stimulus
+GO:1903014	cellular response to differentiation-inducing factor 1
+GO:0051866	general adaptation syndrome
+GO:1904588	cellular response to glycoprotein
+GO:0014806	smooth muscle hyperplasia
+GO:0071414	cellular response to methotrexate
+GO:0040040	thermosensory behavior
+GO:0002369	T cell cytokine production
+GO:0031990	mRNA export from nucleus in response to heat stress
+GO:0060359	response to ammonium ion
+GO:1904641	response to dinitrophenol
+GO:0009646	response to absence of light
+GO:0002384	hepatic immune response
+GO:0097532	stress response to acid chemical
+GO:0070672	response to interleukin-15
+GO:0042381	hemolymph coagulation
+GO:0009584	detection of visible light
+GO:0002021	response to dietary excess
+GO:0071316	cellular response to nicotine
+GO:0071306	cellular response to vitamin E
+GO:0072347	response to anesthetic
+GO:0141059	symbiont-mediated disruption of host antimicrobial peptide activity
+GO:0009628	response to abiotic stimulus
+GO:0071393	cellular response to progesterone stimulus
+GO:1990910	response to hypobaric hypoxia
+GO:0071416	cellular response to tropane
+GO:0039634	killing by virus of host cell during superinfection exclusion
+GO:0150103	reactive gliosis
+GO:0019676	ammonia assimilation cycle
+GO:1905231	cellular response to borneol
+GO:0071305	cellular response to vitamin D
+GO:1901493	response to decalin
+GO:0071420	cellular response to histamine
+GO:0072410	response to meiotic cell cycle checkpoint signaling
+GO:0071233	cellular response to L-leucine
+GO:1905711	response to phosphatidylethanolamine
+GO:1990790	response to glial cell derived neurotrophic factor
+GO:0001582	detection of chemical stimulus involved in sensory perception of sweet taste
+GO:0071289	cellular response to nickel ion
+GO:0001788	antibody-dependent cellular cytotoxicity
+GO:0071326	cellular response to monosaccharide stimulus
+GO:0071304	cellular response to vitamin B6
+GO:1904392	cellular response to ciliary neurotrophic factor
+GO:1904309	response to cordycepin
+GO:0046687	response to chromate
+GO:0140367	antibacterial innate immune response
+GO:0010043	response to zinc ion
+GO:1990823	response to leukemia inhibitory factor
+GO:0003039	detection of reduced oxygen by carotid body chemoreceptor signaling
+GO:0000756	response to pheromone regulating conjugation with mutual genetic exchange
+GO:0052173	response to defenses of other organism
+GO:0045002	double-strand break repair via single-strand annealing
+GO:0009720	detection of hormone stimulus
+GO:0042784	symbiont-mediated suppression of host complement activation
+GO:1905842	cellular response to oxidopamine
+GO:0006968	cellular defense response
+GO:0002210	behavioral response to wounding
+GO:0042495	detection of triacyl bacterial lipopeptide
+GO:0170002	halotropism
+GO:0032573	response to phylloquinone
+GO:0071382	cellular response to prostaglandin I stimulus
+GO:0061482	response to irinotecan
+GO:0006955	immune response
+GO:0071455	cellular response to hyperoxia
+GO:0030912	response to deep water
+GO:0007602	phototransduction
+GO:0071245	cellular response to carbon monoxide
+GO:1901255	nucleotide-excision repair involved in interstrand cross-link repair
+GO:0097334	response to perphenazine
+GO:0071307	cellular response to vitamin K
+GO:0031318	detection of folic acid
+GO:0043562	cellular response to nitrogen levels
+GO:0002545	chronic inflammatory response to non-antigenic stimulus
+GO:0061414	positive regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source
+GO:1905640	response to acetaldehyde
+GO:0014850	response to muscle activity
+GO:0097335	response to quetiapine
+GO:0015968	stringent response
+GO:0071402	cellular response to lipoprotein particle stimulus
+GO:0003036	detection of pH by aortic body chemoreceptor signaling
+GO:0002347	response to tumor cell
+GO:0002445	type II hypersensitivity
+GO:0071321	cellular response to cGMP
+GO:0071403	cellular response to high density lipoprotein particle stimulus
+GO:0043330	response to exogenous dsRNA
+GO:0001878	response to yeast
+GO:0072754	cellular response to purvalanol A
+GO:0071477	cellular hypotonic salinity response
+GO:0009605	response to external stimulus
+GO:1904681	response to 3-methylcholanthrene
+GO:1904401	cellular response to Thyroid stimulating hormone
+GO:0061847	response to cholecystokinin
+GO:0031000	response to caffeine
+GO:0072707	cellular response to sodium dodecyl sulfate
+GO:0093002	response to nematicide
+GO:0009727	detection of ethylene stimulus
+GO:0071238	cellular response to brefeldin A
+GO:1990046	stress-induced mitochondrial fusion
+GO:0046016	positive regulation of transcription by glucose
+GO:1902112	cellular response to diethyl maleate
+GO:0009725	response to hormone
+GO:0003022	detection of pH by chemoreceptor signaling
+GO:0072740	cellular response to anisomycin
+GO:0033273	response to vitamin
+GO:0031152	aggregation involved in sorocarp development
+GO:0090721	primary adaptive immune response involving T cells and B cells
+GO:0009970	cellular response to sulfate starvation
+GO:1990638	response to granulocyte colony-stimulating factor
+GO:0030968	endoplasmic reticulum unfolded protein response
+GO:1904404	response to formaldehyde
+GO:0071329	cellular response to sucrose stimulus
+GO:0098758	response to interleukin-8
+GO:0071107	response to parathyroid hormone
+GO:1904568	cellular response to wortmannin
+GO:1904421	response to D-galactosamine
+GO:0090293	nitrogen catabolite regulation of transcription
+GO:0071472	cellular response to salt stress
+GO:1990516	ribonucleotide excision repair
+GO:0010039	response to iron ion
+GO:1901423	response to benzene
+GO:0072700	response to bismuth
+GO:0052036	symbiont-mediated suppression of host inflammatory response
+GO:0036293	response to decreased oxygen levels
+GO:0009731	detection of sucrose stimulus
+GO:0071246	cellular response to chlorate
+GO:0042832	defense response to protozoan
+GO:0033594	response to hydroxyisoflavone
+GO:1904313	response to methamphetamine hydrochloride
+GO:0044751	cellular response to human chorionic gonadotropin stimulus
+GO:0009749	response to glucose
+GO:0141201	pyroptotic cell death
+GO:0006986	response to unfolded protein
+GO:0140468	HRI-mediated signaling
+GO:1904619	response to dimethyl sulfoxide
+GO:0052160	symbiont-mediated perturbation of host systemic acquired resistance
+GO:0071248	cellular response to metal ion
+GO:0031573	mitotic intra-S DNA damage checkpoint signaling
+GO:0080167	response to karrikin
+GO:0051716	cellular response to stimulus
+GO:0072414	response to mitotic cell cycle checkpoint signaling
+GO:0070945	neutrophil-mediated killing of gram-negative bacterium
+GO:1902779	cellular response to alkane
+GO:0071235	cellular response to proline
+GO:0001795	type IIb hypersensitivity
+GO:0036460	cellular response to cell envelope stress
+GO:0048265	response to pain
+GO:1902140	response to inositol
+GO:0009733	response to auxin
+GO:0035075	response to ecdysone
+GO:0036006	cellular response to macrophage colony-stimulating factor stimulus
+GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0050831	male-specific defense response to bacterium
+GO:0001794	type IIa hypersensitivity
+GO:0010165	response to X-ray
+GO:0031098	stress-activated protein kinase signaling cascade
+GO:0141179	symbiont-mediated evasion of recognition by host antimicrobial peptide
+GO:0010446	response to alkaline pH
+GO:0003024	baroreceptor detection of decreased arterial stretch
+GO:0007234	osmosensory signaling via phosphorelay pathway
+GO:1902349	response to chloroquine
+GO:0075000	response to host osmotic environment
+GO:0051595	response to methylglyoxal
+GO:0009743	response to carbohydrate
+GO:0071500	cellular response to nitrosative stress
+GO:0009601	detection of insect
+GO:0010776	meiotic mismatch repair involved in meiotic gene conversion
+GO:0052542	defense response by callose deposition
+GO:0097012	response to granulocyte macrophage colony-stimulating factor
+GO:1901655	cellular response to ketone
+GO:0001660	fever generation
+GO:0060006	angular vestibuloocular reflex
+GO:0051214	RNAi-mediated antiviral immunity against RNA virus
+GO:0071680	response to indole-3-methanol
+GO:0071457	cellular response to ozone
+GO:0052089	modulation by symbiont of host salicylic acid-mediated defense response
+GO:0003299	muscle hypertrophy in response to stress
+GO:0097315	response to N-acetyl-D-glucosamine
+GO:0097398	cellular response to interleukin-17
+GO:1902074	response to salt
+GO:0046776	symbiont-mediated suppression of host antigen processing and presentation of peptide antigen via MHC class I
+GO:0017085	response to insecticide
+GO:0071499	cellular response to laminar fluid shear stress
+GO:0036018	cellular response to erythropoietin
+GO:1990383	cellular response to biotin starvation
+GO:0090294	nitrogen catabolite activation of transcription
+GO:0071374	cellular response to parathyroid hormone stimulus
+GO:0097318	invasive growth in response to abiotic stimulus
+GO:0043279	response to alkaloid
+GO:1904307	response to desipramine
+GO:1902783	cellular response to decane
+GO:0048678	response to axon injury
+GO:0071398	cellular response to fatty acid
+GO:1905375	cellular response to homocysteine
+GO:1990170	stress response to cadmium ion
+GO:0010286	heat acclimation
+GO:0020033	antigenic variation
+GO:1902075	cellular response to salt
+GO:1904586	cellular response to putrescine
+GO:0035455	response to interferon-alpha
+GO:0071409	cellular response to cycloheximide
+GO:1904772	response to tetrachloromethane
+GO:0051594	detection of glucose
+GO:1990646	cellular response to prolactin
+GO:1905442	cellular response to chondroitin 4'-sulfate
+GO:0006953	acute-phase response
+GO:0033986	response to methanol
+GO:0140403	effector-mediated suppression of host innate immune response
+GO:0061433	cellular response to caloric restriction
+GO:0014891	striated muscle atrophy
+GO:1904648	cellular response to rotenone
+GO:0071330	cellular response to trehalose-6-phosphate stimulus
+GO:0000012	single strand break repair
+GO:0043482	cellular pigment accumulation
+GO:0034614	cellular response to reactive oxygen species
+GO:0034198	cellular response to amino acid starvation
+GO:1904322	cellular response to forskolin
+GO:0002455	humoral immune response mediated by circulating immunoglobulin
+GO:0097330	response to 5-fluoro-2'-deoxyuridine
+GO:1904640	response to methionine
+GO:0071467	cellular response to pH
+GO:0072449	response to G1 cell size control checkpoint signaling
+GO:0010335	response to non-ionic osmotic stress
+GO:0071311	cellular response to acetate
+GO:0071258	cellular response to gravity
+GO:0001964	startle response
+GO:0071869	response to catecholamine
+GO:0071456	cellular response to hypoxia
+GO:0007634	optokinetic behavior
+GO:0052165	symbiont defense to host-produced phytoalexin
+GO:0035994	response to muscle stretch
+GO:0071218	cellular response to misfolded protein
+GO:1904384	cellular response to sodium phosphate
+GO:0046787	viral DNA repair
+GO:0001981	baroreceptor detection of arterial stretch
+GO:0003032	detection of oxygen
+GO:0014732	skeletal muscle atrophy
+GO:0016045	detection of bacterium
+GO:0009583	detection of light stimulus
+GO:1903494	response to dehydroepiandrosterone
+GO:0036277	response to anticonvulsant
+GO:1990776	response to angiotensin
+GO:0141115	symbiont-mediated suppression of host complement activation by inactivation of complement proteins
+GO:0140374	antiviral innate immune response
+GO:0072426	response to G2 DNA damage checkpoint signaling
+GO:0050973	detection of mechanical stimulus involved in equilibrioception
+GO:1903968	cellular response to micafungin
+GO:0050969	detection of chemical stimulus involved in magnetoreception
+GO:0002251	organ or tissue specific immune response
+GO:0052162	modulation by symbiont of defense-related host calcium ion flux
+GO:0071367	cellular response to brassinosteroid stimulus
+GO:0010117	photoprotection
+GO:1901625	cellular response to ergosterol
+GO:1905546	cellular response to phenylpropanoid
+GO:0072706	response to sodium dodecyl sulfate
+GO:0035983	response to trichostatin A
+GO:0009754	detection of jasmonic acid stimulus
+GO:0072743	cellular response to erythromycin
+GO:0071560	cellular response to transforming growth factor beta stimulus
+GO:0002255	tissue kallikrein-kinin cascade
+GO:1902351	response to imidacloprid
+GO:1902520	response to doxorubicin
+GO:0075043	melanization of appressorium wall
+GO:0043278	response to morphine
+GO:0002353	plasma kallikrein-kinin cascade
+GO:0106096	response to ceramide
+GO:0071450	cellular response to oxygen radical
+GO:0003023	baroreceptor detection of increased arterial stretch
+GO:0098513	detection of humidity
+GO:0075136	response to host
+GO:0000431	regulation of transcription from RNA polymerase II promoter by galactose
+GO:0071490	cellular response to far red light
+GO:1904405	cellular response to formaldehyde
+GO:1990839	response to endothelin
+GO:0001662	behavioral fear response
+GO:0140429	positive regulation of mitotic sister chromatid biorientation
+GO:0050826	response to freezing
+GO:0052167	symbiont-mediated perturbation of host innate immune response
+GO:0141168	chromosomal 5-methylcytosine DNA demethylation, oxidative deamination pathway
+GO:1904646	cellular response to amyloid-beta
+GO:0051413	response to cortisone
+GO:0071454	cellular response to anoxia
+GO:0052201	response to symbiont defenses
+GO:1901424	response to toluene
+GO:1905396	cellular response to flavonoid
+GO:0071284	cellular response to lead ion
+GO:0061760	antifungal innate immune response
+GO:0031142	induction of conjugation upon nitrogen starvation
+GO:0010224	response to UV-B
+GO:0062197	cellular response to chemical stress
+GO:1905795	cellular response to puromycin
+GO:0042539	hypotonic salinity response
+GO:0070339	response to bacterial lipopeptide
+GO:0097337	response to ziprasidone
+GO:0014885	detection of injury involved in regulation of muscle adaptation
+GO:0031102	neuron projection regeneration
+GO:0071322	cellular response to carbohydrate stimulus
+GO:0010041	response to iron(III) ion
+GO:0046690	response to tellurium ion
+GO:0002411	T cell tolerance induction to tumor cell
+GO:0002357	defense response to tumor cell
+GO:0002250	adaptive immune response
+GO:0072423	response to DNA damage checkpoint signaling
+GO:0050971	detection of mechanical stimulus involved in magnetoreception
+GO:1903413	cellular response to bile acid
+GO:1901559	response to ribavirin
+GO:0042332	gravitaxis
+GO:0032868	response to insulin
+GO:0071217	cellular response to external biotic stimulus
+GO:0002463	central tolerance induction to nonself antigen
+GO:1904976	cellular response to bleomycin
+GO:0039504	symbiont-mediated suppression of host adaptive immune response
+GO:0140415	effector-mediated modulation of host defenses by symbiont
+GO:0006959	humoral immune response
+GO:0090551	response to manganese starvation
+GO:0036177	filamentous growth of a population of unicellular organisms in response to pH
+GO:0034286	response to maltose
+GO:0043200	response to amino acid
+GO:0097327	response to antineoplastic agent
+GO:0050832	defense response to fungus
+GO:0072435	response to mitotic G2 DNA damage checkpoint signaling
+GO:0071317	cellular response to isoquinoline alkaloid
+GO:0036223	cellular response to adenine starvation
+GO:0098514	detection of high humidity stimulus involved in sensory perception
+GO:0071299	cellular response to vitamin A
+GO:0039639	suppression by virus of host cell lysis in response to superinfection
+GO:1903927	response to cyanide
+GO:0071465	cellular response to desiccation
+GO:0039574	symbiont-mediated suppression of host JAK-STAT cascade via inhibition of host TYK2 activity
+GO:0071873	response to norepinephrine
+GO:1905395	response to flavonoid
+GO:0071315	cellular response to morphine
+GO:0097237	cellular response to toxic substance
+GO:0140459	response to Gram-positive bacterium
+GO:0009609	response to symbiotic bacterium
+GO:0071328	cellular response to maltose stimulus
+GO:0070392	detection of lipoteichoic acid
+GO:0071408	cellular response to cycloalkane
+GO:1902617	response to fluoride
+GO:0062031	filamentous growth MAPK cascade
+GO:0009958	positive gravitropism
+GO:1902065	response to L-glutamate
+GO:0039545	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity
+GO:0071279	cellular response to cobalt ion
+GO:0019985	translesion synthesis
+GO:0034201	response to oleic acid
+GO:0009411	response to UV
+GO:1990089	response to nerve growth factor
+GO:0120302	background adaptation
+GO:0010274	hydrotropism
+GO:0071282	cellular response to iron(II) ion
+GO:0002383	immune response in brain or nervous system
+GO:0061479	response to reverse transcriptase inhibitor
+GO:0046956	positive phototaxis
+GO:0002355	detection of tumor cell
+GO:1901563	response to camptothecin
+GO:0042596	fear response
+GO:0070541	response to platinum ion
+GO:0072438	response to DNA replication checkpoint signaling
+GO:0002229	defense response to oomycetes
+GO:1901652	response to peptide
+GO:0043504	mitochondrial DNA repair
+GO:0036271	response to methylphenidate
+GO:0071774	response to fibroblast growth factor
+GO:0071461	cellular response to redox state
+GO:0010212	response to ionizing radiation
+GO:0001563	detection of protozoan
+GO:0002394	tolerance induction in gut-associated lymphoid tissue
+GO:0097317	invasive growth in response to biotic stimulus
+GO:0098757	cellular response to interleukin-21
+GO:0071319	cellular response to benzoic acid
+GO:0043201	response to L-leucine
+GO:0071324	cellular response to disaccharide stimulus
+GO:0071369	cellular response to ethylene stimulus
+GO:0042060	wound healing
+GO:1990864	response to growth hormone-releasing hormone
+GO:0071871	response to epinephrine
+GO:0019236	response to pheromone
+GO:0120174	stress-induced homeostatically regulated protein degradation pathway
+GO:0010193	response to ozone
+GO:1904843	cellular response to nitroglycerin
+GO:0070483	detection of hypoxia
+GO:0050960	detection of temperature stimulus involved in thermoception
+GO:1904102	cellular response to acadesine
+GO:1990868	response to chemokine
+GO:0072712	response to thiabendazole
+GO:0001079	nitrogen catabolite regulation of transcription from RNA polymerase II promoter
+GO:0045014	carbon catabolite repression of transcription by glucose
+GO:0035865	cellular response to potassium ion
+GO:0140133	symbiont-mediated suppression of host cytokine production
+GO:0032571	response to vitamin K
+GO:1905234	cellular response to codeine
+GO:0002368	B cell cytokine production
+GO:0014889	muscle atrophy
+GO:0031104	dendrite regeneration
+GO:1903823	telomere single strand break repair
+GO:0097282	immunoglobulin-mediated neutralization
+GO:1904560	response to diphenidol
+GO:0002465	peripheral tolerance induction
+GO:0039501	suppression by virus of host type I interferon production
+GO:0046684	response to pyrethroid
+GO:0009640	photomorphogenesis
+GO:0097316	cellular response to N-acetyl-D-glucosamine
+GO:0099018	symbiont-mediated evasion of host restriction-modification system
+GO:1905144	response to acetylcholine
+GO:0055121	response to high fluence blue light stimulus by blue high-fluence system
+GO:0043481	anthocyanin accumulation in tissues in response to UV light
+GO:1901354	response to L-canavanine
+GO:0014073	response to tropane
+GO:1901596	response to reversine
+GO:0044790	suppression of viral release by host
+GO:0071798	response to prostaglandin D
+GO:0052572	response to host immune response
+GO:0014805	smooth muscle adaptation
+GO:0071506	cellular response to mycophenolic acid
+GO:0098515	detection of low humidity stimulus involved in sensory perception
+GO:0006284	base-excision repair
+GO:0043152	induction of bacterial agglutination
+GO:0032497	detection of lipopolysaccharide
+GO:1905145	cellular response to acetylcholine
+GO:0097305	response to alcohol
+GO:1905236	cellular response to quercetin
+GO:0072746	cellular response to tetracycline
+GO:0002401	tolerance induction in mucosal-associated lymphoid tissue
+GO:0036274	response to lapatinib
+GO:0106299	resolution phase response
+GO:0043575	detection of osmotic stimulus
+GO:0009624	response to nematode
+GO:1990784	response to dsDNA
+GO:0009689	induction of phytoalexin biosynthetic process
+GO:0032496	response to lipopolysaccharide
+GO:0071480	cellular response to gamma radiation
+GO:0051403	stress-activated MAPK cascade
+GO:0036315	cellular response to sterol
+GO:0036471	cellular response to glyoxal
+GO:0042771	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+GO:1990416	cellular response to brain-derived neurotrophic factor stimulus
+GO:0033552	response to vitamin B3
+GO:0036368	cone photoresponse recovery
+GO:0061481	response to TNF agonist
+GO:1904611	cellular response to 3,3',4,4',5-pentachlorobiphenyl
+GO:0071505	response to mycophenolic acid
+GO:0072739	response to anisomycin
+GO:0002458	peripheral T cell tolerance induction
+GO:0032933	SREBP signaling pathway
+GO:0072701	cellular response to bismuth
+GO:0033660	symbiont-mediated suppression of host resistance gene-dependent defense response
+GO:0141117	symbiont-mediated suppression of host complement activation by recruitment of complement control protein
+GO:0006283	transcription-coupled nucleotide-excision repair
+GO:0071415	cellular response to purine-containing compound
+GO:0072461	response to meiotic recombination checkpoint signaling
+GO:0036120	cellular response to platelet-derived growth factor stimulus
+GO:0032491	detection of molecule of fungal origin
+GO:0036255	response to methylamine
+GO:1905235	response to quercetin
+GO:1990830	cellular response to leukemia inhibitory factor
+GO:0071419	cellular response to amphetamine
+GO:0046681	response to carbamate
+GO:1902782	response to decane
+GO:0032026	response to magnesium ion
+GO:1904387	cellular response to L-phenylalanine derivative
+GO:0036270	response to diuretic
+GO:1901556	response to candesartan
+GO:0090714	innate immunity memory response
+GO:0000436	carbon catabolite activation of transcription from RNA polymerase II promoter
+GO:1903925	response to bisphenol A
+GO:1901344	response to leptomycin B
+GO:1904881	cellular response to hydrogen sulfide
+GO:0003031	detection of carbon dioxide
+GO:0009638	phototropism
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage
+GO:0070555	response to interleukin-1
+GO:0071485	cellular response to absence of light
+GO:0003029	detection of hypoxic conditions in blood by carotid body chemoreceptor signaling
+GO:0032572	response to menaquinone
+GO:0071384	cellular response to corticosteroid stimulus
+GO:0071406	cellular response to methylmercury
+GO:0002240	response to molecule of oomycetes origin
+GO:0071381	cellular response to prostaglandin F stimulus
+GO:0000749	response to pheromone triggering conjugation with cellular fusion
+GO:0035456	response to interferon-beta
+GO:0071727	cellular response to triacyl bacterial lipopeptide
+GO:0042092	type 2 immune response
+GO:0098672	symbiont-mediated suppression of host CRISPR-cas system
+GO:1990911	response to psychosocial stress
+GO:0036167	phenotypic switching in response to host
+GO:0035714	cellular response to nitrogen dioxide
+GO:0061987	negative regulation of transcription from RNA polymerase II promoter by glucose
+GO:0071410	cellular response to cyclopentenone
+GO:0034514	mitochondrial unfolded protein response
+GO:0071478	cellular response to radiation
+GO:0060242	contact inhibition
+GO:0045003	double-strand break repair via synthesis-dependent strand annealing
+GO:0009652	thigmotropism
+GO:0009724	detection of abscisic acid stimulus
+GO:0072728	response to Gentian violet
+GO:0036176	response to neutral pH
+GO:1902788	response to isooctane
+GO:0006982	response to lipid hydroperoxide
+GO:0009593	detection of chemical stimulus
+GO:0010167	response to nitrate
+GO:1903926	cellular response to bisphenol A
+GO:0001581	detection of chemical stimulus involved in sensory perception of sour taste
+GO:0036346	cellular response to L-cysteine
+GO:0071293	cellular response to tellurium ion
+GO:0050911	detection of chemical stimulus involved in sensory perception of smell
+GO:0003021	detection of increased carbon dioxide by chemoreceptor signaling
+GO:0051365	cellular response to potassium ion starvation
+GO:1904644	cellular response to curcumin
+GO:1904391	response to ciliary neurotrophic factor
+GO:0002242	defense response to parasitic plant
+GO:0071373	cellular response to luteinizing hormone stimulus
+GO:1904627	response to phorbol 13-acetate 12-myristate
+GO:0036272	response to gemcitabine
+GO:0009737	response to abscisic acid
+GO:0001666	response to hypoxia
+GO:1901328	response to cytochalasin B
+GO:0002438	acute inflammatory response to antigenic stimulus
+GO:0000410	carbon catabolite repression of transcription by galactose
+GO:0080052	response to histidine
+GO:0052170	symbiont-mediated suppression of host innate immune response
+GO:0071495	cellular response to endogenous stimulus
+GO:0039579	symbiont-mediated suppression of host ISG15-protein conjugation
+GO:0097397	cellular response to interleukin-32
+GO:1990066	energy quenching
+GO:0031960	response to corticosteroid
+GO:0071462	cellular response to water stimulus
+GO:0006979	response to oxidative stress
+GO:0042538	hyperosmotic salinity response
+GO:1905237	response to cyclosporin A
+GO:0036168	filamentous growth of a population of unicellular organisms in response to heat
+GO:0010200	response to chitin
+GO:0039672	suppression by virus of host natural killer cell activation
+GO:0071867	response to monoamine
+GO:0043480	pigment accumulation in tissues
+GO:1903842	response to arsenite ion
+GO:0009408	response to heat
+GO:0006970	response to osmotic stress
+GO:0072722	response to amitrole
+GO:0043501	skeletal muscle adaptation
+GO:0009625	response to insect
+GO:0032492	detection of molecule of oomycetes origin
+GO:0042275	error-free postreplication DNA repair
+GO:0046898	response to cycloheximide
+GO:0048572	short-day photoperiodism
+GO:0034340	response to type I interferon
+GO:0034224	cellular response to zinc ion starvation
+GO:0009643	photosynthetic acclimation
+GO:1904117	cellular response to vasopressin
+GO:0000432	positive regulation of transcription from RNA polymerase II promoter by glucose
+GO:0032498	detection of muramyl dipeptide
+GO:0071230	cellular response to amino acid stimulus
+GO:0050961	detection of temperature stimulus involved in sensory perception
+GO:0071223	cellular response to lipoteichoic acid
+GO:0034059	response to anoxia
+GO:1903491	response to simvastatin
+GO:0071460	cellular response to cell-matrix adhesion
+GO:0031001	response to brefeldin A
+GO:0042466	chemokinesis
+GO:0071368	cellular response to cytokinin stimulus
+GO:0034694	response to prostaglandin
+GO:0043207	response to external biotic stimulus
+GO:1901562	response to paraquat
+GO:0071377	cellular response to glucagon stimulus
+GO:0048060	negative gravitaxis
+GO:1901700	response to oxygen-containing compound
+GO:0098761	cellular response to interleukin-7
+GO:0009626	plant-type hypersensitive response
+GO:0141083	symbiont-mediated suppression of host reactive oxygen species generation
+GO:0120168	detection of hot stimulus involved in thermoception
+GO:0036483	neuron intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress
+GO:0072723	cellular response to amitrole
+GO:0010157	response to chlorate
+GO:0042088	T-helper 1 type immune response
+GO:0071221	cellular response to bacterial lipopeptide
+GO:0009752	detection of salicylic acid stimulus
+GO:0071491	cellular response to red light
+GO:1902611	cellular response to N-phenylthiourea
+GO:0002370	natural killer cell cytokine production
+GO:0044344	cellular response to fibroblast growth factor stimulus
+GO:0141140	symbiont-mediated suppression of host immunoglobulin-mediated immune response
+GO:0071356	cellular response to tumor necrosis factor
+GO:0044831	modulation by virus of host cytokine production
+GO:0000719	photoreactive repair
+GO:0048673	collateral sprouting of intact axon in response to injury
+GO:0009750	response to fructose
+GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress
+GO:1904583	response to polyamine macromolecule
+GO:0071295	cellular response to vitamin
+GO:0090547	response to low humidity
+GO:0060245	detection of cell density
+GO:0002388	immune response in Peyer's patch
+GO:0071301	cellular response to vitamin B1
+GO:0071502	cellular response to temperature stimulus
+GO:0072417	response to spindle checkpoint signaling
+GO:0010247	detection of phosphate ion
+GO:0019049	virus-mediated perturbation of host defense response
+GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont
+GO:0097333	response to olanzapine
+GO:0071493	cellular response to UV-B
+GO:1904880	response to hydrogen sulfide
+GO:1904015	cellular response to serotonin
+GO:1904400	response to Thyroid stimulating hormone
+GO:0048650	caste determination, influence by environmental factors
+GO:0071232	cellular response to histidine
+GO:0071390	cellular response to ecdysone
+GO:0045990	carbon catabolite regulation of transcription
+GO:0071257	cellular response to electrical stimulus
+GO:0006952	defense response
+GO:0097332	response to antipsychotic drug
+GO:0014864	detection of muscle activity
+GO:0051468	detection of glucocorticoid hormone stimulus
+GO:0014884	detection of muscle inactivity involved in regulation of muscle adaptation
+GO:0072432	response to G1 DNA damage checkpoint signaling
+GO:0070391	response to lipoteichoic acid
+GO:0046682	response to cyclodiene
+GO:0034055	effector-mediated activation of programmed cell death in host
+GO:0006983	ER overload response
+GO:0009861	jasmonic acid and ethylene-dependent systemic resistance
+GO:0072342	response to anion stress
+GO:1905440	cellular response to chondroitin 6'-sulfate
+GO:0014869	detection of muscle inactivity
+GO:0009907	response to photoperiod, red light
+GO:0048575	short-day photoperiodism, flowering
+GO:0007632	visual behavior
+GO:0032354	response to follicle-stimulating hormone
+GO:0009314	response to radiation
+GO:1904403	cellular response to nocodazole
+GO:1903936	cellular response to sodium arsenite
+GO:0071066	detection of mechanical stimulus involved in sensory perception of wind
+GO:1905841	response to oxidopamine
+GO:0006289	nucleotide-excision repair
+GO:0019731	antibacterial humoral response
+GO:0050906	detection of stimulus involved in sensory perception
+GO:1902519	response to docetaxel trihydrate
+GO:0051592	response to calcium ion
+GO:1904682	cellular response to 3-methylcholanthrene
+GO:1990680	response to melanocyte-stimulating hormone
+GO:0035963	cellular response to interleukin-13
+GO:0009620	response to fungus
+GO:0071296	cellular response to biotin
+GO:0002385	mucosal immune response
+GO:1990643	cellular response to granulocyte colony-stimulating factor
+GO:0035006	melanization defense response
+GO:0034695	response to prostaglandin E
+GO:1901497	response to diphenyl ether
+GO:1901653	cellular response to peptide
+GO:0070673	response to interleukin-18
+GO:0035962	response to interleukin-13
+GO:1902522	response to 4'-epidoxorubicin
+GO:0036216	cellular response to stem cell factor stimulus
+GO:0002559	type I hypersensitivity mediated by basophils
+GO:0071868	cellular response to monoamine stimulus
+GO:0039587	suppression by virus of host tetherin activity
+GO:0046535	detection of chemical stimulus involved in sensory perception of umami taste
+GO:0071360	cellular response to exogenous dsRNA
+GO:0033591	response to L-ascorbic acid
+GO:0051838	cytolysis by host of symbiont cells
+GO:0042331	phototaxis
+GO:0032260	response to jasmonic acid stimulus involved in jasmonic acid and ethylene-dependent systemic resistance
+GO:0039699	symbiont-mediated evasion of mRNA degradation by host via mRNA cap methylation
+GO:1901326	response to tetracycline
+GO:0002451	peripheral B cell tolerance induction
+GO:1904383	response to sodium phosphate
+GO:1903843	cellular response to arsenite ion
+GO:0008627	intrinsic apoptotic signaling pathway in response to osmotic stress
+GO:1901422	response to butan-1-ol
+GO:0003035	detection of increased carbon dioxide by carotid body chemoreceptor signaling
+GO:0009617	response to bacterium
+GO:0071451	cellular response to superoxide
+GO:0071448	cellular response to alkyl hydroperoxide
+GO:0006974	DNA damage response
+GO:0008542	visual learning
+GO:0002931	response to ischemia
+GO:0048571	long-day photoperiodism
+GO:0071239	cellular response to streptomycin
+GO:0070543	response to linoleic acid
+GO:0099047	clearance of foreign intracellular RNA
+GO:0042221	response to chemical
+GO:0009604	detection of symbiotic bacterium
+GO:0009307	DNA restriction-modification system
+GO:0071724	response to diacyl bacterial lipopeptide
+GO:0036503	ERAD pathway
+GO:0061848	cellular response to cholecystokinin
+GO:1905217	response to astaxanthin
+GO:0010438	cellular response to sulfur starvation
+GO:0048545	response to steroid hormone
+GO:1905837	cellular response to triterpenoid
+GO:0071870	cellular response to catecholamine stimulus
+GO:0097552	mitochondrial double-strand break repair via homologous recombination
+GO:0070671	response to interleukin-12
+GO:0071468	cellular response to acidic pH
+GO:0071291	cellular response to selenium ion
+GO:0014874	response to stimulus involved in regulation of muscle adaptation
+GO:0033280	response to vitamin D
+GO:0035903	cellular response to immobilization stress
+GO:0071389	cellular response to mineralocorticoid stimulus
+GO:0060004	reflex
+GO:0097396	response to interleukin-17
+GO:0160144	GDF15-GFRAL signaling pathway
+GO:0032526	response to retinoic acid
+GO:0140460	response to Gram-negative bacterium
+GO:1904567	response to wortmannin
+GO:0009753	response to jasmonic acid
+GO:0052103	symbiont-mediated activation of host induced systemic resistance
+GO:0030682	symbiont-mediated perturbation of host defenses
+GO:1903165	response to polycyclic arene
+GO:0048574	long-day photoperiodism, flowering
+GO:0002239	response to oomycetes
+GO:0061477	response to aromatase inhibitor
+GO:0009413	response to flooding
+GO:0000434	carbon catabolite repression of transcription from RNA polymerase II promoter by galactose
+GO:0050907	detection of chemical stimulus involved in sensory perception
+GO:0071463	cellular response to humidity
+GO:0070946	neutrophil-mediated killing of gram-positive bacterium
+GO:0072399	response to cytokinesis checkpoint signaling
+GO:0071227	cellular response to molecule of oomycetes origin
+GO:0070947	neutrophil-mediated killing of fungus
+GO:0090519	anoxia protection
+GO:0071371	cellular response to gonadotropin stimulus
+GO:0034644	cellular response to UV
+GO:0090594	inflammatory response to wounding
+GO:0071104	response to interleukin-9
+GO:0071278	cellular response to cesium ion
+GO:0090546	chlorophyll fluorescence
+GO:0009644	response to high light intensity
+GO:0048573	photoperiodism, flowering
+GO:0034605	cellular response to heat
+GO:0071280	cellular response to copper ion
+GO:0014076	response to fluoxetine
+GO:0009639	response to red or far red light
+GO:0061985	carbon catabolite repression
+GO:0052159	symbiont-mediated perturbation of host induced systemic resistance
+GO:1905582	response to mannose
+GO:1905119	response to haloperidol
+GO:1903350	response to dopamine
+GO:1990418	response to insulin-like growth factor stimulus
+GO:0070781	response to biotin
+GO:1902348	cellular response to strigolactone
+GO:0014900	muscle hyperplasia
+GO:0032149	response to rhamnose
+GO:0014879	detection of electrical stimulus involved in regulation of muscle adaptation
+GO:0070914	UV-damage excision repair
+GO:0043479	pigment accumulation in tissues in response to UV light
+GO:0071501	cellular response to sterol depletion
+GO:0071372	cellular response to follicle-stimulating hormone stimulus
+GO:0002437	inflammatory response to antigenic stimulus
+GO:0080029	cellular response to boron-containing substance levels
+GO:0051776	detection of redox state
+GO:0043695	detection of pheromone
+GO:0005513	detection of calcium ion
+GO:1902170	cellular response to reactive nitrogen species
+GO:0036017	response to erythropoietin
+GO:0061413	regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source
+GO:0002439	chronic inflammatory response to antigenic stimulus
+GO:0002209	behavioral defense response
+GO:1990268	response to gold nanoparticle
+GO:0071302	cellular response to vitamin B2
+GO:0071260	cellular response to mechanical stimulus
+GO:0001562	response to protozoan
+GO:0071320	cellular response to cAMP
+GO:0002254	kinin cascade
+GO:1990394	cellular response to cell wall damage
+GO:0071487	cellular response to low light intensity stimulus
+GO:0039585	PKR/eIFalpha signaling
+GO:0032493	response to bacterial lipoprotein
+GO:0060007	linear vestibuloocular reflex
+GO:0009409	response to cold
+GO:0050972	detection of mechanical stimulus involved in echolocation
+GO:0045087	innate immune response
+GO:0010225	response to UV-C
+GO:0010266	response to vitamin B1
+GO:0000710	meiotic mismatch repair
+GO:1903840	response to arsenite(3-)
+GO:0036314	response to sterol
+GO:0002402	B cell tolerance induction in mucosal-associated lymphoid tissue
+GO:0098586	cellular response to virus
+GO:0036180	filamentous growth of a population of unicellular organisms in response to biotic stimulus
+GO:0072714	response to selenite ion
+GO:0009732	detection of hexose stimulus
+GO:0071380	cellular response to prostaglandin E stimulus
+GO:0010037	response to carbon dioxide
+GO:1905631	cellular response to glyceraldehyde
+GO:0033554	cellular response to stress
+GO:0071222	cellular response to lipopolysaccharide
+GO:0097704	cellular response to oscillatory fluid shear stress
+GO:0042772	DNA damage response, signal transduction resulting in transcription
+GO:0036119	response to platelet-derived growth factor
+GO:0003034	detection of increased carbon dioxide by aortic body chemoreceptor signaling
+GO:1903412	response to bile acid
+GO:0071681	cellular response to indole-3-methanol
+GO:0042742	defense response to bacterium
+GO:0014890	smooth muscle atrophy
+GO:0052544	defense response by callose deposition in cell wall
+GO:0071285	cellular response to lithium ion
+GO:0042595	behavioral response to starvation
+GO:0071332	cellular response to fructose stimulus
+GO:0052164	symbiont defense to host-produced reactive oxygen species
+GO:0099046	clearance of foreign intracellular nucleic acids
+GO:0051775	response to redox state
+GO:0009719	response to endogenous stimulus
+GO:0032570	response to progesterone
+GO:0070944	neutrophil-mediated killing of bacterium
+GO:1901345	response to L-thialysine
+GO:0097501	stress response to metal ion
+GO:0097067	cellular response to thyroid hormone stimulus
+GO:0071504	cellular response to heparin
+GO:0035080	heat shock-mediated polytene chromosome puffing
+GO:0014878	response to electrical stimulus involved in regulation of muscle adaptation
+GO:1902347	response to strigolactone
+GO:1990127	intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator
+GO:0009637	response to blue light
+GO:0009758	carbohydrate utilization
+GO:0034698	response to gonadotropin
+GO:0002424	T cell mediated immune response to tumor cell
+GO:0071400	cellular response to oleic acid
+GO:0035984	cellular response to trichostatin A
+GO:0010272	response to silver ion
+GO:0016068	type I hypersensitivity
+GO:0006971	hypotonic response
+GO:0055093	response to hyperoxia
+GO:0072444	response to mitotic DNA replication checkpoint signaling
+GO:0002427	mucosal tolerance induction
+GO:0071370	cellular response to gibberellin stimulus
+GO:1902521	response to etoposide
+GO:0014822	detection of wounding
+GO:1902141	cellular response to inositol
+GO:0072756	cellular response to paraquat
+GO:0071333	cellular response to glucose stimulus
+GO:0071632	optomotor response
+GO:0050964	detection of electrical stimulus involved in electroception
+GO:0051597	response to methylmercury
+GO:0060275	maintenance of stationary phase in response to starvation
+GO:0052034	effector-mediated suppression of host pattern-triggered immunity
+GO:0055094	response to lipoprotein particle
+GO:0009615	response to virus
+GO:1904045	cellular response to aldosterone
+GO:0009606	tropism
+GO:0036256	cellular response to methylamine
+GO:0000435	positive regulation of transcription from RNA polymerase II promoter by galactose
+GO:0071287	cellular response to manganese ion
+GO:0097551	mitochondrial double-strand break repair
+GO:1903545	cellular response to butyrate
+GO:0009607	response to biotic stimulus
+GO:0071404	cellular response to low-density lipoprotein particle stimulus
+GO:0072470	response to cell size control checkpoint signaling
+GO:1990442	intrinsic apoptotic signaling pathway in response to nitrosative stress
+GO:0071240	cellular response to food
+GO:0071225	cellular response to muramyl dipeptide
+GO:0033189	response to vitamin A
+GO:0051606	detection of stimulus
+GO:0035995	detection of muscle stretch
+GO:1904017	cellular response to Thyroglobulin triiodothyronine
+GO:0071297	cellular response to cobalamin
+GO:0072732	cellular response to calcium ion starvation
+GO:1902438	response to vanadate(3-)
+GO:0033555	multicellular organismal response to stress
+GO:1904630	cellular response to diterpene
+GO:0072709	cellular response to sorbitol
+GO:0071379	cellular response to prostaglandin stimulus
+GO:0009647	skotomorphogenesis
+GO:0009631	cold acclimation
+GO:0010269	response to selenium ion
+GO:0050982	detection of mechanical stimulus
+GO:1903938	cellular response to acrylamide
+GO:0080053	response to phenylalanine
+GO:1990267	response to transition metal nanoparticle
+GO:0072738	cellular response to diamide
+GO:1904316	response to 2-O-acetyl-1-O-hexadecyl-sn-glycero-3-phosphocholine
+GO:0034696	response to prostaglandin F
+GO:1904639	cellular response to resveratrol
+GO:0006978	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator
+GO:0140976	defense response against perturbation of plasma membrane integrity
+GO:0071275	cellular response to aluminum ion
+GO:0071214	cellular response to abiotic stimulus
+GO:1904642	cellular response to dinitrophenol
+GO:0032499	detection of peptidoglycan
+GO:0033595	response to genistein
+GO:0031848	protection from non-homologous end joining at telomere
+GO:0098543	detection of other organism
+GO:0046957	negative phototaxis
+GO:0010036	response to boron-containing substance
+GO:1902709	cellular response to plumbagin
+GO:0070943	neutrophil-mediated killing of symbiont cell
+GO:0106400	double-strand break repair via transcription-associated homologous recombination
+GO:1903493	response to clopidogrel
+GO:0050962	detection of light stimulus involved in sensory perception
+GO:0035744	T-helper 1 cell cytokine production
+GO:1901355	response to rapamycin
+GO:1990786	cellular response to dsDNA
+GO:0070716	mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication
+GO:0034288	detection of disaccharide stimulus
+GO:1902169	cellular response to catechin
+GO:0009751	response to salicylic acid
+GO:1904584	cellular response to polyamine macromolecule
+GO:0045004	DNA replication proofreading
+GO:1902168	response to catechin
+GO:0002237	response to molecule of bacterial origin
+GO:0010034	response to acetate
+GO:1903442	response to lipoic acid
+GO:0071294	cellular response to zinc ion
+GO:0071358	cellular response to type III interferon
+GO:0051414	response to cortisol
+GO:0090650	cellular response to oxygen-glucose deprivation
+GO:1901499	response to hexane
+GO:0009610	response to symbiotic fungus
+GO:0071318	cellular response to ATP
+GO:0072485	response to spindle assembly checkpoint signaling
+GO:1904148	cellular response to nonylphenol
+GO:0039722	symbiont-mediated suppression of host toll-like receptor signaling pathway
+GO:0042267	natural killer cell mediated cytotoxicity
+GO:1904927	cellular response to palmitoleic acid
+GO:0006954	inflammatory response
+GO:1905960	response to differentiation-inducing factor 2
+GO:1905387	response to beta-carotene
+GO:0072744	cellular response to trichodermin
+GO:0031571	mitotic G1 DNA damage checkpoint signaling
+GO:1902780	response to nonane
+GO:0060156	milk ejection reflex
+GO:0071391	cellular response to estrogen stimulus
+GO:0002467	germinal center formation
+GO:0097281	immune complex formation
+GO:0036299	non-recombinational interstrand cross-link repair
+GO:1990869	cellular response to chemokine
+GO:0071394	cellular response to testosterone stimulus
+GO:0141043	symbiont-mediated evasion of host innate immune response
+GO:0052086	symbiont-mediated suppression of host B-cell mediated immune response
+GO:0045013	carbon catabolite repression of transcription
+GO:0097066	response to thyroid hormone
+GO:0010477	response to sulfur dioxide
+GO:0031670	cellular response to nutrient
+GO:0003038	detection of reduced oxygen by aortic body chemoreceptor signaling
+GO:0014893	response to rest involved in regulation of muscle adaptation
+GO:0046688	response to copper ion
+GO:1902111	response to diethyl maleate
+GO:1902665	response to isobutanol
+GO:0060416	response to growth hormone
+GO:0014823	response to activity
+GO:0010106	cellular response to iron ion starvation
+GO:0009645	response to low light intensity stimulus
+GO:1901324	response to trichodermin
+GO:0097706	vascular endothelial cell response to oscillatory fluid shear stress
+GO:0052168	modulation by symbiont of defense-related host calcium-dependent protein kinase pathway
+GO:0140533	symbiont-mediated suppression of host RNAi-mediated antiviral immune response
+GO:0099016	symbiont-mediated evasion of DNA end degradation by host
+GO:0000727	double-strand break repair via break-induced replication
+GO:0034697	response to prostaglandin I
+GO:1903492	response to acetylsalicylate
+GO:0014072	response to isoquinoline alkaloid
+GO:0051602	response to electrical stimulus
+GO:0035457	cellular response to interferon-alpha
+GO:0071492	cellular response to UV-A
+GO:0072760	cellular response to GW 7647
+GO:0097280	histamine secretion mediated by immunoglobulin
+GO:1903928	cellular response to cyanide
+GO:1990831	cellular response to carcinoembryonic antigen
+GO:0035745	T-helper 2 cell cytokine production
+GO:1901594	response to capsazepine
+GO:0014863	detection of inactivity
+GO:0032355	response to estradiol
+GO:1904613	cellular response to 2,3,7,8-tetrachlorodibenzodioxine
+GO:1905307	response to miconazole
+GO:1902615	immune response involved in response to exogenous dsRNA
+GO:0002236	detection of misfolded protein
+GO:0010045	response to nickel cation
+GO:0043435	response to corticotropin-releasing hormone
+GO:0009582	detection of abiotic stimulus
+GO:0062149	detection of stimulus involved in sensory perception of pain
+GO:1901426	response to furfural
+GO:0034285	response to disaccharide
+GO:0071312	cellular response to alkaloid
+GO:0097195	pilomotor reflex
+GO:0071773	cellular response to BMP stimulus
+GO:1990928	response to amino acid starvation
+GO:0072745	cellular response to antimycin A
+GO:0036170	filamentous growth of a population of unicellular organisms in response to starvation
+GO:0052088	symbiont defense to host-produced jasmonic acid
+GO:0150076	neuroinflammatory response
+GO:0052154	symbiont-mediated perturbation of host B-cell mediated immune response
+GO:0009723	response to ethylene
+GO:0098759	cellular response to interleukin-8
+GO:0071361	cellular response to ethanol
+GO:0002223	stimulatory C-type lectin receptor signaling pathway
+GO:0051788	response to misfolded protein
+GO:0010038	response to metal ion
+GO:0034054	symbiont-mediated suppression of host defense-related programmed cell death
+GO:0052032	symbiont-mediated perturbation of host inflammatory response
+GO:0007231	osmosensory signaling pathway
+GO:0061478	response to platelet aggregation inhibitor
+GO:0071228	cellular response to tumor cell
+GO:0001806	type IV hypersensitivity

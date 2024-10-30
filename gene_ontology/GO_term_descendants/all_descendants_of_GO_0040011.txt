@@ -1,0 +1,96 @@
+GOID	TERM
+GO:0010183	pollen tube guidance
+GO:0036516	chemoattraction of dopaminergic neuron axon
+GO:0021834	chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration
+GO:0033058	directional locomotion
+GO:0052128	positive energy taxis
+GO:0061352	cell chemotaxis involved in Malpighian tubule morphogenesis
+GO:0035232	germ cell attraction
+GO:0043057	backward locomotion
+GO:0043326	chemotaxis to folate
+GO:0021788	chemoattraction of branchiomotor neuron axon in neural tube
+GO:0002232	leukocyte chemotaxis involved in inflammatory response
+GO:1990751	Schwann cell chemotaxis
+GO:0042332	gravitaxis
+GO:0061643	chemorepulsion of axon
+GO:0002409	Langerhans cell chemotaxis
+GO:0035767	endothelial cell chemotaxis
+GO:0043327	chemotaxis to cAMP
+GO:0042331	phototaxis
+GO:0002518	lymphocyte chemotaxis across high endothelial venule
+GO:0021835	chemoattraction involved in embryonic olfactory bulb interneuron precursor migration
+GO:0002233	leukocyte chemotaxis involved in immune response
+GO:0048061	positive gravitaxis
+GO:0071670	smooth muscle cell chemotaxis
+GO:0052130	negative aerotaxis
+GO:0021792	chemoattraction of branchiomotor axon
+GO:0009453	energy taxis
+GO:0043056	forward locomotion
+GO:0021951	chemoattraction involved in precerebellar neuron migration
+GO:0071621	granulocyte chemotaxis
+GO:0050918	positive chemotaxis
+GO:0002551	mast cell chemotaxis
+GO:0060361	flight
+GO:0035704	helper T cell chemotaxis
+GO:1990956	fibroblast chemotaxis
+GO:0002408	myeloid dendritic cell chemotaxis
+GO:0034670	chemotaxis to arachidonate
+GO:0009455	redox taxis
+GO:0042330	taxis
+GO:0050919	negative chemotaxis
+GO:0002410	plasmacytoid dendritic cell chemotaxis
+GO:0048060	negative gravitaxis
+GO:0035768	endothelial cell chemotaxis to fibroblast growth factor
+GO:0035769	B cell chemotaxis across high endothelial venule
+GO:0002548	monocyte chemotaxis
+GO:0035754	B cell chemotaxis
+GO:0031987	locomotion involved in locomotory behavior
+GO:0042333	chemotaxis to oxidizable substrate
+GO:0046956	positive phototaxis
+GO:0060326	cell chemotaxis
+GO:0052131	positive aerotaxis
+GO:0021844	interneuron sorting involved in substrate-independent cerebral cortex tangential migration
+GO:0002575	basophil chemotaxis
+GO:0052129	negative energy taxis
+GO:0035782	mature natural killer cell chemotaxis
+GO:0035700	astrocyte chemotaxis
+GO:0021790	chemorepulsion of branchiomotor neuron axon in branchial arch mesenchyme
+GO:0060362	flight involved in flight behavior
+GO:0090667	cell chemotaxis to vascular endothelial growth factor
+GO:0002407	dendritic cell chemotaxis
+GO:0036061	muscle cell chemotaxis toward tendon cell
+GO:0035233	germ cell repulsion
+GO:0021842	chemorepulsion involved in interneuron migration from the subpallium to the cortex
+GO:0042334	taxis to electron acceptor
+GO:0030595	leukocyte chemotaxis
+GO:0036518	chemorepulsion of dopaminergic neuron axon
+GO:0021841	chemoattraction involved in interneuron migration from the subpallium to the cortex
+GO:0036268	swimming
+GO:0090668	endothelial cell chemotaxis to vascular endothelial growth factor
+GO:0048246	macrophage chemotaxis
+GO:0061583	colon epithelial cell chemotaxis
+GO:0021787	chemorepulsion of branchiomotor neuron axon in neural tube
+GO:0016200	synaptic target attraction
+GO:0030593	neutrophil chemotaxis
+GO:0071434	cell chemotaxis to angiotensin
+GO:0048245	eosinophil chemotaxis
+GO:0071965	multicellular organismal locomotion
+GO:0035705	T-helper 17 cell chemotaxis
+GO:0010818	T cell chemotaxis
+GO:0048247	lymphocyte chemotaxis
+GO:0043052	thermotaxis
+GO:0009454	aerotaxis
+GO:0035707	T-helper 2 cell chemotaxis
+GO:0035766	cell chemotaxis to fibroblast growth factor
+GO:0046957	negative phototaxis
+GO:0006935	chemotaxis
+GO:0036519	chemorepulsion of serotonergic neuron axon
+GO:0021793	chemorepulsion of branchiomotor axon
+GO:0021836	chemorepulsion involved in postnatal olfactory bulb interneuron migration
+GO:0035747	natural killer cell chemotaxis
+GO:0021791	chemoattraction of branchiomotor neuron axon in branchial arch mesenchyme
+GO:0061642	chemoattraction of axon
+GO:0036517	chemoattraction of serotonergic neuron axon
+GO:0035706	T-helper 1 cell chemotaxis
+GO:0016201	synaptic target inhibition
+GO:0021950	chemorepulsion involved in precerebellar neuron migration

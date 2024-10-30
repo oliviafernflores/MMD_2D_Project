@@ -1,0 +1,635 @@
+GOID	TERM
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide
+GO:0048874	host-mediated regulation of intestinal microbiota composition
+GO:0044067	symbiont-mediated perturbation of host cell-cell junction
+GO:0046814	coreceptor-mediated virion attachment to host cell
+GO:0080034	host response to induction by symbiont of tumor, nodule or growth in host
+GO:0075001	adhesion of symbiont infection structure to host
+GO:0044406	adhesion of symbiont to host
+GO:0039672	suppression by virus of host natural killer cell activation
+GO:0052111	symbiont-mediated disruption of host anatomical structure
+GO:0044359	modulation of molecular function in another organism
+GO:0075293	response to host pH environment
+GO:0051850	acquisition of nutrients from symbiont
+GO:0020035	adhesion of symbiont to microvasculature
+GO:0031640	killing of cells of another organism
+GO:0001878	response to yeast
+GO:0019062	virion attachment to host cell
+GO:0141030	symbiont-mediated perturbation of host actin cytoskeleton via filamentous actin depolymerization
+GO:0009625	response to insect
+GO:0085017	entry into host cell by a symbiont-containing vacuole
+GO:0044519	envenomation resulting in modulation of vasoactive intestinal polypeptide receptor activity in another organism
+GO:0039640	viral release via suppression of host peptidoglycan biosynthetic process
+GO:0044561	modulation of ion channel activity in another organism
+GO:0141041	disruption of extracellular matrix of another organism
+GO:0141070	symbiont-mediated suppression of host MAPK cascade
+GO:0035806	perturbation of blood coagulation in another organism
+GO:0098673	inhibition of host DNA replication by virus
+GO:0044179	hemolysis in another organism
+GO:0075035	appressorium maturation
+GO:0044361	negative regulation of voltage-gated potassium channel activity in another organism
+GO:0098542	defense response to other organism
+GO:0044517	modulation of vasoactive intestinal polypeptide receptor activity in another organism
+GO:0002215	defense response to nematode
+GO:0141203	symbiont-mediated suppression of host complement activation by activation of host proteases
+GO:0051873	killing by host of symbiont cells
+GO:0052027	symbiont-mediated perturbation of host signal transduction pathway
+GO:0070961	positive regulation of neutrophil mediated killing of symbiont cell
+GO:0141081	symbiont-mediated suppression of host inflammasome-mediated signal transduction
+GO:0044399	multi-species biofilm formation
+GO:0035915	pore formation in membrane of another organism
+GO:0140717	entry into host through the stromata
+GO:0019057	symbiont-mediated perturbation of host translation
+GO:0141171	symbiont-mediated perturbation of host membrane
+GO:0075004	adhesion of symbiont spore to host
+GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism
+GO:0044867	modulation by host of viral catalytic activity
+GO:0044542	symbiont-mediated activation of host plasminogen
+GO:0039595	symbiont-mediated degradation of host mRNA
+GO:0140418	effector-mediated modulation of host process by symbiont
+GO:0141142	symbiont-mediated migration across host tissue barrier
+GO:0141033	symbiont-mediated perturbation of host actin cytoskeleton via actin polymerization
+GO:0033656	symbiont-mediated disruption of host chloroplast
+GO:0044491	positive regulation of molecular function in another organism
+GO:0098864	symbiont-mediated stabilization of host tight cell-cell junction
+GO:0052080	symbiont-mediated perturbation of host MAPK cascade
+GO:0141104	symbiont-mediated activation of host G protein-coupled receptor signal transduction
+GO:0052092	positive regulation of nutrient release by host
+GO:0070952	regulation of neutrophil mediated killing of gram-positive bacterium
+GO:0085001	formation of stylet for nutrient acquisition
+GO:0052158	modulation by symbiont of host resistance gene-dependent defense response
+GO:0044418	translocation of DNA into host
+GO:0035918	negative regulation of voltage-gated calcium channel activity in another organism
+GO:0075111	symbiont-mediated suppression of host receptor-mediated signal transduction
+GO:0044762	symbiont-mediated suppression of host neurotransmitter secretion
+GO:0052036	symbiont-mediated suppression of host inflammatory response
+GO:0141026	adhesion of symbiont to host cell surface via host membrane cholesterol
+GO:0044077	symbiont-mediated perturbation of host receptor-mediated endocytosis
+GO:0140404	effector-mediated perturbation of host innate immune response by symbiont
+GO:0009626	plant-type hypersensitive response
+GO:0141083	symbiont-mediated suppression of host reactive oxygen species generation
+GO:0085030	symbiotic process benefiting host
+GO:0044833	modulation by virus of host protein transport
+GO:0085033	symbiont-mediated activation of host NF-kappaB cascade
+GO:0075138	response to host oxygen tension environment
+GO:0098996	symbiont entry into host cell via disruption of host cell glycocalyx
+GO:0044651	adhesion of symbiont to host epithelial cell
+GO:0042832	defense response to protozoan
+GO:0035895	modulation of mast cell degranulation in another organism
+GO:0002241	response to parasitic plant
+GO:0009603	detection of symbiotic fungus
+GO:0002370	natural killer cell cytokine production
+GO:0044468	envenomation resulting in modulation of blood coagulation in another organism
+GO:0050830	defense response to Gram-positive bacterium
+GO:0019730	antimicrobial humoral response
+GO:0141042	symbiont-mediated cAMP intoxication of host cell
+GO:0044870	modulation by host of viral glycoprotein metabolic process
+GO:0039563	symbiont-mediated suppression of host JAK-STAT cascade via inhibition of STAT1 activity
+GO:0070955	negative regulation of neutrophil mediated killing of symbiont cell
+GO:0141140	symbiont-mediated suppression of host immunoglobulin-mediated immune response
+GO:0002228	natural killer cell mediated immunity
+GO:0044650	adhesion of symbiont to host cell
+GO:0044485	envenomation resulting in fibrinogenolysis in another organism
+GO:0044831	modulation by virus of host cytokine production
+GO:0052160	symbiont-mediated perturbation of host systemic acquired resistance
+GO:0044499	envenomation resulting in positive regulation of blood pressure in another organism
+GO:0039635	suppression by virus of host peptidoglycan biosynthetic process
+GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism
+GO:0044830	modulation by host of viral RNA genome replication
+GO:0070949	regulation of neutrophil mediated killing of symbiont cell
+GO:0044079	symbiont-mediated perturbation of host neurotransmitter secretion
+GO:0039724	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of IKBKE activity
+GO:0044476	envenomation resulting in negative regulation of low voltage-gated calcium channel activity in another organism
+GO:0044556	envenomation resulting in negative regulation of heart rate in another organism
+GO:0141073	symbiont-mediated perturbation of host opsonization
+GO:0044495	modulation of blood pressure in another organism
+GO:0052091	modulation of nutrient release by host
+GO:0019049	virus-mediated perturbation of host defense response
+GO:0002231	detection of oomycetes
+GO:0075528	perturbation by virus of host immune response
+GO:0080185	effector-mediated activation of plant hypersensitive response by symbiont
+GO:0044473	envenomation resulting in negative regulation of calcium channel activity in another organism
+GO:0070945	neutrophil-mediated killing of gram-negative bacterium
+GO:0098002	receptor-mediated bacteriophage irreversible attachment to host cell
+GO:0009602	detection of symbiont
+GO:0051709	regulation of killing of cells of another organism
+GO:0141082	symbiont-mediated detoxification of host-generated reactive oxygen species
+GO:0044358	envenomation resulting in hemorrhagic damage in another organism
+GO:0044551	envenomation resulting in vasodilation in another organism
+GO:0039646	symbiont-mediated perturbation of host cell cycle G0/G1 transition checkpoint
+GO:0052003	symbiont-mediated suppression of defense-related host salicylic acid-mediated signal transduction pathway
+GO:0050831	male-specific defense response to bacterium
+GO:0033659	symbiont-mediated disruption of host mitochondrion
+GO:0002211	behavioral defense response to insect
+GO:0044487	envenomation resulting in modulation of transmission of nerve impulse in another organism
+GO:0039560	symbiont-mediated suppression of host JAK-STAT cascade via inhibition of host IRF9 activity
+GO:0141018	adhesion of symbiont to host via host extracellular matrix
+GO:0044490	positive regulation of voltage-gated sodium channel activity in another organism
+GO:0141179	symbiont-mediated evasion of recognition by host antimicrobial peptide
+GO:0035899	suppression of blood coagulation in another organism
+GO:0046740	transport of virus in host, cell to cell
+GO:0044863	modulation by virus of host cell division
+GO:0034055	effector-mediated activation of programmed cell death in host
+GO:0075000	response to host osmotic environment
+GO:0009861	jasmonic acid and ethylene-dependent systemic resistance
+GO:0009597	detection of virus
+GO:0070959	negative regulation of neutrophil mediated killing of fungus
+GO:0009608	response to symbiont
+GO:0009601	detection of insect
+GO:0044489	negative regulation of voltage-gated sodium channel activity in another organism
+GO:0097615	modulation by host of symbiont type IV pilus-dependent motility
+GO:0043922	negative regulation by host of viral transcription
+GO:0044659	viral release from host cell by cytolysis
+GO:0019731	antibacterial humoral response
+GO:0098994	symbiont entry into host cell via disruption of host cell envelope
+GO:0044506	modulation of glucagon-like peptide receptor 1 activity in another organism
+GO:0141062	disruption of tissue in another organism
+GO:0052042	symbiont-mediated activation of host programmed cell death
+GO:0009627	systemic acquired resistance
+GO:0051214	RNAi-mediated antiviral immunity against RNA virus
+GO:0044788	modulation by host of viral process
+GO:0044003	symbiont-mediated perturbation of host process
+GO:0046718	symbiont entry into host cell
+GO:0009620	response to fungus
+GO:0051712	positive regulation of killing of cells of another organism
+GO:0035893	suppression of platelet aggregation in another organism
+GO:0046739	transport of virus in multicellular host
+GO:0035917	negative regulation of calcium channel activity in another organism
+GO:0035006	melanization defense response
+GO:0052089	modulation by symbiont of host salicylic acid-mediated defense response
+GO:0052081	symbiont-mediated perturbation of host salicylic acid-mediated signal transduction pathway
+GO:0044360	modulation of voltage-gated potassium channel activity in another organism
+GO:0044520	envenomation resulting in positive regulation of vasoactive intestinal polypeptide receptor activity in another organism
+GO:0006962	male-specific antibacterial humoral response
+GO:0070964	positive regulation of neutrophil mediated killing of gram-positive bacterium
+GO:0044758	modulation by symbiont of host synaptic transmission
+GO:0046776	symbiont-mediated suppression of host antigen processing and presentation of peptide antigen via MHC class I
+GO:0044560	envenomation resulting in modulation of ion channel activity in another organism
+GO:0002227	innate immune response in mucosa
+GO:0044521	envenomation resulting in muscle damage in another organism
+GO:0141154	symbiont-mediated suppression of host-directed shutoff of host translation
+GO:0044694	symbiont genome entry into host cell via pore formation in plasma membrane
+GO:0001867	complement activation, lectin pathway
+GO:0051715	cytolysis in another organism
+GO:0044866	modulation by host of viral exo-alpha-sialidase activity
+GO:0039587	suppression by virus of host tetherin activity
+GO:0140321	symbiont-mediated suppression of host autophagy
+GO:0044554	modulation of heart rate in another organism
+GO:0009600	detection of nematode
+GO:0044511	envenomation resulting in modulation of receptor activity in another organism
+GO:0052039	symbiont-mediated perturbation of host cytoskeleton
+GO:0051838	cytolysis by host of symbiont cells
+GO:0020033	antigenic variation
+GO:0046784	viral mRNA export from host cell nucleus
+GO:0039592	symbiont-mediated arrest of host cell cycle during G2/M transition
+GO:0039699	symbiont-mediated evasion of mRNA degradation by host via mRNA cap methylation
+GO:0046774	suppression by virus of host intracellular interferon activity
+GO:0141132	defense response to host
+GO:0044739	positive regulation of acid-sensing ion channel in another organism
+GO:0039593	symbiont-mediated perturbation of host exit from mitosis
+GO:0039723	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of TBK1 activity
+GO:0036377	arbuscular mycorrhizal association
+GO:0039657	symbiont-mediated suppression of host gene expression
+GO:0044486	modulation of transmission of nerve impulse in another organism
+GO:0120324	procyclogenesis
+GO:0075120	symbiont-mediated suppression of host G protein-coupled receptor signal transduction
+GO:0044544	envenomation resulting in plasminogen activation in another organism
+GO:0044660	viral release via pore formation in host cell membrane
+GO:0009617	response to bacterium
+GO:0002213	defense response to insect
+GO:0120332	host-mediated regulation of oral microbiota composition
+GO:0140267	symbiont entry into host cell via permeabilization of host membrane
+GO:0052031	symbiont-mediated perturbation of host defense response
+GO:0085016	dormancy exit of symbiont in host
+GO:0044868	modulation by host of viral molecular function
+GO:0039638	lipopolysaccharide-mediated virion attachment to host cell
+GO:0085034	symbiont-mediated suppression of host NF-kappaB cascade
+GO:0052098	formation by host of specialized structure for nutrient acquisition from symbiont
+GO:0036522	negative regulation by symbiont of host protein localization to phagocytic vesicle
+GO:0099047	clearance of foreign intracellular RNA
+GO:0140403	effector-mediated suppression of host innate immune response
+GO:0075137	response to host redox environment
+GO:0052200	response to host defenses
+GO:0044080	symbiont-mediated perturbation of host cGMP-mediated signal transduction
+GO:0098865	symbiont-mediated perturbation of host tight cell-cell junction
+GO:0009604	detection of symbiotic bacterium
+GO:0009307	DNA restriction-modification system
+GO:0141130	symbiont-mediated inactivation of host ribosome
+GO:0044111	formation of structure involved in a symbiotic process
+GO:0141074	symbiont-mediated suppression of host cGAS-STING signal transduction
+GO:0098933	symbiont-mediated disruption of host cell envelope
+GO:0002212	behavioral defense response to nematode
+GO:0140975	disruption of cellular anatomical structure in another organism
+GO:0141027	symbiont-mediated perturbation of host actin cytoskeleton
+GO:0052472	modulation by host of symbiont transcription
+GO:0075342	symbiont-mediated disruption of host cell PML body
+GO:0046813	receptor-mediated virion attachment to host cell
+GO:0052156	symbiont-mediated perturbation of host T-cell mediated immune response
+GO:0052005	symbiont-mediated suppression of host ethylene-mediated defense response
+GO:0046754	viral exocytosis
+GO:0044478	envenomation resulting in positive regulation of platelet aggregation in another organism
+GO:0044066	symbiont-mediated disruption of host cell nucleus
+GO:0080027	response to herbivore
+GO:0019836	hemolysis by symbiont of host erythrocytes
+GO:0140460	response to Gram-negative bacterium
+GO:0098671	adhesion receptor-mediated virion attachment to host cell
+GO:0052025	symbiont-mediated perturbation of host cell endomembrane system
+GO:0140546	defense response to symbiont
+GO:0044827	modulation by host of viral genome replication
+GO:0044523	envenomation resulting in damage of muscle extracellular matrix in another organism
+GO:0046753	non-lytic viral release
+GO:0052103	symbiont-mediated activation of host induced systemic resistance
+GO:0030682	symbiont-mediated perturbation of host defenses
+GO:0140755	reorganization of host cellular membranes to establish sites of replication
+GO:0002239	response to oomycetes
+GO:0052165	symbiont defense to host-produced phytoalexin
+GO:0141031	symbiont-mediated perturbation of host actin cytoskeleton via actin crosslinking
+GO:0044536	envenomation resulting in depletion of circulating fibrinogen in another organism
+GO:0051215	RNAi-mediated antiviral immunity against DNA virus
+GO:0052422	modulation by host of symbiont catalytic activity
+GO:0098676	modulation of host virulence by virus
+GO:0141213	symbiont-mediated generation of symbiont replication vacuole
+GO:0070946	neutrophil-mediated killing of gram-positive bacterium
+GO:0043921	modulation by host of viral transcription
+GO:0120310	amastigogenesis
+GO:0039648	symbiont-mediated perturbation of host ubiquitin-like protein modification
+GO:0141145	symbiont-mediated suppression of host neutrophil extracellular trap formation
+GO:0070947	neutrophil-mediated killing of fungus
+GO:0016045	detection of bacterium
+GO:0044484	envenomation resulting in fibrinolysis in another organism
+GO:0070950	regulation of neutrophil mediated killing of bacterium
+GO:0141115	symbiont-mediated suppression of host complement activation by inactivation of complement proteins
+GO:0140374	antiviral innate immune response
+GO:0052403	negative regulation by host of symbiont catalytic activity
+GO:0039520	induction by virus of host autophagy
+GO:0044496	negative regulation of blood pressure in another organism
+GO:0044733	envenomation resulting in modulation of acid-sensing ion channel activity in another organism
+GO:0070958	negative regulation of neutrophil mediated killing of gram-positive bacterium
+GO:0039673	evasion by virus of host dendritic cell activity
+GO:0044759	negative regulation by symbiont of host synaptic transmission
+GO:0052159	symbiont-mediated perturbation of host induced systemic resistance
+GO:0044071	symbiont-mediated perturbation of host cell cycle progression
+GO:0044474	envenomation resulting in negative regulation of voltage-gated calcium channel activity in another organism
+GO:0075002	adhesion of symbiont germination tube to host
+GO:0043923	positive regulation by host of viral transcription
+GO:0035635	entry of bacterium into host cell
+GO:0052162	modulation by symbiont of defense-related host calcium ion flux
+GO:0039519	modulation by virus of host autophagy
+GO:0141025	adhesion of symbiont to host cell surface via host glycoprotein
+GO:0044616	modulation of relaxation of muscle in another organism
+GO:0039606	symbiont-mediated suppression of host translation initiation
+GO:0044002	acquisition of nutrients from host
+GO:0075328	formation of arbuscule for nutrient acquisition
+GO:0044760	modulation by symbiont of host cholinergic synaptic transmission
+GO:0046761	viral budding from plasma membrane
+GO:0044617	modulation of relaxation of smooth muscle in another organism
+GO:0141144	symbiont-mediated disruption of host neutrophil extracellular traps
+GO:0044417	translocation of molecules into host
+GO:0044053	translocation of peptides or proteins into host cell cytoplasm
+GO:0044735	envenomation resulting in negative regulation of acid-sensing ion channel activity in another organism
+GO:0141116	symbiont-mediated suppression of host complement activation by complement sequestering
+GO:0051819	induction by symbiont of tumor or growth in host
+GO:0039514	symbiont-mediated suppression of host JAK-STAT cascade
+GO:0141017	effector-mediated induction of cell cycle reactivation in host
+GO:0075070	adhesion of symbiont hyphopodium to host
+GO:0039602	symbiont-mediated suppression of host transcription initiation from RNA polymerase II promoter
+GO:0075136	response to host
+GO:0098931	virion attachment to host cell flagellum
+GO:0002420	natural killer cell mediated cytotoxicity directed against tumor cell target
+GO:0052167	symbiont-mediated perturbation of host innate immune response
+GO:0051702	biological process involved in interaction with symbiont
+GO:0044652	adhesion of symbiont to host endothelial cell
+GO:0001562	response to protozoan
+GO:0044507	positive regulation of receptor activity in another organism
+GO:0141128	symbiont-mediated non-specific activation of host T-cells
+GO:0052201	response to symbiont defenses
+GO:0141024	adhesion of symbiont to host cell surface via host membrane carbohydrate
+GO:0044869	negative regulation by host of viral exo-alpha-sialidase activity
+GO:0061760	antifungal innate immune response
+GO:0046773	symbiont-mediated suppression of host translation termination
+GO:0052026	symbiont-mediated perturbation of host transcription
+GO:0140423	effector-mediated suppression of host pattern-triggered immunity signaling
+GO:0099141	cellular response to protozoan
+GO:0044407	single-species biofilm formation in or on host organism
+GO:0140502	effector-mediated suppression of host salicylic acid-mediated innate immune signaling
+GO:0141160	symbiont-mediated disruption of host phagosome
+GO:0052519	positive regulation of nutrient release by symbiont
+GO:1990216	symbiont-mediated activation of host transcription
+GO:0039525	modulation by virus of host chromatin organization
+GO:0075025	initiation of appressorium formation
+GO:0045087	innate immune response
+GO:0075139	response to host iron concentration
+GO:0141158	symbiont-mediated suppression of host phagosome maturation
+GO:0039524	symbiont-mediated suppression of host mRNA processing
+GO:0044515	envenomation resulting in positive regulation of glucagon-like peptide receptor 1 activity in another organism
+GO:0099045	viral extrusion
+GO:0052067	symbiont-mediated perturbation of host phagocytosis
+GO:0044510	envenomation resulting in positive regulation of signal transduction in another organism
+GO:0044564	envenomation resulting in occlusion of the pore of voltage-gated potassium channel in another organism
+GO:0141177	symbiont-mediated evasion of recognition by host innate immune effector
+GO:0060141	positive regulation of syncytium formation by virus
+GO:0044362	negative regulation of molecular function in another organism
+GO:0098586	cellular response to virus
+GO:0033661	effector-mediated defense to host-produced reactive oxygen species
+GO:0052041	symbiont-mediated suppression of host programmed cell death
+GO:0046780	symbiont-mediated suppression of host mRNA splicing
+GO:0070962	positive regulation of neutrophil mediated killing of bacterium
+GO:0039656	symbiont-mediated perturbation of host gene expression
+GO:0039562	symbiont-mediated suppression of host JAK-STAT cascade via inhibition of STAT activity
+GO:0044847	iron acquisition from host
+GO:0044398	envenomation resulting in induction of edema in another organism
+GO:0039504	symbiont-mediated suppression of host adaptive immune response
+GO:0140885	symbiont-mediated suppression of host type III interferon-mediated signaling pathway
+GO:0070953	regulation of neutrophil mediated killing of fungus
+GO:0046802	exit of virus from host cell nucleus by nuclear egress
+GO:0140415	effector-mediated modulation of host defenses by symbiont
+GO:0075109	symbiont-mediated perturbation of host receptor-mediated signal transduction
+GO:0033668	symbiont-mediated suppression of host apoptosis
+GO:0085044	symbiont-mediated disruption of host cuticle
+GO:0140384	metacyclogenesis
+GO:0097616	positive regulation by host of symbiont type IV pilus-dependent motility
+GO:0050832	defense response to fungus
+GO:0001879	detection of yeast
+GO:0052084	modulation by symbiont of host ethylene-mediated defense response
+GO:0052562	symbiont-mediated suppression of host immune response
+GO:0070956	negative regulation of neutrophil mediated killing of bacterium
+GO:0042742	defense response to bacterium
+GO:0019060	intracellular transport of viral protein in host cell
+GO:0044563	envenomation resulting in slowing of activation kinetics of voltage-gated potassium channel in another organism
+GO:0044114	development of symbiont in host
+GO:0034053	symbiont-mediated perturbation of host defense-related programmed cell death
+GO:0033658	symbiont-mediated disruption of host chloroplast thylakoid
+GO:0046775	suppression by virus of host cytokine production
+GO:0035891	exit from host cell
+GO:0070965	positive regulation of neutrophil mediated killing of fungus
+GO:0039576	symbiont-mediated suppression of host JAK-STAT cascade via inhibition of JAK1 activity
+GO:0044083	symbiont-mediated perturbation of host Rho small GTPase signal transduction
+GO:0039521	suppression by virus of host autophagy
+GO:0044738	negative regulation of acid-sensing ion channel in another organism
+GO:0052164	symbiont defense to host-produced reactive oxygen species
+GO:0039639	suppression by virus of host cell lysis in response to superinfection
+GO:0099046	clearance of foreign intracellular nucleic acids
+GO:0090680	viral release via disruption of host outer membrane
+GO:0039505	symbiont-mediated suppression of host antigen processing and presentation of peptide antigen via MHC class II
+GO:0070944	neutrophil-mediated killing of bacterium
+GO:0044618	modulation of relaxation of uterine smooth muscle in another organism
+GO:0052085	symbiont-mediated suppression of host T-cell mediated immune response
+GO:0035807	induction of blood coagulation in another organism
+GO:0141023	symbiont-mediated disruption of host cell-cell adhesion
+GO:0039574	symbiont-mediated suppression of host JAK-STAT cascade via inhibition of host TYK2 activity
+GO:0019076	viral release from host cell
+GO:0044829	positive regulation by host of viral genome replication
+GO:0141034	symbiont-mediated perturbation of host actin cytoskeleton via inhibition of actin polymerization
+GO:0141184	symbiont-mediated activation of host anti-inflammatory cytokine signaling
+GO:0019048	modulation by virus of host process
+GO:0039557	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF7 activity
+GO:1990968	modulation by host of RNA binding by virus
+GO:0140459	response to Gram-positive bacterium
+GO:0009609	response to symbiotic bacterium
+GO:0141134	symbiont-mediated activation of host signal transduction pathway via agonism of host cell surface receptor
+GO:0141032	symbiont-mediated perturbation of host actin cytoskeleton via actin filament reorganization
+GO:0141066	symbiont-mediated disruption of host extracellular matrix
+GO:0140884	symbiont-mediated suppression of host type II interferon-mediated signaling pathway
+GO:0075071	symbiont-mediated perturbation of host autophagy
+GO:0141141	symbiont-mediated evasion of recognition by host pattern recognition receptor
+GO:0035756	symbiont-mediated migration across host transepithelium
+GO:0044532	modulation of apoptotic process in another organism
+GO:0052150	symbiont-mediated perturbation of host apoptosis
+GO:0044533	positive regulation of apoptotic process in another organism
+GO:0051607	defense response to virus
+GO:0106136	lectin-induced modified bacterial internalization
+GO:0042783	evasion of host immune response
+GO:0044492	envenomation resulting in modulation of voltage-gated sodium channel activity in another organism
+GO:0039545	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity
+GO:0052151	symbiont-mediated activation of host apoptosis
+GO:0039653	symbiont-mediated suppression of host transcription
+GO:0001907	symbiont-mediated killing of host cell
+GO:0039637	catabolism by virus of host DNA
+GO:0051701	biological process involved in interaction with host
+GO:0141123	dermonecrosis in another organism
+GO:0044069	modulation by symbiont of host anion transport
+GO:0044363	modulation of potassium channel activity in another organism
+GO:0044552	vasodilation in another organism
+GO:0044483	envenomation resulting in impairment of hemostasis in another organism
+GO:0098001	receptor-mediated bacteriophage reversible attachment to host cell
+GO:0141072	symbiont-mediated suppression of host tumor necrosis factor-mediated signaling pathway
+GO:0039548	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity
+GO:0141028	symbiont-mediated perturbation of host microtubule cytoskeleton
+GO:0002229	defense response to oomycetes
+GO:0052034	effector-mediated suppression of host pattern-triggered immunity
+GO:1990215	symbiont-mediated perturbation of host vesicle-mediated transport
+GO:0009615	response to virus
+GO:0090644	age-related resistance
+GO:0044409	symbiont entry into host
+GO:0051844	translocation of peptides or proteins into symbiont
+GO:0044658	symbiont-mediated pore formation in host plasma membrane
+GO:0085032	symbiont-mediated perturbation of host NF-kappaB cascade
+GO:0044555	negative regulation of heart rate in another organism
+GO:0001563	detection of protozoan
+GO:0140649	symbiont-mediated cell-to-cell migration by invasive hypha
+GO:0044001	migration in host
+GO:0044480	envenomation resulting in positive regulation of mast cell degranulation in another organism
+GO:0140548	envenomation resulting in blood agglutination in another organism
+GO:0035920	negative regulation of high voltage-gated calcium channel activity in another organism
+GO:0044513	envenomation resulting in modulation of G protein-coupled receptor activity in another organism
+GO:0141135	symbiont-mediated suppression of host chemokine signal transduction pathway
+GO:0019087	transformation of host cell by virus
+GO:0085014	dormancy entry of symbiont in host
+GO:1990217	suppression by symbiont of host phytoalexin production
+GO:0034050	symbiont-induced defense-related programmed cell death
+GO:0141173	symbiont-mediated suppression of host pro-inflammatory cytokine signaling
+GO:0042000	translocation of peptides or proteins into host
+GO:0044469	envenomation resulting in positive regulation of blood coagulation in another organism
+GO:0044505	positive regulation of G protein-coupled receptor activity in another organism
+GO:0044761	negative regulation by symbiont of host cholinergic synaptic transmission
+GO:0140754	reorganization of cellular membranes to establish viral sites of replication
+GO:0141127	symbiont-mediated perturbation of host Rab small GTPase signal transduction
+GO:0039666	virion attachment to host cell pilus
+GO:0141178	symbiont-mediated evasion of recognition by host complement
+GO:0051851	modulation by host of symbiont process
+GO:0039636	suppression by virus of host cell wall biogenesis
+GO:0039588	symbiont-mediated suppression of host antigen processing and presentation
+GO:0039677	exit of virus from host cell nucleus via nuclear envelope disassembly
+GO:0099008	symbiont entry into host cell via permeabilization of inner membrane
+GO:0009271	phage shock
+GO:0140133	symbiont-mediated suppression of host cytokine production
+GO:0039675	exit of virus from host cell nucleus through nuclear pore
+GO:0044355	clearance of foreign intracellular DNA
+GO:0141061	disruption of cell in another organism
+GO:0039645	symbiont-mediated perturbation of host cell cycle G1/S transition checkpoint
+GO:0141088	symbiont-mediated activation of host autophagy
+GO:0044068	symbiont-mediated perturbation of host cellular process
+GO:0140976	defense response against perturbation of plasma membrane integrity
+GO:0006957	complement activation, alternative pathway
+GO:0070963	positive regulation of neutrophil mediated killing of gram-negative bacterium
+GO:0098543	detection of other organism
+GO:0141080	symbiont-mediated activation of host interferon signaling pathway
+GO:0039537	symbiont-mediated suppression of cytoplasmic pattern recognition receptor signaling pathway
+GO:0141079	symbiont-mediated activation of host inflammasome-mediated signal transduction
+GO:0035896	positive regulation of mast cell degranulation in another organism
+GO:0039501	suppression by virus of host type I interferon production
+GO:0039523	symbiont-mediated suppression of host mRNA transcription via inhibition of RNA polymerase II activity
+GO:0052460	modulation of nutrient release by symbiont
+GO:0035919	negative regulation of low voltage-gated calcium channel activity in another organism
+GO:0099018	symbiont-mediated evasion of host restriction-modification system
+GO:0044403	biological process involved in symbiotic interaction
+GO:0070943	neutrophil-mediated killing of symbiont cell
+GO:0044494	envenomation resulting in positive regulation of voltage-gated sodium channel activity in another organism
+GO:0141060	disruption of anatomical structure in another organism
+GO:0035011	melanotic encapsulation of foreign target
+GO:0106259	symbiont-mediated cell-to-cell migration in host
+GO:0044498	envenomation resulting in modulation of blood pressure in another organism
+GO:0044790	suppression of viral release by host
+GO:0075135	symbiont-mediated suppression of host calcium or calmodulin-mediated signal transduction
+GO:0052572	response to host immune response
+GO:0035894	induction of platelet aggregation in another organism
+GO:0140883	induction by virus of host reticulophagy
+GO:0044514	envenomation resulting in positive regulation of G protein-coupled receptor activity in another organism
+GO:0044472	envenomation resulting in modulation of calcium channel activity in another organism
+GO:0052112	symbiont-mediated occlusion of host xylem
+GO:0044471	envenomation resulting in pore formation in membrane of another organism
+GO:0043152	induction of bacterial agglutination
+GO:0044522	envenomation resulting in myocyte killing in another organism
+GO:0044871	negative regulation by host of viral glycoprotein metabolic process
+GO:0009682	induced systemic resistance
+GO:0009624	response to nematode
+GO:0052096	formation of syncytium involving giant cell for nutrient acquisition
+GO:0075069	adhesion of symbiont infection cushion to host
+GO:0044559	envenomation resulting in modulation of voltage-gated potassium channel activity in another organism
+GO:0044512	envenomation resulting in modulation of glucagon-like peptide receptor 1 activity in another organism
+GO:0039554	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of MDA-5 activity
+GO:0009689	induction of phytoalexin biosynthetic process
+GO:0046741	transport of virus in host, tissue to tissue
+GO:0044278	disruption of cell wall in another organism
+GO:0075210	symbiont-mediated suppression of host cAMP-mediated signal transduction
+GO:0044470	envenomation resulting in negative regulation of blood coagulation in another organism
+GO:0044500	envenomation resulting in negative regulation of blood pressure in another organism
+GO:0035821	modulation of process of another organism
+GO:0044503	modulation of G protein-coupled receptor activity in another organism
+GO:0039580	symbiont-mediated suppression of host PKR/eIFalpha signaling
+GO:0044479	envenomation resulting in modulation of mast cell degranulation in another organism
+GO:0016046	detection of fungus
+GO:0035892	perturbation of platelet aggregation in another organism
+GO:0019054	modulation by virus of host cellular process
+GO:0044741	envenomation resulting in negative regulation of sensory perception of pain in another organism
+GO:0030581	symbiont intracellular protein transport in host
+GO:0044475	envenomation resulting in negative regulation of high voltage-gated calcium channel activity in another organism
+GO:0052553	symbiont-mediated perturbation of host immune response
+GO:0044793	negative regulation by host of viral process
+GO:0141174	symbiont-mediated suppression of host anti-inflammatory cytokine signaling
+GO:0052038	symbiont-mediated perturbation of host intracellular transport
+GO:0044794	positive regulation by host of viral process
+GO:0099006	symbiont entry into host cell via permeabilization of endosomal membrane
+GO:0039502	symbiont-mediated suppression of host type I interferon-mediated signaling pathway
+GO:0044488	modulation of voltage-gated sodium channel activity in another organism
+GO:0141129	symbiont-mediated suppression of host signal transduction pathway via antagonism of host cell surface receptor
+GO:0009610	response to symbiotic fungus
+GO:0002243	detection of parasitic plant
+GO:0039722	symbiont-mediated suppression of host toll-like receptor signaling pathway
+GO:0035738	envenomation resulting in modulation of process in another organism
+GO:0042267	natural killer cell mediated cytotoxicity
+GO:0051707	response to other organism
+GO:0098670	entry receptor-mediated virion attachment to host cell
+GO:0044501	perturbation of signal transduction in another organism
+GO:0044504	modulation of receptor activity in another organism
+GO:1903653	symbiont-mediated perturbation of host cell motility
+GO:0141159	symbiont-mediated suppression of host phagosome acidification
+GO:0140590	effector-mediated suppression of host defense response
+GO:0052001	adhesion to host cell via type IV pili
+GO:0033660	symbiont-mediated suppression of host resistance gene-dependent defense response
+GO:0141117	symbiont-mediated suppression of host complement activation by recruitment of complement control protein
+GO:0036521	modulation by symbiont of host protein localization to phagocytic vesicle
+GO:0070957	negative regulation of neutrophil mediated killing of gram-negative bacterium
+GO:0085015	dormancy maintenance of symbiont in host
+GO:0070360	symbiont-mediated actin polymerization-dependent cell-to-cell migration in host
+GO:0141043	symbiont-mediated evasion of host innate immune response
+GO:0002423	natural killer cell mediated immune response to tumor cell
+GO:0050829	defense response to Gram-negative bacterium
+GO:0052086	symbiont-mediated suppression of host B-cell mediated immune response
+GO:0009616	RNAi-mediated antiviral immune response
+GO:0044742	envenomation resulting in modulation of sensory perception of pain in another organism
+GO:0039527	symbiont-mediated suppression of host TRAF-mediated signal transduction
+GO:0044465	modulation of sensory perception of pain in another organism
+GO:0052029	symbiont-mediated suppression of host signal transduction pathway
+GO:0052373	suppression of symbiont entry into host
+GO:0052040	symbiont-mediated perturbation of host programmed cell death
+GO:0039604	symbiont-mediated suppression of host translation
+GO:0090714	innate immunity memory response
+GO:0075039	establishment of turgor in appressorium
+GO:0042381	hemolymph coagulation
+GO:0051711	negative regulation of killing of cells of another organism
+GO:0035916	modulation of calcium channel activity in another organism
+GO:0099015	degradation of host chromosome by virus
+GO:0052168	modulation by symbiont of defense-related host calcium-dependent protein kinase pathway
+GO:0044734	envenomation resulting in positive regulation of acid-sensing ion channel activity in another organism
+GO:0141059	symbiont-mediated disruption of host antimicrobial peptide activity
+GO:0140533	symbiont-mediated suppression of host RNAi-mediated antiviral immune response
+GO:0099016	symbiont-mediated evasion of DNA end degradation by host
+GO:0039522	symbiont-mediated suppression of host mRNA export from nucleus
+GO:0044082	symbiont-mediated perturbation of host small GTPase-mediated signal transduction
+GO:0020013	modulation by symbiont of host erythrocyte aggregation
+GO:0033635	modulation by symbiont of host response to abiotic stimulus
+GO:0033638	modulation by symbiont of host heat acclimation
+GO:0039634	killing by virus of host cell during superinfection exclusion
+GO:0140913	viral release via disruption of host peptidoglycan cell wall
+GO:0044497	positive regulation of blood pressure in another organism
+GO:0141139	symbiont-mediated disruption of host mucosa
+GO:0098672	symbiont-mediated suppression of host CRISPR-cas system
+GO:0039564	symbiont-mediated suppression of host JAK-STAT cascade via inhibition of STAT2 activity
+GO:0044619	positive regulation of relaxation of uterine smooth muscle in another organism
+GO:0140886	symbiont-mediated suppression of host interferon-mediated signaling pathway
+GO:0036167	phenotypic switching in response to host
+GO:0044365	envenomation resulting in modulation of platelet aggregation in another organism
+GO:0075003	adhesion of symbiont appressorium to host
+GO:0039671	evasion by virus of host natural killer cell activity
+GO:0141157	symbiont-mediated suppression of host exocytosis
+GO:0019732	antifungal humoral response
+GO:0141155	symbiont-mediated suppression of host translation elongation
+GO:0044740	negative regulation of sensory perception of pain in another organism
+GO:0044828	negative regulation by host of viral genome replication
+GO:0039540	symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of RIG-I activity
+GO:0044553	modulation of biological quality in another organism
+GO:0052028	symbiont-mediated activation of host signal transduction pathway
+GO:0098932	symbiont entry into host cell via disruption of host cell wall peptidoglycan
+GO:0052093	formation of specialized structure for nutrient acquisition
+GO:0051862	translocation of molecules into symbiont
+GO:0044482	envenomation resulting in blood vessel extracellular matrix damage, causing hemorrhagic damage in another organism
+GO:0120326	appressorium-mediated entry into host
+GO:0140367	antibacterial innate immune response
+GO:0052094	formation of haustorium for nutrient acquisition
+GO:0085019	formation of tubovesicular network for nutrient acquisition
+GO:0070951	regulation of neutrophil mediated killing of gram-negative bacterium
+GO:0001897	symbiont-mediated cytolysis of host cell
+GO:0052008	symbiont-mediated disruption of host cellular anatomical entity
+GO:0052078	symbiont-mediated suppression of host pathogen-associated molecular pattern receptor signaling pathway
+GO:0052088	symbiont defense to host-produced jasmonic acid
+GO:0052173	response to defenses of other organism
+GO:0075196	adhesion of symbiont haustorium mother cell to host
+GO:0042784	symbiont-mediated suppression of host complement activation
+GO:1903652	modulation by virus of host cytoplasmic transport
+GO:0052154	symbiont-mediated perturbation of host B-cell mediated immune response
+GO:0039674	exit of virus from host cell nucleus
+GO:0051673	disruption of plasma membrane integrity in another organism
+GO:0075133	symbiont-mediated perturbation of host calcium or calmodulin-mediated signal transduction
+GO:0044865	negative regulation by virus of host cell division
+GO:0141146	symbiont-mediated disruption of host tissue
+GO:0002242	defense response to parasitic plant
+GO:0044696	killing by virus of host cell by post-segregational killing
+GO:0099048	CRISPR-cas system
+GO:0044509	envenomation resulting in modulation of signal transduction in another organism
+GO:0044477	envenomation resulting in negative regulation of platelet aggregation in another organism
+GO:0044414	symbiont-mediated suppression of host defenses
+GO:0034054	symbiont-mediated suppression of host defense-related programmed cell death
+GO:0141029	symbiont-mediated disruption of host focal adhesion
+GO:0044864	positive regulation by virus of host cell division
+GO:0044075	symbiont-mediated perturbation of host vacuole organization
+GO:0052032	symbiont-mediated perturbation of host inflammatory response
+GO:1990969	modulation by host of viral RNA-binding transcription factor activity
+GO:0052170	symbiont-mediated suppression of host innate immune response
+GO:0039579	symbiont-mediated suppression of host ISG15-protein conjugation
+GO:0075118	symbiont-mediated perturbation of host G protein-coupled receptor signal transduction pathway
+GO:0098995	symbiont entry into host cell via disruption of host cell envelope lipopolysaccharide
+GO:0006948	induction by virus of host cell-cell fusion
+GO:0044737	modulation of acid-sensing ion channel in another organism
+GO:0141071	symbiont-mediated activation of host MAPK cascade
+GO:0052009	symbiont-mediated disruption of host cell wall

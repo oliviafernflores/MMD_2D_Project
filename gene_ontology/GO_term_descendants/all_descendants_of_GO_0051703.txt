@@ -1,0 +1,27 @@
+GOID	TERM
+GO:0000752	agglutination involved in conjugation with cellular fusion
+GO:0099134	chimeric sorocarp development
+GO:0099135	chimeric colonial development
+GO:0009865	pollen tube adhesion
+GO:0044407	single-species biofilm formation in or on host organism
+GO:0031150	sorocarp stalk development
+GO:0010483	pollen tube reception
+GO:0036349	galactose-specific flocculation
+GO:0099137	altruistic, chimeric, non-reproductive fruiting body development
+GO:0120318	olfactory sociosexual communication
+GO:0031152	aggregation involved in sorocarp development
+GO:0090609	single-species submerged biofilm formation
+GO:0044010	single-species biofilm formation
+GO:0099136	chimeric non-reproductive fruiting body development
+GO:0031154	culmination involved in sorocarp development
+GO:0099138	altruistic, chimeric sorocarp development
+GO:0000128	flocculation
+GO:0036350	mannose-specific flocculation
+GO:0000758	agglutination involved in conjugation with mutual genetic exchange
+GO:0030587	sorocarp development
+GO:0035176	social behavior
+GO:0044011	single-species biofilm formation on inanimate substrate
+GO:0048837	sorocarp sorus development
+GO:0099120	socially cooperative development
+GO:0090606	single-species surface biofilm formation
+GO:0031153	slug development involved in sorocarp development

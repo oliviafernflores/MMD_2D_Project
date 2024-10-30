@@ -1,0 +1,1295 @@
+GOID	TERM
+GO:0009879	determination of radial symmetry
+GO:0022410	circadian sleep/wake cycle process
+GO:0032620	interleukin-17 production
+GO:0007320	insemination
+GO:0001967	suckling behavior
+GO:0002269	leukocyte activation involved in inflammatory response
+GO:0007631	feeding behavior
+GO:0014849	ureter smooth muscle contraction
+GO:0002334	transitional two stage B cell differentiation
+GO:0001894	tissue homeostasis
+GO:0010305	leaf vascular tissue pattern formation
+GO:1990775	endothelin production
+GO:0007350	blastoderm segmentation
+GO:0098856	intestinal lipid absorption
+GO:0036230	granulocyte activation
+GO:0048528	post-embryonic root development
+GO:0001696	gastric acid secretion
+GO:0014899	cardiac muscle atrophy
+GO:0010031	circumnutation
+GO:0046009	positive regulation of female receptivity, post-mating
+GO:0007433	larval salivary gland boundary specification
+GO:0007389	pattern specification process
+GO:0072566	chemokine (C-X-C motif) ligand 1 production
+GO:0030157	pancreatic juice secretion
+GO:0072653	interferon-omega production
+GO:0014832	urinary bladder smooth muscle contraction
+GO:0002284	myeloid dendritic cell differentiation involved in immune response
+GO:0019230	proprioception
+GO:0010233	phloem transport
+GO:0048316	seed development
+GO:0071063	sensory perception of wind
+GO:0035469	determination of pancreatic left/right asymmetry
+GO:0001992	regulation of systemic arterial blood pressure by vasopressin
+GO:0071608	macrophage inflammatory protein-1 alpha production
+GO:0080006	internode patterning
+GO:0002277	myeloid dendritic cell activation involved in immune response
+GO:0050917	sensory perception of umami taste
+GO:0010311	lateral root formation
+GO:0002313	mature B cell differentiation involved in immune response
+GO:0007448	anterior/posterior pattern specification, imaginal disc
+GO:0003300	cardiac muscle hypertrophy
+GO:0045056	transcytosis
+GO:0048099	anterior/posterior lineage restriction, imaginal disc
+GO:1905605	positive regulation of blood-brain barrier permeability
+GO:0010074	maintenance of meristem identity
+GO:0048623	seed germination on parent plant
+GO:0072633	interleukin-30 production
+GO:0042110	T cell activation
+GO:0045433	male courtship behavior, veined wing generated song production
+GO:0010022	meristem determinacy
+GO:0003098	tubuloglomerular feedback
+GO:0097009	energy homeostasis
+GO:1990058	fruit replum development
+GO:0031424	keratinization
+GO:0019231	perception of static position
+GO:0044467	glial cell-derived neurotrophic factor production
+GO:1904155	DN2 thymocyte differentiation
+GO:1990765	colon smooth muscle contraction
+GO:0071892	thrombocyte activation
+GO:0036074	metaplastic ossification
+GO:0002121	inter-male aggressive behavior
+GO:0060289	compartment boundary maintenance
+GO:0071829	plasma lipoprotein particle disassembly
+GO:0035290	trunk segmentation
+GO:0030432	peristalsis
+GO:0071706	tumor necrosis factor superfamily cytokine production
+GO:0034380	high-density lipoprotein particle assembly
+GO:0035160	maintenance of epithelial integrity, open tracheal system
+GO:0007620	copulation
+GO:0035181	larval burrowing behavior
+GO:0021797	forebrain anterior/posterior pattern specification
+GO:0035018	adult chitin-based cuticle pattern formation
+GO:0060047	heart contraction
+GO:0001923	B-1 B cell differentiation
+GO:0097150	neuronal stem cell population maintenance
+GO:0032613	interleukin-10 production
+GO:0002324	natural killer cell proliferation involved in immune response
+GO:0007428	primary branching, open tracheal system
+GO:0042395	ecdysis, collagen and cuticulin-based cuticle
+GO:0060419	heart growth
+GO:0035309	wing and notum subfield formation
+GO:0021871	forebrain regionalization
+GO:0090495	low-density lipoprotein particle disassembly
+GO:0060757	adult foraging behavior
+GO:0010085	polarity specification of proximal/distal axis
+GO:0050891	multicellular organismal-level water homeostasis
+GO:0007343	egg activation
+GO:0046959	habituation
+GO:0090727	positive regulation of brood size
+GO:0003028	regulation of systemic arterial blood pressure by aortic body chemoreceptor signaling
+GO:0035288	anterior head segmentation
+GO:0001700	embryonic development via the syncytial blastoderm
+GO:0032636	interleukin-7 production
+GO:0039003	pronephric field specification
+GO:0008346	larval walking behavior
+GO:0061139	bud field specification
+GO:0044256	protein digestion
+GO:0014721	twitch skeletal muscle contraction
+GO:0120318	olfactory sociosexual communication
+GO:1990632	branching involved in submandibular gland morphogenesis
+GO:0048148	behavioral response to cocaine
+GO:0048832	specification of plant organ number
+GO:0043011	myeloid dendritic cell differentiation
+GO:0007354	zygotic determination of anterior/posterior axis, embryo
+GO:0002337	B-1a B cell differentiation
+GO:0002212	behavioral defense response to nematode
+GO:0061743	motor learning
+GO:0007474	imaginal disc-derived wing vein specification
+GO:0034447	very-low-density lipoprotein particle clearance
+GO:0060746	parental behavior
+GO:0060437	lung growth
+GO:0090496	mesenchyme migration involved in limb bud formation
+GO:1904157	DN4 thymocyte differentiation
+GO:0016318	ommatidial rotation
+GO:0060424	lung field specification
+GO:0003070	regulation of systemic arterial blood pressure by neurotransmitter
+GO:0002012	vasoconstriction of artery involved in chemoreceptor response to lowering of systemic arterial blood pressure
+GO:0003040	excitation of vasomotor center by aortic body chemoreceptor signaling
+GO:0097392	chemokine (C-X-C motif) ligand 16 production
+GO:0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation
+GO:0080127	fruit septum development
+GO:0019229	regulation of vasoconstriction
+GO:1905604	negative regulation of blood-brain barrier permeability
+GO:0007385	specification of segmental identity, abdomen
+GO:0014827	intestine smooth muscle contraction
+GO:0002309	T cell proliferation involved in immune response
+GO:0001994	norepinephrine-epinephrine vasoconstriction involved in regulation of systemic arterial blood pressure
+GO:0033079	immature T cell proliferation
+GO:0033023	mast cell homeostasis
+GO:0035810	positive regulation of urine volume
+GO:0055046	microgametogenesis
+GO:0032625	interleukin-21 production
+GO:0014888	striated muscle adaptation
+GO:0048229	gametophyte development
+GO:0060897	neural plate regionalization
+GO:0009950	dorsal/ventral axis specification
+GO:0002276	basophil activation involved in immune response
+GO:0150137	interleukin-37 production
+GO:0002312	B cell activation involved in immune response
+GO:0045907	positive regulation of vasoconstriction
+GO:0034376	conversion of discoidal high-density lipoprotein particle to spherical high-density lipoprotein particle
+GO:0002528	regulation of vascular permeability involved in acute inflammatory response
+GO:0048512	circadian behavior
+GO:0021904	dorsal/ventral neural tube patterning
+GO:0003101	regulation of systemic arterial blood pressure by circulatory epinephrine-norepinephrine
+GO:0000578	embryonic axis specification
+GO:0061519	macrophage homeostasis
+GO:0097717	copper ion transport across blood-cerebrospinal fluid barrier
+GO:0042311	vasodilation
+GO:0048755	branching morphogenesis of a nerve
+GO:0090707	establishment of plant organ orientation
+GO:0060772	leaf phyllotactic patterning
+GO:0003115	regulation of vasoconstriction by epinephrine
+GO:0003050	regulation of systemic arterial blood pressure by atrial natriuretic peptide
+GO:0001779	natural killer cell differentiation
+GO:0061485	memory T cell proliferation
+GO:0016544	male courtship behavior, tapping to detect pheromone
+GO:0002288	NK T cell activation involved in immune response
+GO:0021903	rostrocaudal neural tube patterning
+GO:0060384	innervation
+GO:0046632	alpha-beta T cell differentiation
+GO:0032941	secretion by tissue
+GO:0035177	larval foraging behavior
+GO:0036076	ligamentous ossification
+GO:0003041	excitation of vasomotor center by carotid body chemoreceptor signaling
+GO:0007407	neuroblast activation
+GO:0101010	pulmonary blood vessel remodeling
+GO:0071827	plasma lipoprotein particle organization
+GO:0002025	norepinephrine-epinephrine-mediated vasodilation involved in regulation of systemic arterial blood pressure
+GO:0007355	anterior region determination
+GO:0010573	vascular endothelial growth factor production
+GO:0003118	regulation of vasoconstriction by neuronal norepinephrine
+GO:0042100	B cell proliferation
+GO:0002366	leukocyte activation involved in immune response
+GO:0007606	sensory perception of chemical stimulus
+GO:0009944	polarity specification of adaxial/abaxial axis
+GO:0061367	behavioral response to acetic acid induced pain
+GO:0036341	chitin-based cuticle sclerotization by protein cross-linking
+GO:0032635	interleukin-6 production
+GO:1990708	conditioned place preference
+GO:0097205	renal filtration
+GO:0031653	heat dissipation
+GO:0072082	specification of proximal tubule identity
+GO:0070753	interleukin-35 production
+GO:0021998	neural plate mediolateral regionalization
+GO:0046541	saliva secretion
+GO:1990297	renal amino acid absorption
+GO:0110126	phloem loading
+GO:0001980	regulation of systemic arterial blood pressure by ischemic conditions
+GO:0048561	establishment of animal organ orientation
+GO:0007633	pattern orientation
+GO:0160061	respiratory chemosensitivity
+GO:0002325	natural killer cell differentiation involved in immune response
+GO:0072309	mesenchymal stem cell maintenance involved in metanephric nephron morphogenesis
+GO:0090131	mesenchyme migration
+GO:0043133	hindgut contraction
+GO:0035743	CD4-positive, alpha-beta T cell cytokine production
+GO:0002322	B cell proliferation involved in immune response
+GO:0008340	determination of adult lifespan
+GO:0006941	striated muscle contraction
+GO:0002311	gamma-delta T cell proliferation involved in immune response
+GO:0072047	proximal/distal pattern formation involved in nephron development
+GO:0003122	norepinephrine-mediated vasodilation
+GO:0035291	specification of segmental identity, intercalary segment
+GO:0071908	determination of intestine left/right asymmetry
+GO:0050883	musculoskeletal movement, spinal reflex action
+GO:0016545	male courtship behavior, veined wing vibration
+GO:0002373	plasmacytoid dendritic cell cytokine production
+GO:0002008	excitation of vasomotor center by chemoreceptor signaling
+GO:0036073	perichondral ossification
+GO:0003002	regionalization
+GO:0051780	behavioral response to nutrient
+GO:0007613	memory
+GO:0036011	imaginal disc-derived leg segmentation
+GO:0035283	central nervous system segmentation
+GO:0007356	thorax and anterior abdomen determination
+GO:0097242	amyloid-beta clearance
+GO:0032606	type I interferon production
+GO:0002358	B cell homeostatic proliferation
+GO:0036343	psychomotor behavior
+GO:0060523	prostate epithelial cord elongation
+GO:0002371	dendritic cell cytokine production
+GO:0014830	arteriole smooth muscle contraction
+GO:0003072	renal control of peripheral vascular resistance involved in regulation of systemic arterial blood pressure
+GO:0048873	homeostasis of number of cells within a tissue
+GO:0035161	imaginal disc lineage restriction
+GO:0014895	smooth muscle hypertrophy
+GO:0042748	circadian sleep/wake cycle, non-REM sleep
+GO:0006939	smooth muscle contraction
+GO:0002391	platelet activating factor production involved in inflammatory response
+GO:0021997	neural plate axis specification
+GO:0031223	auditory behavior
+GO:0021512	spinal cord anterior/posterior patterning
+GO:0009942	longitudinal axis specification
+GO:0021532	neural tube patterning
+GO:0051132	NK T cell activation
+GO:0036098	male germ-line stem cell population maintenance
+GO:0031069	hair follicle morphogenesis
+GO:0060527	prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis
+GO:0007585	respiratory gaseous exchange by respiratory system
+GO:0002006	vasoconstriction by vasopressin involved in systemic arterial blood pressure control
+GO:0036077	intratendonous ossification
+GO:0032902	nerve growth factor production
+GO:0042116	macrophage activation
+GO:0019235	sensory perception of slow pain
+GO:0090075	relaxation of muscle
+GO:0060834	oral/aboral axis specification
+GO:0045494	photoreceptor cell maintenance
+GO:0060877	regionalization involved in semicircular canal formation
+GO:0007621	negative regulation of female receptivity
+GO:0002164	larval development
+GO:0002308	CD8-positive, alpha-beta cytotoxic T cell differentiation
+GO:0090728	negative regulation of brood size
+GO:0008355	olfactory learning
+GO:0150104	transport across blood-brain barrier
+GO:0043500	muscle adaptation
+GO:0022600	digestive system process
+GO:0008306	associative learning
+GO:0044808	oncostatin M production
+GO:0060896	neural plate pattern specification
+GO:0045065	cytotoxic T cell differentiation
+GO:0060670	branching involved in labyrinthine layer morphogenesis
+GO:0021511	spinal cord patterning
+GO:0007565	female pregnancy
+GO:0002527	vasodilation involved in acute inflammatory response
+GO:0007637	proboscis extension reflex
+GO:1905655	negative regulation of artery smooth muscle contraction
+GO:1990379	lipid transport across blood-brain barrier
+GO:0002301	CD4-positive, alpha-beta intraepithelial T cell differentiation
+GO:0090449	phloem glucosinolate loading
+GO:1990186	regulation of lymphatic vessel size
+GO:0014848	urinary tract smooth muscle contraction
+GO:0008050	female courtship behavior
+GO:0032627	interleukin-23 production
+GO:0060249	anatomical structure homeostasis
+GO:0160179	intestinal iron absorption
+GO:0032621	interleukin-18 production
+GO:0050882	voluntary musculoskeletal movement
+GO:0120054	intestinal motility
+GO:0007309	oocyte axis specification
+GO:0007310	oocyte dorsal/ventral axis specification
+GO:0035739	CD4-positive, alpha-beta T cell proliferation
+GO:0060083	smooth muscle contraction involved in micturition
+GO:0001977	renal system process involved in regulation of blood volume
+GO:0071830	triglyceride-rich lipoprotein particle clearance
+GO:1990768	gastric mucosal blood circulation
+GO:0003009	skeletal muscle contraction
+GO:0035292	specification of segmental identity, trunk
+GO:0014826	vein smooth muscle contraction
+GO:0035623	renal D-glucose absorption
+GO:0035462	determination of left/right asymmetry in diencephalon
+GO:0007381	specification of segmental identity, labial segment
+GO:0050959	echolocation
+GO:0002393	lysosomal enzyme production involved in inflammatory response
+GO:0003119	regulation of vasoconstriction by neuronal epinephrine
+GO:0140928	inhibition of non-skeletal tissue mineralization
+GO:0007387	anterior compartment pattern formation
+GO:0030421	defecation
+GO:0014898	cardiac muscle hypertrophy in response to stress
+GO:0007368	determination of left/right symmetry
+GO:0035073	pupariation
+GO:0071954	chemokine (C-C motif) ligand 11 production
+GO:0007605	sensory perception of sound
+GO:0048150	behavioral response to ether
+GO:0001982	baroreceptor response to decreased systemic arterial blood pressure
+GO:0097746	blood vessel diameter maintenance
+GO:0002123	irritable aggressive behavior
+GO:0014703	oscillatory muscle contraction
+GO:0048647	polyphenic determination
+GO:0035187	hatching behavior
+GO:0003068	regulation of systemic arterial blood pressure by acetylcholine
+GO:0045575	basophil activation
+GO:0035711	T-helper 1 cell activation
+GO:0080056	petal vascular tissue pattern formation
+GO:0099531	presynaptic process involved in chemical synaptic transmission
+GO:0002299	alpha-beta intraepithelial T cell differentiation
+GO:0002338	B-1b B cell differentiation
+GO:0072188	metanephric cap specification
+GO:0043029	T cell homeostasis
+GO:0001865	NK T cell differentiation
+GO:0010492	maintenance of shoot apical meristem identity
+GO:0032604	granulocyte macrophage colony-stimulating factor production
+GO:0002540	leukotriene production involved in inflammatory response
+GO:0072084	specification of distal tubule identity
+GO:0032607	interferon-alpha production
+GO:0061470	T follicular helper cell differentiation
+GO:0140547	acquisition of seed longevity
+GO:0014734	skeletal muscle hypertrophy
+GO:0060250	germ-line stem-cell niche homeostasis
+GO:0002323	natural killer cell activation involved in immune response
+GO:0007552	metamorphosis
+GO:0001503	ossification
+GO:0043009	chordate embryonic development
+GO:0045434	negative regulation of female receptivity, post-mating
+GO:0060771	phyllotactic patterning
+GO:0003095	pressure natriuresis
+GO:0097088	interleukin-17F production
+GO:0060745	mammary gland branching involved in pregnancy
+GO:0002274	myeloid leukocyte activation
+GO:0014829	vascular associated smooth muscle contraction
+GO:0044557	relaxation of smooth muscle
+GO:0002290	gamma-delta T cell activation involved in immune response
+GO:0044809	chemokine (C-C motif) ligand 17 production
+GO:0001659	temperature homeostasis
+GO:0042093	T-helper cell differentiation
+GO:0030101	natural killer cell activation
+GO:0007450	dorsal/ventral pattern formation, imaginal disc
+GO:1990029	vasomotion
+GO:0032609	type II interferon production
+GO:0061281	specification of mesonephric connecting tubule identity
+GO:0019234	sensory perception of fast pain
+GO:0007430	terminal branching, open tracheal system
+GO:0061082	myeloid leukocyte cytokine production
+GO:0002304	gamma-delta intraepithelial T cell differentiation
+GO:0002351	serotonin production involved in inflammatory response
+GO:0003096	renal sodium ion transport
+GO:0150094	amyloid-beta clearance by cellular catabolic process
+GO:0060085	smooth muscle relaxation of the bladder outlet
+GO:0072651	interferon-tau production
+GO:0002211	behavioral defense response to insect
+GO:0048559	establishment of floral organ orientation
+GO:0035224	genital disc anterior/posterior pattern formation
+GO:0030217	T cell differentiation
+GO:0022005	midbrain-hindbrain boundary maturation during neural plate development
+GO:0032630	interleukin-26 production
+GO:0061366	behavioral response to chemical pain
+GO:0034606	response to hermaphrodite contact
+GO:0090643	inflorescence phyllotactic patterning
+GO:0097018	renal albumin absorption
+GO:0030536	larval feeding behavior
+GO:0050913	sensory perception of bitter taste
+GO:0016203	muscle attachment
+GO:0098868	bone growth
+GO:0048264	determination of ventral identity
+GO:0036359	renal potassium excretion
+GO:0042633	hair cycle
+GO:0007639	homeostasis of number of meristem cells
+GO:0050892	intestinal absorption
+GO:0050910	detection of mechanical stimulus involved in sensory perception of sound
+GO:0032623	interleukin-2 production
+GO:0043307	eosinophil activation
+GO:0060445	branching involved in salivary gland morphogenesis
+GO:0002280	monocyte activation involved in immune response
+GO:0072004	kidney field specification
+GO:0043114	regulation of vascular permeability
+GO:0002086	diaphragm contraction
+GO:0072631	interleukin-29 production
+GO:0009855	determination of bilateral symmetry
+GO:0002534	cytokine production involved in inflammatory response
+GO:0071626	mastication
+GO:1990183	lymphatic vascular process in circulatory system
+GO:0031649	heat generation
+GO:0002267	follicular dendritic cell activation involved in immune response
+GO:0007352	zygotic specification of dorsal/ventral axis
+GO:0120065	pyloric antrum smooth muscle contraction
+GO:0003026	regulation of systemic arterial blood pressure by aortic arch baroreceptor feedback
+GO:0007588	excretion
+GO:0032639	TRAIL production
+GO:0070471	uterine smooth muscle contraction
+GO:0071611	granulocyte colony-stimulating factor production
+GO:0002333	transitional one stage B cell differentiation
+GO:0007610	behavior
+GO:0072272	proximal/distal pattern formation involved in metanephric nephron development
+GO:0021798	forebrain dorsal/ventral pattern formation
+GO:0002272	plasmacytoid dendritic cell differentiation involved in immune response
+GO:0042305	specification of segmental identity, mandibular segment
+GO:0003016	respiratory system process
+GO:0007362	terminal region determination
+GO:0035710	CD4-positive, alpha-beta T cell activation
+GO:0001701	in utero embryonic development
+GO:0036147	rumination
+GO:0048877	homeostasis of number of retina cells
+GO:0035648	circadian mating behavior
+GO:0098596	imitative learning
+GO:0016546	male courtship behavior, proboscis-mediated licking
+GO:0050802	circadian sleep/wake cycle, sleep
+GO:0098582	innate vocalization behavior
+GO:0061683	branching involved in seminal vesicle morphogenesis
+GO:0036334	epidermal stem cell homeostasis
+GO:0007386	compartment pattern specification
+GO:0007473	wing disc proximal/distal pattern formation
+GO:0001569	branching involved in blood vessel morphogenesis
+GO:0003116	regulation of vasoconstriction by norepinephrine
+GO:0002022	detection of dietary excess
+GO:0097353	centrolateral pattern formation
+GO:0046629	gamma-delta T cell activation
+GO:0035640	exploration behavior
+GO:0002287	alpha-beta T cell activation involved in immune response
+GO:0050889	determination of stimulus intensity
+GO:0072100	specification of ureteric bud anterior/posterior symmetry
+GO:0009553	embryo sac development
+GO:0035284	brain segmentation
+GO:0036438	maintenance of lens transparency
+GO:0009799	specification of symmetry
+GO:0010050	vegetative phase change
+GO:0002264	endothelial cell activation involved in immune response
+GO:0033080	immature T cell proliferation in thymus
+GO:0002271	plasmacytoid dendritic cell activation involved in immune response
+GO:0050975	sensory perception of touch
+GO:0009952	anterior/posterior pattern specification
+GO:0060431	primary lung bud formation
+GO:0061130	pancreatic bud formation
+GO:0099565	chemical synaptic transmission, postsynaptic
+GO:0050884	neuromuscular process controlling posture
+GO:0007341	penetration of zona pellucida
+GO:0030299	intestinal cholesterol absorption
+GO:0007367	segment polarity determination
+GO:0060655	branching involved in mammary gland cord morphogenesis
+GO:0080057	sepal vascular tissue pattern formation
+GO:0048649	caste determination, influence by genetic factors
+GO:0007384	specification of segmental identity, thorax
+GO:0034384	high-density lipoprotein particle clearance
+GO:0032616	interleukin-13 production
+GO:1990770	small intestine smooth muscle contraction
+GO:0048651	polyphenic determination, influence by environmental factors
+GO:0060888	limb epidermis stratification
+GO:0048629	trichome patterning
+GO:0007451	dorsal/ventral lineage restriction, imaginal disc
+GO:0014847	proximal stomach smooth muscle contraction
+GO:0032614	interleukin-11 production
+GO:0035264	multicellular organism growth
+GO:0002018	renin-angiotensin regulation of aldosterone production
+GO:0071604	transforming growth factor beta production
+GO:0032898	neurotrophin production
+GO:0034378	chylomicron assembly
+GO:0002416	IgG immunoglobulin transcytosis in epithelial cells mediated by FcRn immunoglobulin receptor
+GO:0035200	leg disc anterior/posterior pattern formation
+GO:0001999	renal response to blood flow involved in circulatory renin-angiotensin regulation of systemic arterial blood pressure
+GO:0097390	chemokine (C-X-C motif) ligand 12 production
+GO:0002260	lymphocyte homeostasis
+GO:0032622	interleukin-19 production
+GO:1904156	DN3 thymocyte differentiation
+GO:0035222	wing disc pattern formation
+GO:0002281	macrophage activation involved in immune response
+GO:0001958	endochondral ossification
+GO:0002265	astrocyte activation involved in immune response
+GO:0090659	walking behavior
+GO:0007615	anesthesia-resistant memory
+GO:0036301	macrophage colony-stimulating factor production
+GO:0014901	satellite cell activation involved in skeletal muscle regeneration
+GO:0007616	long-term memory
+GO:0002412	antigen transcytosis by M cells in mucosal-associated lymphoid tissue
+GO:0060273	crying behavior
+GO:0001661	conditioned taste aversion
+GO:0001773	myeloid dendritic cell activation
+GO:0042722	alpha-beta T cell activation by superantigen
+GO:0021513	spinal cord dorsal/ventral patterning
+GO:0002329	pre-B cell differentiation
+GO:0044552	vasodilation in another organism
+GO:0106106	cold-induced thermogenesis
+GO:0090696	post-embryonic plant organ development
+GO:0007383	specification of segmental identity, antennal segment
+GO:0032537	host-seeking behavior
+GO:1990962	xenobiotic transport across blood-brain barrier
+GO:0072294	specification of metanephric connecting tubule identity
+GO:0032631	interleukin-27 production
+GO:0098583	learned vocalization behavior
+GO:0009790	embryo development
+GO:0048648	caste determination
+GO:0003056	regulation of vascular associated smooth muscle contraction
+GO:0032603	fractalkine production
+GO:0035709	memory T cell activation
+GO:0032602	chemokine production
+GO:0014821	phasic smooth muscle contraction
+GO:0035201	leg disc anterior/posterior lineage restriction
+GO:0061283	specification of mesonephric distal tubule identity
+GO:0001895	retina homeostasis
+GO:0042117	monocyte activation
+GO:0014897	striated muscle hypertrophy
+GO:0050893	sensory processing
+GO:0010588	cotyledon vascular tissue pattern formation
+GO:0048263	determination of dorsal identity
+GO:0062035	sensory perception of cold stimulus
+GO:0050902	leukocyte adhesive activation
+GO:0002279	mast cell activation involved in immune response
+GO:0072539	T-helper 17 cell differentiation
+GO:0002359	B-1 B cell proliferation
+GO:0033077	T cell differentiation in thymus
+GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0072086	specification of loop of Henle identity
+GO:0120197	mucociliary clearance
+GO:0035820	negative regulation of renal sodium excretion by angiotensin
+GO:0110127	phloem unloading
+GO:0062087	positive regulation of vein smooth muscle contraction
+GO:0048652	polyphenic determination, influence by genetic factors
+GO:0002314	germinal center B cell differentiation
+GO:0072645	interferon-delta production
+GO:0010159	specification of animal organ position
+GO:0140919	thermomorphogenesis
+GO:0034672	anterior/posterior pattern specification involved in pronephros development
+GO:0030714	anterior/posterior axis specification, follicular epithelium
+GO:0034374	low-density lipoprotein particle remodeling
+GO:0090664	response to high population density
+GO:0032610	interleukin-1 alpha production
+GO:0032624	interleukin-20 production
+GO:0003017	lymph circulation
+GO:0097388	chemokine (C-C motif) ligand 19 production
+GO:0043050	nematode pharyngeal pumping
+GO:0007630	jump response
+GO:0034343	type III interferon production
+GO:0097017	renal protein absorption
+GO:0050955	thermoception
+GO:0007636	chemosensory jump behavior
+GO:0003298	physiological muscle hypertrophy
+GO:0046694	sperm incapacitation
+GO:0014887	cardiac muscle adaptation
+GO:0098511	sensory perception of low humidity
+GO:0160083	exhausted T cell differentiation
+GO:0032634	interleukin-5 production
+GO:0051866	general adaptation syndrome
+GO:0007388	posterior compartment specification
+GO:0014806	smooth muscle hyperplasia
+GO:0060423	foregut regionalization
+GO:0040040	thermosensory behavior
+GO:0003294	atrial ventricular junction remodeling
+GO:0007432	salivary gland boundary specification
+GO:0043367	CD4-positive, alpha-beta T cell differentiation
+GO:0042630	behavioral response to water deprivation
+GO:0002369	T cell cytokine production
+GO:0001998	angiotensin-mediated vasoconstriction involved in regulation of systemic arterial blood pressure
+GO:0050978	magnetoreception by sensory perception of electrical stimulus
+GO:0071607	macrophage inflammatory protein-1 gamma production
+GO:0014896	muscle hypertrophy
+GO:0002035	brain renin-angiotensin system
+GO:0042381	hemolymph coagulation
+GO:0036145	dendritic cell homeostasis
+GO:0002021	response to dietary excess
+GO:0060442	branching involved in prostate gland morphogenesis
+GO:0003055	circadian regulation of heart rate by the suprachiasmatic nucleus
+GO:0002118	aggressive behavior
+GO:0050909	sensory perception of taste
+GO:0150195	transport across blood-cerebrospinal fluid barrier
+GO:0040004	collagen and cuticulin-based cuticle attachment to epithelium
+GO:0002117	amphibian larval development
+GO:0042711	maternal behavior
+GO:0048289	isotype switching to IgE isotypes
+GO:0072196	proximal/distal pattern formation involved in pronephric nephron development
+GO:0036099	female germ-line stem cell population maintenance
+GO:0061007	hepaticobiliary system process
+GO:0003067	circadian regulation of systemic arterial blood pressure by hormone
+GO:0071684	organism emergence from protective structure
+GO:0008062	eclosion rhythm
+GO:0160025	sensory perception of itch
+GO:0034101	erythrocyte homeostasis
+GO:0003100	regulation of systemic arterial blood pressure by endothelin
+GO:0003105	negative regulation of glomerular filtration
+GO:0007562	eclosion
+GO:0046651	lymphocyte proliferation
+GO:0035293	chitin-based larval cuticle pattern formation
+GO:0035321	maintenance of imaginal disc-derived wing hair orientation
+GO:0003093	regulation of glomerular filtration
+GO:1904694	negative regulation of vascular associated smooth muscle contraction
+GO:0010160	formation of animal organ boundary
+GO:0036333	hepatocyte homeostasis
+GO:0046693	sperm storage
+GO:0009955	adaxial/abaxial pattern specification
+GO:0009951	polarity specification of dorsal/ventral axis
+GO:0002210	behavioral response to wounding
+GO:0070295	renal water absorption
+GO:0014845	stomach body smooth muscle contraction
+GO:0002289	NK T cell proliferation involved in immune response
+GO:0007351	tripartite regional subdivision
+GO:0071606	chemokine (C-C motif) ligand 4 production
+GO:0010375	stomatal complex patterning
+GO:0003025	regulation of systemic arterial blood pressure by baroreceptor feedback
+GO:0002125	maternal aggressive behavior
+GO:0019827	stem cell population maintenance
+GO:0098829	intestinal folate absorption
+GO:0009798	axis specification
+GO:0009945	radial axis specification
+GO:0072293	specification of metanephric nephron tubule identity
+GO:0001942	hair follicle development
+GO:0042303	molting cycle
+GO:0007600	sensory perception
+GO:0032608	interferon-beta production
+GO:0035178	turning behavior
+GO:0090121	low-density lipoprotein particle disassembly involved in cholesterol transport
+GO:0032618	interleukin-15 production
+GO:0030718	germ-line stem cell population maintenance
+GO:0140969	determination of lung left/right asymmetry
+GO:0090706	specification of plant organ position
+GO:0033078	extrathymic T cell differentiation
+GO:0035287	head segmentation
+GO:0014828	distal stomach smooth muscle contraction
+GO:0060048	cardiac muscle contraction
+GO:0060736	prostate gland growth
+GO:0039017	pattern specification involved in pronephros development
+GO:0060056	mammary gland involution
+GO:0042310	vasoconstriction
+GO:0035188	hatching
+GO:0046649	lymphocyte activation
+GO:0032641	lymphotoxin A production
+GO:0060086	circadian temperature homeostasis
+GO:0080172	petal epidermis patterning
+GO:0044722	renal phosphate excretion
+GO:0050958	magnetoreception
+GO:0042492	gamma-delta T cell differentiation
+GO:0070293	renal absorption
+GO:0120066	pyloric canal smooth muscle contraction
+GO:0060832	oocyte animal/vegetal axis specification
+GO:0045475	locomotor rhythm
+GO:0050979	magnetoreception by sensory perception of mechanical stimulus
+GO:0001979	regulation of systemic arterial blood pressure by chemoreceptor signaling
+GO:0009948	anterior/posterior axis specification
+GO:1990959	eosinophil homeostasis
+GO:0061131	pancreas field specification
+GO:0120064	stomach pylorus smooth muscle contraction
+GO:0002294	CD4-positive, alpha-beta T cell differentiation involved in immune response
+GO:0048624	plantlet formation on parent plant
+GO:0002282	microglial cell activation involved in immune response
+GO:0039010	specification of pronephric distal tubule identity
+GO:0050977	magnetoreception by sensory perception of chemical stimulus
+GO:0072647	interferon-epsilon production
+GO:0009880	embryonic pattern specification
+GO:0048290	isotype switching to IgA isotypes
+GO:0002538	arachidonate metabolite production involved in inflammatory response
+GO:0010262	somatic embryogenesis
+GO:0060773	flower phyllotactic patterning
+GO:0072167	specification of mesonephric tubule identity
+GO:1905654	regulation of artery smooth muscle contraction
+GO:0035282	segmentation
+GO:0003008	system process
+GO:0007447	imaginal disc pattern formation
+GO:0060970	embryonic heart tube dorsal/ventral pattern formation
+GO:0050886	endocrine process
+GO:0048265	response to pain
+GO:0002335	mature B cell differentiation
+GO:0060586	multicellular organismal-level iron ion homeostasis
+GO:0032525	somite rostral/caudal axis specification
+GO:0035017	cuticle pattern formation
+GO:0035811	negative regulation of urine volume
+GO:0035633	maintenance of blood-brain barrier
+GO:0001984	artery vasodilation involved in baroreceptor response to increased systemic arterial blood pressure
+GO:0003024	baroreceptor detection of decreased arterial stretch
+GO:0001991	regulation of systemic arterial blood pressure by circulatory renin-angiotensin
+GO:0140730	amphiregulin production
+GO:0002119	nematode larval development
+GO:0007380	specification of segmental identity, head
+GO:0043116	negative regulation of vascular permeability
+GO:0003139	secondary heart field specification
+GO:0097254	renal tubular secretion
+GO:0009845	seed germination
+GO:0044241	lipid digestion
+GO:0019226	transmission of nerve impulse
+GO:0010669	epithelial structure maintenance
+GO:0021547	midbrain-hindbrain boundary initiation
+GO:0001660	fever generation
+GO:0032615	interleukin-12 production
+GO:0090701	specification of plant organ identity
+GO:0050885	neuromuscular process controlling balance
+GO:0035482	gastric motility
+GO:0071910	determination of liver left/right asymmetry
+GO:0046633	alpha-beta T cell proliferation
+GO:0003299	muscle hypertrophy in response to stress
+GO:0002349	histamine production involved in inflammatory response
+GO:0097716	copper ion transport across blood-brain barrier
+GO:0061843	Sertoli cell barrier remodeling
+GO:0046960	sensitization
+GO:0043117	positive regulation of vascular permeability
+GO:0003051	angiotensin-mediated drinking behavior
+GO:0061226	proximal/distal pattern formation involved in mesonephric nephron development
+GO:0001974	blood vessel remodeling
+GO:0048262	determination of dorsal/ventral asymmetry
+GO:0034383	low-density lipoprotein particle clearance
+GO:0036269	swimming behavior
+GO:0021796	cerebral cortex regionalization
+GO:0002263	cell activation involved in immune response
+GO:0009954	proximal/distal pattern formation
+GO:0120063	stomach smooth muscle contraction
+GO:0007614	short-term memory
+GO:0002315	marginal zone B cell differentiation
+GO:0061970	maintenance of right sidedness
+GO:0003421	growth plate cartilage axis specification
+GO:0002286	T cell activation involved in immune response
+GO:0048825	cotyledon development
+GO:0062086	regulation of vein smooth muscle contraction
+GO:0001835	blastocyst hatching
+GO:0002268	follicular dendritic cell differentiation
+GO:0060854	branching involved in lymph vessel morphogenesis
+GO:0060516	primary prostatic bud elongation
+GO:1904695	positive regulation of vascular associated smooth muscle contraction
+GO:0014891	striated muscle atrophy
+GO:0002010	excitation of vasomotor center by baroreceptor signaling
+GO:0008069	dorsal/ventral axis specification, ovarian follicular epithelium
+GO:0044245	polysaccharide digestion
+GO:0042746	circadian sleep/wake cycle, wakefulness
+GO:0098510	sensory perception of high humidity
+GO:0002537	nitric oxide production involved in inflammatory response
+GO:0050817	coagulation
+GO:0034375	high-density lipoprotein particle remodeling
+GO:0002262	myeloid cell homeostasis
+GO:0001964	startle response
+GO:0007634	optokinetic behavior
+GO:0035733	hepatic stellate cell activation
+GO:0002273	plasmacytoid dendritic cell differentiation
+GO:0034441	plasma lipoprotein particle oxidation
+GO:0008052	sensory organ boundary specification
+GO:0061199	striated muscle contraction involved in embryonic body morphogenesis
+GO:0001981	baroreceptor detection of arterial stretch
+GO:0014732	skeletal muscle atrophy
+GO:0060747	oral incubation
+GO:0002291	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+GO:0061368	behavioral response to formalin induced pain
+GO:0002292	T cell differentiation involved in immune response
+GO:1990388	xylem-to-phloem iron transport
+GO:0002275	myeloid cell activation involved in immune response
+GO:0050894	determination of affect
+GO:0007622	rhythmic behavior
+GO:0002293	alpha-beta T cell differentiation involved in immune response
+GO:0072168	specification of anterior mesonephric tubule identity
+GO:0008358	maternal determination of anterior/posterior axis, embryo
+GO:0043932	ossification involved in bone remodeling
+GO:0007617	mating behavior
+GO:0050951	sensory perception of temperature stimulus
+GO:1905603	regulation of blood-brain barrier permeability
+GO:0035889	otolith tethering
+GO:0060756	foraging behavior
+GO:0008345	larval locomotory behavior
+GO:0010232	vascular transport
+GO:0071965	multicellular organismal locomotion
+GO:0010223	secondary shoot formation
+GO:0032762	mast cell cytokine production
+GO:0032619	interleukin-16 production
+GO:0001756	somitogenesis
+GO:0003121	epinephrine-mediated vasodilation
+GO:0050881	musculoskeletal movement
+GO:0060729	intestinal epithelial structure maintenance
+GO:0002247	clearance of damaged tissue involved in inflammatory response wound healing
+GO:0003023	baroreceptor detection of increased arterial stretch
+GO:0098755	maintenance of seed dormancy by absisic acid
+GO:0010097	specification of stamen identity
+GO:0008343	adult feeding behavior
+GO:0001662	behavioral fear response
+GO:0010049	acquisition of plant reproductive competence
+GO:0034371	chylomicron remodeling
+GO:0003086	regulation of systemic arterial blood pressure by local renal renin-angiotensin
+GO:0021978	telencephalon regionalization
+GO:0097206	nephrocyte filtration
+GO:0048143	astrocyte activation
+GO:0043374	CD8-positive, alpha-beta T cell differentiation
+GO:0022404	molting cycle process
+GO:0030277	maintenance of gastrointestinal epithelium
+GO:0120275	cerebral blood circulation
+GO:0007311	maternal specification of dorsal/ventral axis, oocyte, germ-line encoded
+GO:0003117	regulation of vasoconstriction by circulating norepinephrine
+GO:0002306	CD4-positive gamma-delta intraepithelial T cell differentiation
+GO:0048833	specification of floral organ number
+GO:0009561	megagametogenesis
+GO:0006936	muscle contraction
+GO:0035019	somatic stem cell population maintenance
+GO:0035817	renal sodium ion absorption involved in negative regulation of renal sodium excretion
+GO:0050888	determination of stimulus location
+GO:0003075	renal vasodilation of the peripheral vascular system involved in regulation of systemic arterial blood pressure
+GO:0001658	branching involved in ureteric bud morphogenesis
+GO:0001922	B-1 B cell homeostasis
+GO:0050877	nervous system process
+GO:0061114	branching involved in pancreas morphogenesis
+GO:0060087	relaxation of vascular associated smooth muscle
+GO:0120056	large intestinal transit
+GO:0042755	eating behavior
+GO:0061744	motor behavior
+GO:0031443	fast-twitch skeletal muscle fiber contraction
+GO:0035712	T-helper 2 cell activation
+GO:1990079	cartilage homeostasis
+GO:0035106	operant conditioning
+GO:0060432	lung pattern specification process
+GO:0090252	epithelium migration involved in imaginal disc-derived wing morphogenesis
+GO:0061371	determination of heart left/right asymmetry
+GO:0003138	primary heart field specification
+GO:0003054	circadian regulation of systemic arterial blood pressure by the suprachiasmatic nucleus
+GO:0030589	pseudocleavage involved in syncytial blastoderm formation
+GO:0001816	cytokine production
+GO:0042113	B cell activation
+GO:0061150	renal system segmentation
+GO:0042309	homoiothermy
+GO:0140734	ammonium excretion
+GO:0003069	acetylcholine-mediated vasodilation involved in regulation of systemic arterial blood pressure
+GO:0002017	regulation of blood volume by renal aldosterone
+GO:0035209	pupal development
+GO:0030537	larval behavior
+GO:0007596	blood coagulation
+GO:0032605	hepatocyte growth factor production
+GO:0039005	specification of pronephric tubule identity
+GO:0042596	fear response
+GO:0003014	renal system process
+GO:0009846	pollen germination
+GO:0072098	anterior/posterior pattern specification involved in kidney development
+GO:0010222	stem vascular tissue pattern formation
+GO:0034607	turning behavior involved in mating
+GO:0007382	specification of segmental identity, maxillary segment
+GO:0009792	embryo development ending in birth or egg hatching
+GO:0002303	gamma-delta T cell differentiation involved in immune response
+GO:0032907	transforming growth factor beta3 production
+GO:0014825	stomach fundus smooth muscle contraction
+GO:0048871	multicellular organismal-level homeostasis
+GO:0040024	dauer larval development
+GO:0003012	muscle system process
+GO:0072639	interleukin-33 production
+GO:0003091	renal water homeostasis
+GO:0042297	vocal learning
+GO:0002270	plasmacytoid dendritic cell activation
+GO:0072267	metanephric capsule specification
+GO:0009956	radial pattern formation
+GO:0010374	stomatal complex development
+GO:0098509	sensory perception of humidity
+GO:0035223	leg disc pattern formation
+GO:0009943	adaxial/abaxial axis specification
+GO:0018991	egg-laying behavior
+GO:0002307	CD8-positive, alpha-beta regulatory T cell differentiation
+GO:0050915	sensory perception of sour taste
+GO:0002368	B cell cytokine production
+GO:0003018	vascular process in circulatory system
+GO:0014889	muscle atrophy
+GO:0002122	fear-induced aggressive behavior
+GO:0002023	reduction of food intake in response to dietary excess
+GO:0061138	morphogenesis of a branching epithelium
+GO:0035809	regulation of urine volume
+GO:0001780	neutrophil homeostasis
+GO:0001782	B cell homeostasis
+GO:0009640	photomorphogenesis
+GO:0003081	regulation of systemic arterial blood pressure by renin-angiotensin
+GO:0043481	anthocyanin accumulation in tissues in response to UV light
+GO:0007594	puparial adhesion
+GO:0014805	smooth muscle adaptation
+GO:0034369	plasma lipoprotein particle remodeling
+GO:0061900	glial cell activation
+GO:0003019	central nervous system control of baroreceptor feedback
+GO:0007586	digestion
+GO:0032626	interleukin-22 production
+GO:0072081	specification of nephron tubule identity
+GO:0048498	establishment of petal orientation
+GO:0090408	phloem nitrate loading
+GO:0060441	epithelial tube branching involved in lung morphogenesis
+GO:0046849	bone remodeling
+GO:0045925	positive regulation of female receptivity
+GO:0002414	immunoglobulin transcytosis in epithelial cells
+GO:0048047	mating behavior, sex discrimination
+GO:0062088	negative regulation of vein smooth muscle contraction
+GO:0031444	slow-twitch skeletal muscle fiber contraction
+GO:0008595	anterior/posterior axis specification, embryo
+GO:0002327	immature B cell differentiation
+GO:0002168	instar larval development
+GO:0002087	regulation of respiratory gaseous exchange by nervous system process
+GO:0010582	floral meristem determinacy
+GO:0097207	bud dormancy process
+GO:0060971	embryonic heart tube left/right pattern formation
+GO:0034608	vulval location
+GO:0010078	maintenance of root meristem identity
+GO:0003097	renal water transport
+GO:0002165	instar larval or pupal development
+GO:0045469	negative regulation of R8 cell spacing in compound eye
+GO:0007611	learning or memory
+GO:0007314	oocyte anterior/posterior axis specification
+GO:0046665	amnioserosa maintenance
+GO:0071907	determination of digestive tract left/right asymmetry
+GO:0072297	specification of metanephric proximal tubule identity
+GO:0060972	left/right pattern formation
+GO:0010095	specification of petal identity
+GO:0003092	renal water retention
+GO:0030381	chorion-containing eggshell pattern formation
+GO:0045906	negative regulation of vasoconstriction
+GO:0010073	meristem maintenance
+GO:0003015	heart process
+GO:0061235	mesenchymal stem cell maintenance involved in mesonephric nephron morphogenesis
+GO:0010934	macrophage cytokine production
+GO:1905656	positive regulation of artery smooth muscle contraction
+GO:0090269	fibroblast growth factor production
+GO:0002126	instrumental aggressive behavior
+GO:0010096	specification of sepal identity
+GO:0007593	chitin-based cuticle sclerotization
+GO:0072048	renal system pattern specification
+GO:0072268	pattern specification involved in metanephros development
+GO:0060073	micturition
+GO:0007429	secondary branching, open tracheal system
+GO:0050957	equilibrioception
+GO:0045468	regulation of R8 cell spacing in compound eye
+GO:0032637	interleukin-8 production
+GO:0009946	proximal/distal axis specification
+GO:0050914	sensory perception of salty taste
+GO:0003053	circadian regulation of heart rate
+GO:0050956	electroception
+GO:0140779	XCL1 production
+GO:0002361	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0048834	specification of petal number
+GO:0060378	regulation of brood size
+GO:0003083	negative regulation of renal output by angiotensin
+GO:0090076	relaxation of skeletal muscle
+GO:0072535	tumor necrosis factor (ligand) superfamily member 11 production
+GO:0035210	prepupal development
+GO:0019232	perception of rate of movement
+GO:0061004	pattern specification involved in kidney development
+GO:0014820	tonic smooth muscle contraction
+GO:0098867	intramembranous bone growth
+GO:0071605	monocyte chemotactic protein-1 production
+GO:0034609	spicule insertion
+GO:0048266	behavioral response to pain
+GO:0090057	root radial pattern formation
+GO:0090351	seedling development
+GO:0007366	periodic partitioning by pair rule gene
+GO:0034373	intermediate-density lipoprotein particle remodeling
+GO:0007313	maternal specification of dorsal/ventral axis, oocyte, soma encoded
+GO:0070998	sensory perception of gravity
+GO:0048874	host-mediated regulation of intestinal microbiota composition
+GO:0061227	pattern specification involved in mesonephros development
+GO:0072130	renal capsule specification
+GO:0090708	specification of plant organ axis polarity
+GO:0110128	phloem sucrose unloading
+GO:0072375	medium-term memory
+GO:0035812	renal sodium excretion
+GO:0043480	pigment accumulation in tissues
+GO:0035199	salt aversion
+GO:0035742	activated CD8-positive, alpha-beta T cell proliferation
+GO:0002259	endothelial cell activation within high endothelial venule involved in immune response
+GO:0043501	skeletal muscle adaptation
+GO:0098598	learned vocalization behavior or vocal learning
+GO:0002034	maintenance of blood vessel diameter homeostasis by renin-angiotensin
+GO:0055127	vibrational conductance of sound to the inner ear
+GO:0045748	positive regulation of R8 cell spacing in compound eye
+GO:0060180	female mating behavior
+GO:0014846	esophagus smooth muscle contraction
+GO:0071612	IP-10 production
+GO:0010162	seed dormancy process
+GO:0001987	vasoconstriction of artery involved in baroreceptor response to lowering of systemic arterial blood pressure
+GO:0034377	plasma lipoprotein particle assembly
+GO:0050905	neuromuscular process
+GO:0001774	microglial cell activation
+GO:0150155	interleukin-34 production
+GO:0120067	pyloric sphincter smooth muscle contraction
+GO:0032612	interleukin-1 production
+GO:0010093	specification of floral organ identity
+GO:0030168	platelet activation
+GO:0030590	first cell cycle pseudocleavage
+GO:0180002	renal zinc excretion
+GO:0046630	gamma-delta T cell proliferation
+GO:0044706	multi-multicellular organism process
+GO:0045064	T-helper 2 cell differentiation
+GO:0097744	renal urate salt excretion
+GO:0002298	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+GO:0002370	natural killer cell cytokine production
+GO:0002317	plasma cell differentiation
+GO:0009555	pollen development
+GO:0035285	appendage segmentation
+GO:0022405	hair cycle process
+GO:0090130	tissue migration
+GO:0040005	chitin-based cuticle attachment to epithelium
+GO:0030098	lymphocyte differentiation
+GO:0070075	tear secretion
+GO:0072567	chemokine (C-X-C motif) ligand 2 production
+GO:0032632	interleukin-3 production
+GO:0009949	polarity specification of anterior/posterior axis
+GO:0048650	caste determination, influence by environmental factors
+GO:0008071	maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded
+GO:0060446	branching involved in open tracheal system development
+GO:0001777	T cell homeostatic proliferation
+GO:0018996	molting cycle, collagen and cuticulin-based cuticle
+GO:0090360	platelet-derived growth factor production
+GO:0098731	skeletal muscle satellite stem cell maintenance involved in skeletal muscle regeneration
+GO:0019098	reproductive behavior
+GO:0097391	chemokine (C-X-C motif) ligand 13 production
+GO:0060744	mammary gland branching involved in thelarche
+GO:0002283	neutrophil activation involved in immune response
+GO:0072649	interferon-kappa production
+GO:0061282	specification of mesonephric nephron tubule identity
+GO:0022004	midbrain-hindbrain boundary maturation during brain development
+GO:0043379	memory T cell differentiation
+GO:0002367	cytokine production involved in immune response
+GO:0007632	visual behavior
+GO:0071066	detection of mechanical stimulus involved in sensory perception of wind
+GO:0035314	scab formation
+GO:0007601	visual perception
+GO:0001775	cell activation
+GO:0007359	posterior abdomen determination
+GO:0036392	chemokine (C-C motif) ligand 20 production
+GO:0051867	general adaptation syndrome, behavioral process
+GO:0035530	chemokine (C-C motif) ligand 6 production
+GO:0032633	interleukin-4 production
+GO:0002014	vasoconstriction of artery involved in ischemic response to lowering of systemic arterial blood pressure
+GO:0035741	activated CD4-positive, alpha-beta T cell proliferation
+GO:0032980	keratinocyte activation
+GO:0007275	multicellular organism development
+GO:0035702	monocyte homeostasis
+GO:0072537	fibroblast activation
+GO:0001698	gastrin-induced gastric acid secretion
+GO:0044566	chondrocyte activation
+GO:0035221	genital disc pattern formation
+GO:0072629	interleukin-28B production
+GO:0007449	proximal/distal pattern formation, imaginal disc
+GO:0003120	regulation of vasoconstriction by circulating epinephrine
+GO:0032601	connective tissue growth factor production
+GO:0072085	specification of connecting tubule identity
+GO:0060737	prostate gland morphogenetic growth
+GO:0045924	regulation of female receptivity
+GO:0003416	endochondral bone growth
+GO:0030183	B cell differentiation
+GO:0002016	regulation of blood volume by renin-angiotensin
+GO:0042118	endothelial cell activation
+GO:0036075	replacement ossification
+GO:0002248	connective tissue replacement involved in inflammatory response wound healing
+GO:0010094	specification of carpel identity
+GO:0120332	host-mediated regulation of oral microbiota composition
+GO:0048527	lateral root development
+GO:0150064	vertebrate eye-specific patterning
+GO:0035641	locomotory exploration behavior
+GO:0008542	visual learning
+GO:0003071	renal system process involved in regulation of systemic arterial blood pressure
+GO:0042756	drinking behavior
+GO:0002319	memory B cell differentiation
+GO:0014719	skeletal muscle satellite cell activation
+GO:0019227	neuronal action potential propagation
+GO:0002539	prostaglandin production involved in inflammatory response
+GO:0039004	specification of pronephric proximal tubule identity
+GO:0072099	anterior/posterior pattern specification involved in ureteric bud development
+GO:0048065	male courtship behavior, veined wing extension
+GO:0022608	multicellular organism adhesion
+GO:0001866	NK T cell proliferation
+GO:0035074	pupation
+GO:0032611	interleukin-1 beta production
+GO:0001957	intramembranous ossification
+GO:0045066	regulatory T cell differentiation
+GO:0036072	direct ossification
+GO:0072627	interleukin-28A production
+GO:0035819	positive regulation of renal sodium excretion by pressure natriuresis
+GO:0061484	hematopoietic stem cell homeostasis
+GO:0030534	adult behavior
+GO:0055119	relaxation of cardiac muscle
+GO:0050916	sensory perception of sweet taste
+GO:0007479	leg disc proximal/distal pattern formation
+GO:0009908	flower development
+GO:0035483	gastric emptying
+GO:0002415	immunoglobulin transcytosis in epithelial cells mediated by polymeric immunoglobulin receptor
+GO:0001976	nervous system process involved in regulation of systemic arterial blood pressure
+GO:0010079	maintenance of vegetative meristem identity
+GO:0003010	voluntary skeletal muscle contraction
+GO:0060444	branching involved in mammary gland duct morphogenesis
+GO:0070986	left/right axis specification
+GO:0030431	sleep
+GO:0021999	neural plate anterior/posterior regionalization
+GO:0035176	social behavior
+GO:0009947	centrolateral axis specification
+GO:0061966	establishment of left/right asymmetry
+GO:0035180	larval wandering behavior
+GO:0048836	specification of increased petal number
+GO:0043931	ossification involved in bone maturation
+GO:0007608	sensory perception of smell
+GO:0150024	oxidised low-density lipoprotein particle clearance
+GO:0046692	sperm competition
+GO:0061115	lung proximal/distal axis specification
+GO:0032905	transforming growth factor beta1 production
+GO:0032640	tumor necrosis factor production
+GO:0001699	acetylcholine-induced gastric acid secretion
+GO:0035393	chemokine (C-X-C motif) ligand 9 production
+GO:0001763	morphogenesis of a branching structure
+GO:0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation
+GO:0071831	intermediate-density lipoprotein particle clearance
+GO:0140962	multicellular organismal-level chemical homeostasis
+GO:0014900	muscle hyperplasia
+GO:0071625	vocalization behavior
+GO:0010092	specification of animal organ identity
+GO:0043479	pigment accumulation in tissues in response to UV light
+GO:0001978	regulation of systemic arterial blood pressure by carotid sinus baroreceptor feedback
+GO:0050953	sensory perception of light stimulus
+GO:0061284	specification of mesonephric proximal tubule identity
+GO:0106001	intestinal hexose absorption
+GO:0010076	maintenance of floral meristem identity
+GO:0032638	interleukin-9 production
+GO:0007619	courtship behavior
+GO:0045063	T-helper 1 cell differentiation
+GO:0036340	chitin-based cuticle sclerotization by biomineralization
+GO:0035054	embryonic heart tube anterior/posterior pattern specification
+GO:0002209	behavioral defense response
+GO:0060758	foraging behavior by probing substrate
+GO:0002278	eosinophil activation involved in immune response
+GO:0002019	regulation of renal output by angiotensin
+GO:0002015	regulation of systemic arterial blood pressure by atrial baroreceptor feedback
+GO:0070294	renal sodium ion absorption
+GO:0008344	adult locomotory behavior
+GO:0060179	male mating behavior
+GO:0045453	bone resorption
+GO:0003301	physiological cardiac muscle hypertrophy
+GO:0060752	intestinal phytosterol absorption
+GO:0002261	mucosal lymphocyte homeostasis
+GO:0002033	angiotensin-mediated vasodilation involved in regulation of systemic arterial blood pressure
+GO:0060594	mammary gland specification
+GO:0001951	intestinal D-glucose absorption
+GO:0032628	interleukin-24 production
+GO:0098597	observational learning
+GO:0003013	circulatory system process
+GO:0048291	isotype switching to IgG isotypes
+GO:0045576	mast cell activation
+GO:0002124	territorial aggressive behavior
+GO:0014890	smooth muscle atrophy
+GO:1990185	regulation of lymphatic vascular permeability
+GO:0048820	hair follicle maturation
+GO:0010229	inflorescence development
+GO:0008070	maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded
+GO:0007628	adult walking behavior
+GO:0072296	specification of metanephric loop of Henle identity
+GO:0009915	phloem sucrose loading
+GO:0046631	alpha-beta T cell activation
+GO:0048149	behavioral response to ethanol
+GO:0090133	mesendoderm migration
+GO:0034382	chylomicron remnant clearance
+GO:0035818	positive regulation of urine volume by pressure natriuresis
+GO:0044807	macrophage migration inhibitory factor production
+GO:0007365	periodic partitioning
+GO:0002310	alpha-beta T cell proliferation involved in immune response
+GO:0007638	mechanosensory behavior
+GO:0001983	baroreceptor response to increased systemic arterial blood pressure
+GO:0007434	adult salivary gland boundary specification
+GO:1990192	collecting lymphatic vessel constriction
+GO:0036335	intestinal stem cell homeostasis
+GO:0033326	cerebrospinal fluid secretion
+GO:0097601	retina blood vessel maintenance
+GO:0034372	very-low-density lipoprotein particle remodeling
+GO:0010084	specification of animal organ axis polarity
+GO:0001697	histamine-induced gastric acid secretion
+GO:0050890	cognition
+GO:0071632	optomotor response
+GO:0014824	artery smooth muscle contraction
+GO:0009791	post-embryonic development
+GO:0003094	glomerular filtration
+GO:0007635	chemosensory behavior
+GO:0097270	dishabituation
+GO:0072038	mesenchymal stem cell maintenance involved in nephron morphogenesis
+GO:0003140	determination of left/right asymmetry in lateral mesoderm
+GO:0046008	regulation of female receptivity, post-mating
+GO:0014720	tonic skeletal muscle contraction
+GO:0035545	determination of left/right asymmetry in nervous system
+GO:0002332	transitional stage B cell differentiation
+GO:0051356	visual perception involved in equilibrioception
+GO:0010231	maintenance of seed dormancy
+GO:0048835	specification of decreased petal number
+GO:0033555	multicellular organismal response to stress
+GO:0036037	CD8-positive, alpha-beta T cell activation
+GO:0071924	chemokine (C-C motif) ligand 22 production
+GO:0032906	transforming growth factor beta2 production
+GO:0016543	male courtship behavior, orientation prior to leg tapping and wing vibration
+GO:0009647	skotomorphogenesis
+GO:0003011	involuntary skeletal muscle contraction
+GO:0045321	leukocyte activation
+GO:0090567	reproductive shoot system development
+GO:0008049	male courtship behavior
+GO:0010077	maintenance of inflorescence meristem identity
+GO:1990064	ground tissue pattern formation
+GO:0048838	release of seed from dormancy
+GO:0007612	learning
+GO:0060515	prostate field specification
+GO:0048100	wing disc anterior/posterior pattern formation
+GO:0018990	ecdysis, chitin-based cuticle
+GO:0048190	wing disc dorsal/ventral pattern formation
+GO:0065001	specification of axis polarity
+GO:0035289	posterior head segmentation
+GO:0001990	regulation of systemic arterial blood pressure by hormone
+GO:0097389	chemokine (C-C motif) ligand 21 production
+GO:0035744	T-helper 1 cell cytokine production
+GO:0003043	vasoconstriction of artery involved in aortic body chemoreceptor response to lowering of systemic arterial blood pressure
+GO:0042098	T cell proliferation
+GO:0007625	grooming behavior
+GO:0007509	mesoderm migration involved in gastrulation
+GO:0072295	specification of metanephric distal tubule identity
+GO:0070254	mucus secretion
+GO:0050887	determination of sensory modality
+GO:0035740	CD8-positive, alpha-beta T cell proliferation
+GO:0002266	follicular dendritic cell activation
+GO:0009953	dorsal/ventral pattern formation
+GO:0035095	behavioral response to nicotine
+GO:0002372	myeloid dendritic cell cytokine production
+GO:0048771	tissue remodeling
+GO:0034379	very-low-density lipoprotein particle assembly
+GO:0062036	sensory perception of hot stimulus
+GO:0042119	neutrophil activation
+GO:0009793	embryo development ending in seed dormancy
+GO:0007629	flight behavior
+GO:0034102	erythrocyte clearance
+GO:0010051	xylem and phloem pattern formation
+GO:0061288	mesonephric capsule specification
+GO:0007591	molting cycle, chitin-based cuticle
+GO:0003128	heart field specification
+GO:0002536	respiratory burst involved in inflammatory response
+GO:0002316	follicular B cell differentiation
+GO:0001966	thigmotaxis
+GO:0060156	milk ejection reflex
+GO:0045190	isotype switching
+GO:0007379	segment specification
+GO:0010622	specification of ovule identity
+GO:0001787	natural killer cell proliferation
+GO:0007626	locomotory behavior
+GO:0097291	renal phosphate ion absorption
+GO:0008015	blood circulation
+GO:0097087	interleukin-17A production
+GO:0007567	parturition
+GO:0003106	negative regulation of glomerular filtration by angiotensin
+GO:0071610	chemokine (C-C motif) ligand 1 production
+GO:0022609	multicellular organism adhesion to substrate
+GO:0001776	leukocyte homeostasis
+GO:0048292	isotype switching to IgD isotypes
+GO:0042048	olfactory behavior
+GO:0071609	chemokine (C-C motif) ligand 5 production
+GO:0097709	connective tissue replacement
+GO:0003104	positive regulation of glomerular filtration
+GO:0120055	small intestinal transit
+GO:0019233	sensory perception of pain
+GO:0043129	surfactant homeostasis
+GO:0003042	vasoconstriction of artery involved in carotid body chemoreceptor response to lowering of systemic arterial blood pressure
+GO:0050879	multicellular organismal movement
+GO:0035708	interleukin-4-dependent isotype switching to IgE isotypes
+GO:0035745	T-helper 2 cell cytokine production
+GO:0034370	triglyceride-rich lipoprotein particle remodeling
+GO:0080181	lateral root branching
+GO:0061520	Langerhans cell differentiation
+GO:0071909	determination of stomach left/right asymmetry
+GO:0072637	interleukin-32 production
+GO:1990110	callus formation
+GO:0050798	activated T cell proliferation
+GO:0061967	establishment of left sidedness
+GO:0007371	ventral midline determination
+GO:0030588	pseudocleavage
+GO:0050952	sensory perception of electrical stimulus
+GO:0090132	epithelium migration
+GO:0160165	CD8-positive, alpha-beta T cell homeostasis
+GO:1990059	fruit valve development
+GO:0072169	specification of posterior mesonephric tubule identity
+GO:0046958	nonassociative learning
+GO:0044558	uterine smooth muscle relaxation
+GO:0071925	thymic stromal lymphopoietin production
+GO:0048560	establishment of anatomical structure orientation
+GO:0090660	cerebrospinal fluid circulation
+GO:0003027	regulation of systemic arterial blood pressure by carotid body chemoreceptor signaling
+GO:0042712	paternal behavior
+GO:0160060	sleep homeostasis
+GO:0007321	sperm displacement
+GO:0032629	interleukin-25 production
+GO:0061968	maintenance of left/right asymmetry
+GO:0035265	organ growth
+GO:0002285	lymphocyte activation involved in immune response
+GO:0010589	leaf proximal/distal pattern formation
+GO:0050954	sensory perception of mechanical stimulus
+GO:0034381	plasma lipoprotein particle clearance
+GO:0001757	somite specification
+GO:0042747	circadian sleep/wake cycle, REM sleep
+GO:0080189	primary growth
+GO:0150093	amyloid-beta clearance by transcytosis
+GO:1990960	basophil homeostasis
+GO:0014831	gastro-intestinal system smooth muscle contraction
+GO:0061969	maintenance of left sidedness
+GO:0002302	CD8-positive, alpha-beta T cell differentiation involved in immune response
+GO:0018989	apolysis
+GO:0048754	branching morphogenesis of an epithelial tube
+GO:0072635	interleukin-31 production
+GO:0048872	homeostasis of number of cells
+GO:0072105	ureteric peristalsis
+GO:0051355	proprioception involved in equilibrioception
+GO:0045470	R8 cell-mediated photoreceptor organization
+GO:0042745	circadian sleep/wake cycle

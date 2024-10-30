@@ -1,0 +1,568 @@
+GOID	TERM
+GO:0045058	T cell selection
+GO:0141084	inflammasome-mediated signaling pathway
+GO:0002340	central B cell selection
+GO:0002440	production of molecular mediator of immune response
+GO:0002565	somatic diversification of immune receptors via gene conversion
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide
+GO:0002509	central tolerance induction to self antigen
+GO:0035944	perforin production
+GO:0016447	somatic recombination of immunoglobulin gene segments
+GO:0002202	somatic diversification of variable lymphocyte receptors of jawless fish
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent
+GO:0002445	type II hypersensitivity
+GO:0140426	pathogen-associated molecular pattern receptor signaling pathway
+GO:0002269	leukocyte activation involved in inflammatory response
+GO:0072672	neutrophil extravasation
+GO:0035742	activated CD8-positive, alpha-beta T cell proliferation
+GO:0002482	antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-independent
+GO:0002259	endothelial cell activation within high endothelial venule involved in immune response
+GO:0035687	T-helper 1 cell extravasation
+GO:0002334	transitional two stage B cell differentiation
+GO:0045575	basophil activation
+GO:0035711	T-helper 1 cell activation
+GO:0002206	gene conversion of immunoglobulin genes
+GO:0033078	extrathymic T cell differentiation
+GO:0002449	lymphocyte mediated immunity
+GO:0002466	peripheral tolerance induction to self antigen
+GO:0002746	antigen processing and presentation following pinocytosis
+GO:0002299	alpha-beta intraepithelial T cell differentiation
+GO:0002222	stimulatory killer cell immunoglobulin-like receptor signaling pathway
+GO:0036230	granulocyte activation
+GO:0002338	B-1b B cell differentiation
+GO:0043029	T cell homeostasis
+GO:0001865	NK T cell differentiation
+GO:0035696	monocyte extravasation
+GO:0002253	activation of immune response
+GO:0002484	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway
+GO:0002508	central tolerance induction
+GO:0071621	granulocyte chemotaxis
+GO:0009864	induced systemic resistance, jasmonic acid mediated signaling pathway
+GO:0002510	central B cell tolerance induction
+GO:0046649	lymphocyte activation
+GO:0002551	mast cell chemotaxis
+GO:0035010	encapsulation of foreign target
+GO:0002485	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-dependent
+GO:0002408	myeloid dendritic cell chemotaxis
+GO:0001774	microglial cell activation
+GO:0002220	innate immune response activating cell surface receptor signaling pathway
+GO:0097531	mast cell migration
+GO:0090721	primary adaptive immune response involving T cells and B cells
+GO:0042492	gamma-delta T cell differentiation
+GO:0019884	antigen processing and presentation of exogenous antigen
+GO:0002284	myeloid dendritic cell differentiation involved in immune response
+GO:0042688	crystal cell differentiation
+GO:0061470	T follicular helper cell differentiation
+GO:1990959	eosinophil homeostasis
+GO:0002294	CD4-positive, alpha-beta T cell differentiation involved in immune response
+GO:0002471	monocyte antigen processing and presentation
+GO:0042387	plasmatocyte differentiation
+GO:0002323	natural killer cell activation involved in immune response
+GO:0002277	myeloid dendritic cell activation involved in immune response
+GO:0009626	plant-type hypersensitive response
+GO:0042386	hemocyte differentiation
+GO:0035684	helper T cell extravasation
+GO:0002282	microglial cell activation involved in immune response
+GO:0034130	toll-like receptor 1 signaling pathway
+GO:0035754	B cell chemotaxis
+GO:0035682	toll-like receptor 21 signaling pathway
+GO:0042088	T-helper 1 type immune response
+GO:0002313	mature B cell differentiation involved in immune response
+GO:0046630	gamma-delta T cell proliferation
+GO:0045728	respiratory burst after phagocytosis
+GO:0002274	myeloid leukocyte activation
+GO:0045064	T-helper 2 cell differentiation
+GO:0002298	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+GO:0002403	T cell tolerance induction in mucosal-associated lymphoid tissue
+GO:0002370	natural killer cell cytokine production
+GO:0043366	beta selection
+GO:0019730	antimicrobial humoral response
+GO:0035698	CD8-positive, alpha-beta cytotoxic T cell extravasation
+GO:0002317	plasma cell differentiation
+GO:0002228	natural killer cell mediated immunity
+GO:0002444	myeloid leukocyte mediated immunity
+GO:0048290	isotype switching to IgA isotypes
+GO:0039529	RIG-I signaling pathway
+GO:0072677	eosinophil migration
+GO:0002221	pattern recognition receptor signaling pathway
+GO:0035782	mature natural killer cell chemotaxis
+GO:0002473	non-professional antigen presenting cell antigen processing and presentation
+GO:0030098	lymphocyte differentiation
+GO:0002388	immune response in Peyer's patch
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+GO:0002290	gamma-delta T cell activation involved in immune response
+GO:0002432	granuloma formation
+GO:0070945	neutrophil-mediated killing of gram-negative bacterium
+GO:0035165	embryonic crystal cell differentiation
+GO:0002566	somatic diversification of immune receptors via somatic mutation
+GO:0042093	T-helper cell differentiation
+GO:0002752	cell surface pattern recognition receptor signaling pathway
+GO:0030101	natural killer cell activation
+GO:0001795	type IIb hypersensitivity
+GO:0042110	T cell activation
+GO:0002443	leukocyte mediated immunity
+GO:0002418	immune response to tumor cell
+GO:0097022	lymphocyte migration into lymph node
+GO:0061082	myeloid leukocyte cytokine production
+GO:0001777	T cell homeostatic proliferation
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway
+GO:0002335	mature B cell differentiation
+GO:0048246	macrophage chemotaxis
+GO:0002304	gamma-delta intraepithelial T cell differentiation
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I
+GO:0002563	somatic diversification of immune receptors via alternate splicing
+GO:0097021	lymphocyte migration into lymphoid organs
+GO:0001794	type IIa hypersensitivity
+GO:0050851	antigen receptor-mediated signaling pathway
+GO:0035685	helper T cell diapedesis
+GO:0048245	eosinophil chemotaxis
+GO:0002487	antigen processing and presentation of endogenous peptide antigen via MHC class I via endolysosomal pathway
+GO:1904155	DN2 thymocyte differentiation
+GO:0030217	T cell differentiation
+GO:0002489	antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-dependent
+GO:0002283	neutrophil activation involved in immune response
+GO:0002457	T cell antigen processing and presentation
+GO:0002381	immunoglobulin production involved in immunoglobulin-mediated immune response
+GO:0002447	eosinophil mediated immunity
+GO:0043379	memory T cell differentiation
+GO:0019885	antigen processing and presentation of endogenous peptide antigen via MHC class I
+GO:0002367	cytokine production involved in immune response
+GO:0035747	natural killer cell chemotaxis
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis
+GO:0050852	T cell receptor signaling pathway
+GO:0019731	antibacterial humoral response
+GO:0001905	activation of membrane attack complex
+GO:1990266	neutrophil migration
+GO:0051214	RNAi-mediated antiviral immunity against RNA virus
+GO:0001923	B-1 B cell differentiation
+GO:0043312	neutrophil degranulation
+GO:0002404	antigen sampling in mucosal-associated lymphoid tissue
+GO:0002385	mucosal immune response
+GO:0031294	lymphocyte costimulation
+GO:0035006	melanization defense response
+GO:0046633	alpha-beta T cell proliferation
+GO:0045067	positive extrathymic T cell selection
+GO:0035741	activated CD4-positive, alpha-beta T cell proliferation
+GO:0036262	granulysin production
+GO:0002324	natural killer cell proliferation involved in immune response
+GO:0006962	male-specific antibacterial humoral response
+GO:0035702	monocyte homeostasis
+GO:0043299	leukocyte degranulation
+GO:0002227	innate immune response in mucosa
+GO:0043307	eosinophil activation
+GO:0002280	monocyte activation involved in immune response
+GO:0002524	hypersensitivity
+GO:0002356	peripheral B cell negative selection
+GO:0002481	antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-dependent
+GO:0001867	complement activation, lectin pathway
+GO:0002559	type I hypersensitivity mediated by basophils
+GO:0045123	cellular extravasation
+GO:0048006	antigen processing and presentation, endogenous lipid antigen via MHC class Ib
+GO:0002409	Langerhans cell chemotaxis
+GO:0002354	central B cell negative selection
+GO:0002204	somatic recombination of immunoglobulin genes involved in immune response
+GO:0072681	fibronectin-dependent thymocyte migration
+GO:0002263	cell activation involved in immune response
+GO:0002267	follicular dendritic cell activation involved in immune response
+GO:0030183	B cell differentiation
+GO:0002451	peripheral B cell tolerance induction
+GO:0048002	antigen processing and presentation of peptide antigen
+GO:0002745	antigen processing and presentation initiated by receptor mediated uptake of antigen
+GO:0002233	leukocyte chemotaxis involved in immune response
+GO:0002315	marginal zone B cell differentiation
+GO:0002464	peripheral tolerance induction to nonself antigen
+GO:0002286	T cell activation involved in immune response
+GO:0002400	tolerance induction in nasopharyngeal-associated lymphoid tissue
+GO:0097279	histamine secretion mediated by IgE immunoglobulin
+GO:0035665	TIRAP-dependent toll-like receptor 4 signaling pathway
+GO:0002560	basophil mediated immunity
+GO:0002520	immune system development
+GO:0002333	transitional one stage B cell differentiation
+GO:0140635	neutrophil dispersal
+GO:0002775	antimicrobial peptide production
+GO:0002568	somatic diversification of T cell receptor genes
+GO:0002272	plasmacytoid dendritic cell differentiation involved in immune response
+GO:0002200	somatic diversification of immune receptors
+GO:0019724	B cell mediated immunity
+GO:0002406	antigen sampling by M cells in mucosal-associated lymphoid tissue
+GO:0002319	memory B cell differentiation
+GO:0043011	myeloid dendritic cell differentiation
+GO:0031295	T cell costimulation
+GO:0071674	mononuclear cell migration
+GO:0035710	CD4-positive, alpha-beta T cell activation
+GO:0002750	antigen processing and presentation following macropinocytosis
+GO:0008228	opsonization
+GO:0002337	B-1a B cell differentiation
+GO:0002480	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent
+GO:0002870	T cell anergy
+GO:0001866	NK T cell proliferation
+GO:0001909	leukocyte mediated cytotoxicity
+GO:0061057	peptidoglycan recognition protein signaling pathway
+GO:0016445	somatic diversification of immunoglobulins
+GO:0045066	regulatory T cell differentiation
+GO:0002446	neutrophil mediated immunity
+GO:0002511	central B cell receptor editing
+GO:1904157	DN4 thymocyte differentiation
+GO:0002455	humoral immune response mediated by circulating immunoglobulin
+GO:0002490	antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-independent
+GO:0002488	antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway
+GO:0002514	B cell tolerance induction
+GO:0070427	nucleotide-binding oligomerization domain containing 1 signaling pathway
+GO:1904124	microglial cell migration
+GO:0002262	myeloid cell homeostasis
+GO:0072680	extracellular matrix-dependent thymocyte migration
+GO:0002428	antigen processing and presentation of peptide antigen via MHC class Ib
+GO:0035667	TRIF-dependent toll-like receptor 4 signaling pathway
+GO:0002273	plasmacytoid dendritic cell differentiation
+GO:0140896	cGAS/STING signaling pathway
+GO:0035669	TRAM-dependent toll-like receptor 4 signaling pathway
+GO:0051215	RNAi-mediated antiviral immunity against DNA virus
+GO:0002413	tolerance induction to tumor cell
+GO:0090719	adaptive immune effector response involving T cells and B lineage cells
+GO:0070946	neutrophil-mediated killing of gram-positive bacterium
+GO:0002434	immune complex clearance
+GO:0046629	gamma-delta T cell activation
+GO:0070947	neutrophil-mediated killing of fungus
+GO:0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation
+GO:0072679	thymocyte migration
+GO:0002291	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+GO:0002292	T cell differentiation involved in immune response
+GO:0002287	alpha-beta T cell activation involved in immune response
+GO:0002348	central B cell positive selection
+GO:0019883	antigen processing and presentation of endogenous antigen
+GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0140374	antiviral innate immune response
+GO:0050900	leukocyte migration
+GO:0002275	myeloid cell activation involved in immune response
+GO:0016446	somatic hypermutation of immunoglobulin genes
+GO:0002251	organ or tissue specific immune response
+GO:0002293	alpha-beta T cell differentiation involved in immune response
+GO:0002346	B cell positive selection
+GO:0002309	T cell proliferation involved in immune response
+GO:0035661	MyD88-dependent toll-like receptor 2 signaling pathway
+GO:0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation
+GO:0002469	myeloid dendritic cell antigen processing and presentation
+GO:0043383	negative T cell selection
+GO:0002264	endothelial cell activation involved in immune response
+GO:0033079	immature T cell proliferation
+GO:0039530	MDA-5 signaling pathway
+GO:0033023	mast cell homeostasis
+GO:0035688	T-helper 1 cell diapedesis
+GO:0033080	immature T cell proliferation in thymus
+GO:0002271	plasmacytoid dendritic cell activation involved in immune response
+GO:0002437	inflammatory response to antigenic stimulus
+GO:0070431	nucleotide-binding oligomerization domain containing 2 signaling pathway
+GO:0035783	CD4-positive, alpha-beta T cell costimulation
+GO:0032762	mast cell cytokine production
+GO:0002505	antigen processing and presentation of polysaccharide antigen via MHC class II
+GO:0002276	basophil activation involved in immune response
+GO:0002312	B cell activation involved in immune response
+GO:0035707	T-helper 2 cell chemotaxis
+GO:0045063	T-helper 1 cell differentiation
+GO:0002486	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent
+GO:0002344	B cell affinity maturation
+GO:0002439	chronic inflammatory response to antigenic stimulus
+GO:0002420	natural killer cell mediated cytotoxicity directed against tumor cell target
+GO:0034166	toll-like receptor 10 signaling pathway
+GO:0002278	eosinophil activation involved in immune response
+GO:0072683	T cell extravasation
+GO:0043374	CD8-positive, alpha-beta T cell differentiation
+GO:0035697	CD8-positive, alpha-beta T cell extravasation
+GO:0090717	adaptive immune memory response involving T cells and B cells
+GO:0061760	antifungal innate immune response
+GO:0019882	antigen processing and presentation
+GO:0002751	antigen processing and presentation following receptor mediated endocytosis
+GO:0140895	cell surface toll-like receptor signaling pathway
+GO:0002450	B cell antigen processing and presentation
+GO:0002570	somatic diversification of immunoglobulin genes by N region addition
+GO:0002483	antigen processing and presentation of endogenous peptide antigen
+GO:0070942	neutrophil mediated cytotoxicity
+GO:0038097	positive regulation of mast cell activation by Fc-epsilon receptor signaling pathway
+GO:0045087	innate immune response
+GO:0035171	lamellocyte differentiation
+GO:0090720	primary adaptive immune response
+GO:0061519	macrophage homeostasis
+GO:0002306	CD4-positive gamma-delta intraepithelial T cell differentiation
+GO:0002411	T cell tolerance induction to tumor cell
+GO:0002250	adaptive immune response
+GO:0034178	toll-like receptor 13 signaling pathway
+GO:0035703	monocyte migration into blood stream
+GO:0002343	peripheral B cell selection
+GO:0002402	B cell tolerance induction in mucosal-associated lymphoid tissue
+GO:0001779	natural killer cell differentiation
+GO:0061485	memory T cell proliferation
+GO:0038123	toll-like receptor TLR1:TLR2 signaling pathway
+GO:0002339	B cell selection
+GO:0002468	dendritic cell antigen processing and presentation
+GO:0002261	mucosal lymphocyte homeostasis
+GO:0035169	lymph gland plasmatocyte differentiation
+GO:0002463	central tolerance induction to nonself antigen
+GO:0090715	immunological memory formation process
+GO:0002224	toll-like receptor signaling pathway
+GO:0006959	humoral immune response
+GO:0002288	NK T cell activation involved in immune response
+GO:0002377	immunoglobulin production
+GO:0048291	isotype switching to IgG isotypes
+GO:0001922	B-1 B cell homeostasis
+GO:0071708	immunoglobulin light chain V-J recombination
+GO:0090718	adaptive immune effector response
+GO:0034134	toll-like receptor 2 signaling pathway
+GO:0045576	mast cell activation
+GO:0046632	alpha-beta T cell differentiation
+GO:0002260	lymphocyte homeostasis
+GO:0002426	immunoglobulin production in mucosal tissue
+GO:1904156	DN3 thymocyte differentiation
+GO:0002341	central B cell anergy
+GO:0002281	macrophage activation involved in immune response
+GO:0002265	astrocyte activation involved in immune response
+GO:0035704	helper T cell chemotaxis
+GO:0002477	antigen processing and presentation of exogenous peptide antigen via MHC class Ib
+GO:0071707	immunoglobulin heavy chain V-D-J recombination
+GO:0002778	antibacterial peptide production
+GO:0043316	cytotoxic T cell degranulation
+GO:0035712	T-helper 2 cell activation
+GO:0070944	neutrophil-mediated killing of bacterium
+GO:0046631	alpha-beta T cell activation
+GO:0002218	activation of innate immune response
+GO:0002491	antigen processing and presentation of endogenous peptide antigen via MHC class II
+GO:0002512	central T cell tolerance induction
+GO:0002387	immune response in gut-associated lymphoid tissue
+GO:0002569	somatic diversification of immune receptors by N region addition
+GO:1990117	B cell receptor apoptotic signaling pathway
+GO:0035872	nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway
+GO:0042100	B cell proliferation
+GO:0002366	leukocyte activation involved in immune response
+GO:0042113	B cell activation
+GO:0002410	plasmacytoid dendritic cell chemotaxis
+GO:0002310	alpha-beta T cell proliferation involved in immune response
+GO:0002523	leukocyte migration involved in inflammatory response
+GO:0002424	T cell mediated immune response to tumor cell
+GO:0001773	myeloid dendritic cell activation
+GO:0042722	alpha-beta T cell activation by superantigen
+GO:0002478	antigen processing and presentation of exogenous peptide antigen
+GO:0002430	complement receptor mediated signaling pathway
+GO:0002515	B cell anergy
+GO:0016068	type I hypersensitivity
+GO:0033152	immunoglobulin V(D)J recombination
+GO:0035769	B cell chemotaxis across high endothelial venule
+GO:0002329	pre-B cell differentiation
+GO:0002383	immune response in brain or nervous system
+GO:0002427	mucosal tolerance induction
+GO:0033151	V(D)J recombination
+GO:0034138	toll-like receptor 3 signaling pathway
+GO:0009866	induced systemic resistance, ethylene mediated signaling pathway
+GO:0120117	T cell meandering migration
+GO:0035170	lymph gland crystal cell differentiation
+GO:0002748	antigen processing and presentation initiated by pattern recognition receptor mediated uptake of antigen
+GO:0002435	immune complex clearance by erythrocytes
+GO:0002564	alternate splicing of immunoglobulin genes
+GO:0090644	age-related resistance
+GO:0034158	toll-like receptor 8 signaling pathway
+GO:0072538	T-helper 17 type immune response
+GO:0002394	tolerance induction in gut-associated lymphoid tissue
+GO:0048003	antigen processing and presentation of lipid antigen via MHC class Ib
+GO:0002679	respiratory burst involved in defense response
+GO:1905517	macrophage migration
+GO:0090716	adaptive immune memory response
+GO:0002332	transitional stage B cell differentiation
+GO:0035164	embryonic plasmatocyte differentiation
+GO:0002470	plasmacytoid dendritic cell antigen processing and presentation
+GO:0035709	memory T cell activation
+GO:0002325	natural killer cell differentiation involved in immune response
+GO:0002303	gamma-delta T cell differentiation involved in immune response
+GO:0035163	embryonic hemocyte differentiation
+GO:0002567	somatic diversification of FREP-based immune receptors
+GO:0002476	antigen processing and presentation of endogenous peptide antigen via MHC class Ib
+GO:0035743	CD4-positive, alpha-beta T cell cytokine production
+GO:0002781	antifungal peptide production
+GO:0002322	B cell proliferation involved in immune response
+GO:0002571	somatic diversification of T cell receptor genes by N region addition
+GO:0002756	MyD88-independent toll-like receptor signaling pathway
+GO:0042117	monocyte activation
+GO:0002311	gamma-delta T cell proliferation involved in immune response
+GO:0002753	cytoplasmic pattern recognition receptor signaling pathway
+GO:0002270	plasmacytoid dendritic cell activation
+GO:0036037	CD8-positive, alpha-beta T cell activation
+GO:0002429	immune response-activating cell surface receptor signaling pathway
+GO:0035746	granzyme A production
+GO:0045061	thymic T cell selection
+GO:0002425	tolerance induction in urogenital tract
+GO:0045059	positive thymic T cell selection
+GO:0035664	TIRAP-dependent toll-like receptor signaling pathway
+GO:0002513	tolerance induction to self antigen
+GO:0002475	antigen processing and presentation via MHC class Ib
+GO:0002562	somatic diversification of immune receptors via germline recombination within a single locus
+GO:0045321	leukocyte activation
+GO:0002307	CD8-positive, alpha-beta regulatory T cell differentiation
+GO:0035681	toll-like receptor 15 signaling pathway
+GO:0050902	leukocyte adhesive activation
+GO:0002472	macrophage antigen processing and presentation
+GO:0002279	mast cell activation involved in immune response
+GO:0035172	hemocyte proliferation
+GO:0002373	plasmacytoid dendritic cell cytokine production
+GO:0002345	peripheral B cell receptor editing
+GO:0035705	T-helper 17 cell chemotaxis
+GO:0072539	T-helper 17 cell differentiation
+GO:0010818	T cell chemotaxis
+GO:0002395	immune response in nasopharyngeal-associated lymphoid tissue
+GO:0002368	B cell cytokine production
+GO:0006957	complement activation, alternative pathway
+GO:0002421	B cell antigen processing and presentation following pinocytosis
+GO:0002433	immune response-regulating cell surface receptor signaling pathway involved in phagocytosis
+GO:0002461	tolerance induction dependent upon immune response
+GO:0002359	B-1 B cell proliferation
+GO:0002389	tolerance induction in Peyer's patch
+GO:0097282	immunoglobulin-mediated neutralization
+GO:0002350	peripheral B cell positive selection
+GO:0001780	neutrophil homeostasis
+GO:0045060	negative thymic T cell selection
+GO:0002465	peripheral tolerance induction
+GO:0001782	B cell homeostasis
+GO:0033077	T cell differentiation in thymus
+GO:0002358	B cell homeostatic proliferation
+GO:0035706	T-helper 1 cell chemotaxis
+GO:0070943	neutrophil-mediated killing of symbiont cell
+GO:0045062	extrathymic T cell selection
+GO:0002681	somatic recombination of T cell receptor gene segments
+GO:0035011	melanotic encapsulation of foreign target
+GO:0006958	complement activation, classical pathway
+GO:0002371	dendritic cell cytokine production
+GO:0002459	adaptive immune response based on somatic recombination of immune receptors built from leucine-rich repeat domains
+GO:0002456	T cell mediated immunity
+GO:0035744	T-helper 1 cell cytokine production
+GO:0050904	diapedesis
+GO:0002314	germinal center B cell differentiation
+GO:0043152	induction of bacterial agglutination
+GO:0042098	T cell proliferation
+GO:0002453	peripheral B cell anergy
+GO:0001802	type III hypersensitivity
+GO:0002401	tolerance induction in mucosal-associated lymphoid tissue
+GO:0045068	negative extrathymic T cell selection
+GO:0072678	T cell migration
+GO:0097530	granulocyte migration
+GO:0035740	CD8-positive, alpha-beta T cell proliferation
+GO:0009682	induced systemic resistance
+GO:0002232	leukocyte chemotaxis involved in inflammatory response
+GO:0002372	myeloid dendritic cell cytokine production
+GO:0034170	toll-like receptor 11 signaling pathway
+GO:0002504	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+GO:0002405	antigen sampling by dendritic cells in mucosal-associated lymphoid tissue
+GO:0042119	neutrophil activation
+GO:0051132	NK T cell activation
+GO:0002518	lymphocyte chemotaxis across high endothelial venule
+GO:0001913	T cell mediated cytotoxicity
+GO:0002754	endosomal pattern recognition receptor signaling pathway
+GO:0006956	complement activation
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway
+GO:0002536	respiratory burst involved in inflammatory response
+GO:0071613	granzyme B production
+GO:0042267	natural killer cell mediated cytotoxicity
+GO:0002458	peripheral T cell tolerance induction
+GO:0002327	immature B cell differentiation
+GO:0002757	immune response-activating signaling pathway
+GO:0002316	follicular B cell differentiation
+GO:0002252	immune effector process
+GO:0160083	exhausted T cell differentiation
+GO:0072676	lymphocyte migration
+GO:0002522	leukocyte migration involved in immune response
+GO:0038124	toll-like receptor TLR6:TLR2 signaling pathway
+GO:0002747	antigen processing and presentation following phagocytosis
+GO:0048007	antigen processing and presentation, exogenous lipid antigen via MHC class Ib
+GO:0002207	gene conversion of immunoglobulin genes involved in immune response
+GO:0034150	toll-like receptor 6 signaling pathway
+GO:0035668	TRAM-dependent toll-like receptor signaling pathway
+GO:0002467	germinal center formation
+GO:0002495	antigen processing and presentation of peptide antigen via MHC class II
+GO:0097281	immune complex formation
+GO:0035168	larval lymph gland hemocyte differentiation
+GO:0042116	macrophage activation
+GO:0045190	isotype switching
+GO:0016064	immunoglobulin mediated immune response
+GO:0002423	natural killer cell mediated immune response to tumor cell
+GO:0001787	natural killer cell proliferation
+GO:0009616	RNAi-mediated antiviral immune response
+GO:0043367	CD4-positive, alpha-beta T cell differentiation
+GO:0002369	T cell cytokine production
+GO:0002452	B cell receptor editing
+GO:0002308	CD8-positive, alpha-beta cytotoxic T cell differentiation
+GO:0002384	hepatic immune response
+GO:0034174	toll-like receptor 12 signaling pathway
+GO:0090714	innate immunity memory response
+GO:0002758	innate immune response-activating signaling pathway
+GO:0002507	tolerance induction
+GO:0042381	hemolymph coagulation
+GO:0090713	immunological memory process
+GO:0036145	dendritic cell homeostasis
+GO:0002519	natural killer cell tolerance induction
+GO:0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II
+GO:0010934	macrophage cytokine production
+GO:0036336	dendritic cell migration
+GO:0034154	toll-like receptor 7 signaling pathway
+GO:0001776	leukocyte homeostasis
+GO:0048292	isotype switching to IgD isotypes
+GO:0002517	T cell tolerance induction
+GO:0010931	macrophage tolerance induction
+GO:0045065	cytotoxic T cell differentiation
+GO:0002548	monocyte chemotaxis
+GO:0002436	immune complex clearance by monocytes and macrophages
+GO:0140894	endolysosomal toll-like receptor signaling pathway
+GO:0034146	toll-like receptor 5 signaling pathway
+GO:0002462	tolerance induction to nonself antigen
+GO:0033153	T cell receptor V(D)J recombination
+GO:0097280	histamine secretion mediated by immunoglobulin
+GO:0035708	interleukin-4-dependent isotype switching to IgE isotypes
+GO:0042092	type 2 immune response
+GO:0035745	T-helper 2 cell cytokine production
+GO:0048289	isotype switching to IgE isotypes
+GO:0043368	positive T cell selection
+GO:0035699	T-helper 17 cell extravasation
+GO:0002301	CD4-positive, alpha-beta intraepithelial T cell differentiation
+GO:0034142	toll-like receptor 4 signaling pathway
+GO:0035660	MyD88-dependent toll-like receptor 4 signaling pathway
+GO:0002575	basophil chemotaxis
+GO:0061520	Langerhans cell differentiation
+GO:0019732	antifungal humoral response
+GO:1902615	immune response involved in response to exogenous dsRNA
+GO:0043303	mast cell degranulation
+GO:0001788	antibody-dependent cellular cytotoxicity
+GO:0034101	erythrocyte homeostasis
+GO:0002407	dendritic cell chemotaxis
+GO:0050853	B cell receptor signaling pathway
+GO:0050798	activated T cell proliferation
+GO:0002201	somatic diversification of DSCAM-based immune receptors
+GO:0043308	eosinophil degranulation
+GO:0002361	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0160165	CD8-positive, alpha-beta T cell homeostasis
+GO:0031296	B cell costimulation
+GO:0035739	CD4-positive, alpha-beta T cell proliferation
+GO:0030595	leukocyte chemotaxis
+GO:0140367	antibacterial innate immune response
+GO:0046651	lymphocyte proliferation
+GO:0034162	toll-like receptor 9 signaling pathway
+GO:0042590	antigen processing and presentation of exogenous peptide antigen via MHC class I
+GO:0090634	microglial cell mediated cytotoxicity
+GO:0002205	somatic hypermutation of immunoglobulin genes involved in immune response
+GO:0002285	lymphocyte activation involved in immune response
+GO:0035683	memory T cell extravasation
+GO:0030593	neutrophil chemotaxis
+GO:1990960	basophil homeostasis
+GO:0002223	stimulatory C-type lectin receptor signaling pathway
+GO:0002289	NK T cell proliferation involved in immune response
+GO:0002431	Fc receptor mediated stimulatory signaling pathway
+GO:0048247	lymphocyte chemotaxis
+GO:0002417	B cell antigen processing and presentation mediated by B cell receptor uptake of antigen
+GO:0002249	lymphocyte anergy
+GO:0006955	immune response
+GO:0072573	tolerance induction to lipopolysaccharide
+GO:0002561	basophil degranulation
+GO:0002352	B cell negative selection
+GO:0002438	acute inflammatory response to antigenic stimulus
+GO:0002302	CD8-positive, alpha-beta T cell differentiation involved in immune response
+GO:0097529	myeloid leukocyte migration
+GO:0002558	type I hypersensitivity mediated by mast cells
+GO:0043320	natural killer cell degranulation
+GO:0002419	T cell mediated cytotoxicity directed against tumor cell target
+GO:0038178	complement component C5a signaling pathway
+GO:0002448	mast cell mediated immunity
+GO:0001806	type IV hypersensitivity
+GO:0072682	eosinophil extravasation

@@ -1,0 +1,160 @@
+GOID	TERM
+GO:0039690	positive stranded viral RNA replication
+GO:0075511	macropinosome lysis involved in viral entry into host cell
+GO:0046739	transport of virus in multicellular host
+GO:0032359	provirus excision
+GO:0140883	induction by virus of host reticulophagy
+GO:0039708	nuclear capsid assembly
+GO:0019064	fusion of virus membrane with host plasma membrane
+GO:0039683	rolling circle double-stranded viral DNA replication
+GO:0099009	viral genome circularization
+GO:0019083	viral transcription
+GO:0075514	endosome lysis involved in viral entry into host cell
+GO:0039672	suppression by virus of host natural killer cell activation
+GO:0039525	modulation by virus of host chromatin organization
+GO:0039695	DNA-templated viral transcription
+GO:0075521	microtubule-dependent intracellular transport of viral material towards nucleus
+GO:0046771	viral budding from inner nuclear membrane
+GO:0099045	viral extrusion
+GO:0039587	suppression by virus of host tetherin activity
+GO:0039709	cytoplasmic capsid assembly
+GO:0046741	transport of virus in host, tissue to tissue
+GO:0039692	single stranded viral RNA replication via double stranded DNA intermediate
+GO:0060141	positive regulation of syncytium formation by virus
+GO:0075508	entry of viral genome into host nucleus via retainment of capsid in nuclear pore complex and release of genome into nucleoplasm
+GO:0019068	virion assembly
+GO:0019072	viral genome packaging
+GO:0075720	establishment of episomal latency
+GO:0039640	viral release via suppression of host peptidoglycan biosynthetic process
+GO:0099000	symbiont genome ejection through host cell envelope, contractile tail mechanism
+GO:0019054	modulation by virus of host cellular process
+GO:0046774	suppression by virus of host intracellular interferon activity
+GO:0039698	polyadenylation of viral mRNA by polymerase stuttering
+GO:0019044	maintenance of viral latency
+GO:0039693	viral DNA genome replication
+GO:0098673	inhibition of host DNA replication by virus
+GO:0019085	early viral transcription
+GO:0039704	viral translational shunt
+GO:0075506	entry of viral genome into host nucleus through nuclear pore complex via importin
+GO:0039682	rolling circle viral DNA replication
+GO:0044660	viral release via pore formation in host cell membrane
+GO:0075732	viral penetration into host nucleus
+GO:0046775	suppression by virus of host cytokine production
+GO:0075524	ribosomal skipping
+GO:0019074	viral RNA genome packaging
+GO:0098036	viral DNA genome packaging, 3' extended cos packaging
+GO:0046807	viral scaffold assembly and maintenance
+GO:0044826	viral genome integration into host DNA
+GO:0098677	virion maturation
+GO:0075519	microtubule-dependent intracellular transport of viral material
+GO:0039521	suppression by virus of host autophagy
+GO:0098004	virus tail fiber assembly
+GO:0019061	uncoating of virus
+GO:0039711	cytoplasmic helical capsid assembly
+GO:0090680	viral release via disruption of host outer membrane
+GO:0075522	IRES-dependent viral translational initiation
+GO:0075503	fusion of virus membrane with host macropinosome membrane
+GO:0075526	cap snatching
+GO:0099002	symbiont genome ejection through host cell envelope, short tail mechanism
+GO:0075502	endosome membrane permeabilization involved in viral entry into host cell
+GO:0019073	viral DNA genome packaging
+GO:0019076	viral release from host cell
+GO:0075520	actin-dependent intracellular transport of virus
+GO:0019058	viral life cycle
+GO:0019048	modulation by virus of host process
+GO:0019084	middle viral transcription
+GO:0019082	viral protein processing
+GO:0039665	permeabilization of host organelle membrane involved in viral entry into host cell
+GO:0039696	RNA-templated viral transcription
+GO:0019070	viral genome maturation
+GO:0039680	actin-dependent intracellular transport of virus towards nucleus
+GO:0098035	viral DNA genome packaging via site-specific sequence recognition
+GO:0075606	transport of viral material towards nucleus
+GO:0075510	macropinocytosis involved in viral entry into host cell
+GO:0075527	viral RNA editing
+GO:0019046	release from viral latency
+GO:0039694	viral RNA genome replication
+GO:0099015	degradation of host chromosome by virus
+GO:0046754	viral exocytosis
+GO:0039697	negative stranded viral RNA transcription
+GO:0098669	superinfection exclusion
+GO:0039637	catabolism by virus of host DNA
+GO:0039654	fusion of virus membrane with host endosome membrane
+GO:0075509	endocytosis involved in viral entry into host cell
+GO:0044833	modulation by virus of host protein transport
+GO:0046794	transport of virus
+GO:0098003	viral tail assembly
+GO:0075733	intracellular transport of virus
+GO:0075529	establishment of latency as a circular episome
+GO:0046753	non-lytic viral release
+GO:0075504	macropinosomal membrane permeabilization involved in viral entry into host cell
+GO:0046762	viral budding from endoplasmic reticulum membrane
+GO:0019086	late viral transcription
+GO:0019045	latent virus replication
+GO:0140913	viral release via disruption of host peptidoglycan cell wall
+GO:0098006	viral DNA genome packaging, headful
+GO:0140755	reorganization of host cellular membranes to establish sites of replication
+GO:0075525	viral translational termination-reinitiation
+GO:0039685	rolling hairpin viral DNA replication
+GO:0098678	viral tropism switching
+GO:0098676	modulation of host virulence by virus
+GO:0044831	modulation by virus of host cytokine production
+GO:0039635	suppression by virus of host peptidoglycan biosynthetic process
+GO:0039671	evasion by virus of host natural killer cell activity
+GO:0075523	viral translational frameshifting
+GO:0046755	viral budding
+GO:0039688	viral double stranded DNA replication via reverse transcription
+GO:0019079	viral genome replication
+GO:0039700	fusion of viral membrane with host outer nuclear membrane
+GO:0098045	virus baseplate assembly
+GO:0046760	viral budding from Golgi membrane
+GO:0039520	induction by virus of host autophagy
+GO:0075513	caveolin-mediated endocytosis of virus by host cell
+GO:0075512	clathrin-dependent endocytosis of virus by host cell
+GO:0039684	rolling circle single-stranded viral DNA replication
+GO:0039689	negative stranded viral RNA replication
+GO:0039663	membrane fusion involved in viral entry into host cell
+GO:0019049	virus-mediated perturbation of host defense response
+GO:0046772	viral budding from outer nuclear membrane
+GO:0075528	perturbation by virus of host immune response
+GO:0039673	evasion by virus of host dendritic cell activity
+GO:0098997	fusion of virus membrane with host outer membrane
+GO:0099001	symbiont genome ejection through host cell envelope, long flexible tail mechanism
+GO:0019087	transformation of host cell by virus
+GO:0039701	microtubule-dependent intracellular transport of viral material towards cell periphery
+GO:0046745	viral capsid secondary envelopment
+GO:0019081	viral translation
+GO:0075713	establishment of integrated proviral latency
+GO:0046786	viral replication complex formation and maintenance
+GO:0098005	viral head-tail joining
+GO:0039519	modulation by virus of host autophagy
+GO:0075507	entry of viral genome into host nucleus via docking of viral capsid to the nuclear pore complex and injection of viral genome
+GO:0019042	viral latency
+GO:0019075	virus maturation
+GO:1903652	modulation by virus of host cytoplasmic transport
+GO:0039636	suppression by virus of host cell wall biogenesis
+GO:0046761	viral budding from plasma membrane
+GO:0046765	viral budding from nuclear membrane
+GO:0098037	viral DNA genome packaging, 5' extended cos packaging
+GO:0019069	viral capsid assembly
+GO:0075530	establishment of latency as a linear episome
+GO:0044865	negative regulation by virus of host cell division
+GO:0044863	modulation by virus of host cell division
+GO:0046740	transport of virus in host, cell to cell
+GO:0019043	establishment of viral latency
+GO:0039678	symbiont genome ejection through host cell envelope
+GO:0141088	symbiont-mediated activation of host autophagy
+GO:0039702	viral budding via host ESCRT complex
+GO:0019080	viral gene expression
+GO:0075505	entry of intact viral capsid into host nucleus through nuclear pore complex
+GO:0044864	positive regulation by virus of host cell division
+GO:0098689	latency-replication decision
+GO:0039686	bidirectional double-stranded viral DNA replication
+GO:0019065	receptor-mediated endocytosis of virus by host cell
+GO:0039687	viral DNA strand displacement replication
+GO:0039710	cytoplasmic icosahedral capsid assembly
+GO:0039501	suppression by virus of host type I interferon production
+GO:0039691	double stranded viral RNA replication
+GO:0006948	induction by virus of host cell-cell fusion
+GO:0044659	viral release from host cell by cytolysis
+GO:0039664	lysis of host organelle involved in viral entry into host cell

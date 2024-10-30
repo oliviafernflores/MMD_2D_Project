@@ -1,0 +1,145 @@
+GOID	TERM
+GO:0060682	primary ureteric bud growth
+GO:0003247	post-embryonic cardiac muscle cell growth involved in heart morphogenesis
+GO:0098868	bone growth
+GO:0042246	tissue regeneration
+GO:0009825	multidimensional cell growth
+GO:0007119	budding cell isotropic bud growth
+GO:0051211	anisotropic cell growth
+GO:0009826	unidimensional cell growth
+GO:0061049	cell growth involved in cardiac muscle cell development
+GO:0010450	inflorescence meristem growth
+GO:0036168	filamentous growth of a population of unicellular organisms in response to heat
+GO:0060449	bud elongation involved in lung branching
+GO:0042815	bipolar cell growth
+GO:0031101	fin regeneration
+GO:0060419	heart growth
+GO:0051124	synaptic assembly at neuromuscular junction
+GO:0007118	budding cell apical bud growth
+GO:0080112	seed growth
+GO:0055017	cardiac muscle tissue growth
+GO:0090254	cell elongation involved in imaginal disc-derived wing morphogenesis
+GO:0097318	invasive growth in response to abiotic stimulus
+GO:0061026	cardiac muscle tissue regeneration
+GO:0036180	filamentous growth of a population of unicellular organisms in response to biotic stimulus
+GO:0003248	heart capillary growth
+GO:0048526	imaginal disc-derived wing expansion
+GO:0043403	skeletal muscle tissue regeneration
+GO:0036267	invasive filamentous growth
+GO:0035264	multicellular organism growth
+GO:0048846	axon extension involved in axon guidance
+GO:0003246	embryonic cardiac muscle cell growth involved in heart morphogenesis
+GO:0060737	prostate gland morphogenetic growth
+GO:0001550	ovarian cumulus expansion
+GO:1990399	epithelium regeneration
+GO:1990523	bone regeneration
+GO:0003416	endochondral bone growth
+GO:0045311	invasive growth in response to pheromone
+GO:0080191	secondary thickening
+GO:0060736	prostate gland growth
+GO:0044181	filamentous growth of a multicellular organism
+GO:0003430	growth plate cartilage chondrocyte growth
+GO:0036177	filamentous growth of a population of unicellular organisms in response to pH
+GO:0003245	cardiac muscle tissue growth involved in heart morphogenesis
+GO:0014730	skeletal muscle regeneration at neuromuscular junction
+GO:0044182	filamentous growth of a population of unicellular organisms
+GO:0003415	chondrocyte hypertrophy
+GO:0090214	spongiotrophoblast layer developmental growth
+GO:0090245	axis elongation involved in somitogenesis
+GO:0097719	neural tissue regeneration
+GO:0003241	growth involved in heart morphogenesis
+GO:0060516	primary prostatic bud elongation
+GO:0060447	bud outgrowth involved in lung branching
+GO:0080190	lateral growth
+GO:0036171	filamentous growth of a population of unicellular organisms in response to chemical stimulus
+GO:0072092	ureteric bud invasion
+GO:0007285	primary spermatocyte growth
+GO:0036165	invasive growth in response to heat
+GO:0048768	root hair cell tip growth
+GO:0043930	primary ovarian follicle growth involved in primary follicle stage
+GO:0080159	zygote elongation
+GO:0060677	ureteric bud elongation
+GO:0043929	primary ovarian follicle growth involved in double layer follicle stage
+GO:0048675	axon extension
+GO:0010451	floral meristem growth
+GO:0070657	neuromast regeneration
+GO:0080192	primary thickening
+GO:0060437	lung growth
+GO:0003405	optic vesicle elongation
+GO:0007117	budding cell bud growth
+GO:0035001	dorsal trunk growth, open tracheal system
+GO:0001545	primary ovarian follicle growth
+GO:0080193	diffuse secondary thickening
+GO:0080117	secondary growth
+GO:0030447	filamentous growth
+GO:0007394	dorsal closure, elongation of leading edge cells
+GO:0001555	oocyte growth
+GO:0048674	collateral sprouting of injured axon
+GO:0061335	cell growth involved in Malpighian tubule morphogenesis
+GO:0001546	preantral ovarian follicle growth
+GO:0060560	developmental growth involved in morphogenesis
+GO:0048682	sprouting of injured axon
+GO:0048689	formation of growth cone in injured axon
+GO:0060503	bud dilation involved in lung branching
+GO:0051210	isotropic cell growth
+GO:0060602	branch elongation of an epithelium
+GO:0001403	invasive growth in response to glucose limitation
+GO:0035016	elongation of arista lateral
+GO:0070659	inner ear sensory epithelium regeneration
+GO:0080186	developmental vegetative growth
+GO:0035266	meristem growth
+GO:0042066	perineurial glial growth
+GO:0048673	collateral sprouting of intact axon in response to injury
+GO:0001832	blastocyst growth
+GO:0048767	root hair elongation
+GO:0048668	collateral sprouting
+GO:0060186	outer ear emergence
+GO:0060649	mammary gland bud elongation
+GO:0048677	axon extension involved in regeneration
+GO:0097317	invasive growth in response to biotic stimulus
+GO:0007124	pseudohyphal growth
+GO:0030448	hyphal growth
+GO:0003244	radial growth involved in right ventricle morphogenesis
+GO:1990138	neuron projection extension
+GO:0042814	monopolar cell growth
+GO:0010449	root meristem growth
+GO:0036178	filamentous growth of a population of unicellular organisms in response to neutral pH
+GO:0030715	oocyte growth in germarium-derived egg chamber
+GO:0007295	growth of a germarium-derived egg chamber
+GO:0060751	branch elongation involved in mammary gland duct branching
+GO:0061137	bud dilation
+GO:0044180	filamentous growth of a unicellular organism
+GO:0036170	filamentous growth of a population of unicellular organisms in response to starvation
+GO:0035015	elongation of arista core
+GO:0048588	developmental cell growth
+GO:0003401	axis elongation
+GO:0042065	glial cell growth
+GO:0060667	branch elongation involved in salivary gland morphogenesis
+GO:0035849	nephric duct elongation
+GO:0035265	organ growth
+GO:0060654	mammary gland cord elongation
+GO:0060681	branch elongation involved in ureteric bud branching
+GO:0097490	sympathetic neuron projection extension
+GO:1902284	neuron projection extension involved in neuron projection guidance
+GO:0016049	cell growth
+GO:0007446	imaginal disc growth
+GO:0080189	primary growth
+GO:0048589	developmental growth
+GO:0042702	uterine wall growth
+GO:0097484	dendrite extension
+GO:0070655	mechanosensory epithelium regeneration
+GO:0010448	vegetative meristem growth
+GO:0070783	growth of unicellular organism as a thread of attached cells
+GO:0009932	cell tip growth
+GO:0003242	cardiac chamber ballooning
+GO:0098867	intramembranous bone growth
+GO:0060763	mammary duct terminal end bud growth
+GO:0001547	antral ovarian follicle growth
+GO:0048669	collateral sprouting in absence of injury
+GO:0003243	circumferential growth involved in left ventricle morphogenesis
+GO:0090378	seed trichome elongation
+GO:0048630	skeletal muscle tissue growth
+GO:0009860	pollen tube growth
+GO:0003432	cell growth involved in growth plate cartilage chondrocyte morphogenesis
+GO:0070654	sensory epithelium regeneration
+GO:0060523	prostate epithelial cord elongation
