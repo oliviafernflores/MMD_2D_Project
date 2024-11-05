@@ -1,85 +1,53 @@
-#!/usr/bin/env bash
+#!/bin/bash
+#SBATCH --job-name=GO_DFE_inference
+#SBATCH --account=rgutenk
+#SBATCH --partition=high_priority
+#SBATCH --qos=user_qos_rgutenk
+#SBATCH --nodes=1
+#SBATCH --ntasks=50
+#SBATCH --time=24:00:00
+#SBATCH --array=1
 
-# Base directory where the GO directories are located
-base_dir="/Users/olivia/Documents/2D_demographics_DFE/MMD_2D_Project/gene_ontology/GO_DFE_Inference/GO_use_for_DFE"
+# Base directory
+base_dir="/groups/rgutenk/oliviafernflores/gene_ontology/GO_DFE_Inference"
 
-# Check if the base directory exists
-if [ ! -d "$base_dir" ]; then
-    echo "Base directory not found: $base_dir"
-    exit 1
-fi
+# Loop through each directory in the base directory
+for dir in "$base_dir"/*; do
+    if [ -d "$dir" ]; then  # Check if it's a directory
+        # Extract the number from the directory name
+        dir_name="${dir##*/}"  # Get just the directory name
+        number="${dir_name#*_}"  # Remove everything up to the first underscore
+        number="${number%_*}"  # Remove everything from the last underscore onward
 
-# Loop through each directory matching the pattern GO_*
-for dir in "$base_dir"/GO_*; do
-    if [ -d "$dir" ]; then
-        echo "Processing directory: $dir"
 
-        # Loop through each .fs file in the directory
-        for fs_file in "$dir"/*_nsyn_unfolded.fs; do
-            if [ -f "$fs_file" ]; then
-                echo "Found fs file: $fs_file"
+        # Define the input and output files based on the directory name
+        fs_file="$dir/${number}_dict_Mmd_FRA_Mmd_IRA_SFS_nsyn_unfolded.fs"
+        
+        # Additional check for directories with a different naming structure
+        if [[ "$dir_name" == "GO_with_missing_data" ]]; then
+            fs_file="$dir/data_dict_Mmd_FRA_Mmd_IRA_SFS_nsyn_unfolded.fs"
+        fi
 
-                # Extract the population pairs from the file name
-                populations=$(basename "$fs_file" | sed -E 's/.*_Mmd_([A-Z]+)_Mmd_([A-Z]+)_SFS.*/\1_\2/')
-                
-                # Check for both orders
-                if [[ "$populations" =~ (FRA_GER|GER_FRA) ]]; then
-                    demo_popt_path="/Users/olivia/Documents/2D_demographics_DFE/MMD_2D_Project/new_demography/FRA_GER/demo_results/FRA_GER_im_inbreeding_demo_fits_combined.txt"
-                elif [[ "$populations" =~ (IRA_FRA|FRA_IRA) ]]; then
-                    demo_popt_path="/Users/olivia/Documents/2D_demographics_DFE/MMD_2D_Project/new_demography/IRA_FRA/demo_results/IRA_FRA_im_pre_inbreeding_demo_fits_combined.txt"
-                elif [[ "$populations" =~ (GER_HEL|HEL_GER) ]]; then
-                    demo_popt_path="/Users/olivia/Documents/2D_demographics_DFE/MMD_2D_Project/new_demography/GER_HEL/demo_results/GER_HEL_im_pre_inbreeding_demo_fits_combined.txt"
-                else
-                    echo "No matching demo popt file for populations: $populations"
-                    continue
-                fi
+        cache1d_file="/groups/rgutenk/oliviafernflores/IRA_FRA/mmd_FRA_mmd_IRA_1d_cache.bpkl"
+        cache2d_file="/groups/rgutenk/oliviafernflores/IRA_FRA/FRA_IRA/mmd_FRA_mmd_IRA_2d_cache.bpkl"
+        demo_popt_file="/groups/rgutenk/oliviafernflores/IRA_FRA/demo_results/IRA_FRA_im_pre_inbreeding_demo_fits_combined.txt"
 
-                # Construct the cache file and output file names
-                cache_file="mmd_${populations}_1d_cache.bpkl"
+        # Check if the fs file exists before running the commands
+        if [ -f "$fs_file" ]; then
+            # Run the commands with updated output filenames, saving them in the same directory
+            dadi-cli InferDFE --fs "$fs_file" --cache2d "$cache2d_file" --pdf2d biv_lognormal --p0 1 1 .5 .5 --lbounds -10 0.01 0.001 0 --ubounds 10 10 0.999 0.5 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_2d_biv_lognormal_DFE_$number" --optimizations 15 --maxeval 400 --check-convergence 10
 
-                if [[ "$populations" =~ (FRA_GER|GER_FRA) ]]; then
-                    cache_path="/Users/olivia/Documents/2D_demographics_DFE/MMD_2D_Project/new_DFEs/GER_FRA/mmd_GER_mmd_FRA_1d_cache.bpkl"
-                elif [[ "$populations" =~ (IRA_FRA|FRA_IRA) ]]; then
-                    cache_path="/Users/olivia/Documents/2D_demographics_DFE/MMD_2D_Project/new_DFEs/FRA_IRA/mmd_FRA_mmd_IRA_1d_cache.bpkl"
-                elif [[ "$populations" =~ (GER_HEL|HEL_GER) ]]; then
-                    cache_path="/Users/olivia/Documents/2D_demographics_DFE/MMD_2D_Project/new_DFEs/HEL_GER/mmd_HEL_mmd_GER_1d_cache.bpkl"                else
-                    echo "No matching cache file for populations: $populations"
-                    continue
-                fi
+            dadi-cli InferDFE --fs "$fs_file" --cache1d "$cache1d_file" --pdf2d lognormal --p0 1 1 .5 --lbounds -10 0.01 0 --ubounds 10 10 0.5 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_1d_lognormal_DFE_$number" --optimizations 15 --maxeval 400 --check-convergence 10
 
-                output_file="$dir/${populations}_biv_lognormal_DFE_dadi_cli.txt"
+            dadi-cli InferDFE --fs "$fs_file" --cache2d "$cache2d_file" --pdf2d biv_lognormal --p0 1 1 1 1 .5 .5 --lbounds -10 -10 0.01 0.01 0.001 0 --ubounds 10 10 10 10 0.999 0.5 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_2d_biv_lognormal_asymmetric_DFE_$number" --optimizations 15 --maxeval 400 --check-convergence 10
 
-                # Check if cache and demo popt files exist
-                if [ ! -f "$cache_path" ]; then
-                    echo "Cache file not found: $cache_path"
-                    continue
-                fi
+            dadi-cli InferDFE --fs "$fs_file" --cache2d "$cache2d_file" --pdf2d biv_ind_gamma --p0 1 1 1 1 .5 --lbounds 0.010 0.010 0.01 0.01 0 --ubounds 100 1000 100 1000 0.999 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_2d_biv_ind_gamma_asymmetric_DFE_$number" --optimizations 20 --maxeval 400 --check-convergence 10
 
-                if [ ! -f "$demo_popt_path" ]; then
-                    echo "Demo popt file not found: $demo_popt_path"
-                    continue
-                fi
+            dadi-cli InferDFE --fs "$fs_file" --cache2d "$cache2d_file" --pdf2d biv_ind_gamma --p0 1 1 .5 --lbounds 0.010 0.010  0 --ubounds 100 1000 0.999 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_2d_biv_ind_gamma_symmetric_DFE_$number" --optimizations 20 --maxeval 400 --check-convergence 10
 
-                # Run the command
-                dadi-cli InferDFE --fs "$fs_file" \
-                    --cache2d "$cache_path" \
-                    --pdf2d biv_lognormal \
-                    --p0 1 1 0.5 0.05 \
-                    --lbounds "-10" 0.01 0.001 0 \
-                    --ubounds 10 10 0.999 0.5 \
-                    --demo-popt "$demo_popt_path" \
-                    --ratio 2.4 \
-                    --output "$output_file" \
-                    --optimizations 15 \
-                    --maxeval 400 \
-                    --check-convergence 10
-
-                echo "Processed: $fs_file -> $output_file"
-            else
-                echo "No .fs file found in: $dir"
-            fi
-        done
-    else
-        echo "Not a directory: $dir"
+            dadi-cli InferDFE --fs "$fs_file" --cache1d "$cache1d_file" --pdf2d gamma --p0 1 1 .5 --lbounds 0.010 0.010  0 --ubounds 100 1000 0.999 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_2d_gamma_DFE_$number" --optimizations 20 --maxeval 400 --check-convergence 10
+        else
+            echo "Warning: File $fs_file not found. Skipping directory $dir."
+        fi
     fi
 done
