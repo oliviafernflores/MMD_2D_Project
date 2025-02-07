@@ -1,0 +1,146 @@
+GO Term,Number of Entries,GO Term Name,2d_biv_ind_gamma_symmetric_DFE,2d_biv_lognormal_DFE,1d_lognormal_DFE,2d_biv_ind_gamma_asymmetric_DFE,2d_gamma_DFE,2d_biv_lognormal_asymmetric_DFE
+9987.0,55193.0,Cellular Process,"LL: -4817.612, shape: 0.343, scale: 471.547, misid: 0.021, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [3.78349669e-01 2.96599667e+03 1.78765513e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [6.32922247e-01 1.37670614e+03 2.19302742e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [7.25422853e+00 4.11250822e+04 1.30117423e-01]","LL: -616.773, log_mu: 8.561, log_sigma: 6.718, rho: 0.962, misid: 0.011, Converged: yes","LL: -629.772, log_mu: 8.012, log_sigma: 6.191, misid: 0.011, Converged: yes
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.67384171e+02 1.30995952e+02 1.45984443e-01]
+Estimated 95% uncerts (theta adj), with step size 0.01): [2.79366499e+01 9.78549545e+00 3.76851351e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [2.75505071e+01 9.44564056e+00 3.58962294e-03]","LL: -5821.882, shape1: 0.559, scale1: 0.569, shape2: 100.0, scale2: 43.074, misid: 0.027, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [5.30582095e-01 7.54674697e-01 4.64667431e+02 1.99386803e+02
+Estimated 95% uncerts (theta adj), with step size 0.01): [5.07206753e-01 7.34444569e-01 4.75580826e+02 2.02654531e+02
+Estimated 95% uncerts (theta adj), with step size 0.001): [5.06959131e-01 7.34181171e-01 4.75689030e+02 2.02692342e+02","LL: -1052.691, shape: 0.441, scale: 398.83, misid: 0.021, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [6.56723209e-01 1.51657563e+03 4.56023081e-03]
+Estimated 95% uncerts (theta adj), with step size 0.01): [6.32568432e-01 1.58832769e+03 4.69430004e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [6.32315842e-01 1.58909048e+03 4.69614383e-03]","LL: -613.029, log_mu1: 8.052, log_sigma1: 10.66, log_mu2: 6.278, log_sigma2: 8.769, rho: 0.955, misid: 0.011, Converged: no"
+65007.0,46500.0,Biological Regulation,"LL: -4759.624, shape: 0.356, scale: 514.651, misid: 0.024, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [7.61073733e-01 2.28251736e+03 2.43709837e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [6.48888131e-01 2.95725995e+03 2.21435002e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [7.48774000e-01 2.32526784e+03 2.38621096e-02]","LL: -579.57, log_mu: 9.549, log_sigma: 6.977, rho: 0.96, misid: 0.011, Converged: yes","LL: -593.673, log_mu: 8.896, log_sigma: 6.39, misid: 0.011, Converged: yes
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.25791846e+02 8.41263941e+01 8.38347514e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [3.56179578e+01 1.18808798e+01 3.23304208e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [3.51260461e+01 1.14825754e+01 3.06741861e-03]","LL: -5840.879, shape1: 0.614, scale1: 0.6, shape2: 100.0, scale2: 53.339, misid: 0.026, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [6.09532993e-01 7.31729120e-01 5.98190241e+02 3.39983086e+02
+Estimated 95% uncerts (theta adj), with step size 0.01): [5.72220972e-01 6.81669795e-01 6.14945425e+02 3.50359795e+02
+Estimated 95% uncerts (theta adj), with step size 0.001): [5.71841248e-01 6.81130027e-01 6.15117483e+02 3.50472093e+02","LL: -1037.705, shape: 0.482, scale: 427.152, misid: 0.015, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [6.35855457e-01 2.60148870e+03 1.41074392e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [5.64582579e-01 2.85414224e+03 1.27977193e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [5.63811335e-01 2.85690477e+03 1.27836572e-02]","LL: -577.812, log_mu1: 9.201, log_sigma1: 10.0, log_mu2: 6.691, log_sigma2: 7.398, rho: 0.958, misid: 0.011, Converged: no"
+50789.0,45171.0,Regulation of Biological Process,"LL: -4749.883, shape: 0.349, scale: 570.805, misid: 0.022, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [8.14386755e-01 2.41774820e+03 2.66603074e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.39328703e+00 2.31328554e+03 3.57824075e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.10464723e+00 3.90509587e+01 3.09365714e-02]","LL: -578.769, log_mu: 9.707, log_sigma: 7.006, rho: 0.961, misid: 0.011, Converged: yes","LL: -592.377, log_mu: 9.046, log_sigma: 6.421, misid: 0.011, Converged: yes
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.20364155e+02 7.81607894e+01 7.68667496e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [3.69478637e+01 1.22037577e+01 3.61190759e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [3.64280248e+01 1.17884210e+01 3.37302855e-03]","LL: -5848.223, shape1: 0.617, scale1: 0.58, shape2: 100.0, scale2: 58.113, misid: 0.031, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [7.26596327e-01 1.07378021e+00 5.66282206e+02 3.14034775e+02
+Estimated 95% uncerts (theta adj), with step size 0.01): [6.93887619e-01 1.05428416e+00 5.80109578e+02 3.18145878e+02
+Estimated 95% uncerts (theta adj), with step size 0.001): [6.93560041e-01 1.05409608e+00 5.80248880e+02 3.18185746e+02","LL: -1006.423, shape: 0.46, scale: 512.761, misid: 0.016, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [8.67281523e-01 2.23345819e+03 1.46575498e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [8.37167086e-01 2.34696852e+03 1.40071646e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [8.36853497e-01 2.34816860e+03 1.40004508e-02]","LL: -578.853, log_mu1: 9.946, log_sigma1: 10.0, log_mu2: 7.202, log_sigma2: 7.3, rho: 0.955, misid: 0.011, Converged: no"
+8152.0,26542.0,Metabolic Process,"LL: -4251.094, shape: 0.471, scale: 579.518, misid: 0.028, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.33559011e+00 5.72177839e+03 4.47926867e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.67541975e+00 2.32750707e+04 4.73666858e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.24932180e+00 6.13508972e+03 4.31191182e-02]","LL: -520.139, log_mu: 13.486, log_sigma: 8.203, rho: 0.953, misid: 0.013, Converged: yes","LL: -542.759, log_mu: 12.383, log_sigma: 7.373, misid: 0.013, Converged: yes
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.00974244e+02 3.79833705e+01 2.06363383e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [7.71019063e+01 2.26767664e+01 5.71884829e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [7.62318988e+01 2.21111538e+01 5.33113761e-03]","LL: -5941.328, shape1: 0.866, scale1: 0.623, shape2: 69.213, scale2: 130.048, misid: 0.031, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.67841342e+00 1.81326270e+00 6.65263330e+02 1.22442493e+03
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.59560586e+00 1.75334960e+00 6.81021397e+02 1.25602006e+03
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.59476283e+00 1.75271614e+00 6.81182439e+02 1.25635695e+03","LL: -1060.145, shape: 0.563, scale: 633.054, misid: 0.019, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.38998495e+00 5.73592766e+03 2.66484286e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.25347124e+00 6.36769599e+03 2.42347861e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.25202600e+00 6.37443379e+03 2.42093582e-02]","LL: -551.511, log_mu1: 10.0, log_sigma1: 10.0, log_mu2: 5.894, log_sigma2: 5.633, rho: 0.999, misid: 0.014, Converged: yes"
+48518.0,24676.0,Positive Regulation,"LL: -4324.144, shape: 0.489, scale: 610.78, misid: 0.025, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.22473050e+00 7.90668911e+03 4.71028632e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [3.36207058e+00 4.58831339e+03 8.11993670e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.05677678e+00 8.78149053e+03 4.40570470e-02]","LL: -516.611, log_mu: 13.897, log_sigma: 8.186, rho: 0.973, misid: 0.01, Converged: yes","LL: -522.729, log_mu: 13.234, log_sigma: 7.713, misid: 0.01, Converged: yes
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.06025692e+02 3.65428384e+01 1.55276225e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [8.74386090e+01 2.50163841e+01 5.34719555e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [7.43861478e+01 1.67643592e+01 5.08048654e-03]","LL: -6140.706, shape1: 0.837, scale1: 0.829, shape2: 85.217, scale2: 64.686, misid: 0.032, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [2.10090704e+00 1.91773723e+00 8.17246824e+02 7.28571449e+02
+Estimated 95% uncerts (theta adj), with step size 0.01): [2.02970230e+00 1.75757423e+00 8.34561541e+02 7.56914580e+02
+Estimated 95% uncerts (theta adj), with step size 0.001): [2.02897983e+00 1.75585854e+00 8.34737907e+02 7.57220094e+02","LL: -1129.238, shape: 0.596, scale: 557.513, misid: 0.017, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.59092354e+00 5.33112545e+03 2.83756462e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.44277523e+00 5.87842855e+03 2.59196737e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.44121748e+00 5.88422243e+03 2.58939432e-02]","LL: -550.443, log_mu1: 10.0, log_sigma1: 10.0, log_mu2: 5.7, log_sigma2: 5.524, rho: 0.999, misid: 0.012, Converged: yes"
+32502.0,22005.0,Developmental Process,"LL: -4185.45, shape: 0.502, scale: 638.133, misid: 0.027, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.84417529e+00 6.77867265e+03 5.86444538e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.65911286e+00 7.67651958e+03 5.52525887e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.65584683e+00 7.79193326e+03 5.53624983e-02]","LL: -477.17, log_mu: 15.345, log_sigma: 8.79, rho: 0.975, misid: 0.01, Converged: yes","LL: -484.163, log_mu: 14.711, log_sigma: 8.349, misid: 0.01, Converged: yes
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.17033949e+02 3.59200151e+01 1.05417291e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.08761272e+02 3.11462433e+01 6.18455107e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.37035852e+02 4.84423657e+01 1.98635686e-02]","LL: -5622.847, shape1: 0.807, scale1: 0.631, shape2: 100.0, scale2: 142.107, misid: 0.025, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [2.84487577e+00 3.02115131e+00 8.93054041e+02 1.21363934e+03
+Estimated 95% uncerts (theta adj), with step size 0.01): [2.79202834e+00 2.99835079e+00 9.07134349e+02 1.22150473e+03
+Estimated 95% uncerts (theta adj), with step size 0.001): [2.79149342e+00 2.99811588e+00 9.07277608e+02 1.22158764e+03","LL: -945.349, shape: 0.554, scale: 1000.0, misid: 0.017, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.74200078e+00 1.02219746e+04 3.37751953e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.57259792e+00 1.15868902e+04 3.06695308e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.57081076e+00 1.16013798e+04 3.06368754e-02]","LL: -538.558, log_mu1: 10.0, log_sigma1: 10.0, log_mu2: 5.479, log_sigma2: 5.365, rho: 0.999, misid: 0.013, Converged: yes"
+50896.0,21778.0,Response to Stimulus,"LL: -4385.462, shape: 0.52, scale: 546.613, misid: 0.032, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.85556958e+00 5.88382150e+03 5.00073862e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [2.01763263e+00 5.45371523e+03 5.33312853e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.52587286e+00 7.39488621e+03 4.39522848e-02]","LL: -483.881, log_mu: 15.232, log_sigma: 8.704, rho: 0.98, misid: 0.01, Converged: yes","LL: -488.311, log_mu: 14.724, log_sigma: 8.355, misid: 0.01, Converged: yes
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.17290227e+02 3.60438579e+01 1.20488624e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.09786499e+02 3.17436303e+01 8.32728688e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.13951019e+02 3.42809858e+01 1.00257617e-02]","LL: -6318.118, shape1: 0.95, scale1: 0.733, shape2: 70.257, scale2: 89.644, misid: 0.034, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [2.11834628e+00 3.41854402e+00 8.05830485e+02 7.91498197e+02
+Estimated 95% uncerts (theta adj), with step size 0.01): [2.00521316e+00 3.38650662e+00 8.25663184e+02 7.97119625e+02
+Estimated 95% uncerts (theta adj), with step size 0.001): [2.00406220e+00 3.38617689e+00 8.25865436e+02 7.97178666e+02","LL: -1164.983, shape: 0.62, scale: 563.189, misid: 0.018, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.85680584e+00 5.82713288e+03 3.23984982e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.69040596e+00 6.41699206e+03 2.96662547e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.68866649e+00 6.42319550e+03 2.96378155e-02]","LL: -538.481, log_mu1: 10.0, log_sigma1: 10.0, log_mu2: 5.503, log_sigma2: 5.327, rho: 0.999, misid: 0.013, Converged: yes"
+48519.0,20830.0,Negative Regulation,"LL: -4099.264, shape: 0.516, scale: 648.224, misid: 0.024, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.87252807e+00 7.87878803e+03 6.20197660e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [9.84433422e+00 7.83064557e+04 1.00223813e-01]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.66733745e+00 8.95215321e+03 5.88068244e-02]","LL: -476.98, log_mu: 15.541, log_sigma: 8.771, rho: 0.971, misid: 0.011, Converged: yes","LL: -484.441, log_mu: 14.724, log_sigma: 8.211, misid: 0.011, Converged: yes
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.16310648e+02 3.34675263e+01 8.56129459e-03]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.13423774e+02 3.20217920e+01 7.22317699e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.12575790e+02 3.15143810e+01 6.93255391e-03]","LL: -5792.954, shape1: 0.859, scale1: 0.845, shape2: 99.967, scale2: 73.32, misid: 0.031, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [2.71668774e+00 3.28096813e+00 1.07094346e+03 7.96629935e+02
+Estimated 95% uncerts (theta adj), with step size 0.01): [2.63522539e+00 3.18369864e+00 1.09352402e+03 8.13894635e+02
+Estimated 95% uncerts (theta adj), with step size 0.001): [2.63439899e+00 3.18267959e+00 1.09375380e+03 8.14077281e+02","LL: -980.035, shape: 0.582, scale: 876.207, misid: 0.019, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.82675187e+00 9.94292459e+03 2.93942307e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.62183718e+00 1.12954074e+04 2.59063654e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.61967475e+00 1.13097594e+04 2.58697858e-02]","LL: -537.736, log_mu1: 10.0, log_sigma1: 10.0, log_mu2: 5.392, log_sigma2: 5.25, rho: 0.999, misid: 0.014, Converged: yes"
+51179.0,19611.0,Localization,"LL: -3896.972, shape: 0.514, scale: 710.569, misid: 0.026, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.97638872e+00 8.89080430e+03 6.33337715e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [2.07747562e+00 8.04991544e+03 6.44850037e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.88189604e+00 9.34993479e+03 6.14502616e-02]","LL: -497.055, log_mu: 15.531, log_sigma: 8.669, rho: 0.965, misid: 0.01, Converged: yes","LL: -509.206, log_mu: 14.635, log_sigma: 8.049, misid: 0.01, Converged: yes
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.15106174e+02 3.15520654e+01 6.01350036e-03]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.15330582e+02 3.19836311e+01 5.73386550e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [31.66212241 17.66151768  0.03841054]","LL: -5958.62, shape1: 0.861, scale1: 1.121, shape2: 99.901, scale2: 41.314, misid: 0.031, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [3.09093424e+00 2.43564922e+00 1.06550123e+03 5.82355589e+02
+Estimated 95% uncerts (theta adj), with step size 0.01): [3.01758560e+00 2.06419659e+00 1.08496920e+03 6.10158638e+02
+Estimated 95% uncerts (theta adj), with step size 0.001): [3.01684425e+00 2.06019834e+00 1.08516649e+03 6.10459494e+02","LL: -1200.995, shape: 0.642, scale: 524.598, misid: 0.021, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [2.43692172e+00 4.89241938e+03 3.56748807e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [2.30792082e+00 5.26302039e+03 3.33682529e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [2.30659304e+00 5.26685861e+03 3.33445922e-02]","LL: -560.395, log_mu1: 10.0, log_sigma1: 10.0, log_mu2: 5.321, log_sigma2: 5.176, rho: 0.999, misid: 0.013, Converged: yes"
+32501.0,17117.0,Multicellular Organismal Process,"LL: -3770.335, shape: 0.512, scale: 951.345, misid: 0.028, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [2.54001521e+00 1.08844144e+04 8.31873795e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [3.31645980e+00 3.30445210e+03 9.63976319e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [2.41423303e+00 1.55957700e+04 8.48338624e-02]","LL: -506.062, log_mu: 16.343, log_sigma: 8.751, rho: 0.981, misid: 0.01, Converged: yes","LL: -510.022, log_mu: 15.991, log_sigma: 8.51, misid: 0.01, Converged: yes
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.28350467e+02 3.05119307e+01 5.02429711e-03]
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.30765326e+02 3.22378793e+01 4.91954422e-03]
+Estimated 95% uncerts (theta adj), with step size 0.001): [3.03014026e+02 1.30688224e+02 8.50343696e-02]","LL: -5724.121, shape1: 0.929, scale1: 0.958, shape2: 100.0, scale2: 72.068, misid: 0.034, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [3.45618696e+00 3.56190469e+00 1.30048688e+03 1.04287457e+03
+Estimated 95% uncerts (theta adj), with step size 0.01): [3.34260578e+00 3.32616747e+00 1.32950310e+03 1.08164694e+03
+Estimated 95% uncerts (theta adj), with step size 0.001): [3.34145531e+00 3.32366609e+00 1.32979756e+03 1.08206117e+03","LL: -988.461, shape: 0.603, scale: 1000.0, misid: 0.017, Converged: no
+Estimated 95% uncerts (theta adj), with step size 0.1): [2.36978601e+00 1.22790902e+04 4.47959389e-02]
+Estimated 95% uncerts (theta adj), with step size 0.01): [2.13616322e+00 1.39739824e+04 4.06287688e-02]
+Estimated 95% uncerts (theta adj), with step size 0.001): [2.13372499e+00 1.39917506e+04 4.05853825e-02]","LL: -581.329, log_mu1: 10.0, log_sigma1: 10.0, log_mu2: 5.113, log_sigma2: 4.963, rho: 0.999, misid: 0.013, Converged: yes"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

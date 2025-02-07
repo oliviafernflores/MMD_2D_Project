@@ -1,0 +1,26 @@
+GO Term,Number of Entries,GO Term Name,log_likelihood,model_name,params_dict,converged
+9987.0,55193.0,Cellular Process,-613.029,2d_biv_lognormal_asymmetric_DFE,"{'log_mu1': 8.052, 'log_sigma1': 10.66, 'log_mu2': 6.278, 'log_sigma2': 8.769, 'rho': 0.955, 'misid': 0.011}",no
+65007.0,46500.0,Biological Regulation,-577.812,2d_biv_lognormal_asymmetric_DFE,"{'log_mu1': 9.201, 'log_sigma1': 10.0, 'log_mu2': 6.691, 'log_sigma2': 7.398, 'rho': 0.958, 'misid': 0.011}",no
+50789.0,45171.0,Regulation of Biological Process,-578.769,2d_biv_lognormal_DFE,"{'log_mu': 9.707, 'log_sigma': 7.006, 'rho': 0.961, 'misid': 0.011}",yes
+8152.0,26542.0,Metabolic Process,-520.139,2d_biv_lognormal_DFE,"{'log_mu': 13.486, 'log_sigma': 8.203, 'rho': 0.953, 'misid': 0.013}",yes
+48518.0,24676.0,Positive Regulation,-516.611,2d_biv_lognormal_DFE,"{'log_mu': 13.897, 'log_sigma': 8.186, 'rho': 0.973, 'misid': 0.01}",yes
+32502.0,22005.0,Developmental Process,-477.17,2d_biv_lognormal_DFE,"{'log_mu': 15.345, 'log_sigma': 8.79, 'rho': 0.975, 'misid': 0.01}",yes
+50896.0,21778.0,Response to Stimulus,-483.881,2d_biv_lognormal_DFE,"{'log_mu': 15.232, 'log_sigma': 8.704, 'rho': 0.98, 'misid': 0.01}",yes
+48519.0,20830.0,Negative Regulation,-476.98,2d_biv_lognormal_DFE,"{'log_mu': 15.541, 'log_sigma': 8.771, 'rho': 0.971, 'misid': 0.011}",yes
+51179.0,19611.0,Localization,-497.055,2d_biv_lognormal_DFE,"{'log_mu': 15.531, 'log_sigma': 8.669, 'rho': 0.965, 'misid': 0.01}",yes
+32501.0,17117.0,Multicellular Organismal Process,-506.062,2d_biv_lognormal_DFE,"{'log_mu': 16.343, 'log_sigma': 8.751, 'rho': 0.981, 'misid': 0.01}",yes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

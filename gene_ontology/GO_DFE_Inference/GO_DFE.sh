@@ -29,17 +29,17 @@ for dir in "$base_dir"/*; do
         fi
 
         cache1d_file="/groups/rgutenk/oliviafernflores/IRA_FRA/mmd_FRA_mmd_IRA_1d_cache.bpkl"
-        cache2d_file="/groups/rgutenk/oliviafernflores/IRA_FRA/FRA_IRA/mmd_FRA_mmd_IRA_2d_cache.bpkl"
+        cache2d_file="/groups/rgutenk/oliviafernflores/IRA_FRA/mmd_FRA_mmd_IRA_2d_cache.bpkl"
         demo_popt_file="/groups/rgutenk/oliviafernflores/IRA_FRA/demo_results/IRA_FRA_im_pre_inbreeding_demo_fits_combined.txt"
 
         # Check if the fs file exists before running the commands
         if [ -f "$fs_file" ]; then
             # Run the commands with updated output filenames, saving them in the same directory
-            dadi-cli InferDFE --fs "$fs_file" --cache2d "$cache2d_file" --pdf2d biv_lognormal --p0 1 1 .5 .5 --lbounds -10 0.01 0.001 0 --ubounds 10 10 0.999 0.5 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_2d_biv_lognormal_DFE_$number" --optimizations 15 --maxeval 400 --check-convergence 10
+            dadi-cli InferDFE --fs "$fs_file" --cache2d "$cache2d_file" --pdf2d biv_lognormal --p0 1 1 .5 .5 --lbounds -10 0.01 0.001 0 --ubounds 100 100 0.999 0.5 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_2d_biv_lognormal_DFE_$number" --optimizations 15 --maxeval 400 --check-convergence 10
 
-            dadi-cli InferDFE --fs "$fs_file" --cache1d "$cache1d_file" --pdf2d lognormal --p0 1 1 .5 --lbounds -10 0.01 0 --ubounds 10 10 0.5 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_1d_lognormal_DFE_$number" --optimizations 15 --maxeval 400 --check-convergence 10
+            dadi-cli InferDFE --fs "$fs_file" --cache1d "$cache1d_file" --pdf2d lognormal --p0 1 1 .5 --lbounds -10 0.01 0 --ubounds 100 100 0.5 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_1d_lognormal_DFE_$number" --optimizations 15 --maxeval 400 --check-convergence 10
 
-            dadi-cli InferDFE --fs "$fs_file" --cache2d "$cache2d_file" --pdf2d biv_lognormal --p0 1 1 1 1 .5 .5 --lbounds -10 -10 0.01 0.01 0.001 0 --ubounds 10 10 10 10 0.999 0.5 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_2d_biv_lognormal_asymmetric_DFE_$number" --optimizations 15 --maxeval 400 --check-convergence 10
+            dadi-cli InferDFE --fs "$fs_file" --cache2d "$cache2d_file" --pdf2d biv_lognormal --p0 1 1 1 1 .5 .5 --lbounds -10 -10 0.01 0.01 0.001 0 --ubounds 100 100 100 100 0.999 0.5 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_2d_biv_lognormal_asymmetric_DFE_$number" --optimizations 15 --maxeval 400 --check-convergence 10
 
             dadi-cli InferDFE --fs "$fs_file" --cache2d "$cache2d_file" --pdf2d biv_ind_gamma --p0 1 1 1 1 .5 --lbounds 0.010 0.010 0.01 0.01 0 --ubounds 100 1000 100 1000 0.999 --demo-popt "$demo_popt_file" --ratio 2.4 --output "$dir/mmd_FRA_mmd_IRA_2d_biv_ind_gamma_asymmetric_DFE_$number" --optimizations 20 --maxeval 400 --check-convergence 10
 

@@ -1,0 +1,11 @@
+GO Term,LL, log_mu1, log_sigma1, log_mu2, log_sigma2, rho, misid, Converged,step size 0.1,step size 0.01,step size 0.001,GO Term Name
+9987.0, -613.029, 8.052, 10.66, 6.278, 8.769, 0.955, 0.011, no,,,,Cellular Process
+65007.0, -577.812, 9.201, 10.0, 6.691, 7.398, 0.958, 0.011, no,,,,Biological Regulation
+50789.0, -578.853, 9.946, 10.0, 7.202, 7.3, 0.955, 0.011, no,,,,Regulation of Biological Process
+8152.0, -551.511, 10.0, 10.0, 5.894, 5.633, 0.999, 0.014, yes,,,,Metabolic Process
+48518.0, -550.443, 10.0, 10.0, 5.7, 5.524, 0.999, 0.012, yes,,,,Positive Regulation
+32502.0, -538.558, 10.0, 10.0, 5.479, 5.365, 0.999, 0.013, yes,,,,Developmental Process
+50896.0, -538.481, 10.0, 10.0, 5.503, 5.327, 0.999, 0.013, yes,,,,Response to Stimulus
+48519.0, -537.736, 10.0, 10.0, 5.392, 5.25, 0.999, 0.014, yes,,,,Negative Regulation
+51179.0, -560.395, 10.0, 10.0, 5.321, 5.176, 0.999, 0.013, yes,,,,Localization
+32501.0, -581.329, 10.0, 10.0, 5.113, 4.963, 0.999, 0.013, yes,,,,Multicellular Organismal Process

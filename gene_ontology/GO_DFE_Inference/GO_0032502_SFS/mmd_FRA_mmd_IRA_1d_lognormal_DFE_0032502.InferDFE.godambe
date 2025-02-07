@@ -1,0 +1,12 @@
+Estimated 95% uncerts (theta adj), with step size 0.1): [1.17033949e+02 3.59200151e+01 1.05417291e-02]
+Lower bounds of 95% confidence interval : [-1.02323121e+02 -2.75711435e+01 -4.27502143e-04]
+Upper bounds of 95% confidence interval : [1.31744778e+02 4.42688867e+01 2.06559561e-02]
+
+Estimated 95% uncerts (theta adj), with step size 0.01): [1.08761272e+02 3.11462433e+01 6.18455107e-03]
+Lower bounds of 95% confidence interval : [-9.40504436e+01 -2.27973717e+01  3.92967588e-03]
+Upper bounds of 95% confidence interval : [1.23472101e+02 3.94951149e+01 1.62987780e-02]
+
+Estimated 95% uncerts (theta adj), with step size 0.001): [1.37035852e+02 4.84423657e+01 1.98635686e-02]
+Lower bounds of 95% confidence interval : [-1.22325023e+02 -4.00934941e+01 -9.74934162e-03]
+Upper bounds of 95% confidence interval : [1.51746680e+02 5.67912373e+01 2.99777955e-02]
+
