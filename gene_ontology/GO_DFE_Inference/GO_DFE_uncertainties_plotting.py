@@ -21,7 +21,7 @@ def plot_1d_lognormal(root_dir):
     
     params = [' log_mu', ' log_sigma', ' misid']
 
-    fig, axes = plt.subplots(1, 3, figsize=(12, 6))
+    fig, axes = plt.subplots(1, 3, figsize=(18, 6))
 
     fig.suptitle('1D Lognormal DFE - IRA vs. FRA', fontsize=16)
     
@@ -176,7 +176,7 @@ def plot_2d_biv_ind_gamma_sym(root_dir):
     # plt.show()
     plt.savefig(root_dir + '2d_biv_ind_gamma_symmetric_GO_DFE_uncertainties')
 
-def plot_2d_gamma_sym(root_dir):
+def plot_2d_gamma(root_dir):
     path_0_1 = root_dir + '0.1_step_size/2d_gamma_GO_results_plus_uncertainties_0.1_step.csv'
     df_0_1 = pd.read_csv(path_0_1, index_col='GO Term')
     
@@ -190,7 +190,7 @@ def plot_2d_gamma_sym(root_dir):
 
     fig, axes = plt.subplots(1, 3, figsize=(18, 6))
 
-    fig.suptitle('2D Gamma Symmetric DFE - IRA vs. FRA', fontsize=16)
+    fig.suptitle('2D Gamma DFE - IRA vs. FRA', fontsize=16)
     
     for i, p in enumerate(params):
         ax = axes[i]
@@ -234,4 +234,4 @@ if __name__ == "__main__":
     plot_1d_lognormal(root_dir)
     plot_2d_biv_ind_gamma_asym(root_dir)
     plot_2d_biv_ind_gamma_sym(root_dir)
-    plot_2d_gamma_sym(root_dir)
+    plot_2d_gamma(root_dir)
